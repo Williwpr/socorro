@@ -1,0 +1,1982 @@
+Cuban scientific production in Medicine and
+Public Health: Scopus 2003-2011
+Grisel ZACCA-GONZÁLEZ2
+Benjamín VARGAS-QUESADA3
+Zaida CHINCHILLA-RODRÍGUEZ4
+Félix de MOYA-ANEGÓN4
+
+Resumen
+El objetivo de este trabajo fue analizar la evolución del volumen y la visibilidad de la producción científica cubana en Salud Pública
+y en Medicina para determinar si siguen los mismos patrones de comunicación, y recomendar buenas prácticas de publicación.
+Se aplicaron indicadores bibliométricos de volumen, visibilidad y colaboración extraídos del portal SCImago Institutions Rankings
+a partir de datos de Scopus, para el área temática Medicine y la categoría Public Health, Environmental and Occupational Health,
+período 2003-2011. Cuba tiene una posición relativamente alta en los rankings de volumen de producción científica tanto en
+Medicina como en Salud Pública en los contextos internacionales y regionales, mientras que en impacto está entre los últimos
+países. La tendencia de la producción es al crecimiento, aunque en Salud Pública es más acelerado. El liderazgo es alto, pero la
+colaboración internacional está por debajo de lo esperado. La publicación en revistas de alto impacto (primer cuartil) y los artículos en el 10% más citado (excelencia) son escasos. Se concluye que el volumen y el impacto de la publicación no están acorde al
+potencial científico de salud cubana. Se recomienda incrementar la colaboración científica, la publicación de artículos en revistas
+de alto impacto, la preparación de los recursos humanos y seguir las recomendaciones internacionales sobre las buenas prácticas
+de edición y publicación científica.
+Palabras ilave: Cienciometría. Colaboración científica. Evaluación científica. Indicadores bibliométricos. Medicina. Producción
+científica. Salud coletiva.
+
+Abstract
+The aim of this study was to analyze the evolution of the quantity and visibility of Cuban scientific production in Public Health and
+Medicine to determine if they follow the same patterns of scientific communication and the recommended best practices for publication.
+Bibliometric indicators of quantity, visibility and cooperation were extracted from the SCImago Institutions Rankings website, which is
+based on Scopus data, in the field of Medicine and category of Public Health, Environmental and Occupational Health from 2003 to
+2011. Cuba has a relatively high position in the rankings of scientific production in both Medicine and Public Health within the international
+and regional contexts, but its impact is ranked among the last countries. The production trend of both fields has increased, but public
+1
+
+2
+
+3
+
+4
+
+Trabajo presentado en el VII Seminario Internacional sobre Estudios Cuantitativos y Cualitativos de la Ciencia y la Tecnología “Prof. Gilberto Sotolongo
+Aguilar” en XIII Congreso Internacional de Información - INFO’ 2014. Habana, Cuba.
+Universidad Virtual de Salud, Centro Nacional de Información de Ciencias Médicas-Infomed, Área de Docencia e Investigaciones. Calle 23, 654 entre D y E,
+Vedado, 10400, La Habana, Cuba. Correspondencia a nombre de/Correspondence to: G. ZACCA-GONZÁLEZ. E-mail: <grisel.zacca@infomed.sld.cu>.
+Universidad de Granada, Facultad de Comunicación y Documentación, Departamento de Información y Comunicación, SCImago Research Group. Granada,
+España.
+Instituto de Políticas y Bienes Públicos, Departamento de Ciencia e Innovación, Consejo Superior de Investigaciones Científicas, SCImago Research Group.
+Madrid, España.
+Recibido el día 29/5/2014 y aceptado para su publicación el 20/8/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+281
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+Producción científica cubana en Medicina y
+Salud Pública: Scopus 2003-20111
+
+health is increasing faster. Leadership is high, but international collaboration is below expectations. Publication in high impact journals
+(first quartile) and articles in the set 10% most cited documents (excellence) are scarce. Thus, it may be concluded that the volume and
+impact of publication are not in accordance with the scientific potential of Cuban health. We recommend increasing scientific cooperation,
+publishing articles in high impact journals, training human resources and following the international recommendations for good editorial and scientific publication practices.
+Keywords: Scientometrics. Scientific cooperation. Scientific evaluation. Bibliometric indicators. Medicine. Scientific production. Collective
+health.
+
+Introducción
+En el discurso que ofreciera el ministro de salud
+cubano como presidente de la 67ª Asamblea Mundial
+de la Salud, en mayo de 2014, señala:
+El Sistema Nacional de Salud cubano se
+caracteriza por ser único, gratuito, accesible, con
+cobertura universal, basado en la Atención
+Primaria de Salud y se distingue por una amplia
+participación comunitaria e intersectorial y
+profunda concepción internacionalista. Ejemplos
+de estos resultados lo constituyen la tasa de
+mortalidad infantil lograda en el año 2013, de 4.2
+por cada mil nacidos vivos, indicador que se ha
+mantenido por más de cinco años consecutivos
+por debajo de 5, así como la contribución de
+Cuba a la salud en más de 120 países del mundo,
+con la presencia desde 1960 de 135 mil
+colaboradores y actualmente por encima de 50
+mil en 65 países (Morales Ojeda, 2014)5.
+
+282
+
+En este contexto, la investigación es una actividad
+prioritaria en todas las instituciones de salud, junto a las
+labores asistenciales y docentes, constituyendo la función
+fundamental de diferentes centros. Entre ellos destacan
+los 12 institutos con que cuenta el país, el Polo Científico
+con sus más de 30 entidades y la Escuela Nacional de
+Salud Pública, entre otras. La investigación que se
+desarrolla en el Sistema Nacional de Salud, debe
+responder a las prioridades y metas de las Áreas
+Estratégicas de las Proyecciones de la Salud Pública
+(Domínguez-Alonso & Zacca-Peña, 2011).
+
+G. ZACCA-GONZÁLEZ et al.
+
+Según el informe presentado en La primera
+Conferencia Latinoamericana sobre Investigación e
+Innovación para la Salud (Alger et al., 2009), Cuba poseía
+estructuras formales de gobernanza y gerencia de la
+investigación para la salud. Aunque no tenían una política
+nacional específica, contaba con un cuerpo de leyes y
+5
+
+regulaciones que establecían normas y estándares que
+regulan algunos elementos de la investigación para la
+salud. Tenía un claro proceso de priorización de las
+investigaciones en salud, mecanismos de financiamiento,
+disponía de fondos internacionales para la investigación
+en salud y tenía una estrategia nacional para la formación
+de recursos humanos para la investigación en salud.
+Los estudios cienciométricos han ganando
+popularidad como complemento de la evaluación de la
+actividad científica bajo el presupuesto teórico de que
+la esencia de la investigación científica es la contribución
+de nuevos conocimientos al arsenal de conocimientos
+existentes y que puede ser medida a partir de los artículos
+publicados en canales de comunicación científica.
+Teniendo en cuenta esta premisa se han realizado
+una serie de estudios, de los cuales éste forma parte, que
+han caracterizado el dominio de la Salud Pública
+latinoamericana desde la perspectiva cienciométrica. Se
+ha identificado a Cuba en el cuarto lugar en volumen de
+producción científica en Latinoamérica, también como
+el país con menores tasas de colaboración, entre los
+países que menos publican en inglés y de los que más
+artículos tienen en el cuarto cuartil. Los autores cubanos
+aparecen como los principales de sus publicaciones, por
+tanto, el liderazgo es alto pero el impacto de la
+producción científica es bajo, demostrado por el impacto
+normalizado, bajo el porcentaje de documentos entre el
+10% más citado dentro de la categoría (indicador de
+excelencia) y por bajos valores del indicador de
+excelencia con liderazgo (Zacca-González et al., 2014;
+Chinchilla-Rodríguez et al., 2014b).
+Otros estudios bibliométricos sobre las ciencias
+médicas y de la salud han demostrado que la publicación
+está por debajo de la capacidad investigadora del
+sistema. Existe una falta de correspondencia importante
+
+Morales-Ojeda R. Discurso del presidente de la Asamblea Mundial de la Salud, Roberto Morales Ojeda, ministro de Salud Pública de Cuba. In: Asamblea
+Mundial de la Salud , 67., Ginebra, 2014. Disponible en: <files.sld.cu/editorhome/files/2014/05/discurso-del-presidente-de-la-asamblea-mundial-de-la-saludmayo-2014.pdf>. Acceso en: 11 ago. 2014.
+
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+El objetivo de este trabajo es analizar la evolución
+del volumen y la visibilidad de la producción científica
+cubana en Salud Pública y en Medicina para determinar
+si siguen los mismos patrones de comunicación, y en la
+medida de lo posible, recomendar buenas prácticas tanto
+a nivel académico como editorial para incrementar la
+visibilidad de la investigación cubana en Salud Pública.
+
+Métodos
+La información bibliométrica se extrajo del portal
+(SCImago Institutions Rankings, 2014) a partir de datos
+de Scopus, para el área temática Medicine y la categoría
+Public Health, Environmental and Occupational Health que
+es un subconjunto de la Medicina, en el período 20032011.
+Los indicadores bibliométricos utilizados fueron:
+- Número de documentos: número total de
+documentos en los que al menos uno de los autores
+aparece bajo la afiliación de una institución cubana.
+- Por ciento de documentos: porcentaje de
+documentos respecto al total según pertenezca a la Salud
+Pública o a la Medicina.
+- Tasa de crecimiento: diferencia porcentual del
+número de trabajos en relación al período anterior.
+- Colaboración internacional: porcentaje de la
+producción publicada en colaboración con instituciones
+de fuera del país.
+- Impacto Normalizado: número relativo de citas
+recibidas por cada país comparado con el promedio
+mundial de citas por documento de la misma tipología
+documental, año y categoría. Se calcula utilizando la
+metodología “Item oriented field normalized citation score
+average” establecida por el Karolinska Intitutet de Suecia
+(Rehn et al., 2007) donde la normalización de los valores
+de citación se hace en nivel del artículo individual. Los
+valores (en %) muestran las relaciones entre el impacto
+científico medio de un país y el conjunto promedio
+mundial con una puntuación de 1. Una puntuación de
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+0.8 significa que el país es citado un 20% por debajo del
+promedio mundial y un valor de 1.3 que es citado un
+30% superior a la media del mundo.
+- SCImago Journal Rank (SJR): este indicador se
+basa en la transferencia de prestigio o influencia desde
+una revista hacia otra o hacia ella misma a través de
+referencias. Se calcula con una ventana de citación de 3
+años y restringe las autocitas a la revista a un máximo
+del 33%; se construye con un algoritmo similar al “Page
+Rank” de Google (González-Pereira et al., 2010). Este
+indicador se utiliza para la distribución de las revistas en
+cuatro cuartiles (Q1, Q2, Q3, Q4) según el SJR, las ubicadas
+en el cuartil 1 son las que tienen mayor prestigio.
+- % output en Q1: porcentaje de publicaciones
+en revistas incluidas en el primer cuartil (25%) de
+categoría Salud Pública ordenadas por el SJR (GonzálezPereira et al., 2010).
+- Excelencia científica: porcentaje de producción
+científica de un país que se ha incluido en el grupo del
+10% de trabajos más citados en el áera o categoria
+temática. Es una medida de la cantidad de producción
+científica de alta calidad (Bornmann et al., 2012).
+- Liderazgo Científico: Porcentaje de producción
+de un país en el que el autor principal (“corresponding
+author”) pertenece a las instituciones nacionales de cada
+país. Se le denomina documentos liderados (MoyaAnegón et al., 2013).
+- Excelencia con liderazgo: Por ciento de
+documentos liderados de un país que se encuentra entre
+el 10% más citado (Jeremic´ et al., 2013).
+
+Resultados
+Cuba en el contexto internacional
+Scopus contiene, en el período 2003-2011, una
+producción científica de 4.488.365 documentos en el área
+de la Medicina; a este total Cuba aportó el 0,14%. En Salud
+Pública en el mundo se publicaron 212 310 documentos,
+lo que representó el 4,73% de la Medicina. Cuba
+contribuyó con el 0,33% (696 documentos). Para ubicar
+a Cuba en el contexto internacional utilizamos el ranking
+mundial de países de acuerdo al volumen de producción
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+283
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+entre los recursos humanos, la infraestructura disponible
+y el volumen y la visibilidad de publicación científica de
+Cuba en salud (Dorta Contreras, 2006; Cañedo Andalia,
+2013; Cañedo Andalia et al., 2013).
+
+y la visibilidad a partir del indicador Impacto Normalizado
+(IN) (Tabla 1). Cuba se ubica en el lugar 51 en el ranking
+por Número de documentos (Ndoc) en Medicina. Esta
+lista está encabezada por Estados Unidos (26,57%), el
+Reino Unido (7,76%) y Alemania (6,41%). En el ranking
+internacional de Salud Pública, Cuba sube hasta el lugar
+39. Entre los 20 países mayores productores, el único país
+latinoamericano que aparece es Brasil en el lugar 14 en
+Medicina con una contribución de 1,91% y el quinto en
+Salud Pública con un aporte mayor de 4,43% (Tabla 1).
+El ranking de impacto muestra una situación
+desventajosa para Cuba (Tabla 1). De los 71 países con al
+menos 2000 documentos en Medicina, Cuba ocupa el
+último lugar en Medicina y el penúltimo en Salud Pública.
+No hay ningún país latinoamericano entre los 20 más
+visibles de acuerdo al impacto normalizado.
+Cuba en el contexto regional
+Al volumen de producción científica
+latinoamericana en Medicina de 145.646, la Salud Pública
+aporta el 9,78% (14.249). Cuba publicó 6.233 documentos
+en Medicina y 696 en Salud Pública, lo que contribuye a
+la región con 4,28% y 4,88% respectivamente.
+
+284
+
+En Medicina, Cuba se posicionó en el sexto lugar
+en el ranking de países según el volumen de producción
+del período 2003 -2011; en el análisis de la posición en
+cada año, inició el período en el quinto lugar y luego fue
+desplazada por Colombia al sexto lugar en 2008. Los
+primeros países del ranking fueron Brasil, México y
+Argentina. En Salud Pública, Cuba se ubicó en el quinto
+puesto; en el análisis anual no siempre se comportó de
+esta manera. Ocupó los lugares cuarto (2006, 2007 y
+2011), quinto (2003, 2008 y 2010) y sexto (2009)
+intercambiando posiciones con Argentina, Colombia y
+Chile (Tabla 2).
+
+G. ZACCA-GONZÁLEZ et al.
+
+En la tabla 2 también se analiza el impacto de las
+publicaciones de los 20 países latinoamericanos con
+mayor producción. Tanto en la Medicina como en la Salud
+Pública, Cuba se ubicó al final del ranking. En este ranking
+llama la atención la posición de países con poca
+producción y con un alto impacto, que en la mayoría de
+los casos es debido a las colaboraciones internacionales
+que establecen los países con menor producción
+(Chinchilla-Rodríguez et al., 2012).
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+Evolución de la producción científica
+En Cuba, la contribución que hace la Salud Publica
+al área temática de la Medicina fue de 11,12%. Ambos
+dominios tienden al crecimiento de su producción
+científica, sin embargo, el incremento de la Salud Pública
+(223,8%) fue más rápido y superó en 65 puntos a la
+Medicina (158,6 %). Este comportamiento también se
+reflejó en el ritmo de crecimiento por año, dado que la
+tasa de crecimiento anual promedio de la Medicina fue
+de 15,71% y la de la Salud Pública de 21,72%. Al inicio
+del período la contribución de la Salud Pública a la
+Medicina fue de 12,36% y ya en 2011 asciende a 15,11%.
+En la comparación de la evolución de ambos
+agregados se observaron ciertas diferencias. Hubo
+coincidencia en el mayor incremento entre 2005 y 2006
+y disminución en 2008. La Salud Pública disminuyó entre
+2004 y 2005 y la Medicina lo hizo en 2010 (Figura 1).
+La Figura 2 muestra la comparación de los
+indicadores bibliométricos de la Medicina y la Salud
+Pública: colaboración internacional, impacto
+normalizado, por ciento de documentos en el primer
+cuartil, la excelencia (producción científica de alto
+impacto), el liderazgo y la excelencia con liderazgo. En
+términos generales, se apreció un comportamiento
+variable de todos los indicadores con períodos de alzas
+y bajas.
+El porcentaje de producción científica en
+colaboración internacional de la Salud Pública fue de
+19,3%, ligeramente superior al de la Medicina (18,2%),
+sin embargo, a pesar de que ambos agregados tienen
+porcentajes similares, en la Salud Pública se apreció una
+ligera tendencia a la disminución, al contrario de la
+Medicina que varió menos. Estas bajas tasas de
+colaboración están acompañadas de un alto porcentaje
+de liderazgo en ambos dominios. Es por ello que
+acompañado de la disminución de la colaboración, la
+tendencia de la Salud Pública es el incremento de los
+documentos liderados, mientras que la Medicina tiende
+a mantenerse estable.
+El por ciento de producción en el primer cuartil
+(25% según SJR) para la Salud Pública fue inferior al de la
+Medicina, en ambos dominios tiende a decrecer,
+característica que es un poco más marcada en la Salud
+Pública; ambos agregados tuvieron un alza en 2008 y la
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+Medicina
+Rank
+
+País
+
+01
+
+Estados Unidos
+Reino Unido
+Alemania
+Japón
+China
+Francia
+Italia
+Canadá
+España
+Australia
+Holanda
+India
+Turquía
+Brasil
+Suiza
+Corea del Sur
+Suecia
+Polonia
+Bélgica
+Taiwán
+Cuba
+
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+51
+
+Ndoc
+
+Rank
+
+1.192.666
+
+01
+
+0.348.617
+
+02
+
+0.287.722
+
+03
+
+.0245.704
+
+04
+
+.0232.312
+
+05
+
+.0187.346
+
+06
+
+.0181.750
+
+07
+
+0.161.465
+
+08
+
+.0139.865
+
+09
+
+.0124.252
+
+10
+
+.0112.678
+
+11
+
+0.091.126
+
+12
+
+.0087.907
+
+13
+
+.0085.668
+
+14
+
+.0071.253
+
+15
+
+0.064.972
+
+16
+
+0.063.200
+
+17
+
+00.57.168
+
+18
+
+0.053.439
+
+19
+
+0.047.709
+
+20
+
+00.06.233
+
+71
+
+País*
+Islandia
+Kenia
+Dinamarca
+Uganda
+Holanda
+Finlandia
+Bélgica
+Suecia
+Suiza
+Canadá
+Tanzania
+Noruega
+Perú
+Estados Unidos
+Australia
+Reino Unido
+Nueva Zelanda
+Austria
+Singapur
+Irlanda
+Cuba
+
+IN
+2,55
+2,10
+2,02
+2,02
+1,94
+1,93
+1,89
+1,87
+1,86
+1,84
+1,81
+1,78
+1,71
+1,66
+1,65
+1,64
+1,64
+1,59
+1,57
+1,56
+0,27
+
+Salud Pública
+
+Rank
+
+País
+
+01
+
+73.876
+
+01
+
+20.031
+
+02
+
+11.571
+
+03
+
+09.525
+
+04
+
+05
+
+Estados Unidos
+Reino Unido
+Canadá
+Alemania
+Brasil
+
+09.413
+
+06
+
+Australia
+
+07
+
+Italia
+
+08
+
+Ndoc
+
+Rank
+
+País
+
+IN
+1,96
+
+05
+
+Suiza
+Dinamarca
+Noruega
+Holanda
+Kenia
+
+09.386
+
+06
+
+Grecia
+
+1,55
+
+06.372
+
+07
+
+Finlandia
+
+1,54
+
+Francia
+
+06.013
+
+08
+
+Irlanda
+
+1,49
+
+09
+
+España
+
+05.748
+
+09
+
+Tanzania
+
+1,48
+
+10
+
+Holanda
+
+05.486
+
+10
+
+Bélgica
+
+1,47
+
+11
+
+China
+
+04.361
+
+11
+
+Suecia
+
+1,46
+
+12
+
+Suecia
+
+04.240
+
+12
+
+Canadá
+
+1,42
+
+13
+
+Japón
+
+03.520
+
+13
+
+Reino Unido
+
+1,40
+
+14
+
+India
+
+03.495
+
+14
+
+Estados Unidos
+
+1,37
+
+15
+
+Suiza
+
+03.383
+
+15
+
+Singapur
+
+1,33
+
+16
+
+Dinamarca
+
+02.242
+
+16
+
+Uganda
+
+1,33
+
+17
+
+Noruega
+
+02.230
+
+17
+
+Australia
+
+1,32
+
+18
+
+Bélgica
+
+02.226
+
+18
+
+Nueva Zelanda
+
+1,30
+
+19
+
+Suráfrica
+
+02.156
+
+19
+
+Hungría
+
+1,30
+
+20
+
+México
+
+02.049
+
+20
+
+Portugal
+
+1,27
+
+39
+
+Cuba
+
+00696
+
+70
+
+Cuba
+
+0,24
+
+02
+03
+04
+
+1,90
+1,70
+1,69
+1,56
+
+Fuente: SCImago Institutions Rankings (2014). Elaboración propia.
+Nota: * se incluyeron 71 países con 2.000 documentos o más en Medicina, Ndoc: Número de documentos; IN: Impacto normalizado.
+
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+285
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+Tabla 1. Ranking mundial de países organizados por volumen de producción y visibilidad de las publicaciones en Medicina y Salud Pública,
+2003-2011.
+
+Tabla 2. Ranking latinoamericano de países organizados por volumen de producción y visibilidad de la publicación en Medicina y Salud
+Pública, 2003-2011.
+Medicina
+Rank
+
+País
+
+01
+
+Brasil
+México
+Argentina
+Chile
+Colombia
+Cuba
+Venezuela
+Perú
+Puerto Rico
+Jamaica
+Uruguay
+Costa Rica
+Ecuador
+Trinidad y Tobago
+Guatemala
+Granada
+Panamá
+Barbados
+Bolivia
+Martinica
+
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+Ndoc
+
+Rank
+
+85.668
+
+01
+
+22.751
+
+02
+
+15.349
+
+03
+
+10.196
+
+04
+
+6.780
+
+05
+
+6.233
+
+06
+
+3.861
+
+07
+
+2.452
+
+08
+
+2.107
+
+09
+
+1.859
+
+10
+
+1.383
+
+11
+
+911
+
+12
+
+811
+
+13
+
+710
+
+14
+
+480
+
+15
+
+434
+
+16
+
+343
+
+17
+
+321
+
+18
+
+315
+
+19
+
+315
+
+20
+
+País
+Costa Rica
+Panamá
+Perú
+Barbados
+Ecuador
+Bolivia
+Puerto Rico
+Argentina
+Uruguay
+Guatemala
+Trinidad y Tobago
+Chile
+Jamaica
+Colombia
+Brasil
+México
+Venezuela
+Martinica
+Granada
+Cuba
+
+IN
+1,86
+1,73
+1,71
+1,60
+1,34
+1,34
+1,33
+1,28
+1,19
+1,18
+0,95
+0,93
+0,92
+0,86
+0,85
+0,81
+0,74
+0,68
+0,54
+0,27
+
+Salud Pública
+
+Rank
+
+País
+
+Ndoc
+
+Rank
+
+01
+
+Brasil
+México
+Colombia
+Chile
+Cuba
+Argentina
+Perú
+Venezuela
+Puerto Rico
+Jamaica
+Costa Rica
+Ecuador
+Uruguay
+Trinidad y Tobago
+Guatemala
+Bolivia
+Barbados
+Panamá
+Granada
+Martinica
+
+9.413
+
+01
+
+2.049
+
+02
+
+874
+
+03
+
+754
+
+04
+
+696
+
+05
+
+635
+
+06
+
+315
+
+07
+
+205
+
+08
+
+203
+
+09
+
+182
+
+10
+
+128
+
+11
+
+110
+
+12
+
+106
+
+13
+
+90
+
+14
+
+84
+
+15
+
+63
+
+16
+
+44
+
+17
+
+29
+
+18
+
+16
+
+19
+
+9
+
+20
+
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+
+286
+
+17
+18
+19
+20
+
+País
+Bolivia
+Uruguay
+Guatemala
+Perú
+Panamá
+Ecuador
+Argentina
+Venezuela
+Granada
+Puerto Rico
+Costa Rica
+Barbados
+México
+Jamaica
+Brasil
+Trinidad y Tobago
+Chile
+Colombia
+Martinica
+Cuba
+
+IN
+1,62
+1,36
+1,36
+1,23
+1,17
+1,08
+1,05
+1,03
+1,01
+0,90
+0,88
+0,86
+0,81
+0,77
+0,72
+0,68
+0,60
+0,59
+0,30
+0,24
+
+Fuente: SCImago Institutions Rankings (2014). Elaboración propia.
+
+G. ZACCA-GONZÁLEZ et al.
+
+Nota: del total de países latinoamericanos se incluyeron en este ranking los 20 primeros según númer o de documentos.
+Ndoc: Número de documentos; IN: Impacto normalizado.
+
+Salud Pública además en 2006. El porcentaje de
+documentos, en el 10% de mayor impacto (excelencia)
+fue escaso en el área temática y la categoría y, a pesar de
+la irregularidad en el comportamiento de este indicador
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+(sobre todo en Salud Pública) se puede apreciar una ligera
+tendencia al incremento del indicador en la Salud Pública
+y a la disminución en la Medicina; la Salud Pública no
+tuvo ningún documento en este conjunto en los dos
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+287
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+Figura 1. Número de documentos y tasa de crecimiento de la producción científica cubana en Medicina y Salud Pública, 2003-2011.
+Fuente: SCImago Institutions Rankings (2014). Elaboración propia.
+
+primeros años del período y se mantuvo por debajo de
+la Medicina excepto en 2005, 2007 y 2008. Como es tan
+baja la presencia en este conjunto de alta calidad, el %
+de documentos que tienen autores cubanos como autor
+de la correspondencia en la Salud Pública es casi
+inexistente, manteniéndose en cero dos tercio de los años
+del período y alcanzando un máximo de 2,86% en 2005;
+en la Medicina es bajo el % de documentos de excelencia
+con liderazgo y tiende a la disminución.
+El indicador del impacto normalizado, que
+compara la visibilidad del país con las medias mundiales,
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+posiciona a Cuba lejos de los estándares internacionales.
+Las citas obtenidas por ambos dominios estuvieron la
+mayor parte del período cerca de un 70% por debajo de
+la media mundial, llegando a estar por debajo del 80%;
+el valor más alto lo obtuvo la Medicina al inicio del
+período (50% por debajo del mundo). Los valores del
+indicador evidenciaron una tendencia al descenso del
+impacto de la producción contenida en ambos dominio.
+La Salud Pública solo superó al área temática en 2005, y
+a partir del 2007 tuvieron un comportamiento similar
+dado por un incremento en 2008 y 2010.
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+288
+
+Figura 2. Indicadores bibliométricos de la producción científica cubana en Medicina y Salud Pública, 2003-2011.
+Fuente: SCImago Institutions Rankings (2014). Elaboración propia.
+Nota: A: Colaboración internacional; B: Liderazgo; C: % de producción en Q1; D: Excelencia; E. Excelencia con Liderazgo; F: Impacto normalizado.
+
+G. ZACCA-GONZÁLEZ et al.
+
+Publicación en revistas cubanas y extranjeras en
+el área de la Medicina y la categoría Salud Pública
+En relación a la distribución de las publicaciones
+de autores cubanos por revistas y el impacto que éstas
+alcanzan (Tabla 3) según el cuartil (Q) donde se ubican,
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+el mayor volumen de producción se ubica en Q4 en
+ambos agregados, aunque en proporciones mayores en
+Salud Pública (55%) que en Medicina (42%) y con una
+clara tendencia al crecimiento; ambos dominios
+experimentaron el mayor crecimiento a partir de 2006,
+fundamentalmente en la Salud Pública que ubicó en este
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+Salud Pública
+Año
+
+Q3
+
+Q4
+
+Medicina
+Q2
+
+Q4
+
+Q1
+
+Q3
+
+Q2
+
+Q1
+
+%
+
+IN
+
+%
+
+IN
+
+%
+
+IN
+
+%
+
+IN
+
+%
+
+IN
+
+%
+
+IN
+
+%
+
+IN
+
+2003
+
+07,14
+
+0,09
+
+73,81
+
+0,28
+
+19,05
+
+0,79
+
+10,63
+
+0,27
+
+41,09
+
+0,08
+
+33,05
+
+0,21
+
+15,23
+
+2,81
+
+2004
+
+57,14
+
+0,06
+
+37,14
+
+0,44
+
+05,71
+
+1,01
+
+09,26
+
+0,15
+
+44,71
+
+0,08
+
+29,10
+
+0,21
+
+17,99
+
+1,41
+
+2005
+
+08,57
+
+0,02
+
+85,71
+
+0,82
+
+05,71
+
+1,00
+
+08,39
+
+0,15
+
+28,34
+
+0,04
+
+51,02
+
+0,09
+
+12,70
+
+1,28
+
+%
+
+IN
+
+2006
+
+57,50
+
+0,01
+
+20,00
+
+0
+
+13,75
+
+0,73
+
+08,75
+
+1,18
+
+17,92
+
+0,02
+
+56,30
+
+0,01
+
+16,34
+
+0,26
+
+10,77
+
+1,65
+
+2007
+
+53,68
+
+0
+
+31,58
+
+0,16
+
+09,47
+
+0,52
+
+05,26
+
+1,88
+
+37,22
+
+0,01
+
+43,78
+
+0,03
+
+13,56
+
+0,28
+
+07,89
+
+1,75
+
+2008
+
+74,67
+
+0,01
+
+05,33
+
+0,13
+
+06,67
+
+0,37
+
+13,33
+
+1,86
+
+51,71
+
+0,02
+
+29,96
+
+0,08
+
+11,90
+
+0,34
+
+12,45
+
+2,01
+
+2009
+
+83,53
+
+0,04
+
+02,35
+
+0,34
+
+10,59
+
+1,07
+
+03,53
+
+1,79
+
+68,80
+
+0,04
+
+10,86
+
+0,15
+
+12,46
+
+0,43
+
+09,60
+
+1,79
+
+2010
+
+84,55
+
+0,04
+
+00,91
+
+0,36
+
+09,09
+
+0,24
+
+05,45
+
+3,37
+
+61,34
+
+0,02
+
+16,09
+
+0,14
+
+14,05
+
+0,34
+
+08,88
+
+2,17
+
+2011
+
+81,62
+
+0,04
+
+02,21
+
+0,52
+
+11,03
+
+0,44
+
+05,15
+
+3,30
+
+63,56
+
+0,02
+
+17,78
+
+0,12
+
+09,67
+
+0,57
+
+09,22
+
+1,94
+
+Fuente: SCImago Institutions Rankings (2014). Elaboración propia.
+Nota: IN: Impacto normalizado.
+
+cuartil más de tres cuartas partes de su total de
+documento. Al inicio del período (2003-2005), y previo
+al incremento, los artículos se concentraron
+fundamentalmente en revistas del segundo y tercer
+cuartil en ambos dominios. En Q1 la publicación es
+escasa, aunque mayor en Medicina que en la categoría.
+La tendencia en ambos dominios es al incremento de la
+publicación en Q4 y disminución en el resto de los
+cuartiles.
+El mayor impacto lo obtienen los trabajos
+publicados en Q1; aunque los trabajos publicados en el
+área de la Medicina alcanzan mayor impacto que la
+categoría, la Salud Pública mostró una tendencia mayor
+al incremento del impacto normalizado alcanzado en
+este cuartil. Los artículos en Q2 no alcanzan la media
+internacional aunque se aprecia cierta tendencia a la
+mejora en ambos agregados. En Q3 el impacto está por
+debajo del 60% y ambos tienden al crecimiento. El
+impacto de Q4 es muy bajo en ambos dominios y la
+tendencia es a permanecer en los niveles más bajos.
+Del total de producción científica, el 63,53% está
+publicado en 14 revistas nacionales de las 19 revistas
+médicas cubanas que aparecen en Scopus. Las que
+contienen más de 300 documentos y aportan más del
+5% al total de producción son: Revista Cubana de
+Medicina General Integral (7,67%), Acimed (7,36%),
+Revista Cubana de Medicina Tropical (5,50%), Revista
+Cubana de Medicina (5,58%) y la Revista Cubana de
+Cirugía (5,49%).
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+Las revistas indizadas en la categoría de Salud
+Pública son la Revista Cubana de Salud Pública y la Revista
+Cubana de Higiene y Epidemiología, las que
+contribuyeron al área temática con un 3,98% y 3,67%
+respectivamente. En su conjunto aportaron el 7,65% al
+total de producción en Medicina y el 68,53% a la Salud
+Pública.
+
+Discusión
+Estudios anteriores han demostrado que la
+utilización de Scopus como fuente para análisis
+cienciométricos, evidencia la orientación biomédica de
+la investigación cubana (Arencibia Jorge & Moya Anegón,
+2010). Cuba es un país relativamente pequeño, con
+alrededor de 11 millones de habitantes, que tiene una
+alta proporción de publicaciones por millón de
+habitantes (Chinchilla-Rodríguez et al., 2014b). Es por ello
+que se considera relevante que ocupe el lugar 51 en el
+área temática Medicina y el 39 en la categoría Salud
+Pública en el ranking internacional de países por volumen
+de producción. Dentro de la Medicina, la Salud Pública
+constituye una fortaleza, lo que en cierta manera refleja
+el quehacer salubrista de la isla, aunque en comparación
+con los logros obtenidos, el volumen de producción
+científica, que suponen ser un reflejo de los resultados
+de la investigación, está por debajo de las capacidades
+existentes.
+Un ejemplo de esto es la escasa publicación en
+Atención Primaria en Salud, base de la práctica médica
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+289
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+Tabla 3. Distribución e impacto de la producción científica en Salud Pública y Medicina según los cuartiles (Q) de las revistas donde publican
+autores cubanos, ordenados según el SCImago Journal Rank, 2003-2011.
+
+cubana. Al respecto (Benet, 2013) planteó que es una
+situación preocupante si se considera que la residencia
+de la medicina familiar, especialidad que realizan la
+mayoría de los médicos recién graduados, termina con
+una tesis y que las maestrías y doctorados en Salud
+Pública y otros campos relacionados, también
+contribuyen al potencial de investigación. El análisis de
+la situación de salud de la comunidad que se realiza
+anualmente no está suficientemente reflejado en la
+literatura.
+En el análisis de la evolución de la producción
+científica en Medicina y su subconjunto Salud Pública,
+se observa una tendencia al incremento del volumen
+total, que es más acelerado en la Salud Pública. Esta
+producción, altamente liderada, experimentó, el mayor
+crecimiento entre 2005-2006 a expensas del incremento
+de las revistas en el cuarto cuartil, coincidiendo con la
+incorporación de las revistas cubanas indizadas en SciELO
+a Scopus, las que inmediatamente pasaron a formar parte
+de Q4. Este aumento de producción ha repercutido en
+una disminución el porcentaje de documentos
+publicados en las mejores revistas (Q1) en la mayor parte
+del período, excepto una disminución en ambos
+agregados en 2008 en Q4 asociado al incremento de
+publicaciones en revistas del primer cuartil. La baja
+proporción de artículos de excelencia y la casi inexistente
+cantidad de documentos de excelencia liderados por
+autores cubanos, sitúan a Cuba con una citación muy
+alejada del promedio mundial, y por extensión con baja
+visibilidad e impacto a nivel internacional. Estos
+resultados coinciden con los descritos por (ChinchillaRodríguez et al., 2014a) en el estudio de la producción
+cubana en todas las áreas de conocimientos contenidas
+en Scopus.
+290
+
+G. ZACCA-GONZÁLEZ et al.
+
+Se precisó una tendencia al incremento de
+documentos en Q4 y decrecimiento en el resto de los
+cuartiles en ambos dominios. No obstante, en Medicina
+parece haber una mayor estabilidad que en Salud Pública
+en cuanto a las contribuciones que se hacen en revistas
+del primer cuartil. Este es un elemento que alerta sobre
+la necesidad de incrementar la publicación de revistas
+de alto impacto, particularmente en Salud Pública.
+Tanto en Medicina como es Salud Pública, hay un
+desbalance hacia la publicación mayor en revistas
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+nacionales que extranjeras, lo que confirma el patrón
+hallado para las ciencias médicas y de la salud por
+(Cañedo Andalia et al., 2013). Por tanto, como
+consecuencia más inmediata del aumento del volumen
+de la literatura científica a partir de la introducción de las
+revistas médicas cubanas a Scopus se ha producido un
+descenso de la citación. No obstante, este fenómeno
+debe ser observado durante los próximos años, para dar
+suficiente tiempo a que estos artículos sean citados y
+poder realizar un análisis objetivo de la calidad de las
+investigaciones (Arencibia-Jorge & Moya-Anegón, 2010).
+Por tanto, la capacidad que tiene Cuba para
+publicar en el área de la Medicina no se manifiesta en el
+nivel de impacto alcanzado por la producción científica.
+Otra evidencia de esto fue la ubicación en el último lugar
+en los rankings de países de Medicina y Salud Pública,
+tanto en el contexto regional como internacional,
+posiciones que contrastan grandemente con la ubicación
+en cuanto a volumen de producción.
+Las 14 revistas cubanas que forman parte del área
+de la Medicina pertenecen al Sistema Nacional de Salud
+y son publicadas por la Editorial de Ciencias Médicas,
+Ecimed. Circulan en acceso abierto en el sitio de las
+revistas médicas cubanas en la Biblioteca Virtual de Salud
+de Cuba y en SciELO. Su incorporación a Scopus ha
+permitido dar visibilidad internacional a más de seis mil
+artículos en los 9 años estudiados.
+El hecho de que estas revistas circulen por estos
+índices internacionales presupone el cumplimiento de
+los estándares de calidad de SciELO y Scopus. Sin
+embargo, estar en acceso abierto no necesariamente
+conlleva a una mayor citación. Se ha demostrado que
+estas revistas de la vía dorada del Open Access, tienen
+poca visibilidad y se sitúan en el cuarto cuartil (Miguel et
+al., 2011).
+La colaboración internacional aparece por debajo
+de lo esperado en ambos dominios teniendo en cuenta
+el número de profesores y especialistas cubanos que
+prestan servicios de colaboración médica en otros países
+del mundo, principalmente en Latinoamérica. La
+tendencia de la colaboración científica en Salud Pública
+es a disminuir mientras que la de la Medicina se mantiene
+constante. Una mayor apertura internacional tanto con
+países de la región como de fuera de la región podría ser
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+Cuba es un país en vías de desarrollo donde la
+salud de la población es una prioridad. Ha alcanzado altos
+niveles de salud, comparables a los de países
+desarrollados y es el país de Latinoamérica con mayor
+equidad en términos salubristas (Chinchilla-Rodríguez et
+al., 2014b). La inversión en salud es relativamente alta
+comparada con el Producto Interno Bruto (PIB) y cuenta
+con un alto potencial de recursos humanos altamente
+calificados que ha sido denominado “ejercito de batas
+blancas”. Los perfiles de los currículos de especialidad y
+maestría tienen salida en la investigación y se les exige a
+los docentes e investigadores categorizados un número
+determinado de publicaciones anuales según categoría.
+Sin embargo, como se ha demostrado en esta
+investigación, estas potencialidades en recursos
+humanos e infraestructura del Sistema Nacional de Salud
+que pudiera ser asiento de numerosas investigaciones
+en Medicina, y especialmente en Salud Pública, no se
+corresponden con la cantidad y calidad de publicaciones
+visibles internacionalmente.
+Dorta Contreras ha destacado que en Cuba la
+producción científica en las ciencias médicas y de la salud
+está por debajo del potencial humano existente, por
+factores tales como la falta de cultura editorial de los
+profesionales, insuficiente formación en materia de
+redacción de documentos científicos, la existencia de
+prioridades como la docencia médica y la asistencia que
+conspira contra el tiempo disponible para la preparación
+de las publicaciones; dificultades para seleccionar
+correctamente una revista y el pobre manejo del idioma
+inglés (Dorta Contreras, 2006). También atribuye la falta
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+de citas entre cubanos a que no existe integración en la
+ciencia nacional, la falta de coherencia temática de los
+autores, que no se considera importante la contribución
+que realizan los colegas nacionales o que se desconozca
+el tema de estudio de éstos (Dorta Contreras, 2008).
+Es, por tanto, necesario sistematizar y publicar las
+investigaciones que dan origen a la toma de decisiones
+y a documentar la puesta en marcha de iniciativas y
+programas de salud exitosos que pudieran ser utilizados
+por la comunidad científica. Por ejemplo, incrementar el
+número de artículos que recojan los resultados del
+enfrentamiento a la epidemia del dengue que afecta a
+varios países de la región o las experiencias de programas
+como el materno-infantil.
+No debe desestimarse la influencia que puede
+tener en la visibilidad, la publicación en revistas de
+prestigio internacional como canales de difusión
+académica de las investigaciones con mejores diseños y
+resultados generalizables. Es necesario establecer una
+estrategia para la publicación en revistas de mayor
+prestigio, buscando siempre un balance entre los
+artículos de alta calidad que se publican en revistas
+cubanas y las que se publican en revistas extranjeras, así
+como priorizar la publicación en revistas multilingües.
+Por otra parte, se precisa incrementar las acciones
+capacitantes en materia de metodología de la
+investigación y publicación científica. Los programas
+académicos que contienen estos temas, así como los que
+forman parte del programa de alfabetización
+informacional, deben incluir entre sus objetivos
+educativos lo relacionado con la evaluación de las revistas
+para que los autores tomen decisiones informadas a la
+hora de seleccionar la revista donde van a publicar los
+resultados de sus investigaciones. Asimismo, debe ser
+prioridad seguir trabajando en la mejora de la calidad de
+las revistas médicas cubanas, fundamentalmente en el
+proceso de arbitraje por pares, la composición de sus
+comités editoriales y en la salida en tiempo de las revistas.
+Para el incremento del volumen y visibilidad de
+las revistas indexadas en Scopus se sugiere realizar
+estudios de cobertura de las bases de datos y revisión
+de que estén indizados todos los números de las revistas;
+elevar la calidad y visibilidad de las revistas cubanas
+mediante el perfeccionamiento de los procesos
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+291
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+una buena recomendación (Lancho-Barrantes et al., 2012;
+2013). Esta estrategia de mayor liderazgo científico, unido
+a la presencia de revistas en bases de datos
+internacionales, indica que las condiciones están creadas
+para establecer redes de colaboración y alcanzar mayor
+repercusión y visibilidad de las investigaciones científicas
+cubanas más genuinas y de esta manera pudiera
+contribuirse al desbloqueo académico. En la realidad
+actual de las ciencias médicas cubanas, esta estrategia
+de apertura es crucial por la necesidad de respaldar la
+labor médica de los colaboradores cubanos en 65 países
+del mundo, donde la situación de salud difiere de la
+cubana.
+
+editoriales, fundamentalmente, el arbitraje por pares; e
+invitar a expertos internacionales a publicar en las revistas
+nacionales.
+
+Conclusión
+Cuba hace un aporte importante a la producción
+científica en Medicina, especialmente al arsenal de
+resultados de investigación en Salud Pública. Esta
+contribución altamente liderada, evidencia una
+tendencia al incremento en los índices internacionales.
+Sin embargo, esta vasta producción científica no está
+impactando en la comunidad internacional como se
+esperaría de un país con grandes logros en materia de
+salud. La situación de bajo impacto de los artículos de
+Medicina es aún más crítica en el subconjunto que forma
+parte de la Salud Pública. Entre los factores comunes que
+contribuyen a que ambos dominios tengan bajo impacto
+
+pueden precisarse el bajo porcentaje de colaboración
+internacional, la alta publicación en revistas de poco
+prestigio internacional y la escasa presencia de artículos
+en revistas de alto impacto o trabajos poco generalizables
+para la comunidad internacional.
+Las claves para mejorar el impacto de la
+producción cubana en Medicina y Salud Pública son el
+incremento la colaboración científica, la publicación de
+los artículos en revistas de alto impacto, la preparación
+de los recursos humanos y seguir las recomendaciones
+internacionales sobre las buenas prácticas de edición y
+publicación científica.
+Este estudio alerta sobre la necesidad de
+profundizar en el patrón de comunicación científica de
+la Salud Pública cubana en aras de determinar qué
+elementos dan al traste con la calidad de la publicación
+científica en este dominio de conocimiento tan
+importante para la nación cubana.
+
+Referencias
+Alger, J. et al. Sistemas nacionales de investigación para la
+salud en América Latina: una revisión de 14 países. Revista
+Panamericana de Salud Pública, v.26, n.5, p. 447-57, 2009.
+
+In: Congreso Internacional de Información Info´2014, 23., La
+Habana. Proceedings… La Habana: Instituto de Información
+Científica y Tecnológica, 2014a. 1 CD-ROM.
+
+Arencibia-Jorge, R.; Moya-Anegón, F. Challenges in the study
+of Cuban scientific output. Scientometrics, v.83, n.3, p.723-737,
+2010.
+
+Chinchilla-Rodríguez, Z. et al. Latinoamerican scientific output
+in Public Health: combined analysis of bibliometrics,
+socioeconomics and health indicators. Scientometrics, 2014b.
+Available from: <http://link.springer.com/article/10.1007/
+s11192-014-1349-9>. Cited: Aug. 11, 2014b. doi: 10.1007/s11
+192-014-1349-9
+
+Benet, M. Cuban publishing on primary health care: An
+inexcusable absence. MEDICC Review, v.15, n.2, p.52, 2013.
+Bornmann, L.; Moya-Anegón, F.; Leydesdorff, L. The new
+excellence indicator in the world report of the SCImago
+Institutions Rankings 2011. Journal of Informetrics, v.6, n.2,
+p.333-335, 2012.
+
+292
+
+Cañedo Andalia, R. Se reinicia en PubMed-Medline el
+procesamiento bibliográfico de la Revista Cubana Medicina
+Tropical. Correo Científico Médico, v.17, n.2, p. 242-243, 2013.
+
+G. ZACCA-GONZÁLEZ et al.
+
+Cañedo Andalia, R.; Rodríguez Labrada, R.; Velázquez Pérez, L.
+Distribución de la producción científica cubana en salud
+registrada en Scopus y PubMed en 2011, según instituciones.
+Revista Cubana de Información en Ciencias de la Salud, v.24,
+n.1, 2013. Disponible en: <http://www.acimed.sld.cu/
+index.php/acimed/article/view/388/288>. Acceso en: 20 dic.
+2013.
+Chinchilla-Rodríguez, Z. et al. International collaboration in
+medical research in Latin America and the Caribbean
+(2003-2007). Journal of the American Society for Information
+Science and Technology, v.63, n.11, p.2223-2238, 2012.
+Chinchilla-Rodríguez, Z. et al. Colaboración y performance
+científico en el dominio científico de Cuba en Scopus, 2003-2011.
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+Domínguez-Alonso, E.; Zacca-Peña, E. Sistema de salud de
+Cuba. Salud Pública México, v.53, n.2, p.168-176, 2011.
+Dorta Contreras, A. En defensa de nuestra producción
+científica. Acimed, v.14, n.3, 2006. Disponible en: <http://
+bvs.sld.cu/revistas/aci/vol14_3_06/aci15306.htm>. Acceso en:
+15 dic. 2013.
+Dorta Contreras, A. Evidenciar la ciencia cubana. Acimed, v.17,
+n.2, 2008. Disponible en: <http://bvs.sld.cu/revistas/aci/
+vol17_2_08/aci01208.htm>. Acceso en: 15 dic. 2013.
+González-Pereira, B.; Guerrero-Bote, V.; Moya-Anegón, F. A
+new approach to the metric of journal’s scientific prestige:
+The SJR indicator. Journal of Informetrics, v.4, n.3, p.379-391,
+2010.
+Jeremic,´ V. et al. Excellence with leadership: The crown indicator
+of Scimago Institutions Rankings Iber Report. El Profesional de
+la información, v.22, n.5, p.474-480, 2013.
+Lancho-Barrantes, B., Guerrero-Bote, V.; Moya-Anegón, F.
+Citation increments between collaborating countries.
+Scientometrics, v.94, n.3, p.817-831, 2013.
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+Estocolomo: Karolinska Institutet University Library, p.1-33,
+2007. Disponible en: <http://kib.ki.se/sites/kib.ki.se/files/
+Bibliometric_indicators_definitions_1.0.pdf>. Acceso en: 11
+ago. 2014.
+
+Miguel, S.; Chinchilla-Rodríguez, Z.; Moya-Anegón, F. Open
+Access and Scopus: A new approach to scientific visibility
+from the standpoint of access. Journal of the American Society
+for Information Science and Technology, v.62, n.6, p.1130-1145,
+2011.
+
+SCImago Institutions Rankings. Base de datos. 2014. Disponible
+en: <http://www.scimagoir.com>. Acceso en: 11 mar.
+2014.
+
+Moya-Anegón, F. et al. The research guarantors of scientific
+papers and the output counting: A promising new approach.
+Scientometrics, v.97, n.2, p.421-434, 2013.
+Rehn, C.; Kronman, U.; Wadskog, D. Bibliometric indicators:
+Definitions and usage at Karolinska Institutet Version 1.0.
+
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+Zacca-González G. et al. Bibliometric analysis of regional Latin
+America’s scientific output in public health through SCImago
+journal country rank. BMC Public Health, v.14, n.632, 2014.
+Available from: <http://www.biomedcentral.com/1471-2458/
+14/632>. Cited: Aug. 11, 2014. doi 10.1186/1471-2458-14.6
+32
+
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+293
+PRODUCCIÓN CIENTÍFICA CUBANA EN SALUD
+
+Lancho-Barrantes, B. et al. Citation flows in the zones of
+influence of scientific collaborations. Journal of the American
+Society for Information Science and Technology, v.63, n.3,
+p.481-489, 2012.
+
+294
+
+G. ZACCA-GONZÁLEZ et al.
+
+TransInformação, Campinas, 26(3):281-293, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300005
+
+

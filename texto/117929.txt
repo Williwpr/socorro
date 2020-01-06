@@ -1,0 +1,931 @@
+Literature review of environmental
+sustainability related to information
+technology
+Simone SARTORI1
+Leonardo ENSSLIN1
+Lucila Maria de Souza CAMPOS1
+Sandra Rolim ENSSLIN1
+
+Resumo
+Este artigo tem por objetivo realizar um mapeamento das publicações sobre o tema Avaliação da Sustentabilidade Ambiental
+para a Tecnologia de Informação e, a partir desse, selecionar um portfólio bibliográfico das publicações mais relevantes e alinhadas segundo a percepção dos autores dessa pesquisa. Para este portfólio, fez-se uma análise bibliométrica visando construir o
+conhecimento sobre os assuntos mais frequentes: autores, artigos, periódicos e palavras-chave no tema. Caracteriza-se este trabalho pelo caráter exploratório-descritivo; além disso, apresenta-se abordagens quantitativas e qualitativas, por meio do uso do
+instrumento de intervenção Knowledge Development Process - Constructivist. Nesse sentido, foram selecionados 25 artigos relevantes e 416 artigos de referências, que passaram a representar o Portfólio Bibliográfico. Na análise bibliométrica dos artigos do
+Portfólio Bibliográfico e suas referências evidenciam-se: os periódicos “Association for Computing Machinery Computing Surveys” e
+“Management Information Systems Quarterly”; os artigos “Information Technology and Organizational Performance: An integrative
+model of Information Technology business value” e “Beyond the Business Case for Corporate Sustainability”; as palavras-chaves
+“Information Technology” e “Sustainability”; e os autores mais citados Marie-Claude Boudreau, Tom Butler, Adela Chen, Jason Dedrick,
+Robert Sroufe, Richard Watson, e Nigel Melville. Esses resultados são singulares devido às delimitações postas pelos autores dessa
+pesquisa e o processo empregado em sua abordagem é ampla, podendo ser utilizada por outros pesquisadores relacionados a
+esse tema ou não.
+Palavras-chave: Análise bibliométrica. Avaliação de desempenho. Gestão ambiental. Sustentabilidade. Tecnologia de informação.
+
+Abstract
+The aim of this article was to map publications on the issue of Environmental Sustainability Assessment for Information Technology and
+select a bibliography portfolio of relevant publications according to the perception of authors of this research. For this portfolio the
+bibliometric analysis aimed at building knowledge on the following most outstanding terms: authors, articles, journals and keywords
+on the subject. This is an exploratory, descriptive, quantitative, qualitative study using the instrument Knowledge Development Process
+1
+
+Universidade Federal de Santa Catarina, Programa de Pós-Graduação em Engenharia de Produção. Campus Universitário, Trindade, Caixa Postal 476,
+88040-900, Florianópolis, SC, Brasil. Correspondência para/Correspondence to: S. SARTORI. E-mail: <simone.eng.prod@gmail.com>.
+Recebido em 13/8/2012, reapresentado em 13/5/2013 e aceito para publicação em 24/6/2013.
+
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+77
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+Mapeamento do estado da arte do tema
+sustentabilidade ambiental direcionado
+para a tecnologia de informação
+
+from a constructivist perspective. As a result, we selected 25 relevant articles and 416 articles cited in the references, which represent the
+bibliographic portfolio. The bibliometric analysis of articles in the Bibliographic Portfolio and their references revealed that the most
+frequent terms were as follows: the journal “Association for Computing Machinery Computing Surveys” and “Management Information
+Systems Quarterly”; the article “Information technology and organizational performance: an integrative model of Information Technology
+business value” and “Beyond the Business Case for Corporate Sustainability”; the keywords “Information Technology” and “Sustainability”;
+and the most cited authors were: Marie-Claude Boudreau, Tom Butler, Adela Chen, Jason Dedrick, Robert Sroufe, Richard Watson, and
+Nigel Melville. These results are singular due to the delimitations established by the authors of the present study and the process used.
+However, it is general and it can be used by other researchers in this or other fields.
+Keywords: Bibliometric analysis. Performance assessment. Environmental management. Sustainability. Information technology.
+
+Introdução
+Problemas ambientais, como as alterações climáticas, o esgotamento de recursos, a escassez da água
+e a poluição do ar, entre outros, têm um grande impacto
+sobre a Terra e seus habitantes; todos esses fatores têm
+levado a população, em geral, à conscientização dos
+recursos naturais, para se reverter o processo de degradação ambiental.
+A tecnologia é tanto uma das causas desse processo de degradação ambiental, como uma potencial
+via para amenizar o problema. O uso da tecnologia como
+em estações de energia movidas a carvão fornece a
+eletricidade necessária para apoiar um estilo de vida
+confortável, mas, cria emissões de carbono que contribuem para o aquecimento global. Como alternativa,
+tecnologias baseadas em energia renovável, como eólica
+e solar, são as soluções possíveis para a sustentabilidade,
+embora haja consequências negativas devido aos materiais necessários para construir as turbinas eólicas ou
+painéis solares (Boudreau et al., 2008).
+
+78
+
+S. SARTORI et al.
+
+Entre as tecnologias, destaca-se a Tecnologia de
+Informação (TI), que, para muitos países, tem sido o principal contribuinte para o crescimento da produtividade
+no último século, bem como um facilitador de mudanças
+organizacionais que podem levar a ganhos adicionais de
+produtividade (Dedrick et al., 2003). Entretanto, o problema ambiental da TI está em suas substâncias tóxicas,
+na radiação, no consumo de energia e no descarte dos
+equipamentos (Schmidt et al., 2009). No entanto, os
+produtos e serviços da TI tornaram-se visíveis em termos
+de benefícios e custos para a sociedade (Harmon &
+Demirkan, 2011).
+Até meados da década de 1980, não havia comunidade científica especializada em TI para fins ambientais.
+Mas durante a última década, a sustentabilidade tem
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+emergido nos estudos e práticas de gestão (Pillmann
+et al., 2006).
+O advento das Tecnologias da Informação vem
+ocasionando contínuas e profundas transformações nas
+organizações empresariais e industriais (Nadaes & Borges,
+2008). Essas têm demonstrado comportamentos diferenciados quanto às políticas de gestão, recursos aplicados e instrumentos de controle de gestão socioambiental, configurando problemas, quais sejam: complexos, multicritério, com objetivos conflitantes e incertos.
+A ciência tem mostrado que para enfrentar tais problemas é recomendado o uso de abordagens prescritivistas
+e construtivistas em detrimento das abordagens normativistas e descretivistas (Roy, 1993). Muitas são as aplicações de métodos de Avaliação de Desempenho que
+evidenciam o uso de abordagens construtivistas no referido contexto (Ensslin et al., 2000; Ensslin et al., 2010; Moraes et al., 2010; Tasca et al., 2010; Azevedo et al., 2011;
+Lacerda et al., 2011; Ram et al., 2011; Ensslin et al., 2012;
+Rosa et al., 2012). Para essas situações, a avaliação de
+desempenho tem sido definida como o conhecimento
+necessário para apreciação de um fato, de uma ideia, de
+um objetivo ou de um resultado e, também, a base para
+a tomada de decisão em contextos não bem estruturados, conflituosos e incertos (Ensslin et al., 2010).
+Nessas condições, este trabalho tem por objetivo
+promover um mapeamento das publicações sobre o
+tema Avaliação da Sustentabilidade Ambiental direcionado para a Tecnologia de Informação. O objetivo
+divide-se em duas etapas: a) evidenciar um conjunto de
+artigos (portfólio bibliográfico) com reconhecimento
+científico, alinhados à visão dos pesquisadores sobre o
+tema “Sustentabilidade Ambiental em empresas de TI”; e
+b) estabelecer os mais destacados autores, periódicos e
+palavras-chave sobre este tema.
+
+Métodos
+
+O processo ProKnow-C é composto de quatro
+etapas: 1) seleção do portfólio bibliográfico que proporcionará a revisão de literatura; 2) análise bibliométrica
+do portfólio bibliográfico; 3) análise sistêmica do portfólio
+bibliográfico; e 4) elaboração dos objetivos de pesquisa.
+Nesta pesquisa, sobressaem-se duas etapas iniciais: a seleção do portfólio de artigos sobre o tema de
+pesquisa e a análise bibliométrica.
+Seleção do portfólio bibliográfico
+Para desenvolver um trabalho e construir o conhecimento, o primeiro passo do pesquisador consiste na
+revisão da literatura acerca do tema (Afonso et al., 2011).
+O que significa saber buscar, selecionar, avaliar e analisar
+informações de modo a poder usá-las na construção de
+conhecimento (Souza, 2011). A seleção do referencial
+bibliográfico por meio do ProKnow-C realiza-se de forma
+recursiva por meio das etapas: a) definição dos artigos
+científicos nas bases de dados; b) estabelecimento de
+um Banco de Artigos Brutos, seguindo por uma série de
+procedimentos pré-estabelecidos até a fase de filtragem
+e seleção do portfólio bibliográfico relevante e alinhado
+ao tema do pesquisador (Afonso et al., 2011).
+Seleção do banco de artigos brutos
+A fim de definir o banco de artigos brutos, parte-se da determinação dos eixos da pesquisa, conforme a
+percepção do pesquisador. Neste trabalho, tem-se três
+eixos de pesquisa: a) Gestão Ambiental, que corresponde
+ao tema central do trabalho; b) Tecnologia de Informação,
+relacionado a aplicação do primeiro eixo; e c) Avaliação
+de Desempenho, relacionado aos processos decisórios
+na busca de aperfeiçoamentos ambientais no tema.
+A seleção do Banco de Artigos Bruto é composta
+por:
+a) Definição das palavras-chave: “environmental”,
+“green”, “environmental management systems”, “ISO 14031”
+e “sustainability”, “Information Technology (IT )”,
+
+b) Definição dos bancos de dados: Scopus,
+Engeneering Village, ISI Web of Knowledge, Science Direct,
+Wiley e IEEE. Referente ao conteúdo dessas 6 bases de
+dados, registra-se que foi efetuada a busca pelas 50
+combinações de palavras-chave, utilizando os campos
+título (article title), o resumo (abstract) e as palavras-chave
+(keywords). A delimitação temporal é de 10 anos (2002 a
+maio de 2012) e publicações do tipo Journal Article;
+c) Levantamento dos artigos nos bancos de dados
+com as palavras-chave: após conclusão da busca das 12
+palavras-chave nas 6 bases de dados, foram selecionados
+8.506 publicações para compor o portfólio denominado
+Banco de Artigos Bruto.
+Filtragem do banco de artigos brutos
+No processo de filtragem do Banco de Artigos
+Brutos, analisaram-se as 8.506 publicações quanto aos
+seguintes aspectos: a) artigos repetidos; b) títulos dos
+artigos alinhados ao tema de pesquisa; c) artigos com
+reconhecimento científico; d) resumos alinhados ao tema
+de pesquisa; e e) texto integral dos artigos alinhados com
+o tema da pesquisa.
+Usou-se da biblioteca Endnote para a importação
+das publicações selecionadas nas bases de dados pesquisadas. Após importação, encontrou-se 586 publicações que não são artigos. Com a eliminação dessas
+publicações restaram 7.920 artigos. Na análise da redundância foram removidos 4.662 artigos duplicados,
+restando 3.258 artigos no Banco de Artigos Bruto.
+Analisando o alinhamento do título em relação
+ao tema da pesquisa, foi detectada uma grande quantidade de artigos sobre “Geografic Information Systems
+(GIS)”, fora do escopo da pesquisa. Assim, restaram 289
+artigos não duplicados e com título alinhado ao tema
+de pesquisa, que foram submetidos à análise quanto ao
+reconhecimento científico no Google Scholar. Para fins
+dessa análise, entende-se por reconhecimento científico
+de um artigo como sendo o número de citações encontradas para o artigo após consulta ao Google Scholar.
+Nesta etapa, os artigos foram divididos em dois grupos:
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+79
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+O Instrumento de pesquisa utilizado foi o
+Knowledge Development Process - Constructivist (ProknowC), proposto por Ensslin et al. (2010) e Ensslin et al. (2012).
+
+“Information System (IS)”, “performance management”,
+“performance measure”, “performance assessment”,
+“performance evaluation” e “performance appraisal”.
+
+a) primeiro grupo com reconhecimento científico; e b)
+segundo grupo sem reconhecimento científico.
+No primeiro grupo, foram selecionados 49 artigos
+que tiveram ao menos uma citação, sendo esses submetidos à análise do alinhamento do resumo em relação ao
+tema de pesquisa. Restaram 21 artigos não duplicados,
+com reconhecimento científico e com título e resumo
+alinhado ao tema da pesquisa, com 97 autores identificados para uso posterior.
+No segundo grupo composto por 240 artigos,
+encontrou-se 83 artigos publicados há mais de dois anos,
+mas os autores não tinham artigos selecionados no portfólio do referencial (21 artigos acima colocados). Dando
+prosseguimento, entre os 240 artigos, verificou-se que
+157 artigos foram publicados recentemente (nos anos
+de 2011 e 2012), possuindo potencial para reconhecimento científico futuro. Esses artigos foram submetidos
+à análise do alinhamento do resumo em relação ao tema
+de pesquisa, restando desta análise 9 artigos com resumo
+alinhado, sendo esses incluídos aos 21 artigos com reconhecimento científico e título/resumo alinhados. Assim
+sendo, obteve-se 30 artigos não repetidos, com título e
+resumo alinhados, e com reconhecimento científico.
+Em seguida, os 30 artigos selecionados foram
+analisados em relação ao alinhamento do texto integral
+com o tema de pesquisa. Dos 30 artigos, 1 artigo não
+possuía texto completo disponível no Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal
+de Nível Superior (Capes), sendo eliminado. Os demais
+29 artigos tiveram seus textos analisados na íntegra e,
+então, 10 artigos foram excluídos por não estarem alinhados. Os 19 artigos foram considerados constituintes de
+parte do Portfólio Bibliográfico dos artigos relevantes e
+alinhados ao tema.
+80
+
+S. SARTORI et al.
+
+Com o propósito de testar a exaustividade dos
+19 artigos do portfólio, esses foram submetidos ao teste
+de representatividade. Na análise das referências dos 19
+artigos, foram constatados 310 artigos, para os quais
+foram identificadas o número de citações no Google
+Scholar. Foram encontrados 65 artigos que representam
+80% das citações. Para e esses 65 artigos procedeu-se a
+leitura integral e se constatou que 6 artigos estavam
+alinhados, os quais foram incorporados aos 19 artigos
+do Portfólio Bibliográfico inicial e passaram a constituir o
+Portfólio Bibliográfico final.
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+Portanto, o processo de filtragem resultou em um
+Portfólio Bibliográfico formado por 25 artigos (Anexo).
+
+Resultados
+Apresenta-se a análise das características dos
+artigos que formaram o Portfólio Bibliográfico alinhado
+ao tema: avaliação da sustentabilidade ambiental direcionado para a Tecnologia de Informação em termos da
+seleção dos mais destacados artigos, autores, periódicos
+e as palavras-chave mais utilizadas no assunto.
+Análise bibliométrica
+A análise bibliométrica do Portfólio Bibliográfico
+consiste no levantamento de estatísticas do conjunto
+definido de artigos para a gestão da informação e do
+conhecimento científico do tema de pesquisa (Ensslin et
+al., 2012). Para tanto, a análise bibliométrica do Portfólio
+Bibliográfico foi desenvolvida em quatro etapas: a) avaliar
+o grau de relevância dos periódicos; b) avaliar o reconhecimento científico dos artigos; c) estimar o grau de relevância dos autores; e d) avaliar as palavras-chave mais
+utilizadas. Para cada uma das etapas acima colocadas,
+com exceção das palavras-chave mais utilizadas, as análises seguem a seguinte ordem: a) análise bibliométrica
+dos artigos do Portfólio Bibliográfico; b) análise bibliométrica das referências dos artigos do Portfólio Bibliográfico;
+c) análise bibliométrica do conjunto formado pelos artigos e suas referências.
+Ressalta-se que, para análise bibliométrica, foi
+composto um conjunto de dados assim distribuídos: 25
+artigos que formam o Portfólio Bibliográfico e 416 artigos
+das referências bibliográficas do tipo Journal Article
+encontradas nos artigos do Portfólio Bibliográfico.
+Estimar o grau de relevância dos periódicos: a
+primeira análise busca identificar em qual periódico foi
+publicado o maior número de artigos - dentre aqueles
+que compõem o Portfólio Bibliográfico. Encontrou-se 18
+periódicos diferentes, evidenciando-se entre eles o
+periódico Management Information Systems Quarterly
+(MIS Quarterly), com 4 artigos publicados (Figura 1).
+A segunda análise evidencia os periódicos com
+maior número de artigos dentre os citados nas referências
+
+A terceira análise compara a relevância dos periódicos dos artigos do Portfólio Bibliográfico e a relevância dos periódicos das referências dos artigos do
+
+Portfólio Bibliográfico, ressaltando-se que: a) o periódico
+MIS Quartely apresenta destaque no Portfólio e nas
+referências; b) não há destaque nas referências do Portfólio Bibliográfico; c) não foi encontrado nenhum
+periódico de destaque no Portfólio Bibliográfico; e d) entre os periódicos presentes nos artigos e nas referências,
+destacam-se: Business Strategy and the Environment,
+
+Figura 1. Relevâncias dos periódicos no Portfólio Bibliográfico.
+Nota: x: Títulos dos periódicos e y: Números de artigos no Portfólio Bibliográfico.
+Fonte: Elaborada pelos autores (2012).
+
+Figura 2. Relevância dos Periódicos nas Referências dos Artigos do Portfólio Bibliográfico.
+Nota: x: Títulos dos periódicos e y: Números de artigos nas referências no Portfólio Bibliográfico.
+Fonte: Elaborada pelos autores (2012).
+
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+81
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+do Portfólio Bibliográfico. As referências dos artigos do
+Portfólio Bibliográfico foram publicadas em 178 periódicos diferentes, e destaca-se o periódico MIS Quarterly,
+com 45 artigos (Figura 2).
+
+Information Technological Professional (IT Professional),
+Harvard Business Review, Journal of Operations
+Management, Strategic Management Journal, Journal of
+Strategic Information Systems, Information System
+Research e Journal of Systems and Information Technology.
+O periódico de destaque, Journal Management
+Information Systems Quarterly (MIS Quarterly), criado em
+1977 e revisado pelo Centro de Pesquisas de Gestão de
+Sistemas de Informação, Universidade de Gestão Carlson
+e Universidade de Minnesota, abrange pesquisas nas
+áreas de Gestão de Sistemas de Informação (SI) e
+Tecnologia da Informação (TI), Gestão de Recursos de TI,
+seu uso, impacto, economia e implicações gerenciais,
+organizacionais, sociais e profissionais (Management
+Information Systems Quarterly, 2012). Ressalta-se que
+este é considerado pelos pesquisadores uma das revistas
+mais prestigiadas na área de Sistemas de Informação.
+
+82
+
+base no Google Scholar. Verificou-se que: a) nenhum
+artigo apresenta destaque no Portfólio Bibliográfico; b)
+um artigo de destaque do Portfólio Bibliográfico foi
+realizado por Nigel Melville, Kenneth Kraemer e Vijay
+Gurbaxani, autores de destaque das referências do
+Portfólio Bibliográfico; e c) o artigo de Thomas Dyllick e
+Kai Hockerts foi realizado por autores de destaque nas
+referências do Portfólio Bibliográfico.
+Estimar o grau de relevância dos autores: procedeu-se à primeira análise buscando destacar quais os autores
+de relevância dentre os 50 autores dos artigos do Portfólio
+Bibliográfico. Ressaltam-se os autores Marie-Claude
+Boudreau, Tom Butler, Adela Chen, Jason Dedrick, Robert
+Sroufe, Richard Watson e Nigel Melville com participação
+em 2 artigos do Portfólio Bibliográfico. Os demais 45 autores possuem participação com apenas 1 artigo no Portfólio Bibliográfico.
+
+Estimar o grau de reconhecimento científico dos
+artigos: o Google Scholar permite consultar a determinação do número de citações para os artigos do Portfólio
+Bibliográfico, bem como as suas referências, evidenciando o reconhecimento científico.
+
+A segunda análise busca identificar quais os autores de maior relevância dentre os 684 autores das referências dos artigos do Portfólio Bibliográfico. Encontra-se, portanto, o autor de maior relevância: Richard Watson,
+com 14 artigos publicados (Figura 3).
+
+Na primeira análise, ao avaliar o reconhecimento
+científico dos artigos do Portfólio Bibliográfico, evidencia-se os artigos: “Information technology and organizational
+performance”, de Nigel Melville, Kenneth Kraemer e Vijay
+Gurbaxani, com 1.153 citações; e, “Beyond the business
+case for corporate sustainability”, de Thomas Dyllick e Kai
+Hockerts com 635 citações.
+
+A terceira análise evidencia os autores com maior
+participação no portfólio e suas referências. Portanto,
+tem-se: a) 7 autores como destaque: Richard Watson,
+Marie-Claude Boudreau, Adela Chen, Tom Butler, Nigel
+Melville e Robert Sroufe - cada autor possui 2 artigos no
+Portfólio Bibliográfico; e b) desses destaca-se Richard
+Watson, autor de 14 artigos nas referências do Portfólio
+Bibliográfico, seguido de Marie-Claude Boudreau com 8
+artigos e Adela Chen com 7 artigos.
+
+A segunda análise objetivou identificar o reconhecimento científico dos artigos do Portfólio Bibliográfico nas referências presentes nos artigos do
+Portfólio Bibliográfico. Destaca-se, nessa etapa, os artigos
+“Information systems innovation for environmental
+sustainability” de Nigel Melville, com 4 citações; os artigos
+com 2 citações são: “Beyond the business case for corporate
+sustainability”, de Thomas Dyllick e Kai Hockerts e, “An
+examination of corporate reporting, environmental
+management practices and firm performance” de Frank
+Montabon, Robert Soufre e Ram Narasimhan.
+
+S. SARTORI et al.
+
+A terceira análise compara o número de citações
+do artigo do Portfólio Bibliográfico e o número de citações obtidas pelo autor mais citado de cada um dos
+artigos nas referências do Portfólio Bibliográfico, com
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+A quarta análise compara o número de artigos
+realizados pelos autores do Portfólio Bibliográfico e o
+número de artigos de cada autor nas referências do
+Portfólio Bibliográfico. Destaca-se (Figura 4): a) seis
+autores no Portfólio Bibliográfico, quais sejam: Marie-Claude Boudreau, Adela Chen, Tom Butler, Nigel Melville,
+Jason Dedrick, Robert Sroufe; b) Richard Watson como o
+autor de destaque no Portfólio Bibliográfico e nas referências do Portfólio Bibliográfico; e, c) não há autores de
+destaque nas referências do Portfólio Bibliográfico.
+Análise do Fator de Impacto dos Periódicos do
+Portfólio Bibliográfico: o Fator de Impacto, Journal Citation
+
+83
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+Figura 3. Autores de destaque nas referências do Portfólio Bibliográfico.
+Nota: x: Autores das referências do Portfólio Bibliográfico e y: Números de artigos nas referências no Portfólio Bibliográfico.
+Fonte: Elaborada pelos autores (2012).
+
+Reports (JCR) é uma medida que reflete o número médio
+de citações de artigos científicos publicados em determinado periódico (Web of Knowledge, 2012). E, o
+indicador Scientific Journal Ran Kings (SJR), desenvolvido
+pelo SCImago Journal & Country Rank, consiste numa
+medida de visibilidade das revistas científicas (dados a
+partir de 1996), portanto, mede a “influência científica”
+média dos artigos de uma revista (SCImago, 2007).
+
+influência científica para o tema desta pesquisa. Destaca-se o ACM Computing Surveys, com maior fator de
+impacto com SJR de 0.21, seguido dos periódicos
+Environmental Impact Assessment Review e MIS Quarterly
+com SJR igual a 0.07; Academy of Management
+Perspectives e Institute of Electrical and Electronics Engineers
+Internet Computing (IEEE Internet Computing) com SJR
+igual à 0.06.
+
+Assim, a primeira análise buscou evidenciar a
+relevância do assunto dentre os 18 periódicos que compõe o Portfólio Bibliográfico. Destaca-se com maior fator
+de impacto os periódicos: “Association for Computing
+Machinery Computing Surveys (ACM Computing Surveys)”
+com JCR de 4.529; “MIS Quartely” com JCR de 4.447; e
+Journal of Operations Management com JCR correspondentes a 4.382.
+
+A terceira análise visa à representatividade do
+fator de impacto dos periódicos do Portfólio Bibliográfico.
+Destacam-se: a) o periódico ACM Computing Surveys
+como destaque em JCR e SJR; b) o periódico MIS Quartely
+é destaque em JCR; c) não há periódicos de destaque
+em SJR; d) os periódicos IEEE Internet Computing, Journal
+of Strategic Information System e Information Systems
+Frontiers são destaque para o tema da pesquisa.
+
+A segunda análise busca evidenciar o indicador
+SJR nos artigos do Portfólio Bibliográfico, ou seja, a
+
+Estimar as palavras-chave mais utilizadas: esta
+análise buscou evidenciar quais as palavras-chaves mais
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+Figura 4. Autores de destaque no Portfólio Bibliográfico.
+Fonte: Elaborada pelos autores (2012).
+Nota: a) Watson, R. T.; b) Boudreau, M. C.; c) Chen, A.J.W.; d) Butler, T.; d) Melville, N.P.; i) Gurbaxani, V.; i) Lanoie, P.; i) Montabon, F.; i) Murugesan, S.;
+i) Narasimhan, Re) Dedrick, J.; f) Hilty, L.M.; g) Kraemer, K.L.; h) Ambec, S.; i) Dyllick, T.; j) Annandale, D.; j) Hockerts, K.; j) McGovern, D.
+
+j) Morrison-Saunders, A.
+
+84
+
+S. SARTORI et al.
+
+Figura 5. Palavras-chave mais utilizadas no Portfólio Bibliográfico.
+Nota: x: Palavras-chave e y: Números de vezes que a palavra-chave aparece nos artigos do Portfólio Bibliográfico.
+Fonte: Elaborada pelos autores (2012).
+
+.
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+Destaca-se na Figura 5, em linhas pontilhas e em
+cor cinza, aquelas palavras definidas para o tema de pesquisa que estavam presentes no Portfólio Bibliográfico.
+Encontraram-se oito das cinco palavras-chave definidas
+para o tema da pesquisa, dentre aquelas do Portfólio Bibliográfico utilizadas duas vezes ou mais.
+
+Discussão
+O estudo bibliométrico, inicialmente cunhado
+como bibliografia estatística (Hulme, 1923), tem por finalidade lançar luz sobre os processos de comunicação
+escrita em que é apresentada por meio de contagem e
+análise das várias facetas da comunicação formal.
+A bibliometria é uma forma de mapear o atual
+estado da ciência, fornecendo informações ou indicadores práticos, construindo conhecimento sobre
+determinado assunto, apresentando um tema em relação
+à ciência como um todo, um país em relação ao mundo
+e os pesquisadores individuais em relação às suas próprias comunidades (Pritchard, 1969).
+O mais importante na análise bibliométrica é
+chegar a um conjunto de indicadores consistentes e
+padronizados (Van Raan, 2005). Com esse intuito, uma
+primeira indicação para análise bibliométrica num campo
+específico seria fornecer as características deste campo.
+Segundo, dar destaque ao papel dos periódicos científicos, e caso os periódicos internacionais forem dominantes ou pelo menos é um meio de comunicação importante, a análise bibliométrica é aplicável. Uma terceira
+indicação é a análise das citações, pois permite verificar
+a difusão do conhecimento e a sua utilização numa ponte
+
+interdisciplinar. O uso de dados fornecidos pela Internet,
+“webometrics”, é uma oportunidade adicional para auxiliar
+a análise das citações num mapeamento bibliométrico.
+Nesse contexto, o resultado exposto sobre o
+mapeamento do tema (Avaliação da Sustentabilidade
+Ambiental direcionado para a TI) propiciou as condições
+para desenvolver a análise bibliométrica. A integração
+dos três eixos teóricos - Gestão Ambiental, Tecnologia
+de Informação e Avaliação de Desempenho -, sustentaram e alinharam a pesquisa de forma exploratória a
+atender o objetivo geral de construir conhecimento.
+Justificando o alinhamento dos resultados apresentados, entende-se que o impacto da TI e o seu papel
+na sustentabilidade ambiental, sob o título de TI verde,
+surgiu como um dos principais problemas de gestão da
+TI (Dedrick, 2010) e só recentemente foram adotadas por
+pesquisadores da área de SI (Melville, 2010).
+Nos últimos anos, os pesquisadores da TI são
+motivados por um desejo de compreender como e em
+que medida a sua aplicação leva à melhoria do desempenho organizacional, conformidade ambiental e negócios sustentáveis. Apesar da importância significativa e
+crescente da TI para avançar na sustentabilidade ambiental e a eficiência do negócio, atualmente existe uma
+lacuna na literatura dedicada à compreensão do papel
+da TI no domínio da sustentabilidade ambiental (Bose &
+Luo, 2012).
+Por sua vez, o tema sustentabilidade, operacionalmente e conceitualmente, é um dos mais complexos que a ciência moderna tem enfrentado (Cabezas
+& Fath, 2002). Sob tais circunstâncias, evidencia-se no
+Portfólio Bibliográfico o comprometimento da TI pelo
+tema sustentabilidade.
+Os resultados apontam para a relevância dos
+autores e dos periódicos. A saber, a relevância é diferente
+de fama ou popularidade, mas sim o que é pertinente,
+se distingue, tem valor e se destaca. Nessas condições,
+os principais autores que trabalham com esse tema
+articulam até que ponto e as maneiras pelas quais as
+atividades atuais são sustentáveis e consequentemente,
+a viabilidade da sociedade no longo prazo.
+Na análise dos periódicos do Portfólio Bibliográfico, 85% destes periódicos são do campo da TI e
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+85
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+utilizadas nos artigos do Portfólio Bibliográfico. Foram
+identificadas 90 palavras-chaves utilizadas 116 vezes no
+Portfólio Bibliográfico. Desse total, 14 foram utilizadas
+duas vezes ou mais, evidenciando-se que as palavras-chave mais utilizadas foram “information technology” e
+“sustainability”, aparecendo 5 vezes no Portfólio Bibliográfico; as palavras-chave “environment” e “information
+systems” aparecem 4 vezes (Figura 5). Nessa análise realizou-se a comparação entre as palavras-chave definidas
+para o tema de pesquisa e aquelas encontradas no
+Portfólio Bibliográfico.
+
+são eles que promovem e destacam os debates no tema
+sustentabilidade. As preocupações ambientais levaram
+a um significativo aumento no número de periódicos que
+têm no seu escopo a sustentabilidade. Entretanto, por
+ser um assunto muito abrangente, os artigos estão
+dispersos em vários periódicos indicando que o assunto
+não está consolidado em termos de uma área definida.
+
+E dentre as principais constatações, cabe destacar
+que o desenvolvimento de estudos bibliométricos não
+destitui problemas, pois estes são construções pessoais - abordagem construtivista -, isto é, oportunidades
+de geração de conhecimento no contexto da avaliação
+de desempenho personalizada.
+
+Em relação o reconhecimento científico dos artigos, considera-se que quanto mais um trabalho é
+utilizado como referência para outros, em determinado
+intervalo de tempo, maior o impacto científico esse trabalho tem. Mas como sabemos se certo número de citações é alto ou baixo? (Van Raan, 2005). O Google Scholar
+permite consulta para a determinação do número de
+citações para os artigos, não há um valor (indicador) de
+referência para comparação.
+
+Considerações Finais
+
+Ao iniciar uma pesquisa é útil o uso de palavras-chave. As palavras-chave definidas para esta pesquisa e
+aquelas presentes nos artigos do Portfólio Bibliográfico
+identificam ideias importantes e servem de referência nas
+futuras pesquisas sobre o tema. Atenção deve ser dada
+quando os especialistas num campo específico tendem
+a citar palavras-chave que são frequentemente utilizadas
+na sua área e, conjuntamente, em outros contextos; portanto, estas palavras-chave resultam em muitos documentos inadequados, de modo que a amostra não será
+representativa para o campo considerado (Hinze &
+Schmoch, 2004).
+
+86
+
+De modo geral, as pesquisas sobre o tema procedem de um esforço global, sem fronteiras e em várias
+áreas. E independente do campo de pesquisa, qualquer
+um em qualquer lugar pode contribuir para o crescimento do conhecimento e fazer uso coletivo (Arunachalam,
+2004).
+
+S. SARTORI et al.
+
+O mapeamento do estado da arte introduzido
+neste artigo é uma representação do conhecimento
+acadêmico em termos quantitativos. Nesse sentido,
+forneceu-se percepções sobre o tema de pesquisa proposto; assim como, mostrou-se a vantagem existente e
+baseada no desempenho passado. Isso permitiu dar
+alguma visão sobre as perspectivas futuras, o que se
+comprova com a assertiva: os resultados do passado são
+os melhores preditores para um futuro próximo.
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+A Tecnologia da Informação tem avançado nas
+últimas décadas, contribuindo para o desenvolvimento
+de diferenciais competitivos e gerando oportunidades
+de negócios. Por sua vez, a crescente difusão da TI nos
+negócios e na vida pessoal chama a atenção para os
+efeitos ambientais. Na última década, a sustentabilidade
+emergiu na comunidade científica da TI com estudos e
+práticas de gestão ambiental. Esse recente impulso pode
+ser atribuído ao crescimento econômico e às potenciais
+crises econômicas, à preocupação em torno da disparidade de riqueza e ao esgotamento dos recursos naturais, trazendo à tona a necessidade da compatibilização
+entre o capital ambiental, o econômico e social.
+Nessas condições, este trabalho teve por objetivo
+geral promover um mapeamento das publicações sobre
+o tema Avaliação da Sustentabilidade Ambiental
+direcionado para a Tecnologia de Informação, por meio
+do uso da ferramenta Proknow-C.
+A necessidade de contextualização do conhecimento visa o avanço do progresso científico e o desenvolvimento da ciência. Portanto, o conhecimento aqui
+construído por meio da bibliometria possibilita percepções iniciais aos leitores interessados no tema
+sustentabilidade ambiental na TI, por meio da identificação das bases de dados, palavras-chaves, periódicos
+e autores de destaque e alinhados ao contexto estudado.
+As publicações não são a única forma de troca de conhecimento, mas certamente possuem elementos e aspectos importantes da ciência.
+Importante destacar o estágio de amadurecimento dos eixos: Avaliação de Desempenho, Gestão
+Ambiental e Tecnologia de Informação. Sozinhos estão
+consolidados pelas comunidades científica e empresarial,
+mas juntos são incipientes em termos de publicações
+científicas.
+
+Para efeito dessa pesquisa, ressaltam-se as delimitações definidas pelos pesquisadores que influenciaram, de alguma forma, os resultados encontrados: a)
+as fontes de dados foram restritas ao banco de dados do
+Portal Capes; b) o período de publicação analisado foi
+de janeiro de 2002 a maio de 2012; c) os artigos considerados são de cunho prático-empírico; d) o alinhamento
+
+do entendimento do conteúdo referente à Gestão
+Ambiental em Tecnologia de Informação foi realizado
+segundo a percepção dos pesquisadores.
+Como recomendação para futuras pesquisas,
+sugere-se o uso do ProKnow-C para agregar e melhorar
+as informações e, assim, compreender as decisões
+envolvidas - para que elas sejam tomadas observandose o que tenha sido prospectado para atingir objetivos
+relacionados.
+
+Agradecimentos
+Ao Conselho Nacional de Desenvolvimento Científico
+e Tecnológico pelo apoio financeiro.
+
+Referências
+Afonso, M.H.F. et al. Como construir conhecimento sobre o
+tema de pesquisa? Aplicação do processo Proknow-C na busca
+de literatura sobre avaliação do desenvolvimento sustentável.
+Revista de Gestão Social e Ambiental, v.5, n.2, p.47-62, 2011.
+
+Ensslin, L. et al. Avaliação do desempenho de empresas
+terceirizadas com o uso da metodologia multicritério de apoio
+à decisão-construtivista. Revista Pesquisa Operacional, v.30,
+n.1, p.125-152, 2010.
+
+Arunachalam, S. Science on the periphery: Bridging the
+information divide. In: Moed, H.F. et al. (Ed.). Handbook of
+quantitative science and technology research. Netherlands:
+Kluwer Academic Publishers, 2004. p.163-183.
+
+Ensslin, L. et al. Um estudo sobre segurança em estádios de
+futebol baseado na análise da literatura internacional. Perspectivas em Ciências da Informação, v.17, n.2, p.71-91, 2012.
+
+Azevedo, R.C. et al. Avaliação de desempenho do processo de
+orçamento: estudo de caso em uma obra de construção civil.
+Ambiente Construído, v.11, p.85-104, 2011.
+Bose, R.; Luo, X.R. Green IT adoption: A process management
+approach. International Journal of Accounting and Information
+Management, v.20, n.1, p.63-77, 2012.
+Boudreau, M.C. et al. Green IS: Building sustainable business
+practices. In: Watson, R.T. (Ed.). Information systems. Athens,
+GA: Global Text Project, 2008. p.247-261. Available from: <http://
+www.ceport.com/files/file/Green%20IS%20CePORT%
+20Article.pdf>. Cited: Feb. 23, 2013.
+Cabezas, H.; Fath, B.D. Towards a theory of sustainable systems.
+Fluid Phase Equilibria, v.194-197, n.1, p.3-14, 2002.
+Dedrick, J. et al. Information technology and economic
+performance: A critical review of the empirical evidence. ACM
+Computing Surveys, v.35, n.1, p.1-28, 2003.
+Dedrick, J. Green IS: Concepts and issues for information
+systems research. Communications of the Association for
+Information Systems, v.27, n.1, p.11-18, 2010.
+Ensslin, L. et al. MCDA: A construtivist approach to the
+management of human resources at a governmental agency.
+International Transactions in Operational Research, n.7,
+p.79-100, 2000.
+
+Harmon, R.R.; Demirkan, H. The next wave of sustainable IT. IT
+Professional, v.13, n.1, p.19-25, 2011.
+Hinze, S.; Schmoch, U. Opening the black box: Analytical
+approaches and their impact on the outcome of statistical
+patent analyses. In: Moed, H.F. et al. (Ed.). Handbook of
+quantitative science and technology research. Netherlands:
+Kluwer Academic Publishers, 2004. p.163-183.
+Hulme, E.W. Statistical bibliography in relation to the growth
+of modern civilization. London: Grafton & Co., 1923. p.1-72.
+Available from: <http://ia700401.us.archive.org/33/items/
+statisticalbibli00hulmuoft/statisticalbibli00hulmuoft.pdf>.
+Cited: Feb. 20, 2013.
+Lacerda, R.T.O.; Ensslin, L.; Ensslin, S.R. A performance
+measurement view of IT project management. International
+Journal of Productivity and Performance Management, v.60,
+n.2, p.132-151, 2011.
+Management Infornation Systems Quarterly. About MIS
+Quarterly, 2010-2011. 2012. Available from: <http://www.
+misq.org/about/>. Cited: May 22, 2012.
+Melville, N.P. Information systems innovation for environmental
+sustainability. MIS Quarterly, v.34, n.1, p.1-21, 2010.
+Moraes, L. et al. The multicriteria analysis for construction of
+benchmarkers to support the Clinical Engineering in the
+Healthcare Technology Management. European Journal of
+Operational Research, v.200, n.2, p.607-615, 2010.
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+87
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+Além disso, o uso de um procedimento bibliométrico como o Proknow-C mede o progresso científico,
+reune conhecimento num campo de muita diversidade
+e auxilia no processo de tomada de decisão, o que permite explorar, organizar e analisar uma grande massa de
+dados num contexto restrito, isto é, adaptado ao problema do pesquisador.
+
+Nadaes, A.D.; Borges, M.E.N. Monitoração ambiental no setor
+de biotecnologia: comportamento de busca e uso de
+informação em empresas de micro e pequeno portes de
+Minas Gerais. Transinformação, v.20, n.1, p.99-112, 2008
+Pillmann, W.; Geiger, W.; Voigt, K. Survey of environmental
+informatics in Europe. Environmental Modelling and Software,
+n.21, p.1519-1527, 2006.
+Pritchard, A. Statistical bibliography or bibliometrics? Journal
+of Documentation, v.25, n.4, p.348-349, 1969.
+Ram, C.; Montibeller, G.; Morton, A. Extending the use of
+scenario planning and MCDA for the evaluation of strategic
+options. Journal of the Operational Research Society, v.62, n.5,
+p.817-829, 2011.
+Rosa, F.S. et al. Management environmental disclosure: A
+constructivist case. Management Decision, v.50, n.6,
+p.1117-1136, 2012.
+Roy, B. Decision science or decision-aid science? European
+Journal of Operational Research, n.66, p184-203, 1993.
+
+88
+
+S. SARTORI et al.
+
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+Schmidt, N.H. et al. Sustainable information systems
+management. Business & Information Systems Engineering,
+v.1, n.5, p.400-402, 2009.
+Scimago. SJR: Scimago journal & country rank. 2007. Available
+from: <http://www.scimagojr.com/>. Cited: May 21, 2012.
+Souza, E.G. Sociedade da informação e reestruturação
+produtiva: crítica à dimensão utilitarista do conhecimento.
+Transinformação, v.23, n.3, p.219-226, 2011.
+Tasca, J.E. et al. An approach for selecting a theoretical
+framework for the evaluation of training programs.
+Journal of European Industrial Training, v.34, n.7, p.631-655,
+2010.
+Van Raan, A.F.J. Measurement of central aspects of scientific
+research: Performance, interdisciplinarity, structure.
+Measurement, v.3, n.1, p.1-19, 2005.
+Web of Knowledge. Journal citation reports: information for
+new users. 2012. Available from: <http://admin-apps.
+webofknowledge.com/JCR/help/h_info.htm#information>.
+Cited: July 30, 2012.
+
+89
+
+ANEXO
+
+Autores/Ano
+
+Journal
+
+Título
+
+Dyllick; Hockerts (2002)
+
+Beyond the business case for corporate sustainability.
+
+Business Strategy and the Environment.
+
+Dedrick et al. (2003)
+
+Information technology and economic performance.
+
+Review of the Empirical Evidence, ACM
+Computing Surveys.
+
+Heo; Han (2003)
+
+Performance measure of Information Systems (IS) in
+evolving computing environments.
+
+Information and Management.
+
+Melnyk et al. (2003)
+
+Assessing the impact of environmental management
+systems on corporate and environmental performance.
+
+Journal of Operations Management.
+
+Becker (2004)
+
+Making sustainable development evaluations work.
+
+Sustainable Development.
+
+Melville et al. (2004)
+
+Review: information technology and organizational
+performance: an integrative model of IT business value.
+
+MIS Quarterly.
+
+Pope et al. (2004)
+
+Conceptualizing sustainability assessment.
+
+Environmental Impact Assessment Review.
+
+Hilty (2006)
+
+The relevance of information and communication
+technologies for environmental sustainability and
+prospective simulation study.
+
+Environmental Modelling and Software.
+
+Montabon (2007)
+
+An examination of corporate reporting, environmental
+management practices and firm performance.
+
+Journal of Operations Management.
+
+Standing; Jackson (2007)
+
+An approach to sustainability for information systems.
+
+Journal of Systems and Information Technology.
+
+Ambec; Lanoie (2008)
+
+Does it pay to be green? A systematic overview.
+
+The Academy of Management Perspectives.
+
+Chen (2008)
+
+Information systems and ecological sustainability.
+
+Journal of Systems and Information Technology.
+
+Murugesan (2008)
+
+Harnessing green IT.
+
+IT Professional.
+
+Butler; Mcgovern (2009)
+
+A conceptual model and IS framework for the design and
+adoption of environmental compliance management
+systems.
+
+Information Systems Frontiers.
+
+Molla et al. (2009)
+
+An international comparison of green IT diffusion.
+
+International Journal of e-Business Management.
+
+Ruth (2009)
+
+Green IT: more than a three percent solution?
+
+IEEE Internet Computing.
+
+Schmidt et al. (2009)
+
+Sustainable information systems management.
+
+Business and Information Systems Engineering.
+
+Dedrick (2010)
+
+Green IS: concepts and issues for information systems
+research.
+
+Communications of the Association for
+Information Systems.
+
+Melville (2010)
+
+Information systems innovation for environmental
+sustainability.
+
+MIS Quarterly.
+
+Watson et al. (2010)
+
+Information systems and environmentally sustainable
+development.
+
+MIS Quarterly.
+
+Butler (2011)
+
+Compliance with institutional imperatives on
+environmental sustainability.
+
+Journal of Strategic Information Systems.
+
+Dao (2011)
+
+From green to sustainability: information technology and
+an integrated sustainability framework.
+
+Journal of Strategic Information Systems.
+
+Elliot (2011)
+
+Transdisciplinary perspectives on environmental
+sustainability.
+
+MIS Quarterly.
+
+Harmon; Demirkan (2011)
+
+The next wave of sustainable IT.
+
+IT Professional.
+
+Jenkin et al. (2011)
+
+An agenda for green information technology and systems
+research.
+
+Information and Organization.
+
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+SUSTENTABILIDADE PARA TECNOLOGIA DE INFORMAÇÃO
+
+Relação do Portfólio Bibliográfico utilizado na pesquisa.
+
+90
+
+S. SARTORI et al.
+
+TransInformação, Campinas, 26(1):77-89, jan./abr., 2014
+
+

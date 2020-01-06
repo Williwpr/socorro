@@ -1,0 +1,731 @@
+Information Science: Theoretical-disciplinary
+delimitation and interdisciplinary
+interactions with Library Science
+Ana Paula Lima dos SANTOS2
+Mara Eliane Fonseca RODRIGUES3
+
+Resumo
+O propósito deste trabalho é refletir acerca da temática interdisciplinaridade, a fim de garantir a compreensão das principais
+questões envolvidas nesse processo. Para tanto, em um primeiro momento, apresenta diferentes interpretações que buscam
+explicar a constituição da Ciência da Informação sob uma perspectiva teórico-disciplinar, com o objetivo de melhor compreender
+a sua natureza constitutiva. Em seguida, a partir de enfoques interpretativos de alguns teóricos da Ciência da Informação, procura
+evidenciar os elementos que a caracterizam como uma disciplina interdisciplinar, ressaltando suas relações com a Biblioteconomia.
+Busca, ainda, identificar os elos interdisciplinares entre os dois campos, por meio da análise das interpretações manifestadas pelos
+principais teóricos da Ciência da Informação. Conclui que a Biblioteconomia e a Ciência da Informação têm uma característica
+comum: facilitar o acesso à informação - e que os pesquisadores da área podem desenvolver por meio desse elo comum uma
+prática interdisciplinar.
+Palavras-chave: Biblioteconomia. Ciência da informação. Interdisciplinaridade.
+
+Abstract
+The purpose of this paper was to reflect on interdisciplinary issues to promote the understanding of the main issues involved in this
+process. For this purpose, we first discuss the different interpretations that seek to explain the foundations of Information Science from a
+theoretical, disciplinary perspective to better understand its constitutive nature. Then, from an interpretative approach of theoretical
+Information Science, we seek to highlight the elements that characterize it as an interdisciplinary discipline, emphasizing its relations
+with Library Science. We also endeavor to identify interdisciplinary connections between the two fields through the analysis of
+interpretations expressed by main the theorists in Information Science. We also endeavor to identify interdisciplinary connections between
+the two fields through the analysis of interpretations expressed by main the theorists in Information Science. We conclude that Library
+Science and Information Science have common features: they facilitate access to information and researchers can develop interdisciplinary
+practice through this common bond.
+Keywords: Library science. Information science. Interdisciplinary practice/approach.
+1
+
+2
+
+3
+
+Artigo elaborado a partir da dissertação de mestrado de A.P.L. SANTOS, intitulada “Relações interdisciplinares entre a Ciência da Informação e a Biblioteconomia:
+limites e possibilidades”. Universidade Federal Fluminense, 2012.
+Universidade Federal Fluminense, Superintendência de Documentação. R. Marcos Waldemar de Freitas Reis, s/n., Prédio da Biblioteca Central, Campus do
+Gragoatá, 24210-201, Niterói, RJ, Brasil. Correspondência para/Correspondence to: A.P.L. SANTOS. E-mail: <annasorriso@ig.com.br>.
+Universidade Federal Fluminense, Programa de Pós-Graduação em Ciência da Informação. Niterói, RJ, Brasil.
+Recebido em 5/10/2012, reapresentado em 29/5/2013 e aceito para publicação em 3/7/2013.
+
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+CIÊNCIA DA
+INFORMAÇÃO
+REVISÃO
+REVIEW
+
+Ciência da Informação: demarcação teórico-disciplinar
+e as interações interdisciplinares
+com a Biblioteconomia1
+
+91
+
+Introdução
+O propósito do presente trabalho é refletir acerca
+da temática interdisciplinaridade, a fim de garantir a compreensão das principais questões envolvidas nesse processo. Nessa perspectiva, procura aprofundar a análise
+desta abordagem a partir das relações entre as áreas da
+Ciência da Informação e da Biblioteconomia. As reflexões
+apresentadas fazem parte de uma pesquisa realizada,
+com base no posicionamento dos estudiosos dessa
+temática, no qual se propôs a discutir: “A questão da
+interdisciplinaridade entre diferentes campos do conhecimento, notadamente a Ciência da Informação e a
+Biblioteconomia” (Santos, 2012, p.12).
+Esta preocupação surgiu devido à constatação de
+que vários autores reconhecem a Ciência da Informação
+como um campo interdisciplinar e, dentre as disciplinas
+com as quais mantém relações interdisciplinares, a Biblioteconomia é apontada como aquela que apresenta
+um forte laço interdisciplinar com a área. Uma vez que a
+literatura indica que a relação da Biblioteconomia com a
+Ciência da Informação é intensa, resolveu-se investigar
+os elos interdisciplinares entre as duas áreas.
+
+92
+
+Para tanto, em um primeiro momento, procura-se mostrar as diferentes interpretações que buscam
+explicar a constituição da Ciência da Informação sob uma
+perspectiva teórico-disciplinar, com o objetivo de melhor
+compreender a sua natureza constitutiva. Em um segundo momento, tenta-se evidenciar os elementos que
+caracterizam a Ciência da Informação como uma disciplina interdisciplinar. Em seguida, busca-se identificar os
+elos interdisciplinares entre os dois campos, por meio da
+análise das interpretações manifestadas pelos principais
+teóricos da Ciência da Informação. Por fim, apresenta-se
+as reflexões finais sobre a temática aqui discutida.
+
+A.P.L. SANTOS & M.E.F. RODRIGUES
+
+Ciência da Informação: interpretações
+teórico-disciplinares
+Para alguns autores, o marco do aparecimento da
+Ciência da Informação como um campo de conhecimento foram as reuniões do Georgia Institute of
+Technology, ocorridas em outubro de 1961 e em abril de
+1962, “Quando foi pela primeira vez formulado um
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+conceito para a área e discutidos a formação deste novo
+profissional, cursos e disciplinas” (Pinheiro, 2005, p.2).
+Para outros, o início da Ciência da Informação
+pode ser demarcado pela adoção do termo Informação
+Científica. Nesse caso, a Conferência de Informação
+Científica, realizada na Royal Society, em 1948, ou 10 anos
+depois a Conferência de Informação Científica, realizada
+em Washington, seriam indicadores do nascimento da
+área.
+Ainda, diferentes autores, consideram que o berço
+da Ciência da Informação foi os Estados Unidos. De acordo com essa premissa, entre os eventos que propiciaram
+o nascimento do novo campo de conhecimento, a Segunda Guerra Mundial foi o mais marcante, pois o desenvolvimento em ciência e tecnologia e da pesquisa no
+País se deu, muito, em função dessa guerra. Na perspectiva estadunidense, o artigo de Vannevar Bush,
+intitulado “As we may think”, de 1945, é considerado por
+muitos pesquisadores como um marco da área por
+representar:
+[...] o momento do pós-guerra em que se abriu
+um campo de investigação aos cientistas frente
+à questão da informação voltada para a identificação e para a solução de problemas informacionais, mediante aparatos tecnológicos, em
+particular, naqueles relativos à recuperação de
+informação (Rabello, 2008, p.22).
+
+Para Rabello (2008, p.21), o artigo de Bush mostrou os primórdios da vocação que a Ciência da Informação tomou como conduta balizadora, ou seja, “Incitou
+a ênfase nos recortes teóricos de outras disciplinas para
+tentar suprir demandas específicas e aplicadas de
+informação (especializadas, portanto) em um enfoque
+marcadamente funcional e instrumental”.
+No contexto profissional, a concepção estadunidense de Ciência da Informação está relacionada às
+atividades profissionais em documentação e à eficiência
+organizativa de associações profissionais e de pesquisa,
+como o American Documentation Institute, fundado em
+1937, e mais tarde transformado em American Society for
+Information Science (ASIS), diante da emergência e
+influência da Ciência da Informação. No ano de 2000, a
+ASIS acrescentou em seu nome a expressão and
+Technology, modificando a sigla para ASIS&T. Essas as-
+
+Borko (1968, p.3), em seu clássico artigo “Information
+science: What is it”, define a Ciência da Informação como
+uma “Ciência interdisciplinar que estuda as propriedades
+e o comportamento da informação, as forças que governam seu fluxo e os meios de processá-la para otimizar
+sua acessibilidade e uso”.
+É importante destacar que não existe consenso
+entre os teóricos que defendem uma demarcação
+teórico-disciplinar para a Ciência da Informação. Alguns
+reconhecem na obra de Paul Otlet, “Traité de Documentation”
+de 1934, a base para uma perspectiva europeia da Ciência
+da Informação, considerando a documentação como a
+raiz disciplinar da Ciência da Informação. Portanto, para
+esses teóricos a Ciência da Informação surgiu com a
+perspectiva europeia, que seria considerada a vertente
+francófona. Outros, como Saracevic (1996), consideram
+que o artigo de Bush (1945) define o marco teórico inicial
+da Ciência da Informação, que se originou, assim, na
+perspectiva estadunidense, constituindo a vertente
+anglófona.
+Mas, é a percepção estadunidense que vigora em
+grande parte das explanações conceituais da Ciência da
+Informação. Nessa percepção, uma das principais características dessa disciplina “Seria de lidar com os problemas informacionais pontuais e historicamente inscritos mediante o empréstimo de teorias comumente
+empregadas em outras disciplinas [...]” (Rabello, 2008,
+p.24). A partir dessa conceituação, a interdisciplinaridade
+faria parte de sua natureza constitutiva.
+Uma vez que o caráter interdisciplinar da Ciência
+da Informação é reconhecido por grande parte dos teóricos da área, procurou-se destacar a questão da interdisciplinaridade na Ciência da Informação por meio das
+contribuições teóricas consideras mais significativas ao
+longo de mais de 40 anos de instauração da área.
+
+A interdisciplinaridade no campo
+da Ciência da Informação
+Antes de iniciar a discussão sobre a interdisciplinaridade na Ciência da Informação convém esclarecer qual
+o significado do termo interdisciplinaridade que esta se
+empregando no presente texto. Entende-se ser importante fazer essa distinção, pois várias são as terminologias
+que cercam o termo. Para equacionar a confusão terminológica Pombo (2005) propõe reconhecer o que há em
+comum em todas as definições, ou seja, o fato de estarem
+ligadas a uma mesma raiz que é a palavra “disciplina”. Essa
+é, também, a opinião de Japiassu (1976), que, com relação
+à definição do termo “interdisciplinar”, pondera que antes
+de se precisar uma delimitação é necessário, primeiramente, saber o que vem a ser uma disciplina. Japiassu
+(1976, p.59) apresenta vários critérios que podem ser
+aplicados para caracterizar a natureza de uma disciplina
+científica e conclui que “O que podemos entender por
+disciplina e por disciplinaridade é essa progressiva exploração científica especializada numa certa área ou domínio homogêneo de estudo”. “Uma disciplina deverá, antes
+de tudo, estabelecer e definir suas fronteiras cons-tituintes”. Portanto, “Falar de interdisciplinaridade é falar de
+interação de disciplinas”.
+Já Fazenda (1995, p.31), reconhecendo que a terminologia adotada é bastante vasta prefere seguir a
+tendência mais acentuada que se restringe a quatro conceitos básicos: pluri, multi, inter e transdisciplinaridade.
+Informa que “Em geral, existe uma gradação nesses conceitos, que se estabelece na esfera de coordenação e
+cooperação entre as disciplinas”.
+Pombo (1994, 2003) também trabalha as distinções entre pluri, multi, inter e transdisciplinaridade. No seu
+entender essas palavras são “Todas da mesma família” e
+“Devem ser pensadas num continuum que vai da coordenação à combinação e desta à fusão” (Pombo, 2003,
+p.3).
+Assim, para quando se refere à pluridisciplinaridade ou multidisciplinaridade diz que “Estaríamos a
+pensar naquele primeiro nível que implica pôr em
+paralelo, estabelecer algum mínimo de coordenação”. A
+interdisciplinaridade, por sua vez, já exigiria uma “Convergência de pontos de vista”. A transdisciplinaridade remeteria a uma “Fusão unificadora, solução final que,
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+93
+CIÊNCIA DA INFORMAÇÃO
+
+sociações elegeram e disseminaram o termo Information
+Science para representar uma nova e promissora “ciência”.
+O artigo de Borko (1968), embasado nas ideias de Taylor,
+ilustra bem a intenção de justificar e de delimitar essa
+nova disciplina, apresentando a mais conhecida das
+definições primeiras da Ciência da Informação que, por
+sua vez, foi resultante das preocupações teóricas discutidas nas conferências do Georgia Institute of Technology,
+realizadas nos EUA, em 1961 e 1962 (Rabello, 2008).
+
+conforme as circunstâncias concretas e o campo específico de aplicação, pode ser desejável ou não”. Desse
+modo, o prefixo trans indicaria a “Passagem a um estado
+qualitativamente superior”, enquanto que o prefixo inter,
+seria “Aquele que faz valer os valores da convergência,
+da complementaridade, do cruzamento [entre as disciplinas]” (Pombo, 2003, p.3).
+Em meio a essa gradação, a interdisciplinaridade
+pode ser considerada como um fator de coesão entre
+saberes diferentes que rompe a estrutura de cada disciplina para construir uma axiomática nova e comum a
+todas elas. Em outras palavras, “É o intercâmbio mútuo e
+integração recíproca entre várias ciências”, cuja cooperação resulta no enriquecimento recíproco (Pombo, 1994,
+p.2).
+Nesse sentido, Pombo (1994) entende que a interdisciplinaridade ultrapassa a pluridisciplinaridade porque
+vai além da análise e confrontação das conclusões, elaborando uma síntese quanto aos métodos, leis e aplicações das disciplinas. Preconiza, assim, um regresso ao
+fundamento da disciplina, pois revela como a identidade
+do objeto de estudo se complexifica por meio dos diferentes métodos das várias disciplinas, explicitando a sua
+problemática e mútua relatividade.
+Com base nas considerações de Pombo, Japiassu
+e Fazenda, considera-se que a interdisciplinaridade pressupõe a articulação de duas ou mais disciplinas em relação a um assunto, desse modo às disciplinas conversariam umas com as outras, visando apreender e partilhar
+os diversos domínios do saber.
+
+94
+
+A.P.L. SANTOS & M.E.F. RODRIGUES
+
+Para focalizar a natureza interdisciplinar da Ciência
+da Informação vale-se dos estudos desenvolvidos por
+Pinheiro (2005, 2006a, 2006b), que mais tem se dedicado
+ao estudo das relações da Ciência da Informação com
+outras áreas, no Brasil, demarcando o processo evolutivo
+interdisciplinar da Ciência da Informação em três fases, a
+saber:
+A primeira fase é considerada a fase conceitual e
+de reconhecimento interdisciplinar e abrange o período
+de 1961/1962 até 1969. Nesta fase Borko (1968), que na
+sua clássica definição de Ciência da Informação menciona as áreas com as quais esta tem um elo interdisciplinar, destacando a Biblioteconomia.
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+Essa primeira fase caracteriza-se pela ênfase na
+natureza disciplinar da área e pelas discussões em torno
+das suas denominações iniciais. Procura-se esclarecer a
+confusão terminológica com a informática, as origens e
+interfaces da área, principalmente com a Documentação,
+a Biblioteconomia e a Informática. Nessa fase surge,
+também, a preocupação com a cientificidade da área.
+Pinheiro (2006a, p.6) observa que por se tratar de um
+período de construção da área, “A maioria dos teóricos
+ainda não chega, nesse momento, a esclarecer qual e
+como se daria o aporte interdisciplinar de campo do
+conhecimento”.
+A segunda fase refere-se à delimitação do terreno
+epistemológico: princípios, metodologias e teorias próprios e influência das novas tecnologias e corresponde
+ao período de 1970 a 1989. Nesse período, “São estudados com maior profundidade, o objeto e a natureza
+da [Ciência da Informação], a presença da tecnologia no
+processo da área e o contexto de desenvolvimento científico daquele momento” (Bicalho, 2009, p.152). Nessa fase,
+merecem serem destacados os seguintes teóricos: Wersig
+e Nevelling (1975) e Foskett (1980).
+Para Foskett (1980, p.56) existem definições e
+contextos que demonstram de forma clara as relações
+interdisciplinares da Ciência da Informação, pois ela é
+uma disciplina “Que surge de uma fertilização cruzada
+de ideias que incluem a velha arte da Biblioteconomia, a
+nova arte da Computação, as artes dos novos meios de
+comunicação”, e as ciências como a Psicologia e a Linguística atualmente envolvidas com o processo e o problema da comunicação que dizem respeito à transferência da organização do pensamento.
+Nesse período, um dos trabalhos considerados
+mais densos é o de Wersig e Nevelling (1975) que defendem a autonomia do campo científico que surge com a
+denominação “Ciência da Informação”, o qual não teria
+se originado de outro campo de estudo, tampouco da
+interseção de dois ou mais campos, mas seria decorrente
+das necessidades de uma área de trabalho prático denominado “documentação” ou “recuperação da informação”.
+Mas, reconhecem que a necessidade de informação
+permeia todos os grupos sociais e não somente aqueles
+diretamente ligados à produção de bens e serviços.
+Os autores supracitados consideram que embora
+a introdução de novas tecnologias, particularmente do
+
+Wersig e Nevelling (1975) procuram descobrir
+quais foram as razões específicas que levaram ao desenvolvimento da Ciência da Informação, quais as necessidades sociais que preenche e, devido às dificuldades na
+discussão dos fenômenos que podem pertencer à Ciência da Informação, recomendam sistematizar os diferentes pontos de vista dentro de quatro categorias: 1) A visão
+orientada para o fenômeno; 2) A visão orientada para os
+meios; 3) A visão orientada para a tecnologia; 4) A visão
+orientada para os fins.
+Desse modo, Wersig e Nevelling (1975), ampliam
+os limites da atuação da Ciência da Informação, lançando
+um novo olhar sobre seu próprio campo científico.
+A terceira fase, a partir de 1991, é vista como a
+etapa de consolidação da denominação e de alguns
+princípios, métodos, teorias e aprofundamento da discussão sobre interdisciplinaridade com outras áreas.
+Nesse período os temas discutidos centraram-se nos aspectos relativos à organização interna da área e sua
+institucionalização. As reflexões ocorridas na reunião de
+Tampere, na Finlândia, em 1991, sobre “Concepções da
+Ciência da Informação e da Biblioteca: perspectivas
+históricas, empíricas e teóricas”, cujos anais foram publicados por Vakkari e Cronin (1992), contribuíram de forma
+significativa para elucidar questões importantes relativas
+às conexões interdisciplinares da área.
+Saracevic (1995,1996) vem, desde a década de
+1970, discutindo a origem e evolução da Ciência da Informação, enfocando os problemas surgidos ao longo do
+tempo, seu papel social na progressiva transformação da
+sociedade e examinando suas relações interdisciplinares.
+
+ser mais fortes em um determinado tempo e espaço com
+algumas áreas científicas.
+Quanto à segunda característica, ligação com a
+tecnologia de informação, Saracevic (1995) pensa que
+essa ligação é inexorável porque o componente tecnológico está impulsionando e forçando a evolução da
+Ciência da Informação, assim como a evolução da sociedade da informação.
+Por fim, Saracevic (1995) julga que a Ciência da
+Informação tem uma participação ativa e deliberada na
+evolução da sociedade da informação, com uma forte
+dimensão humana e social. Com essa sugestão Saracevic
+(1995) resgata a ideia de uma responsabilidade social
+para a Ciência da Informação, proposta por Wersig e
+Nevelling (1975). Essas três características, segundo
+Saracevic (1995), compõem um quadro para a compreensão do passado, presente e futuro da Ciência da
+Informação.
+Bicalho (2009) identifica em Savolainen (1992)
+mais uma fase na reunião de Tampere. Considera que:
+De certa forma Savolainen (1992) sugere a quarta
+fase, em perspectiva, quando se refere ao crescimento das pesquisas multidisciplinares, como
+pesquisas de busca e uso de informação, cruzadas com Psicologia Cognitiva, Inteligência Artificial, Ciência da Computação, Filosofia, Matemática, Semântica e Linguística, entre outras, o que,
+segundo ele, levaria ao fortalecimento da pesquisa em CI [Ciência da Informação], por meio
+de relações mais próximas com outras disciplinas
+(Bicalho, 2009, p.45).
+
+Contudo, Bicalho (2009) considera que “Qualquer
+que seja a fase em que a Ciência da Informação se enquadre, neste início do século XXI, é certo que a área seja
+caracterizada por fundamentos teóricos e práticas que
+foram desenvolvidos ao longo de sua história”.
+
+Saracevic (1995) aponta três características gerais
+que constituem a Ciência da Informação: interdisciplinaridade, ligação com a tecnologia de informação e,
+por último, uma participação ativa e deliberada na
+evolução da sociedade da informação.
+
+Pelo exposto pode-se perceber que a delimitação
+do campo de atuação da Ciência da Informação é uma
+preocupação recorrente entre os estudiosos da área, no
+sentido de facilitar e propiciar “As relações de reconhecimento e complementaridade com outras disciplinas”,
+de acordo com González de Gómez (2000, p.2).
+
+Com relação à abordagem interdisciplinar, considera que a natureza da Ciência da Informação é interdisciplinar, contudo essas relações são dinâmicas e podem
+
+As fases demarcadas por Pinheiro (2005, 2006a,
+2006b) evidenciam que a Ciência da Informação tem se
+preocupado em definir sua identidade e seus limites, ou
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+95
+CIÊNCIA DA INFORMAÇÃO
+
+processamento eletrônico de dados, tenha determinado
+a emergência dessa disciplina, as contribuições para o
+nascimento da Ciência da Informação vieram de muitas
+disciplinas distintas consequência das diversas formações
+de especialistas que ingressaram no campo.
+
+seja, a comunidade científica da área tem buscado,
+primeiramente, clarificar seus fundamentos teóricos e
+conceituais para depois estabelecer pontes e fronteiras
+com outras disciplinas.
+Com base nos estudos teóricos mencionados,
+examinou-se o relacionamento da Ciência da Informação
+com a Biblioteconomia, uma das áreas mais citadas na
+literatura que analisa a interdisciplinaridade da Ciência
+da Informação e muito próxima da sua constituição histórica.
+A Ciência da Informação e as relações
+interdisciplinares com a Biblioteconomia
+Dentre as disciplinas com as quais a Ciência da
+Informação mantém relações interdisciplinares, a Biblioteconomia é apontada na literatura como aquela que
+apresenta um forte laço interdisciplinar com a área.
+Como afirma Saracevic (1996, p.49) o “Campo entre a Biblioteconomia e a Ciência da Informação é intenso
+a ponto de serem confundidas como uma única área”.
+Considera, portanto, que isso se deve ao compartilhamento de sua missão social e sua preocupação comum
+com os problemas da efetiva utilização dos registros. Mas,
+diz também que existem diferenças bastante significativas em alguns aspectos críticos, como por exemplo:
+a) na seleção dos problemas propostos e a forma
+de sua definição;
+b) nas questões teóricas colocadas e nos modelos
+explicativos introduzidos;
+c) na natureza e no grau de experimentação e
+desenvolvimento empírico,
+96
+
+d) assim como no conhecimento prático ou competências derivadas;
+
+Shera (1980, p.102) também entende que das
+tantas áreas com que a Ciência da Informação se relaciona sem dúvida a ligação mais estreita é com a Biblioteconomia. Após examinar a relação da Ciência da Informação com a Biblioteconomia, tendo por base um estudo
+efetuado por Taylor (1967), conclui que “a Ciência da
+Informação não se opõe à Biblioteconomia, ao contrário,
+ambas as disciplinas são aliadas naturais [...]”.
+Vakkari (1994) reconhece que as relações entre a
+Biblioteconomia e a Ciência da Informação há muito
+tempo vêm sendo discutidas, mas considera que subsiste
+alguma incerteza acerca dessa relação. Para ele, existem
+duas concepções básicas a respeito do relacionamento
+entre essas disciplinas: a primeira julga que elas podem
+ser vistas como duas disciplinas separadas, com alguns
+interesses em comum; a segunda variante é ver uma
+como parte da outra, ou seja, como um único conjunto.
+Quanto à questão da Biblioteconomia e da Ciência da Informação ser campos distintos, Vakkari (1994)
+argumenta que historicamente é inegável que a Biblioteconomia nasceu antes da Ciência da Informação ou de
+sua antecessora, a Documentação.
+Na visão de Vakkari (1994), historicamente a diferença entre Biblioteconomia e Documentação se cristaliza na noção de que cabe a Biblioteconomia prover o
+acesso aos registros gráficos nas bibliotecas enquanto
+que a Documentação facilita o acesso aos documentos
+em qualquer formato, independente da instituição. Isso
+significa que a Biblioteconomia está ligada a certo tipo
+de documento e instituição, mas a Documentação focaliza sua atenção em todos os tipos de documentos e instituições que os transmitem. Contudo, ambas têm uma
+característica comum que é facilitar o acesso à informação.
+
+f ) na natureza e na força das relações interdisciplinares estabelecidas e sua dependência para o avanço
+e evolução das abordagens interdisciplinares.
+
+Na discussão sobre a concepção da Biblioteconomia e da Ciência da Informação como um único
+campo, Vakkari (1994) se apóia nos argumentos de alguns
+autores, dos quais se destaca Ingwersen (1992) e Wersig
+(1992).
+
+Apesar das diferenças apontadas, Saracevic (1996)
+considera que a relação da Biblioteconomia com a Ciência da Informação, em relação a outras áreas, é a mais
+significativa e desenvolvida, mas isso não significa que
+formem um único campo de conhecimento.
+
+Wersig (1992) é o autor que apresenta uma opinião mais radical sobre essa questão porque nega a
+existência da Biblioteconomia como ciência. Na Conferência Internacional de Tampere, ocorrida na Finlândia
+em 1991, discute a constituição teórica da área de Ciência
+
+e) nas ferramentas e abordagens utilizadas;
+A.P.L. SANTOS & M.E.F. RODRIGUES
+
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+Na realidade, Wersig (1993) considera que a Ciência da Informação não é uma ciência clássica, imaginando-a como um protótipo de ciência pós-moderna.
+O autor entende que a emergência do campo decorre
+da necessidade de se criar estratégias para solucionar
+problemas causados pela ciência e tecnologia. A visão
+de Wersig (1993) está pautada na importância que o
+conhecimento passa a exercer no mundo contemporâneo, principalmente nas dimensões científica e
+tecnológica. Nesse contexto, considera a Ciência da Informação um novo tipo de disciplina e questiona sua organização como disciplina tradicional, enfatizando a necessidade de uma construção teórica que dê conta dessa
+nova complexidade. Nesse sentido, reconhece a interdisciplinaridade da Ciência da Informação com diferentes
+áreas, principalmente com a Biblioteconomia.
+Ingwersen (1992) diz que existem argumentos
+que consideram a Biblioteconomia como uma disciplina
+independente ou talvez um paradigma concorrente para
+a Ciência da Informação. Em sua opinião isso pode acontecer, dependendo do ponto de vista adotado, mas que,
+tradicionalmente, a Biblioteconomia tem apresentado
+um forte impacto na Ciência da Informação. Ele também
+usa Ciência da Informação como um termo genérico e
+vê a Biblioteconomia como uma atividade especial de
+pesquisa e desenvolvimento dentro da Ciência da Informação. Na sua visão, a Biblioteconomia está relacionada
+com os processos de informação que têm lugar nas bibliotecas. Sua ideia é usar a Ciência da Informação como
+um termo genérico e esboçá-la como um campo de
+pesquisa mais amplo. Desse modo, os problemas da
+disciplina a respeito da Biblioteconomia formam um
+campo aplicado especial de pesquisa. Considera que se
+poderia também indicar que as bibliotecas são um
+campo de aplicação para a pesquisa em Ciência da
+Informação.
+Os pontos de vista de Ingwersen (1992) e Wersig
+(1993) convergem, portanto, para a noção de que a Biblioteconomia e a Ciência da Informação são campos
+próximos, mas que os dois termos não deveriam ser
+utilizados em conjunto para significar um mesmo campo.
+
+No Brasil, além dos estudos de Pinheiro (2005,
+2006a, 2006b), já mencionados neste texto, pode-se
+localizar algumas contribuições significativas que intentam esboçar as relações centrais e conceitos básicos da
+Ciência da Informação, assim como suas relações interdisciplinares.
+González de Gómez (2001, p.5) considera que a
+constituição do campo científico denominado Ciência
+da Informação “Sempre foi uma questão em aberto”.
+Considera, contudo, que nos últimos anos, o campo
+“[tem] explorado, [...], um pluralismo metodológico próprio das Ciências Sociais e de um campo interdisciplinar”.
+Na sua concepção, a Ciência da Informação “Integra, junto
+com a epistemologia, um campo de explicitação de formações sociais de meta-conhecimento [...]”, a organização do conhecimento, numa interseção da Biblioteconomia com a Ciência da Informação, poderia ser uma
+dessas abordagens do meta-conhecimento. Ainda, “Esta
+característica justifica [...] a orientação interdisciplinar ou
+transdisciplinar do campo, na medida em que este se vê
+obrigado a trabalhar na articulação das dimensões plurais
+do objeto informacional”. Portanto, considera que uma
+situação interdisciplinar ocorreria quando, para a resolução de um problema, é exigida a coocorrência de
+diferentes saberes. Desse modo, “A situação interdisciplinar é o resultado de um acontecimento, o encontro
+interdisciplinar, que se constitui pela interrogação acerca
+de um problema”.
+Smit et al. (2004), em pesquisa que se propõe a
+refletir sobre os critérios científicos que pautaram a
+constituição da Ciência da Informação, por meio da análise da terminologia da área, obtiveram duas ordens de
+conclusões: a primeira diz respeito à terminologia utilizada pela área; a segunda, gerada a partir da primeira,
+concerne à identidade da área. Para fins deste texto,
+ressalta-se alguns pontos relativos à segunda ordem de
+conclusões.
+Com relação à identidade da Ciência da Informação, Smit et al. (2004, p.1) concluíram, entre outras descobertas, que “Boa parte das noções sedimentadas pela área
+denominam procedimentos oriundos da Biblioteconomia”. Dessa forma, consideram que se pode vislumbrar
+um eixo evolutivo para a área que “Se inicia na Biblioteconomia, da qual, ou contra a qual - surge a Documentação, mas que não a substitui”. Por sua vez, a Ciência da
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+97
+CIÊNCIA DA INFORMAÇÃO
+
+da Informação e argumenta que mesmo sendo convencido de que há boas razões para falar da Biblioteconomia
+como ciência e boas razões para falar da Ciência da
+Informação nesse mesmo sentido, ainda assim objetaria
+que as duas formam um único conjunto.
+
+Informação “Surge no pós-guerra, com múltiplas definições e abrangências” [...].
+De modo geral, a literatura identifica a constituição da área na interdisciplinaridade, associando-a a
+uma reunião de diferentes disciplinas. Isso ocorre, segundo Smit et al. (2004, p.1), porque o termo Ciência da
+Informação “Não se define pelo que é, mas pelas possíveis
+apropriações que realiza em campos do saber, estabelecidas, via de regra, por associações dependentes do
+problema investigado”, por exemplo: para questões
+relativas ao usuário, recorre-se à Psicologia; se a questão
+é de informática documentária, busca-se a Informática;
+se é de administração de sistemas, emprega-se a Teoria
+da Administração, e assim sucessivamente.
+Oliveira e Carvalho (2009, p.11) em pesquisa que
+teve por objetivo identificar as relações interdisciplinares,
+no âmbito do ensino, entre a Biblioteconomia e a Ciência
+da Informação, concluíram que é preciso “Refletir mais e
+constantemente sobre as trocas realizadas e as incorporações conceituais e metodológicas. Para que se evite a
+assimilação de forma acrítica e com isso o seu possível
+enfraquecimento”. Acreditam, ainda, que “A comunidade
+científica tem trabalhado em demasia nos espaços
+fronteiriços da Ciência da Informação”. Dessa maneira, a
+busca pela interdisciplinaridade, sem muita reflexão e
+entendimento, pode estar tornando a área vulnerável em
+vez de resolver sua fragmentação.
+
+98
+
+A.P.L. SANTOS & M.E.F. RODRIGUES
+
+Por fim, para Pinheiro (2006a, p.6) a Ciência da
+Informação “Tem reconhecida a sua interdisciplinaridade
+desde o seu aparecimento” e a relação com a Biblioteconomia “Tem sua origem no movimento da documentação dos anos 60”, especialmente “Nas Escolas de
+Biblioteconomia, cujo objetivo era melhorar a técnica, o
+conteúdo intelectual dos registros e seu uso e a aplicação
+de tecnologias nas funções tradicionais de bibliotecas”.
+Desse modo, reconhece as relações interdisciplinares
+entre as duas áreas, mas reafirma a “Independência científica da Ciência da Informação, com seu próprio estatuto
+científico” (Pinheiro, 2005, p.7).
+Como se observa a maioria dos autores admite a
+existência de uma estreita relação entre a Biblioteconomia e a Ciência da Informação. Mas, apesar dos
+reconhecimentos de fortes laços interdisciplinares entre
+os dois campos, acredita-se, como Wersig, Ingwersen e
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+Pinheiro, que são campos distintos e que os dois termos
+não devem ser utilizados para significar um mesmo
+campo.
+
+Considerações Finais
+O conjunto de reflexões até aqui apresentadas
+evidencia que a Ciência da Informação é uma área potencialmente interdisciplinar uma vez que nasceu em um
+momento de reconfiguração da ciência moderna e vem
+tentando se estabelecer como um novo ramo que objetiva estudar os fenômenos ligados à produção, organização, difusão, acessibilidade e uso do conhecimento em
+variados contextos.
+A Biblioteconomia desde sua origem está intrinsecamente ligada à biblioteca e seu problema central sempre se constituiu no tratamento e no provimento do
+acesso aos registros gráficos. Mas, devido ao aumento
+exponencial no acervo do conhecimento da humanidade, a chamada explosão informacional, a Biblioteconomia foi impelida a ampliar e aprofundar as observações
+e análises relativas aos problemas da área por intermédio
+da assimilação de recursos de outros campos de conhecimento que lhe permitissem estudar e entender a produção e o registro de informações, seu armazenamento
+em diversos suportes, a organização para seu acesso, o
+processo de recuperação e as consequências socioculturais de seu uso.
+Percebe-se pela análise efetuada que a maioria
+dos autores reconhece uma estreita relação entre a Biblioteconomia e a Ciência da Informação, chegando
+alguns a admitir que possam ser confundidas como uma
+única área. Já outros, reconhecem que a Ciência da Informação se inicia na Biblioteconomia. Contudo, os fatos
+históricos mostram que a Biblioteconomia nasceu antes
+da Ciência da Informação.
+Reconhece-se que a Biblioteconomia e a Ciência
+da Informação têm uma característica comum: facilitar
+o acesso à informação e ao conhecimento. Considera-se, portanto, que a partir desse elo comum podem
+conversar uma com a outra, apreendendo e partilhando
+conhecimentos.
+A possibilidade do diálogo entre as disciplinas é
+a condição primeira para a prática efetiva da interdisciplinaridade, mas para que isso aconteça com sucesso
+
+Apesar de se defender a ideia de que a Biblioteconomia e a Ciência da Informação são campos distintos,
+não se excluí a possibilidade do exercício interdisciplinar
+entre as disciplinas. O ponto de partida dessa relação é
+procurar identificar o que cada disciplina estuda e suas
+relações comuns de trabalho para poder relacionar as
+familiaridades e extrair suas conexões recíprocas. Percebe-se, pela análise efetuada, que a prática interdisciplinar entre as duas áreas ainda é tênue, pois todos os
+autores mencionados evidenciaram essa interação somente no plano teórico, não descreveram interações no
+plano prático.
+Desse modo, seria muito proveitoso, tanto para a
+academia, como para a aplicação profissional, traçar um
+
+quadro de teorias e metodologias utilizadas pela Ciência
+da Informação e pela Biblioteconomia, a fim de estabelecer que pontos são tratados em comum e quais são
+específicos em cada área.
+Espera-se com as reflexões aqui emitidas, motivar
+os pesquisadores da Biblioteconomia e da Ciência da
+Informação a viver e exercer a interdisciplinaridade a fim
+de buscar um efetivo diálogo e uma efetiva harmonização das duas áreas, pois, não se deve esquecer que os
+estudos interdisciplinares são uma exigência do mundo
+contemporâneo, possibilitando aos pesquisadores um
+conhecimento maior sobre as transformações ocorridas,
+permitindo novas atitudes que possibilitem maior integração, produzam novos conhecimentos e consequentemente novos projetos.
+É necessário entender que atualmente vive-se
+uma fase de transição paradigmática que afeta principalmente a educação, portanto esse é o momento que favorece o pensar interdisciplinar. Olhar o futuro de forma
+global, mas atentos ao presente, é edificante para desenvolver o otimismo com coragem e enfrentamento para
+criar o futuro.
+
+Referências
+Bicalho, L.M. As relações interdisciplinares refletidas na literatura
+brasileira de ciência da informação. 2009. Tese (Doutorado em
+Ciência da Informação) - Escola de Ciência da Informação,
+Universidade Federal de Minas Gerais, 2009.
+Borko, H. Information science. What is it? American
+Documentation, v.19, n.1, p.3-5, 1968.
+Bush, V. As we may think. Atlantic Monthly, v.176, n.1,
+p.101-108, 1945.
+Fazenda, I.C.A. Interdisciplinaridade: um projeto em parceria.
+3.ed. São Paulo: Edições Loyola, 1995.
+Foskett, D.J. Ciência da informação como disciplina emergente: implicações educacionais. In: Gomes, H.E. (Org.). Ciência
+da informação ou informática? Rio de Janeiro: Calunga, 1980.
+p.53-69.
+González de Gómez, M.N. Metodologia de pesquisa no campo
+da ciência da informação. DataGramaZero, v.1, n.6, p.1-11,
+2000. Disponível em: <http://www.dgz.org.br>. Acesso em:
+14 ago. 2010.
+González de Gómez, M.N. Para uma reflexão epistemológica
+acerca da ciência da informação. Perspectivas em Ciência da
+Informação, v.6, n.1, p.5-18, 2001.
+Ingwersen, P. Conceptions of information science. In: Vakkari,
+P.; Cronin, B. (Ed.). Conceptions of library and information science:
+
+Historical, empirical and theoretical perspectives. London:
+Taylor Graham, 1992. p.299-311.
+Japiassu, H. Interdisciplinaridade e patologia do saber. Rio de
+Janeiro: Imago, 1976.
+Oliveira, M.; Carvalho, F. A interlocução entre a bibliote-conomia
+e a ciência da informação: um foco interdisciplinar. In: Encontro
+Regional dos Estudantes de Biblioteconomia, Documentação,
+Ciência da Informação e Gestão Documental, 10., 2009,
+Goiânia. Anais... Goiânia: UFG, 2009. p.1-13.
+Pinheiro, L.V.R. Evolução e tendências da ciência da informação no exterior e no Brasil: quadro comparativo a partir de
+pesquisas históricas e empíricas. In: Encontro Nacional de
+Pesquisa em Ciência da Informação, 6., 2005. Anais...
+Florianópolis: Enancib, 2005. p.1-12.
+Pinheiro, L.V.R. Movimentos interdisciplinares e rede conceitual
+na ciência da informação. Encontro Nacional de Pesquisa em
+Ciência da Informação, 7., 2006, Marília. Anais... Marília: Enancib,
+2006a. p.1-12. Disponível em: <http://www.portalppgci.
+marília.unesp.br>. Acesso em: 8 ago. 2010.
+Pinheiro, L.V.R. Ciência da informação: desdobramentos disciplinares, interdisciplinaridade e transdisciplinaridade. In:
+González de Gómez, M.N.; Orrico, E.G.D. (Org.). Políticas de
+memória e informação: reflexos na organização do conhecimento. Natal: UFRN, 2006b. p.111-141.
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+99
+CIÊNCIA DA INFORMAÇÃO
+
+e as disciplinas “dialoguem”, é necessário que existam
+representantes qualificados de cada uma delas. É importante que os profissionais estejam abertos ao diálogo,
+que consigam identificar o que lhes falta e o que podem
+receber dos outros. Essa atitude só é adquirida quando
+se propõe uma abertura no desenvolvimento do trabalho
+em uma equipe interdisciplinar. Nesse contexto, a interdisciplinaridade não se apresenta simplesmente como
+um conceito teórico, mas como uma prática individual.
+
+Pombo, O. Contribuição para um vocabulário sobre interdisciplinaridade. In: Pombo, O.; Levy, T.; Guimarães, H. (Org.). A
+interdisciplinaridade: reflexão e experiência. 2.ed. Lisboa: Texto,
+1994. p.5-12.
+Pombo, O. Epistemologia da interdisciplinaridade. In: Pimenta,
+C. (Coord.). Interdisciplinaridade, humanismo, universidade.
+Porto: Campo das Letras, 2003. Disponível em: <http.//www.
+educ.fc.ul.pt/docentes/opombo/investigação/portofinal.
+pdf>. Acesso em: 3 mar. 2013.
+Pombo, O. Interdisciplinaridade e integração dos saberes.
+Liinc em Revista, v.1, n.1, p.3-15, 2005. Disponível em: <http://
+www.ibict.br/liinc>. Acesso em: 3 mar. 2013.
+Rabello, R. História dos conceitos e ciência da informação:
+apontamentos teórico-metodológicos para uma perspectiva
+epistemológica. Encontros Bibli, n.26, p.17-46, 2008.
+Santos, A.P.L. Relações interdisciplinares entre a ciência da informação e a biblioteconomia: limites e possibilidade. 2012.
+Dissertação (Mestrado em Ciência da Informação) - Universidade Federal Fluminense, Niterói, 2012.
+
+and information science: Historical, empirical and theoretical
+perspectives. London: Taylor Graham, 1992. p.149-164.
+Shera, J.H. Sobre a biblioteconomia, documentação e ciência
+da informação. In: Gomes, H.E. (Org.). Ciência da Informação
+ou informática? Rio de Janeiro: Calunga, 1980. p.91-105.
+Smit, J.W.; Tálamo, M.T.G.; Kobashi, N.Y. A determinação do
+campo científico da ciência da informação: uma abordagem
+terminológica. DataGramaZero: Revista de Ciência da Informação, v.5, n.1. p.1-10, 2004. Disponível em: <http://www.
+dgz.org.br>. Acesso em: 3 mar. 2013.
+Taylor, R.S. The interface between librarianship and information
+science and engineering. Special Libraries, v.58, p.45-48, 1967.
+Vakkari, P. Library and information science: Its content and
+scope. Advances in Librarianship, v.18, p.1-55, 1994.
+Vakkari, P.; Cronin, B. (Ed.). Conceptions of library and information
+science: Historical, empirical and theoretical perspectives.
+London: Taylor Graham, 1992.
+
+Saracevic, T. Interdisciplinary nature of information science.
+Ciência da Informação, v.24, n.1, p.36-41, 1995.
+
+Wersig, G. Information science and theory: A weaver bird’s
+perspective. In: Vakkari, P.; Cronin, B. (Ed.). Conceptions of library
+and information science: Historical, empirical and theoretical
+perspectives. London: Taylor Graham, 1992. p.201-217.
+
+Saracevic, T. Ciência da informação: origem, evolução e
+relações. Perspectivas em Ciência da Informação, v.1, n.1,
+p.41-62, 1996.
+
+Wersig, G. Information science: the study of postmodern
+knowledge usage. Information Processing & Management, v.29,
+n.2, p.229-239, 1993.
+
+Savolainen, R. The sense-making theory: An alternative to
+intermediary-centered approaches in library and information
+science? In: Vakkari, P.; Cronin, B. (Ed.). Conceptions of library
+
+Wersig, G.; Nevelling, U. The phenomena of interest to
+information science. The Information Scientist, v.9, n.4,
+p.127-140, 1975.
+
+100
+
+A.P.L. SANTOS & M.E.F. RODRIGUES
+
+TransInformação, Campinas, 26(1):91-100, jan./abr., 2014
+
+

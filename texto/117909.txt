@@ -1,0 +1,921 @@
+Consolidated technologies, ongoing innovations
+and technologies introduced to the international
+market: A case study
+Maidelyn DÍAZ-PÉREZ2
+Raudel GIRÁLDEZ-REYES2
+Dayron ARMAS-PEÑA2
+Reinaldo Javier RODRÍGUEZ-FONT2
+Elio Atenógenes VILLASEÑOR-GARCÍA3
+Humberto Andrés CARRILLO-CALVET4
+
+Resumen
+La presente investigación tiene como objetivo conocer la trayectoria tecnológica del dominio caso de estudio Shale gas. Se propone
+como unidad de análisis y medición, la clasificación internacional de patentes de las invenciones relacionadas con el tema y
+recuperadas en tres bases de datos internacionales diferentes. Primero, se analizan las tecnologías constituidas consideradas como
+patentes concedidas en la oficina de patentes de los Estados Unidos de América United States Patent and Trademark, segundo las
+innovaciones en proceso identificadas como patentes solicitadas en la misma United States Patent and Trademark, y por último las
+patentes introducidas en el mercado internacional tramitadas mediante el Tratado de Cooperación de Patentes. La metodología
+utilizada aplicó indicadores de frecuencia y relacionales a la unidad objeto de estudio y obtuvo resultados que describen el
+comportamiento del conocimiento tecnológico del dominio. El análisis de la representación de los datos permitió identificar
+mediante el estudio de las clasificaciones las temáticas presentes en los procesos geofísicos de los aceites y gas de lutita conocidos
+como Shale gas, relacionados con la utilización de equipos de cómputo digital.
+Palabras ilave: Clasificación internacional de patentes. Indicadores de patentes. Patentes. Shale gas. Trayectorias tecnológicas.
+
+Abstract
+The aim of this research is to understand the technological trajectory of the case study of Shale gas production. As a unit of analysis and
+measurement, we used the international classification of patents for inventions related to the topic retrieved from three different
+1
+
+2
+
+3
+
+4
+
+Trabajo presentado en el VII Seminario Internacional sobre Estudios Cuantitativos y Cualitativos de la Ciencia y la Tecnología “Prof. Gilberto Sotolongo
+Aguilar” en XIII Congreso Internacional de Información - INFO’ 2014. Habana, Cuba.
+Universidad de Pinar del Rio, Grupo Gestión de Información, Conocimiento y Tecnologías, Dirección de Información Científico Técnica. Calle Martí
+Esquina 300, entre 27 de Noviembre y González Alcorta, 20100, Pinar del Río, Cuba. Correspondencia a nombre de/Correspondence to: M. DIAZ-PÉREZ.
+E-mail: <maidelyn@ict.upr.edu.cu>.
+Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, Dirección Adjunta de Innovación y Conocimiento. Ciudad de
+México, México.
+Universidad Nacional Autónoma de México, Facultad de Ciencias, Departamento de Matemática. Ciudad de México, México.
+Recibido el día 26/5/2014 y aceptado para su publicación el 5/9/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+349
+CASO DE ESTUDIO SHALE GAS
+
+Tecnologías constituidas, innovaciones en proceso
+y tecnologías introducidas en el mercado
+internacional: caso de estudio 1
+
+international databases. First the study analyzes consolidated technologies considered as granted patents, then the ongoing innovations
+identified as patent applications, and last the technologies introduced to the international market granted through the Patent Cooperation
+Treaty. According to the methodology, the frequency and relational indicators were applied to the unit under study. The results obtained
+describe the technological behavior of the domain. This technique allowed identifying the subject areas involved in the geophysical
+processes of oil and Shale-gas production related to the use of digital computing systems through the study of patent classifications.
+Keywords: International patent classification. Patent indicators. Patents. Shale-gas production. Technological trajectories.
+
+Introducción
+Dentro de las normativas que establece la
+Organización Mundial de la Propiedad Intelectual (OMPI)
+se encuentra que toda invención debe acreditarse en una
+o varias Clasificaciones en el campo número 51 del
+documento de patente, las cuales identifican y describen
+a qué áreas del conocimiento técnico pertenece la
+invención. La Clasificación Internacional de Patentes (CIP)
+abarca un conjunto de campos de conocimiento
+incluidos dentro del ámbito de las patentes de invención.
+Al ser un sistema único e internacional logra una
+estandarización en las taxonomías del conocimiento
+tecnológico. Abarca no solo las grandes clases y
+categorías por disciplinas, sino hasta los niveles más
+profundos de complejidad de cada temática.
+Los niveles jerárquicos de la última versión (octava
+edición) de la CIP con toda su estructura de símbolos,
+contiene: 8 secciones, 129 clases, 633 subclases, 7.066
+grupos y 10.047 subgrupos. Esta amplia cobertura
+temática permite realizar análisis métricos considerando
+este campo del documento de patente; sin embargo no
+se utiliza con regularidad en los análisis métricos con la
+información.
+
+350
+
+M. DÍAZ-PÉREZ et al.
+
+En el análisis de literatura científica el análisis de
+las clasificaciones tampoco ha sido muy utilizado, se
+realizan más estudios de cocitación. Leydesdorff justifica
+este comportamiento al hecho que las clasificaciones o
+temáticas, son impuestas por las revistas, mientras las
+referencias citadas son elegidas por los autores. Aunque
+los indicadores relacionados con la clasificación son
+importantes, hasta el presente se han usado más los de
+cocitación. Muy a pesar de esas prácticas, el presente
+estudio rompe con ese esquema metodológico y
+presenta las amplias posibilidades que ofrece la
+clasificación para recuperar estructuras de conocimiento
+científico tecnológico (Díaz-Pérez, 2010).
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+Las clasificaciones pueden ser las unidades de
+análisis más confiables para explorar la información
+contenida en las bases de datos de patentes.
+Esta investigación comparte el criterio que el
+análisis por clasificación temática permite mapear de
+forma más evidente el conocimiento científico que
+subyace en los documentos de patente (Leydesdorff,
+1987; Tijssen, 1992; Leydesdorff & Heimeriks, 2001; Jaffe
+& Trajtenberg, 2002; Leydesdorff, 2004) así como permite
+conocer y representar la especialización temática por
+países, regiones, institutos, investigadores, etc. (Fall et al.,
+2003; Van Zeebroeck et al., 2006; Leydesdorff & Meyer,
+2007; Cong & Han-Tong, 2010).
+Y lo más importante, se considera que la CIP
+puede ser usada como unidad de análisis para explorar
+la información contenida en las patentes (Díaz-Pérez &
+Moya-Anegón, 2008), e incluso puede ser comparada
+con las categorías de materias que el Institute for Scientific
+Information (ISI) atribuye a las revistas según Leydesdorff.
+Este autor considera a las clases de la clasificación como
+equivalentes de las revistas, realiza la propuesta de
+analizar el equivalente correspondiente de una matriz de
+citación entre revista y revista (Leydesdorff, 2008).
+Este estudio además de aplicar los indicadores
+tradicionales de patentes propone utilizar dentro de las
+unidades de análisis del estudio a la CIP. Se insiste en esta
+investigación en resaltar, que dentro de los estudios
+patentométricos el uso de la clasificación internacional
+es una de las mejores unidades de análisis y medida para
+diagnosticar la composición del estado de la técnica de
+un dominio tecnológico.
+El caso de estudio que se utiliza para aplicar la
+propuesta está asociado con el dominio tecnológico
+Shale gas.
+Por años, la extracción de reservas de petróleo y
+gas licuado han sido las fuentes de energía del mundo
+industrializado; no obstante, la creciente dependencia y
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+México no ha sido la excepción, a través del
+Boletín Nº 26, emitido el 23 de marzo de 2011, Pemex
+manifestó haber obtenido su primera producción de gas
+de lutita pero con algunas limitaciones. Recientemente,
+el Congreso Mexicano aprobó un conjunto de
+modificaciones a la constitución denominado “Reforma
+Energética”. Estas nuevas leyes prevén la explotación de
+este tipo de yacimientos a gran escala. Sin embargo, la
+producción del Shale gas tiene problemas técnicos y
+riesgos particulares. De los retos técnicos más
+importantes son la estimación no invasiva de las
+propiedades geológicas de los yacimientos y la
+predicción de su rentabilidad económica; ya que la
+construcción de los pozos implica una alta inversión
+económica, así como un alto riesgo al medio ambiente.
+Para abordar el problema de caracterización no
+invasiva, se han propuesto algunas técnicas de
+modelación, tales como el mapeo geostadístico y
+transformaciones multiatributo para la estimación de la
+porosidad (Pramanik et al., 2004). Otros enfoques incluyen
+el uso de algoritmos genéticos (Dorrington & Link, 2004)
+o redes neuronales (Helle et al., 2001; Bhatt & Helle, 2002).
+Estas últimas han sido utilizadas exitosamente para
+estimar la porosidad y permeabilidad a partir de registros
+sísmicos. Recientemente, se presenta una aplicación de
+regresiones suaves para estimar la porosidad integrando
+atributos sísmicos con registros de pozos (Iturraran, 2011).
+Una de las ventajas de esta técnica es que además de
+estimar la porosidad se logran esclarecer relaciones nolineales (si es que existen) entre las distintas variables que
+determinan la rentabilidad de los yacimientos, mediante
+el uso de simulaciones computacionales. Por esta razón,
+uno de los énfasis principales de esta investigación se
+hace sobre el desarrollo de tecnologías de la
+computación relacionadas; así como métodos de
+caracterización y simulación.
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+El objetivo de la presente investigación consiste
+en estudiar la trayectoria de este dominio tecnológico, a
+partir del análisis de la asignación de clasificadores de la
+CIP a patentes registradas en tres bases de datos
+diferentes United States Patent and Trademark (USPTO)
+concedidas, USPTO solicitadas, PatentScope. Se analizan
+las tecnologías constituidas (patentes concedidas), las
+innovaciones en proceso (patentes solicitadas) y las
+tecnologías introducidas en el mercado internacional
+tramitadas mediante el Tratado de Cooperación
+Internacional de patentes Patent Cooperation Treaty (PCT)
+del caso de estudio: Shale gas. La aplicación de
+indicadores de frecuencia y relacionales a la unidad
+objeto de estudio permite obtener resultados que
+describen el recorrido de este dominio, identificando
+mediante estas técnicas las temáticas presentes en los
+procesos geofísicos de aceite y gas de lutita (shale gas).
+
+Métodos
+La investigación considera que la unidad de
+análisis más representativa que será objeto específico de
+estudio en una medición; se refiere al qué o quién es
+objeto de interés en una investigación; es “el sobre qué o
+quiénes se van a recolectar datos”. En este caso, lo que se
+analiza es un dominio tecnológico y la unidad de análisis
+propuesta es la CIP. Clasificación que cubre todos los
+ámbitos de la tecnología y detalla cada invención por
+niveles tan específicos que casi llega a describir los
+resultados.
+Los indicadores utilizados son de frecuencia y
+relacionales. La unidad de análisis se cruza con otras
+variables (años, inventores, titulares, etc.) del documento
+de patente para obtener datos cruzados del dominio.
+Además se aplica el indicador patentométrico de
+coclasificación. Según lo establecido por la OMPI que
+consiste en:
+Otra forma de establecer vínculos tecnológicos
+es a través de los códigos de clasificación. Esto se
+debe a que una misma patente puede ser
+clasificada bajo varios códigos de clasificación si
+se refiere a un producto o proceso que concierne
+a más de un campo de la tecnología. Los códigos
+de clasificación muestran los vínculos entre estos
+campos (Oficina Española de Patentes y Marcas,
+1994, p.96).
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+351
+CASO DE ESTUDIO SHALE GAS
+
+las, cada vez más escasas, reservas existentes han dado
+pie a la búsqueda de fuentes de energía no
+convencionales; países como Estados Unidos de América,
+Canadá, Europa y Australia, han emprendido esfuerzos
+por explotar las reservas de gas y aceite de lutita. Se
+estima que el gas de lutita, conjuntamente con otras
+fuentes de energía no convencionales logrará afianzar la
+independencia energética de estos países y reducir los
+elevados costos del crudo en el mercado internacional.
+
+En el caso del indicador de clasificaciones
+conjuntas será más o menos relevante en la medida en
+que ocurran en mayor o menor número de veces.
+
+contengan los términos “Shale gas” o “Shale oil”,
+relacionados con: computación, algoritmo, simulación.
+
+Como parte de la metodología se explica de
+forma independiente la fuente de datos y estrategia de
+búsqueda en cada base de datos de patentes utilizada
+(USPTO, Oficina de Patentes y Marcas de Estados Unidos
+y Organización Mundial de la Propiedad Intelectual
+(OMPI). Y al final se comenta de forma general la
+herramienta empleada para el procesamiento de la
+información y las técnicas de visualización utilizadas en
+los tres casos de análisis.
+
+Procesamiento de los datos
+
+Primer análisis: United States Patent and
+Trademark concedidas
+Fuente de datos: Oficina de Patentes y Marcas de
+Estados Unidos USPTO en específico se utiliza como
+fuente, la Base de Datos (BD) Patent Grant.
+Estrategia de búsqueda: Interrogar la BD Patent
+Grant de Estados Unidos sobre los registros de patentes
+que tuvieran los términos “Shale gas” o “Shale oil”,
+relacionados con: simulación, algoritmo, modelo,
+caracterización, reservorio y depósito.
+
+Análisis: United States Patent and Trademark
+solicitadas
+Fuente de datos: Oficina de Patentes y Marcas de
+Estados Unidos (USPTO) se utiliza en particular como
+fuente, la base de datos Patent Application Full Text and
+Image Data Base (solicitadas).
+
+352
+
+Estrategia de búsqueda: Interrogar la BD Patent
+Application Full Text and Image Data Base de Estados
+Unidos sobre los registros de patentes que contengan
+los términos “Shale gas” o “Shale Oil”, relacionados con:
+simulación, algoritmo, modelo, caracterización, reservorio
+y depósito.
+
+PatentScope
+M. DÍAZ-PÉREZ et al.
+
+Fuente de datos: fue consultada la base de datos
+de patentes tramitadas por vía PCT, gestionada por la
+OMPI mediante la herramienta informática PatentScope®.
+Estrategia de búsqueda: Interrogar la BD de
+PatentScope® sobre los registros de patentes que
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+Se utiliza el software proINTEC (Giráldez et al. 2008)
+para la descarga, normalización, procesamiento, análisis
+y visualización de los datos, con confiabilidad probada
+en otros estudios de caso (Díaz-Pérez, et al., 2007; DíazPérez, et al., 2008; Díaz-Pérez, et al., 2009; Díaz-Pérez, et
+al., 2010). Para el análisis y visualización de la información
+contenida en las patentes PCT se usó el servicio gratuito
+ofrecido por la OMPI, mediante “PatentScope”.
+
+Técnicas de Visualización
+Se utiliza como técnica de visualización las redes
+presentadas en forma de nodos o vértices, donde la
+estructura semántica se encuentra definida por los
+enlaces que conectan dichos nodos. La visualización
+mediante redes hace posible representar las relaciones
+en forma de red, cruzando variables para encontrar
+comportamientos o patrones dentro del contenido de
+las patentes. Para una mejor representación de la
+información en el análisis e interpretación de los mapas
+tecnológicos se utiliza el algoritmo Pathfinder que
+permite mostrar sólo los enlaces más relevantes de las
+redes mapeadas. Se usa además como técnica de poda
+de enlaces la delimitación numérica de la intensidad de
+las relaciones entre aquellos nodos que su relación es
+débil. Y para el posicionamiento de los nodos en la
+visualización del dominio se emplea el algoritmo de
+representación espacial Spring Embeded; por último se
+usa el programa Netdraw para manipular los gráficos en
+las representaciones visuales.
+
+Resultados
+Base de Dados United States Patent and
+Trademark concedidas
+El dominio tecnológico Shale gas está compuesto
+en la USPTO por un total de 26 patentes concedidas en
+un periodo de tiempo de 36 años, comprendido entre
+1976 y julio del 2012. La década del ochenta fue la
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+- E21: dentro de la sección de Construcciones
+Fijas abarca los conocimientos relacionados con
+“Perforación del suelo o de la roca. explotación minera”.
+
+Clasificación Internacional de Patentes
+
+- G1: dentro de la sección Física contempla los
+conocimientos relacionados con “Metrología. ensayos”.
+
+A partir de un análisis de frecuencia del campo
+clasificaciones, se obtuvo el dato que las patentes del
+dominio Shale gas abordan 5 secciones de la técnica. El
+mayor número de patentes se clasifican en la sección E
+“Construcciones Fijas”. Sin embargo, las patentes con esta
+clasificación son en su gran mayoría de los años setenta
+y ochenta del pasado siglo, no representan novedad para
+este estudio. Sólo existe una patente con esta
+clasificación concedida en este siglo, registrada en el año
+2001.
+Las patentes de las clasificaciones F (Mecánica,
+etc.) y B (Técnicas Industriales Diversas) fueron también
+concedidas en los años ochenta del pasado siglo.
+Las patentes concedidas después del año 2001,
+se suponen sean las más novedosas, pertenecen a las
+áreas Física y Química. Puede significar que en la
+actualidad las innovaciones científico tecnológicas sobre
+Shale gas relacionadas con tecnologías de cómputo
+digital estén vinculadas con las secciones G (Física) y C
+(Química) de la CIP.
+El análisis por el segundo nivel jerárquico de la CIP
+reveló que las invenciones sobre Shale gas se ubican en
+14 clases de la CIP. Sin embargo, por la novedad de la
+temática que abarca este estudio las más importantes
+son las trabajadas en el presente siglo.
+Las clases temáticas del dominio concedidas
+después del año dos mil, son:
+- C10: dentro de la Química abarca los
+conocimientos relacionados con “Industrias del petróleo,
+gas o coque. gas de síntesis que contiene monóxido de
+carbono. combustibles. lubricantes. turba”.
+- C1: dentro de la Química utiliza los
+conocimientos relacionados con “Química Inorgánica”.
+- C12: dentro de la Química estudia los
+conocimientos relacionados con “Bioquímica. cerveza.
+bebidas alcohólicas. vino. vinagre. microbiología.
+enzimología. técnicas de mutación o de genética”.
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+- G6: dentro de la sección Física contiene los
+conocimientos relacionados con “Cómputo. cálculo.
+conteo”.
+Las clases C1, C10 y G6 fueron identificadas en
+las patentes concedidas sobre Shale gas por la USPTO
+en el año 2012.
+El análisis por el último nivel jerárquico de la CIP
+mostró que existe un amplio número de subgrupos
+relacionados con las invenciones de Shale gas.
+A continuación se presentan los subgrupos
+temáticos de donde pertenecen las patentes concedidas
+a partir del año dos mil:
+C10G0009: Dentro de la Química abordan temas
+relacionados con “Cracking térmico no catalítico, en
+ausencia de hidrógeno, de aceites de hidrocarburos”.
+C10G0009/320000: Dentro de la Química abordan
+temas relacionados con “Cracking térmico no catalítico,
+en ausencia de hidrógeno, de aceites de hidrocarburos
+según la técnica de lecho fluidizado”.
+C10G0011/180000: Dentro de la Química abordan
+temas relacionados con “Cracking catalítico, en ausencia
+de hidrógeno, de aceites de hidrocarburos” según la
+técnica fluidizada.
+C10G0051/060000: Dentro de la Química abordan
+temas relacionados con “Tratamiento de los aceites de
+hidrocarburos, en ausencia de hidrógeno, único por
+varios procesos de cracking, por varias etapas en paralelo”.
+C10G0073/020000: Dentro de la Química abordan
+temas relacionados con “Obtención de ceras de petróleo
+a partir de aceites de hidrocarburos. Desparafinado de
+aceites de hidrocarburos”.
+C12P0003: Dentro de la Química abordan temas
+relacionados con “Procesos de fermentación o procesos
+que utilizan enzimas para la síntesis de un compuesto
+químico dado o de una composición dada, o para la
+separación de isómeros ópticos a partir de una mezcla
+racémica”, en específico preparación de elementos o
+compuestos inorgánicos excepto anhídrido carbónico.
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+353
+CASO DE ESTUDIO SHALE GAS
+
+primera en exhibir un incremento del número de
+invenciones concedidas sobre el tema, y hasta el presente
+no ha sido superado.
+
+C12P0005/020000: Dentro de la Química abordan
+temas relacionados con “Preparación de hidrocarburos.
+Acíclicos”.
+C1B0003/320000: Dentro de la Química abordan
+temas relacionados con “Hidrógeno. Mezclas gaseosas
+que contienen hidrógeno. Separación del hidrógeno a
+partir de mezclas que lo contienen” en específico en
+Purificación del hidrógeno por reacción de compuestos
+orgánicos gaseosos o líquidos con agentes gasificantes,
+p. ej. agua, dióxido de carbono, aire.
+E21B0025/080000: Dentro del área temática de
+Construcciones Fijas abordan temas relacionados con
+“Aparatos para obtener o retirar las muestras intactas, p.
+ej. tubos de muestras, extractores de muestras”
+“Revestimiento, congelación, consolidación de muestras.
+Recuperación de muestras no contaminadas o de
+muestras a la presión de formación”.
+E21B0049: Dentro del área temática de
+Construcciones Fijas abordan temas relacionados con
+“Ensayos para determinar la naturaleza de las paredes de
+los orificios de perforación. Ensayo de las capas.
+Procedimientos o aparatos para obtener muestras de
+terreno o de los fluidos del pozo, adaptados a
+perforaciones del suelo o de pozos”.
+E21B0049/020000: Dentro del área temática de
+Construcciones Fijas abordan temas relacionados con
+“Ensayos para determinar la naturaleza de las paredes de
+los orificios de perforación. Ensayo de las capas.
+Procedimientos o aparatos para obtener muestras de
+terreno o de los fluidos del pozo, en principio adaptados
+a perforaciones del suelo o de pozos”, en especial
+“Mediante muestras tomadas mecánicamente del
+terreno”.
+354
+
+o análisis de materiales por métodos específicos no
+cubiertos por los grupos. Aceites”.
+G1V0003/060000: Dentro del área temática de la
+Física se abordan temas relacionados con “Prospección
+o detección eléctrica o magnética. Medida de las
+características del campo magnético terrestre, p. ej. de la
+declinación, de la desviación que utiliza corriente alterna”.
+G6F0019: Dentro del área temática de la Física se
+abordan temas relacionados con “tratamiento de datos
+digitales electricos”, en concreto “Equipos o métodos de
+proceso de datos o de cómputo digital”, adaptados a
+aplicaciones específicas.
+
+Relaciones temáticas: clasificaciones conjuntas
+El dominio Shale gas tiene relaciones entre
+diferentes secciones del conocimiento tecnológico. Las
+relaciones interdisciplinarias más fuertes ocurren entre
+la sección de Física (G) con la sección de Construcciones
+Fijas (E); y entre la sección de Química (C) con la sección
+de Técnicas industriales diversas (B). Existe también un
+núcleo de relaciones interdisciplinarias entre las secciones
+de Química (C), Mecánica (F) y Construcciones Fijas (E);
+así como esta última con el sector de la Física (Figura 1).
+En el análisis de las clasificaciones conjuntas por
+el segundo nivel jerárquico de la CIP se destaca la
+
+G1N0015/080000: Dentro del área temática de la
+Física se abordan temas relacionados con “Investigación
+de la permeabilidad, del volumen de los poros o del área
+superficial de los materiales porosos”.
+
+M. DÍAZ-PÉREZ et al.
+
+G1N0033/260000: Dentro del área temática de la
+Física se abordan temas relacionados con “Investigación
+o análisis de materiales por métodos específicos no
+cubiertos por los grupos”, “aceites. líquidos viscosos.
+pinturas. tintas”.
+G1N0033/280000: Dentro del área temática de la
+Física se abordan temas relacionados con “Investigación
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+Figura 1. Clasificaciones conjuntas (Sección, Classificación
+Internacional de Patentes).
+Fuente: Software proINTEC 2013.
+
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+Otra relación conjunta de interés para esta
+investigación se establece entre las clases G6 orientada
+a cómputo, cálculo, conteo, etc., con la clase G1 que
+aborda la metrología y a su vez, esta última relacionada
+con la E21 que abarca los conocimientos técnicos sobre
+perforación de suelos o rocas, explotación minera, etc.
+Esto constata que existen patentes en este dominio que
+están revindicando invenciones sobre tecnologías
+orientadas a la metrología y a la explotación de suelos y
+rocas.
+El análisis hasta el último nivel jerárquico de
+clasificación representa las principales clasificaciones
+conjuntas del dominio (Figura 2). Se visualizan los
+diferentes grupos temáticos en Shale gas, incluso se
+delimitan los diferentes nodos que existen incluso dentro
+de una misma sección del conocimiento tecnológico. En
+este caso, las relaciones más intensas se manifiestan entre
+
+la sección E de “construcciones fijas” en la temática de
+“perforación del suelo o de la roca, explotación minera”, del
+área de “procedimientos o dispositivos para la extracción
+de petróleo, gas, agua o materiales solubles o fundibles o
+de una suspensión de materias minerales a partir de pozos,
+aquí las relaciones se establecen entre las patentes que
+clasifican en la temática relacionada con los
+“procedimientos de fracturación” (E21B0043/247000) y las
+patentes que clasifican en “procedimientos de recuperación
+optimizada para la extracción de hidrocarburos” (E21B0043/
+160000). Y esta última, con las patentes que clasifican en
+la temática “explosivos” (E21B0043/248000). Entre estos 3
+temas existen el mayor número de clasificaciones
+conjuntas en el dominio Shale gas.
+Las relaciones interdisciplinarias de mayor interés
+para esta investigación son las relaciones conjuntas entre
+las clasificaciones: G1N0033-280000/G1N0033-260000/
+G6F0019). Son importantes porque revelan que existen
+patentes en este dominio que han trabajado en
+tecnologías relacionadas con investigaciones o análisis
+de materiales por determinación de sus propiedades
+químicas o físicas, utilizando el tratamiento de datos
+digitales eléctricos, a partir de equipos o métodos de
+proceso de datos o de cómputo digital.
+
+Figura 2. Clasificaciones conjuntas (Subgrupo, Classificación Internacional de Patentes).
+Fuente: Software proINTEC 2013.
+
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+355
+CASO DE ESTUDIO SHALE GAS
+
+intensidad de las relaciones que existen entre las clases
+F2 (motores de combustión, plantas motrices de gases
+calientes o de productos de combustión), la clase E21
+(perforación del suelo o de la roca, explotación minera)
+y la F23 (aparatos de combustión, procesos de
+combustión).
+
+Área temática de los inventores:
+La sección de Química (C) y Construcciones Fijas
+(E) tiene el mayor número de investigadores asociados,
+seguida por la sección de Mecánica (F), Física (G) y
+Técnicas Industriales Diversas (B).
+A partir del interés que tiene este estudio en el
+área de Física, a continuación se listan los investigadores
+que trabajan en esta área del conocimiento en el dominio
+Shale gas:
+1. McNeil (III); Robert Irving
+2. Nicholson; James William
+3. O’Meara (Jr.); Daniel J.
+4. Skelt; Christopher
+
+con Construcciones Fijas (E), seguidos por el área de
+Química, así como los que investigan en ambas secciones
+del conocimiento tecnológico. En la sección G, F y B sólo
+le han concedido patentes a un reducido número de
+titulares en el periodo estudiado (Figura 3).
+Existen sólo 2 titulares trabajando en el área de
+Física dentro del dominio, estos son: Chevron Corporation
+y Shell Oil Company. Y los titulares que ostentan mayor
+actualidad (patentes concedidas en 2012) en el dominio
+son: Chevron U.S.A. Inc. Con una patente en el año 2012
+relacionada con la sección G (CIP); y LUCA Technologies,
+Inc.
+
+Colaboración Científico Tecnológica
+
+5. Zeilinger; Sabine Claudia
+6. dos Santos; Helio Mauricio Ribeiro
+
+Área temática de los titulares:
+El mayor número de titulares de este dominio
+trabajan en investigaciones tecnológicas relacionadas
+
+Este análisis revela que existen relaciones de
+colaboración entre los inventores que trabajan en las
+investigaciones patentables sobre Shale gas (Figura 4).
+La investigación resalta dentro del dominio el nodo de
+investigadores relacionados con el área de la Física. En
+este caso, los investigadores Robert Irving McNeil (III),
+
+E
+
+356
+
+M. DÍAZ-PÉREZ et al.
+
+Figura 3. Titulares por Sección, Classificación Internacional de Patentes.
+Fuente: Software proINTEC 2013.
+
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+357
+CASO DE ESTUDIO SHALE GAS
+
+Figura 4. Inventores conjuntos.
+Fuente: Software proINTEC 2013.
+
+James William Nicholson y Sabine Claudia Zeilinger
+trabajan dentro del área técnica de Física en el
+“Tratamiento de datos digitales eléctricos”, en específico
+“Equipos o métodos de proceso de datos o de cómputo
+digital” asociados a la búsqueda de Shale gas.
+
+United States Patent and Trademark solicitadas
+El dominio tecnológico sobre Shale gas en la BD
+de patentes solicitadas de Estados Unidos tiene un total
+de 51 patentes, entre el año 2001 y julio del 2012. El
+promedio de solicitudes al año es de unos 6 registros, se
+supera exponencialmente esta cifra en el año 2003 (28
+solicitudes). Y se vuelve a observar un incremento de
+solicitudes a partir del 2010, crecimiento que se mantiene
+hasta el año 2012.
+
+Clasificación internacional de patentes
+Las patentes solicitadas ante la USPTO en este
+dominio trabajan en 5 secciones de la CIP. La clasificación
+de la sección E sobre construcciones fijas tiene el mayor
+número de patentes asociadas, seguidas por solicitudes
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+en: Física (13), Química (4), Técnicas industriales diversas
+(B) y Electricidad (2).
+Los análisis por los diferentes niveles jerárquicos
+de la CIP destacan que:
+- las solicitudes de patentes sólo trabajan en 9
+clases tecnológicas. Aunque sus propuestas de invención
+abarquen 5 áreas tecnológicas de las 8 que existen en la
+CIP, sus investigaciones sólo se profundizan en una parte
+de estos sectores del conocimiento.
+- las solicitudes trabajan en 11 subclases
+temáticas, donde se mantiene la sección G cómo la más
+investigada en sus diferentes sectores seguida
+respectivamente por las secciones: C, E, B y H.
+En el análisis por grupo se amplían más las áreas
+de la tecnología que investigan cada sector tecnológico,
+y se destaca la incidencia científico-tecnológico que
+tienen los siguientes grupos:
+- E21B0043: Procedimientos o dispositivos para la
+extracción de petróleo, gas, agua o materiales solubles o
+fundibles o de una suspensión de materias minerales a
+partir de pozos.
+- G6G0007: Dispositivos en los que la operación
+de cálculo es efectuada haciendo variar valores eléctricos
+o magnéticos.
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+- E21B0036: Disposiciones para el calentamiento,
+el enfriamiento, o el aislamiento, en los orificios de
+perforación o en los pozos, p. ej. para utilizarse en zonas
+heladas.
+- G6F0019: Equipos o métodos de proceso de
+datos o de cómputo digital, especialmente adaptados a
+aplicaciones específicas.
+- E21B0047: Prospecciones en los orificios de
+perforación o en los pozos.
+Por último, el análisis por subgrupos reveló que los
+principales grupos que derivan en subgrupos, son:
+- E21B0043/200000: trabaja dentro de los
+procedimientos, que son mediante desplazamientos por
+agua.
+- G6G0007/400000: Dispositivos en los que la
+operación de cálculo es efectuada haciendo variar valores
+eléctricos o magnéticos, de ecuaciones diferenciales
+parciales.
+- E21B0043/300000: Procedimientos o dispositivos
+para la extracción de petróleo, gas, agua o materiales
+solubles o fundibles o de una suspensión de materias
+minerales a partir de pozos. Disposición particular de
+
+pozos, p. ej. disposición óptima de espaciamiento de
+pozos.
+- G6G0007/500000: Dispositivos en los que la
+operación de cálculo es efectuada haciendo variar valores
+eléctricos o magnéticos. para redes de distribución, p. ej.
+para fluidos.
+- G1V0001/300000: Sismología. Prospección o
+detección sísmica o acústica. Análisis.
+Se obtuvo además, que los titulares que solicitan
+invenciones en la sección de Física se corresponden con
+los titulares que tienen mayor productividad del dominio.
+Significa que las principales compañías del mundo
+liderando innovaciones sobre Shale gas investigan en
+esta área del conocimiento tecnológico.
+Colaboración - En el dominio patentes solicitadas
+de la USPTO no se manifiestan muchas relaciones de
+colaboración entre titulares. Por ejemplo, sólo existen
+relaciones entre 2 signatarios: China Petroleum & Chemical
+Corporation y Research Institute of Petroleum Processing
+Sinopec.
+Tampoco existen muchos grupos de
+investigación que colaboran entre sí en este dominio.
+
+358
+
+M. DÍAZ-PÉREZ et al.
+
+Figura 5. Colaboración de inventores.
+Fuente: Software proINTEC 2013.
+
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+PatentScope
+En la base de datos PatentScope solo existen 11
+patentes relacionadas con Shale gas. Cifra que indica un
+bajo grupo de invenciones tramitadas mediante el PCT
+en este dominio temático.
+Dentro de la serie temporal que se analiza solo
+en 7 años se formalizaron patentes sobre Shale gas
+mediante PCT. Se observa que a partir del 2007 se
+incrementó la introducción de sus tecnologías en el
+mercado internacional, pero sufre una recaída en el 2010.
+
+Clasificación Internacional de Patentes
+Las 11 patentes de este estudio están
+relacionadas con 4 secciones de la CIP. El mayor número
+de patentes se relaciona con la temática (E21B) “Earth or
+rock drilling; obtaining oil, gas, water, soluble or meltable
+materials or a...”. El resto de las clasificaciones pertenecen
+a la siguiente área de la técnica: C01B - Non-metallic
+elements; compounds thereof (1 patente), E21C - Mining
+or quarrying (1 patente), y G06G - Analogue computers
+(1 patente)
+
+cubren distintos aspectos tales como: relaciones
+temáticas, áreas temáticas de los inventores, colaboración
+científico-tecnológica y colaboración entre titulares.
+Respecto a la colaboración se observa muy pocas
+relaciones de colaboración entre titulares. También se
+aprecia que existen muy pocos grupos de investigación
+que colaboran entre sí. Solo se identifica un amplio
+equipo de inventores pertenecientes a Shell Oil
+Company.
+Con relación a la introducción de estas
+tecnologías en el mercado internacional se observa que
+ésta se ha dado principalmente en los últimos 7 años, en
+los cuales se formalizaron patentes sobre Shale gas
+mediante PCT.
+El principal resultado de este análisis es que
+constató que existen patentes dentro de este dominio
+que están revindicando invenciones sobre tecnologías
+orientadas a la metrología y a la explotación de suelos y
+rocas. Se pudo apreciar que se están desarrollando
+tecnologías relacionadas con análisis de materiales por
+determinación de sus propiedades químicas o físicas,
+utilizando el tratamiento de datos digitales; a partir de
+equipos o métodos de procesos de cómputo; son las
+grandes compañías como: Chevron Corporation y Shell
+Oil Company, las que están liderando estas innovaciones.
+Es decir, mediante la metodología propuesta se logran
+identificar las temáticas presentes en los procesos
+geofísicos de aceite y gas de lutita (Shale gas)
+relacionados con la utilización de equipos de cómputo
+digital, satisfaciendo el principal interés del estudio.
+
+Conclusión
+Se analizaron las tres bases de datos, las
+tecnologías constituidas mediante las patentes
+concedidas, las innovaciones en proceso a través de las
+invenciones solicitadas y las tecnologías introducidas en
+el mercado internacional mediante la vía PCT. Se
+identificó la trayectoria tecnológica del dominio Shale
+gas a partir del estudio de la unidad de análisis e
+indicadores propuestos. Los resultados de este análisis
+
+Agradecimientos
+Los autores Elio A. Villaseñor y Humberto Carrillo
+agradecen al proyecto Prototipo de Plataforma interactiva para
+la Visualización y Simulación de Procesos Geofísicos de Gas y
+Aceite de lutita (Shale) con clave CONACyT/PROINOVA 184601
+y a la empresa Servicios y Suministros en Informática S.A. de
+Capital Variable <www.plenumsoft.com.mx> por las facilidades
+brindadas para la realización de este trabajo.
+
+Referencias
+Bhatt, A.; Helle, H.B. Committee neural networks for porosity
+and permeability prediction from well logs. Geophysical
+Prospecting, v.50, n.645, p.660, 2002.
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+Cong, H.; Han-Tong, L. Pattern-oriented associative rule-based
+patent classification. Expert Systems with Applications, v.37,
+n.3, p.2395-2404, 2010.
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+359
+CASO DE ESTUDIO SHALE GAS
+
+Solo se observa un amplio equipo de inventores
+pertenecientes a Shell Oil Company que colaboran entre
+sí para desarrollar las tecnologías que este titular solicita
+(Figura 5). Fuera de este amplio grupo, existen sólo 3
+tecnólogos en colaboración, y como dato interesante
+estos inventores han solicitado protección en el año 2012.
+
+Díaz-Pérez, M. Visualización del análisis del dominio tecnológico
+de Cuba: 1997-2008. 2010. Tesis (Doctoral en Documentación)
+- Departamento de Biblioteconomía y Documentación,
+Universidad de Granada, Granada, 2010.
+Díaz-Pérez, M.; Giraldez Reyes, R.; Armas Peñas, D. Principales
+resultados de innovación tecnológica de Cuba en Estados
+Unidos: una visión desde las patentes. Ciencias de la
+Información, v.39, n.2, p.37-46, 2008.
+Díaz-Pérez M., et al. Análisis patentométrico de la información
+desde la perspectiva de género. Acimed, v.20, n.2, 2009.
+Disponible en: <http://scielo.sld.cu/scielo.php?pid=S102494352009000800002&script=sci_arttext>. Acceso en: 20 sep.
+2013.
+Díaz-Pérez, M.; Guzmán M.V.; Orea U. Estudio patentométrico
+de un proyecto de investigación. Ciencias de la Información,
+v.38, n.1-2, p.57-66, 2007.
+Díaz-Pérez, M; Moya-Anegón, F. El Análisis de patentes como
+estrategia para la toma de decisiones innovadoras. El
+Profesional de la Información, v.17, n.3, 2008. Disponible en:
+<http://www.elprofesionaldelainformacion.com/contenidos/
+2008/mayo/05.html>. Acceso en: 2 oct. 2013.
+Díaz-Pérez, M.; Rivero, S.; Moya-Anegón, F. Producción
+tecnológica latinoamericana con mayor visibilidad
+internacional: 1996-2007: un estudio de caso: Brasil. Revista
+Española de Documentación Científica, v.33, n.1, p.34-62, 2010.
+
+a north sea case study. Geophysical Prospecting, v.49, n.4,
+p.431-444, 2001.
+Iturriaran, U. Smooth regression to estimate effective porosity
+using seismic attributes. Journal of Applied Geophysics, v.76,
+p.1-12, 2012.
+Jaffe, A.B.; Trajtenberg, M. Patents, citations & innovations: A
+window on the knowledge economy. Cambridge, MA: MIT
+Press, 2002.
+Leydesdorff, L. Various methods for the mapping of science.
+Scientometrics, v.1, n.5-6, p.291-320, 1987.
+Leydesdorff, L. The university–industry knowledge
+relationship: Analyzing patents and the science base of
+technologies. Journal of the American Society for Information
+Science & Technology, v.55, n.11, p.991-1001, 2004.
+Leydesdorff, L. Patent classifications as indicators of intellectual
+organization. Journal of the American Society for Information
+Science and Technology, v.59, n.10, p.1582-1597, 2008.
+Leydesdorff, l.; Heimeriks, G. The self organization of the
+European Information Society: The case of “Biotechnology”.
+Journal of the American Society for information Science and
+Technology, v.52, n.14, p.1262-1274, 2001.
+Leydesdorff, L.; Meyer, M. The scientometrics of a triple helix of
+university-industry-government relations (Introduction to the
+topical issue). Scientometrics, v.70, n.2, p.207-222, 2007.
+
+Dorrington, K.P.; Link, C.A. Genetic-algorithm/neural-network
+approach to seismic attribute selection for well-log prediction.
+Geophysics, v.69, n.1, p.212-221, 2004.
+
+Oficina Española de Patentes y Marcas. Manual de estadísticas
+de patentes de la OCDE. Madrid: OEPM, 1994.
+
+Fall, C.J., et al. Automated categorization in the international
+patent classification. ACM SIGIR Forum, v.37, n.1, p.10-25, 2003.
+
+Pramanik, A.G., et al. Estimation of effective porosity using
+geostatistics and multiattribute transforms: A case study.
+Geophysics, v.69, n.2, p.352-372, 2004.
+
+Giráldez, R.; Díaz-Pérez, M.; Armas, D. PROInTec: un software
+para el tratamiento inteligente de datos sobre patentes.
+Acimed, v.17, n.5, p.1-9, 2008. Disponible en: <http://
+scielo.sld.cu/scielo.php?script=sci_arttext&pid=S102494352008000500006>. Acceco en: 17 sep. 2013.
+Helle, H.B.; Bhatt, A.; Ursin, B. Porosity and permeability
+prediction from wireline logs using artificial neural networks:
+
+Tijssen, R.J.W. Cartography of science: Scientometric mapping
+with multidimensional scaling methods. Leiden: DSWO Press,
+1992.
+Van Zeebroeck., et al. Issues in measuring the degree of
+technological specialization with patent data. Scientometrics,
+v.66, n.3, p.481-492, 2006.
+
+360
+
+M. DÍAZ-PÉREZ et al.
+
+TransInformação, Campinas, 26(3):349-360, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300011
+
+

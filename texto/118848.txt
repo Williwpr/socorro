@@ -1,0 +1,979 @@
+59
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+Indicadores de circulação do acervo na
+Biblioteca Comunitária da Universidade
+Federal de São Carlos
+Circulation indicators of the community
+library collection of the Universidade
+Federal de São Carlos
+Débora Marroco NININ 1
+Roniberto Morato do AMARAL1
+Douglas Henrique MILANEZ2
+Leandro Innocentini Lopes de FARIA1
+
+Resumo
+Com o intuito de contribuir para a temática dos estudos de uso e usuários, visando subsidiar a tomada de decisão mais racional e
+sustentável em relação à manutenção do acervo de uma biblioteca, este estudo teve como objetivo geral elaborar um conjunto
+de indicadores sobre o uso do acervo, por intermédio da técnica de análise bibliométrica e da análise das redes sociais. Como
+método de pesquisa, utilizou-se o estudo de caso, tendo como unidade-caso a Biblioteca Comunitária da Universidade Federal de
+São Carlos, campus São Carlos, São Paulo. A amostra de dados analisada compreendeu 119.720 registros referentes à circulação
+(empréstimo, renovação e reservas) do acervo, no ano de 2011. Foram elaborados e analisados indicadores sobre a utilização do
+acervo pela comunidade, com auxílio do software VantagePoint®. Com base nos resultados obtidos, pode-se afirmar que o uso da
+bibliometria e da análise de rede para a realização de estudos de usos, prevista na teoria de estudos de usos e usuários, mostrou-se eficaz para estabelecer indicadores referentes ao perfil de usuários e uso do acervo, de forma automatizada e sem contato
+direto com os usuários.
+Palavras-chave: Análise de redes sociais. Bibliometria. Desenvolvimento de coleções. Estudos de usuários.
+
+Abstract
+In order to contribute to the study of use and users of electronic library resources and to support higher rational and sustainable decisions
+regarding the maintenance of the library collection, the aim of this study was to develop a set of indicators on the use of the library
+collection by means of bibliometric and social network analyses. The research method was a case study and the single unit assessed was
+the Community Library of the Universidade Federal de São Carlos, located in São Carlos, São Paulo. The data sample consisted of
+119,720 records of book circulation (loan, renewal and booking) from 2011. The indicators of the community use of the library collection
+were developed and the VantagePoint® software was used to evaluate them. Based on the results obtained, it can be stated that the use
+of bibliometrics and network analysis for conducting studies of uses, as predicted in the studies of uses and users, were effective to
+automatically establish indicators for the user profile and use of the collection without direct contact with users.
+Keywords: Social network analysis. Bibliometrics. Collection development. Users studies.
+
+1
+
+2
+
+Universidade Federal de São Carlos, Centro de Educação e Ciências Humanas, Departamento de Ciências da Informação. Rodovia Washington Luís, km 235,
+13565-905, São Carlos, SP, Brasil. Correspondência para/Correspondence to: R.M. AMARAL. E-mail: <roniberto@nit.ufscar.br>.
+Universidade Federal de São Carlos, Centro de Ciências Exatas e de Tecnologia, Departamento de Engenharia de Materiais. São Carlos, SP, Brasil.
+Recebido em 25/9/2013, reapresentado em 13/3/2014 e aceito para publicação em 18/3/2014.
+
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+59
+
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+Introdução
+A explosão bibliográfica e o surgimento de novos
+suportes de informação e de novas tecnologias modificaram a forma como as bibliotecas lidavam com o
+acervo. No final da década de 1960 e início da década de
+1970, houve o chamado boom do desenvolvimento de
+coleções (Vergueiro, 1989), quando a preocupação
+deixou de ser o simples acúmulo de materiais e centralizou-se no acesso aos acervos. Atualmente, por intermédio das plataformas interativas e do compartilhamento
+dos recursos de informação em rede, o limite para o uso
+das coleções passou a ser o próprio limite do conhecimento recuperável (Puerta et al., 2010).
+A teoria acerca da formação e desenvolvimento
+de coleções determina que o acervo seja um recurso que
+deve ser gerenciado por intermédio de um processo de
+planejamento (Vergueiro, 1989). Esse processo é altamente dependente das características e das necessidades de informação da comunidade atendida pela biblioteca. Nesse contexto, a biblioteca consolida-se como
+um organismo social, vivo e atuante, que precisa evoluir
+e acompanhar as transformações da comunidade para
+responder a suas demandas de informação. Logo, é
+fundamental que a biblioteca conheça o comportamento de seus usuários reais e potenciais, para aprimorar
+os produtos e serviços oferecidos (Vergueiro, 1989).
+
+60
+
+Araújo (2008, p.11) define os usuários como “seres
+em constantes interações com outros seres, seres produtores de sentido, que se articulam em comunidades
+diversas, de diferentes naturezas: profissionais, étnicas,
+religiosas, sexuais, políticas, econômicas etc.”. Nesse
+contexto, Castells (2007) conduziu seu estudo, sintetizado
+na trilogia “A Era da Informação”, cujo primeiro volume, “A
+Sociedade em Rede”, discute os efeitos das Tecnologias
+de Informação nos ambientes sociais, políticos e econômicos na atualidade. Para o autor, essas tecnologias
+moldaram a sociedade atual em grandes e pequenas
+redes de relacionamento com interesses e demandas
+próprias.
+
+D.M. NININ et al.
+
+A técnica de análise de redes já vem sendo utilizada em trabalhos ambientados dentro da Ciência da
+Informação (Matheus & Oliveira e Silva, 2006). Por outro
+lado, a literatura sobre usos e usuários aponta vários
+métodos e procedimentos possíveis para a realização
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+60
+
+desse tipo de estudo, por exemplo, observação, entrevista, Delphi, sense-making, usabilidade e bibliometria
+(Figueiredo, 1994; Baptista & Cunha, 2007). O uso da
+análise de redes pode oferecer mais uma alternativa, a
+partir das considerações de Araújo (2008) e Castells
+(2007).
+Com o intuito de contribuir para a temática dos
+estudos de usos e usuários, visando subsidiar a tomada
+de decisão mais racional e sustentável em relação à
+manutenção do acervo, o presente estudo teve como
+objetivo geral elaborar um conjunto de indicadores sobre
+o uso de um acervo, por intermédio da técnica de análise
+bibliométrica e da análise das redes sociais. Foi escolhida
+como unidade-caso a Biblioteca Comunitária (u) da
+Universidade Federal de São Carlos (UFSCar) Campus São
+Carlos (SP), caracterizada por ser uma biblioteca central
+que, por intermédio de um sistema de circulação automatizado, atende às demandas de informação da comunidade acadêmica da universidade e também dos
+munícipes de São Carlos. Os resultados gerados no estudo, na forma de indicadores de uso do acervo, podem
+auxiliar os bibliotecários no processo de desenvolvimento de coleções, em especial na avaliação do acervo,
+ao permitir a visualização do perfil de uso do acervo por
+parte dos usuários.
+Estudos de usos e usuários
+Os estudos da comunidade, ou estudo de
+usuários, como passaram a ser denominados, podem ser
+definidos como:
+Investigações que se fazem para se saber o que
+os indivíduos precisam em matéria de informação, ou então, para se saber se as necessidades
+de informação por parte dos usuários de uma
+biblioteca ou de um centro de informação estão
+sendo satisfeitas de maneira adequada (Figueiredo, 1979, p.79).
+
+Os estudos de usuários podem ser divididos em
+estudos quantitativos e qualitativos. Para Baptista e
+Cunha (2007), a fase quantitativa foi predominante entre
+as décadas de 1960 e 1980, enquanto a fase qualitativa
+ganhou espaço a partir da década de 1990. A abordagem
+quantitativa, de acordo com esses autores, “caracteriza-se, tanto na fase da coleta de dados quanto no seu
+tratamento, pela utilização de técnicas estatísticas”
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+Christiansen et al. (1983) esclarecem que os
+estudos de uso compreendem técnicas e metodologias
+próprias, tais como: (a) estudos de circulação; (b) testes
+de fornecimento de documentos; (c) estudos de disponibilidade na estante; (d) estudos de usos interno; (e)
+estudos de citações.
+Dentre tais técnicas, os estudos de circulação
+baseiam-se nos dados de circulação/empréstimo de
+materiais, diferenciando-se, portanto, dos estudos de uso
+interno. Podem ser realizados com base em todo o
+acervo, quando são analisados todos os empréstimos
+efetuados em certo período de tempo, ou por amostragem, quando parte do acervo é selecionado e são
+analisados todos os empréstimos desses materiais
+realizados ao longo do tempo. Os estudos que englobam
+todo o acervo podem ser analisados por vários parâmetros: tipo de material, tipo de usuário, assunto, data
+de aquisição etc. (Vergueiro, 1988).
+Bibliometria
+Dentre os métodos quantitativos utilizados nos
+estudos de usos e usuários está a Bibliometria, um ramo
+da Ciência que estuda quantitativamente os processos
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+61
+
+de comunicação científica, como a produção, disseminação e uso da informação registrada. A análise bibliométrica é recorrentemente aplicada às publicações
+científicas, documentos de patentes e citações, através
+da contagem de documentos e da frequência e coocorrência de palavras e termos (Okubo, 1997). É um método
+estatístico que está presente tanto na proposta de Figueiredo (1994) - contagem de citações bibliográficas quanto na de Dias e Pires (2004) - estudo das comunidades científicas.
+Os indicadores bibliométricos, conforme Tijssen
+& Van Raan (1994) e Gregolin et al. (2005), podem ser
+classificados em: (a) indicadores de uma dimensão,
+baseados em frequências de termos e de documentos,
+por exemplo, distribuição de produtividade de autores
+(lei de Lotka), instituições e países, distribuição do uso
+de vocabulário (distribuição de Zipf ), número de documentos por ano, participações porcentuais e taxas de
+crescimento; e (b) indicadores de duas dimensões, principalmente em coocorrências de termos, pessoas, entidades, distribuições de revistas por assunto (distribuição
+de Bradford) e citações, permitindo sua representação
+em redes. Já Oliveira (2010) sugere que o papel de avaliação da Ciência e Tecnologia é destinado à Cientometria,
+ficando a cargo da desta a análise de dados bibliográficos
+em geral.
+Como forma indireta de avaliar algo intangível
+(Okubo, 1997), a análise bibliométrica permite a elaboração de indicadores cuja principal função é demonstrar
+tendências e subsidiar a tomada de decisão. Nesse
+sentido, os indicadores bibliométricos elaborados a partir
+dos dados de acervo tornam-se um meio para conhecer
+o comportamento e necessidades dos usuários, permitindo inferências específicas no gerenciamento das
+atividades realizadas nas bibliotecas.
+Análise de redes
+Umas das teorias que auxiliam a compreensão das
+interações sociais é a abordagem da organização em
+rede. Castells (2007, p.566) define fisicamente uma rede
+como “um conjunto de nós interconectados” e, ainda,
+complementa: “nó é o ponto no qual a curva se entrecorta”. Para Marteleto (2004, p.72), as redes possuem
+várias definições:
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+61
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+(p.170), enquanto a abordagem qualitativa “focaliza a sua
+atenção nas causas das reações dos usuários da informação e na resolução do problema de informação”
+(p.173). Outra forma de classificar os estudos de usuários
+em uma perspectiva histórica é a divisão entre estudos
+tradicionais e estudos alternativos. Os primeiros foram
+aplicados até a década de 1980, e os últimos a partir da
+década de 1990 (Araújo, 2008). É importante diferenciar,
+no entanto, os estudos de usuários dos estudos de usos
+(Figueiredo, 1994), sendo estes últimos elaborados para
+avaliar o quanto e como uma coleção específica está
+sendo utilizada, abordagem esta surgida há mais de um
+século sob o nome de “levantamento bibliotecário”. Os
+estudos de usos aplicados em uma biblioteca podem
+compreender uma série de iniciativas (Dias & Pires, 2004),
+a saber: (a) avaliação do acervo; (b) fornecimento de
+material bibliográfico; (c) análise de uso do acervo; (d)
+uso de periódicos; (e) uso da coleção de referência; (f )
+uso de catálogos (tanto de fichas quanto em linha - online);
+(g) disponibilidade na estante; (h) perguntas e respostas;
+(i) uso compartilhado de recursos.
+
+[...] sistema de nodos e elos; uma estrutura sem
+fronteiras; uma comunidade não geográfica [...].
+A rede social, derivando desse conceito, passa a
+representar um conjunto de participantes autônomos, unindo ideias e recursos em torno de
+valores e interesses compartilhados.
+
+Freeman (1979) e Scott (2000) suge-rem que ela seja
+calculada a partir da medida de centralidade, isto é, o
+grau de centralização do grafo seria a razão entre a soma
+das diferenças entre o ponto mais e o menos centralizado do grafo pela soma máxima das diferenças possíveis;
+
+Seguindo essa definição de rede social dada por
+Marteleto (2004), Tomaél (2005) considera que o objetivo
+e a função das redes envolvendo pessoas estão relacionados à realização de atividades que proporcionam
+benefícios comuns a todos os seus integrantes. O estudo
+das redes iniciou-se com uma abordagem puramente
+matemática, mas ganhou conotações sociais quando
+estudos posteriores mostraram que o mesmo conceito
+podia ser aplicado em diversas situações (Recuero, 2009),
+como por exemplo, em estudos que abordam a colaboração científica em nanotecnologia (Oliveira, 2010) ou
+na Ciência da Informação (Matheus et al., 2006).
+
+e) Multiplexidade: mede os diferentes tipos de
+relação social que existem na rede. Considera-se que uma
+rede é multiplexa quando há uma variação na quantidade de relações sociais que aparecem na rede.
+
+Baran (1964) classifica as redes em distribuídas,
+centralizadas e descentralizadas. Redes distribuídas são
+aquelas cujos nós possuem mais ou menos o mesmo
+número de conexões (laços). Redes centralizadas são
+aquelas nas quais um único ator é detentor da maior
+parte das relações. E redes descentralizadas são aquelas
+que possuem vários centros, conectados por pequenos
+grupos de nós. Nessa concepção, as redes seriam fixas, e
+suas estruturas seriam estáticas. Mais recentemente, na
+proposta de Barabási (2003), a teoria das redes é uma
+abordagem matemática e física que as considera como
+dinâmicas, isto é, redes com estruturas em movimento e
+em evolução constante. Sua estrutura é analisada de
+acordo com as suas propriedades (Recuero, 2009).
+a) Grau de conexão: quantidade de conexões que
+um determinado nó possui;
+62
+
+b) Densidade: medida que descreve o grau de
+conexão. É a proporção entre as conexões efetivas e as
+conexões potenciais (Degenne & Forsé, 1999);
+
+D.M. NININ et al.
+
+c) Centralidade: essa propriedade mede a popularidade do nó dentro da rede, que está dire-tamente
+relacionada ao grau de conexão desse nó. Essa medida,
+diferentemente da centralização, não mede a posição
+“física” do nó, mas sim sua posição “social”. Scott (2000)
+denomina essa medida de “ponto de centralidade”;
+d) Centralização: é a medida de centralidade do
+grafo, relacionando determinado grafo com os demais.
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+62
+
+Essencialmente, as redes sociais possuem dois
+elementos básicos: os atores (correspondentes aos nós)
+e o relacionamento entre eles (Recuero, 2009). Este último
+é expresso por meio de um laço relacional, simplesmente
+laço ou ligação (Matheus et al., 2006). Em redes sociais,
+esses laços surgem em função de um propósito ou
+objetivo em comum (World Wild Found for Nature, 2003).
+Waltman et al. (2010) sugerem que a representação das
+redes bibliométricas é o resultado da combinação das
+abordagens de mapeamento e análise de clusters, ou seja,
+representa os elementos da rede (nó) em grupos que
+possuem similaridades quanto às tipologias de interação
+(conexões).
+
+Métodos
+O método de pesquisa utilizado neste artigo foi
+o estudo de caso exploratório e empírico (Gil, 1996; Berto
+& Nakano, 1999; Miguel, 2007), que investigou o uso do
+acervo da Biblioteca Comunitária (BCo)/UFSCar (unidade-caso). As técnicas de análise bibliométrica e de
+redes foram utilizadas como instrumentos de pesquisa,
+e o conjunto de registros armazenados no sistema de
+circulação da unidade-caso, referentes ao ano de 2011,
+compôs a amostra analisada (119.720 registros). A utilização da bibliometria e da análise de redes seguiu a
+abordagem de pesquisa quantitativa (Creswell, 2009),
+que Terence e Escrivão Filho (2006, p.3) definem como
+sendo uma abordagem que “permite a mensuração de
+opiniões, reações, hábitos e atitudes em um universo, por
+meio de uma amostra que o represente estatisticamente”,
+pois os registros relativos à circulação do acervo da
+unidade-caso foram tratados, quantificados e analisados
+na forma de indicadores.
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+a) Acervo do Banco do Livro Texto: são obras que
+fazem parte das bibliografias básicas das disciplinas
+oferecidas pelos 35 cursos de gra-duação presenciais da
+universidade e caracterizam-se pelo significativo número
+de exem-plares de cada título;
+b) Acervo Geral: são obras acadêmicas relacionadas aos cursos oferecidos;
+c) Acervo do Ensino Fundamental: compreende
+obras de literatura infantil e infanto-juvenil;
+d) Teses e Dissertações: compreende trabalhos
+produzidos pelos alunos de pós-graduação da universidade e trabalhos doados por outras instituições e
+autores;
+e) Referência: constitui-se de dicionários gerais e
+específicos, e glossários de diversas áreas.
+Além dessas categorias, o acervo compreende as
+obras de coleções especiais, como o fundo Florestan
+Fernandes e o acervo multimídia, dentre outros.
+A BCo/UFSCar adota nos sistema de classificação
+temática do seu acervo tanto a Classificação Decimal de
+Dewey (CDD) como a Classificação Decimal Universal
+(CDU). É importante ressaltar que ambas as classificações
+compreendem praticamente a mesma estrutura para
+suas classes principais, sendo que somente a classe 400,
+Línguas na CDD, é vaga na CDU. Dessa forma, todo o
+acervo (com exceção das Teses e Dissertações) está
+divido entre essas classes, havendo a diferenciação entre
+um sistema de classificação e outro nas classes secundárias.
+A BCo/UFSCar diferencia-se das bibliotecas universitárias públicas, pois oferece atendimento à comunidade interna e externa. Dentre todos os tipos de
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+63
+
+usuários categorizados pela biblioteca, existem quatro
+grupos de usuários ativos que se destacam:
+a) alunos de graduação (10.464 usuários);
+b) alunos de pós-graduação (3.663 usuários);
+c) comunidade externa (881 usuários);
+d) docentes (1.084 usuários).
+A amostra analisada compreendeu as atividades
+de circulação realizadas pelos usuários ativos da unidadecaso, sob forma de empréstimos, renovações, reservas e
+consultas locais. O Quadro 1 apresenta um exemplo de
+parte dos registros coletados junto ao sistema de
+circulação, que já vem em formato bibliográfico estruturado e adequado à análise bibliométrica. Além do tipo
+de atividade de circulação, os dados dos registros incluem
+a data e horário da realização da atividade, a tipologia
+do usuário, a classificação temática e de Cutter do material, o título do item do acervo e a tipologia da coleção.
+Os registros relativos à consulta local foram desconsiderados, pois se referem ao uso interno do acervo, o
+que não foi objeto deste estudo.
+Após a coleta, os dados passaram por um tratamento bibliométrico semiautomatizado, com apoio do
+software VantagePoint® (versão 5.0), desenvolvido pela
+Georgia Institute of Technology (EUA). Sua função é organizar, tratar e cruzar os dados importados, fornecendo
+listas, mapas estatísticos e matrizes. Para que o software
+reconhecesse os metadados da amostra no formato bibliográfico, conforme exemplificado pelo Quadro 1, foi
+necessário o desenvolvimento de um filtro de importação, construído por intermédio da opção Import Engine
+Editor, funcionalidade do próprio software. Foi possível
+importar as seguintes informações da amostra: tipo de
+atividade, tipo de usuário, tipo e classificação do acervo,
+e horário de realização da atividade.
+Após o tratamento bibliométrico, foram elaborados indicadores sobre a utilização do acervo pela
+comunidade: (a) mapa de correlação cruzada entre os
+tipos de usuários e a classificação temática do objeto
+emprestado do acervo; (b) perfil de uso do acervo dos
+quatro maiores tipos de usuários da unidade-caso, em
+função das atividades de empréstimo, tipo e classificação
+do acervo, e horários em que realizaram os empréstimos.
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+63
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+Quanto à seleção da BCo/UFSCar como unidade-caso, ela se deve às suas particularidades: 1) é uma
+biblioteca central e única no campus de São Carlos; 2)
+atende a comunidade acadêmica e servidores dos três
+campi da universidade e, ainda, os munícipes de São
+Carlos, São Paulo; 3) contempla um expressivo acervo
+com cerca de 241 mil exemplares de obras monográficas,
+mais de 4 mil títulos de periódicos, e igual número de
+teses e dissertações. O acervo da biblioteca está dividido
+em cinco categorias.
+
+Quadro 1. Exemplo de registros de circulação recuperados do sistema da Biblioteca Comunitária da Universidade Federal de São Carlos.
+Registros do Sistema de Circulação
+ren|201101|1502|G801|L776i.2|A literatura e o leitor|JAUSS, Hans Robert;ISER, Wolfgang;STIERLE, Karlheinz;GUMBRECHT, Hans Ulrich;WEINRICH,
+Harald|CX|G
+ren|201101|2244|EJ|D754ev.7|Um estudo em vermelho|DOYLE, Arthur Conan, Sir, 1859-1930|GR|E
+ren|201101|1456|G678.2|H713r|Rubber technology handbook|HOFMANN, Werner, 1924-|DO|G
+ren|201101|1457|G668.4|P715c|Plastics compounding||DO|G
+ren|201101|1457|G678.2|R894p|Rubber products manufacturing technology||DO|G
+ren|201101|2305|EJ|R884hp|Harry Potter e a pedra filosofal|ROWLING, Joanne Kathleen, 1965-|PG|E
+ren|201101|0859|G621.4022|K92p|Princípios de transferência de calor|KREITH, Frank, 1922-;BOHN, Mark S.|CX|G
+ren|201101|0859|G621.43|C331p|Princípios de combustão aplicada|CARVALHO JR, João Andrade de;MCQUAY, Mardson Queiroz|CX|G
+emp|201101|0903|G891.3|K44s.5|Sushi|KEYES, Marian, 1963-|GR|G
+emp|201101|0913|G002|C486o.2|A ordem dos livros|CHARTIER, Roger|B1|G
+emp|201101|0913|G530.01|D871e.2|Essai sur la notion de theorie physique|DUHEM, Pierre Maurice Marie, 1861-1916|B1|G
+emp|201101|0913|B512.5|L732a.5|Álgebra linear|LIMA, Elon Lages|B1|B
+Fonte: Elaborado pelos autores, com base na amostra de 119.720 registros referentes à circulação do acervo da Biblioteca Comunitária da
+Universidade Federal de São Carlos no ano de 2011.
+
+Os indicadores foram representados com o auxílio do
+software VantagePoint® e do Microsoft Excel (versão 2007).
+
+Resultados e Discussão
+
+64
+
+D.M. NININ et al.
+
+O mapa de correlação cruzada entre os tipos de
+usuários e a classificação temática do objeto emprestado
+do acervo no ano de 2011 (Figura 1) mostram dois clusters
+de rede, com base na similaridade de interesse quanto
+ao uso do acervo. Embora o Cluster 1 tenha mais elementos (9 nós), o número de conexões efetivas entre seus
+membros (total de 9 conexões) é 1/4 do número de
+conexões potenciais (36 conexões), conforme o conceito
+de medida de densidade de rede (Degenne & Forsé, 1999;
+Recuero, 2009). Nesse sentido, pode-se dizer que o Cluster
+2 tem uma rede mais densa, pois o número de conexões
+efetivas (total de 7 conexões) é quase 50% do número
+de conexões possíveis entre seus integrantes (15 conexões). Consequentemente, os usuários pertencentes ao
+Cluster 2 compartilham maior similaridade de interesse
+no empréstimo de obras de uma mesma classificação
+temática do acervo, enquanto os elementos do Cluster
+1 apresentam uma diversidade maior quanto ao uso do
+acervo.
+A análise específica de cada cluster e dos relacionamentos internos entre seus membros pode auxiliar
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+64
+
+o gestor da biblioteca a compreender a dinâmica de
+interesses comuns de seus usuários. O Cluster 1 é composto por alunos de graduação dos campi de São Carlos
+(GR), Araras (GA) e do Instituto Federal de São Paulo (GC),
+bem como por alunos de pós-graduação dos campi de
+São Carlos (PG) e Araras (PA) e, ainda, por usuários internos
+da biblioteca (B1), pesquisadores (PE), docentes (DO) e
+tutores da Universidade Aberta do Brasil/UFSCar (TU),
+convênio de ensino à distância do qual a UFSCar faz parte.
+À parte, há que se ressaltar que, embora o estudo tenha
+focado a biblioteca localizada no campus de São Carlos,
+observa-se a presença de usuários de outros campi, como
+Araras e Sorocaba.
+Os usuários de graduação do campus de São
+Carlos (GR) se destacam pelo número de empréstimos
+efetuados (tamanho do nó), o que está associado à sua
+representatividade na população de usuários ativos (65%)
+da biblioteca. Esses usuários, no entanto, contemplam
+aproximação apenas com os tipos de usuários alunos da
+graduação do campus de Araras (GA) e usuários internos
+da biblioteca (B1), dentre 23 possibilidades de elementos,
+mostradas na Figura. Esse comportamento por parte dos
+alunos da graduação está relacionado a um uso do acervo mais voltado para a formação acadêmica, com empréstimo de material para uso em disciplinas, não apresentando outras demandas de informação, comuns entre
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+Outro tipo de usuário que se destaca no Cluster 1
+é aquele interno da biblioteca (B1), que é composto em
+especial pelos bibliotecários da BCo/UFSCar. Esse grupo
+
+contempla maior número de relações com outros tipos
+de usuários, o que significa maior medida de centralidade
+e justifica seu posicionamento na rede deste cluster
+(Scott, 2000; Recuero, 2009; Waltman et al., 2010). Tal
+comportamento pode ser explicado pelo fato de que
+esse tipo de usuário trabalha com todas as categorias e
+temáticas do acervo.
+Por estarem na periferia do cluster, os demais tipos
+de usuários do Cluster 1 possuem importância menor no
+contexto da rede, embora seja interessante notar, por
+exemplo, que o usuário tutor da Universidade Aberta do
+Brasil/UFSCar (TU) apresenta interesse em comum ao
+mesmo tempo com alunos de pós-graduação do campus
+de São Carlos (PG) e alunos de pós-graduação do campus
+de Araras (PA). Porém, estes dois últimos não demonstram
+interesse em comum pelo acervo, provavelmente pelo
+foco específico de atuação do campus de Araras, na área
+de Ciências Agrárias. A aproximação do usuário tipo TU
+com PG e PA pode ser explicada pelo fato de muitos
+alunos de pós-graduação atuarem como tutores nos
+cursos da Universidade Aberta do Brasil/UFSCar. Com
+relação aos usuários pesquisadores (PE), é difícil visualizar
+se há uma ligação com os usuários da categoria graduação (GR), o que é uma limitação da representação
+em duas dimensões (Waltman et al., 2010).
+
+Figura 1. Mapa de correlação cruzada (Tipo de usuário x Classificação temática).
+Fonte: Elaborado pelos autores, com base em 100.662 registros referentes ao empréstimo do acervo da Biblioteca Comunitária da Universidade Federal de São Carlos no ano de 2011.
+Notas: B1= usuários internos da biblioteca; BB = bibliotecas; CX = comunidade
+externa; DC= docente do Instituto Federal São Paulo campus São Carlos;
+DO = docentes; FC = outros; GA = alunos de graduação campus de Araras;
+GC = alunos de graduação do Instituto Federal São Paulo campus São Carlos;
+GR= alunos de graduação campus São Carlos; GU = alunos de graduação da
+Universidade Aberta do Brasil/UFSCar; GS = alunos de graduação campus
+Sorocaba; HF = Hospital-Escola; PA= alunos de pós-graduação campus Araras;
+PE = pesquisadores; PG= alunos de pós-graduação campus São Carlos;
+PS = alunos de pós-graduação campus Sorocaba; TA = técnicos administrativos campus Araras; TC = técnicos administrativos campus Instituto
+Federal São Paulo campus São Carlos; TS = técnicos administrativos
+campus Sorocaba; TU = tutores da Universidade Aberta do Brasil/UFSCar;
+UF= UFSCar.
+
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+65
+
+O Cluster 2 é composto por seis tipos de usuários:
+comunidade externa (CX), técnicos administrativos do
+campus de Araras (TA), outras unidades organizacionais
+da UFSCar (UF), outras bibliotecas (BB), funcionários do
+Hospital-Escola (HF) e técnicos administrativos do
+campus de Sorocaba (TS). A rede do Cluster 2 pode ser
+classificada como distribuída (Baran, 1964), pois os integrantes possuem pelo menos três conexões cada um,
+exceto no caso dos usuários tipo TA e HF. Essa característica está associada à diversidade de interesse dos
+integrantes, sendo que os usuários outras bibliotecas (BB)
+e técnicos administrativos do campus de Sorocaba (TS)
+têm posição de destaque, pois se conectam ao usuário
+do tipo comunidade externa (CX), que apenas empresta
+itens do acervo Geral e Ensino Fundamental (Figura 4), e
+com usuário do tipo outras unidades organizacionais da
+UFSCar (UF), que pode emprestar qualquer item do
+acervo circulante. A rede do Cluster 2 também sugere
+que os técnicos administrativos do campus de Araras (TA)
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+65
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+os outros tipos de usuários, o que pode representar uma
+subutilização do conteúdo oferecido pela biblioteca.
+
+têm o mesmo interesse que o usuário comunidade externa (CX), ou seja, utilizam apenas itens do acervo Geral e
+Ensino Fundamental.
+Outra consideração relevante sobre a rede de
+usuários da BCo/UFSCar é o fato de que todas as relações
+entre as diferentes tipologias de usuários são relativamente fortes, considerando a legenda da Figura 1. Uma
+das hipóteses é que os usuários contemplam um conjunto significativo de necessidades de informação em
+comum, o que pode indicar a eficácia do processo de
+formação e desenvolvimento de coleções da unidade-caso (Vergueiro, 1989).
+O uso dos diferentes acervos varia de acordo com
+o tipo de usuário em termos de empréstimo (Figura 2). É
+possível observar que os alunos de graduação são
+responsáveis por 63% dos empréstimos das obras do
+Banco do Livro Texto e por 34% do Acervo Geral. Esse
+indicador sugere que os usuários da graduação utilizam
+
+a unidade para suprir as suas necessidades básicas de
+informação em relação às disciplinas que cursam, e não
+outras presentes em outros acervos, como também foi
+observado por intermédio da Figura 2. O aprofundamento de seus estudos seria proporcionado pelo
+Acervo Geral, porém uma menor quantidade deles
+procura esse tipo de acervo, diferentemente das outras
+tipologias de usuários. Esse indicador corrobo-ra o
+comportamento de poucas ligações identificado na rede
+de usuários do Cluster 1 (Figura 1). Consequentemente,
+a unidade pode direcionar seus esforços para uma melhor
+manutenção do acervo do Banco do Livro Texto, tanto
+em termos físicos quanto nas atividades de liberação de
+carrinhos e guarda de livros. Se, hipoteticamente, não há
+distinção de acervos no momento de liberação dos
+carrinhos para a guarda dos itens devolvidos, a unidade
+pode adotar medidas de otimização dessas atividades,
+como, por exemplo, separar as obras de acordo com o
+tipo de acervo. Assim, pode liberar mais rapidamente as
+
+66
+
+D.M. NININ et al.
+
+Figura 2. Número de empréstimos por tipo de acervo para os quatro tipos de usuários mais representativos.
+Fonte: Elaborado pelos autores, com base em 100.662 registros referentes ao empréstimo do acervo da Biblioteca Comunitária da Universidade Federal de São
+Carlos no ano de 2011.
+
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+66
+
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+Para os alunos da pós-graduação, a situação é
+oposta ao verificado na graduação: o Acervo Geral corresponde a 61% dos empréstimos realizados por esses
+usuários, enquanto os livros do Banco do Livro Texto
+respondem por apenas 29% dos empréstimos, conforme
+Figura 2. Esses alunos ainda fazem uso do acervo de Teses
+e Dissertações, o que corresponde a 6% dos empréstimos. Esse fato pode ser explicado pela necessidade
+desses usuários de realizarem um vasto levantamento
+bibliográfico a respeito do que estão pesquisando. Nota-se também que esses usuários fazem uso do acervo monográfico impresso, mesmo diante da disponibilização
+de monografias em formato digital de acesso aberto,
+como a Biblioteca Digital de Teses e Dissertações do Instituto Brasileiro de Informação em Ciência e Tecnologia
+
+(IBICT). Isso aponta, para os bibliotecários e para o gestor
+da unidade-caso, a necessidade de monitoramento
+desse uso, para melhor entendimento dos motivos que
+levam os usuários a consultar trabalhos impressos. Uma
+explicação pode ser a dificuldade de se encontrarem
+trabalhos mais antigos em formato digital, sendo necessário, portanto, recorrer ao acervo impresso.
+A comunidade externa não tem acesso ao acervo
+do Banco do Livro Texto nem ao acervo impresso de Teses
+e Dissertações. Sendo assim, os empréstimos realizados
+por esse tipo de usuário se concentram nas obras do
+acervo Geral e do Ensino Fundamental, os quais respondem, respectivamente, por cerca de 80% e 20% dos empréstimos realizados por eles. Os docentes também fazem maior uso do Acervo Geral, embora os empréstimos
+do acervo do Banco do Livro Texto correspondam a cerca
+de 1/4 dos empréstimos realizados por esse tipo de
+usuário.
+
+Figura 3. Número de empréstimos por hora, para os quatro tipos de usuários mais representativos.
+Fonte: Elaborado pelos autores, com base em 100.662 registros referentes ao empréstimo do acervo da Biblioteca Comunitária da Universidade Federal de São
+Carlos no ano de 2011.
+
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+67
+
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+67
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+obras do Banco do Livro Texto, de forma a garantir ao
+aluno de graduação a disponibilidade das obras de que
+necessita.
+
+Em relação à frequência dos usuários ao longo
+do dia, nota-se que a rotina diária da biblioteca é determinada pelos usuários da graduação. O horário para
+empréstimo inicia-se às oito horas da manhã e termina
+às vinte e uma horas e quarenta e cinco minutos, de
+segunda-feira a sexta-feira; e das oito horas da manhã às
+quatorze horas, aos sábados. A diferença de frequência
+aparece quando se compara a rotina dos alunos de graduação com os demais tipos de usuários mais significativos para a unidade-caso (Figura 3).
+Comparando-se os gráficos da Figura 3, nota-se
+que os alunos da pós-graduação realizam proporcionalmente mais empréstimos na parte da tarde dos
+que os usuários da graduação, os quais se distribuem de
+maneira mais igualitária ao longo desse período. O mesmo acontece com a comunidade externa, porém em
+menor magnitude, com concentração de grande parte
+dos empréstimos no período das onze horas da manhã
+(aproximadamente 12% dos empréstimos totais). Já os
+docentes da universidade realizam seus empréstimos
+principalmente no período da tarde, entre as dezesseis e
+as dezoito horas, que concentra quase 25% dos empréstimos realizados. A diferença entre os horários de maior
+uso por parte desses três tipos de usuários em relação
+aos alunos da graduação pode ser explicado pela maior
+flexibilidade de horários que aqueles possuem. Alunos
+da graduação geralmente têm aulas em período integral,
+tendo como intervalo mais representativo o horário de
+almoço, justamente o horário de pico de empréstimos.
+
+68
+
+D.M. NININ et al.
+
+De posse desses indicadores, o gestor da Biblioteca pode planejar o serviço de atendimento, a
+distribuição de equipes de trabalho e a realização de
+eventos, maximizando a margem de sucesso das iniciativas da biblioteca com o público que deseja atingir.
+Por exemplo, um evento destinado à comunidade externa na parte da manhã, provavelmente terá pouco sucesso, enquanto um evento destinado a docentes ao final
+da tarde possui maiores chances de participação. Encontrar um horário comum a todos os usuários pode
+significar o melhor momento para reunir a comissão de
+biblioteca, essencial para o processo de formação e
+desenvolvimento de coleções (Vergueiro, 1989).
+A Figura 4 apresenta o perfil de uso do acervo
+por parte dos usuários de graduação, pós-graduação,
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+68
+
+comunidade externa e docentes, de acordo com o número de classificação temática do acervo. Observa-se
+uma similaridade na distribuição de empréstimos com
+as leis bibliométricas de Zipf e de Lotka (Tijssen & Van
+Raan, 1994; Okubo, 1997; Gregolin et al., 2005), na qual
+algumas classificações são mais demandadas do que
+outras, embora a tendência seja mais característica para
+os usuários de graduação.
+Os alunos de graduação realizaram 92% dos seus
+empréstimos para obras da classe 500 do Banco do Livro
+Texto, correspondente às Ciências-CDD e às Ciências
+Puras-CDU, enquanto 27% dos empréstimos dos alunos
+da pós-graduação se concentram na classe 300 do
+Acervo Geral, correspondente às Ciências Sociais-CDD e
+CDU. Uma possível explicação é que a área de Ciências
+Sociais concentra mais livros do que publicações em
+periódicos (Okubo, 1997). Pode-se afirmar também que,
+mais do que utilizar a unidade para seus estudos básicos,
+os alunos da graduação buscam em sua maioria obras
+relacionadas às Ciências Exatas.
+Dentre os pós-graduandos, as classes do Acervo
+Geral 500 (Ciências-CDD; Ciências Puras-CDU) e 600
+(Tecnologia, Ciências Aplicadas-CDD; Ciências Aplicadas,
+Medicina, Tecnologias-CDU) respondem por 21% e 19%
+dos empréstimos respectivamente, enquanto a classe
+100 (Filosofia e Psicologia - CDD e CDU) responde por
+16% deles. Esse comportamento pode ser explicado pelo
+fato de que, até 2011, a Universidade oferecia 13 cursos
+de pós-graduação na área de Ciências Exatas e de Tecnologias, 12 na área de Ciências Humanas e 7 na área de
+Ciências Biológicas e da Saúde.
+Em relação aos cursos de graduação, a distribuição
+não é igualitária, como acontece na pós-graduação:
+eram 10 cursos na área de Ciências Biológicas e da Saúde,
+17 cursos na área de Ciências Exatas e 11 cursos na área
+de Ciências Humanas no ano de 2011.
+O usuário comunidade externa faz uso principalmente de obras da classe 300, 600 e 800 do Acervo
+Geral, esta última correspondente às áreas de Literatura
+(CDD) e Língua, Linguística, Filologia e Literatura (CDU).
+Esse interesse pelas obras do Acervo Geral pode estar
+associada à carência ou à impossibilidade de acesso a
+outras bibliotecas da cidade que possam suprir sua
+necessidade de informação.
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+69
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+Figura 4. Número de empréstimos por número de classificação temática, para os quatro tipos de usuários mais representativos.
+Fonte: Elaborado pelos autores, com base em 100.662 registros referentes ao empréstimo do acervo da Biblioteca Comunitária da Universidade Federal de São
+Carlos no ano de 2011.
+
+Enquanto os alunos de graduação fazem maior
+uso do Banco do Livro Texto (classe 500), os docentes
+utilizam majoritariamente o Acervo Geral para a mesma
+classe, seguido da classe 600 e da classe 300. Apesar disso,
+esse tipo de usuário responde por apenas 6% dos empréstimos dessas classes, enquanto os usuários da graduação são responsáveis por 66%.
+Por fim, o maior número de empréstimos de obras
+classificadas em Ciências Exatas e de Tecnologias (classes
+500 e 600) é explicado pelo alto número de cursos de
+graduação e pós-graduação oferecidos pela instituição
+nessa área em relação aos cursos de Ciências Humanas.
+
+Conclusão
+O surgimento de novas tecnologias e o processo
+de automatização das bibliotecas e centros de informação abrem novas possibilidades de estudos acerca de
+usos e usuários, e contribuem para um desenvolvimento
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+69
+
+de coleção mais harmonioso e personalizado às necessidades de informação da comunidade. As análises de
+uso do acervo são uma dimensão dos estudos de usos e
+usuários cujos resultados possibilitam aos gestores aprofundar o entendimento sobre a utilização do acervo.
+A elaboração de indicadores de circulação a partir
+dos dados do sistema de gestão de uma biblioteca,
+conforme procedimentos adotados no presente estudo,
+pode contribuir para o avanço dos estudos de usos e
+usuários sob o olhar do paradigma social, a partir da
+aplicação das técnicas de análise bibliométrica e de redes
+sociais. Quanto à unidade-caso escolhida, faz-se necessário chamar atenção para a especificidade de seu
+atendimento, o que a diferencia de outras iniciativas no
+Brasil e sugere que o contexto de atuação de cada caso
+seja levado em consideração em futuras análises. Quanto
+à amostra analisada deve-se salientar que são de fundamental importância a completude e a confiabilidade
+dos registros referentes à circulação, recuperados junto
+ao sistema automatizado de gestão da unidade-caso.
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+Os resultados obtidos compreenderam um conjunto de indicadores: 1) sobre o comportamento em
+rede, que expressou, na forma de ligações, a similaridade
+nas necessidades de informação dos usuários, com base
+nas classificações temáticas e nas tipologias dos usuários;
+2) sobre os empréstimos por categoria, que apresentou
+na forma de rankings o perfil de uso do acervo, com base
+nas tipologias de documentos e na classificação temática.
+Com base nesses resultados, é possível afirmar
+que o uso da técnica de análise bibliométrica, prevista
+na teoria de estudos de usos e usuários e da análise de
+redes, aqui apresentada e discutida, mostrou-se eficaz
+na elaboração de um conjunto de indicadores referentes
+ao perfil de uso do acervo de uma biblioteca universitária
+e comunitária, de forma automatizada e sem o contato
+direto com os usuários. Esses indicadores podem contribuir para a tomada de decisão mais racional e sustentável acerca do processo de formação e desenvolvimento da coleção da biblioteca, além de expressar
+parcialmente e quantitativamente a rotina diária da biblioteca. Dessa forma, pode-se afirmar que a gestão de
+bibliotecas como um todo pode ser beneficiada com a
+obtenção de indicadores por meio da bibliometria e da
+análise de redes.
+
+A partir dos resultados alcançados, recomenda-se o aprofundamento dos estudos de uso por meio da
+análise bibliométrica e da análise de redes em estudos
+de usos e usuários, reaplicando as mesmas técnicas em
+outras bibliotecas e propondo mudanças e novos procedimentos no método, de forma a tornar a elaboração
+dos indicadores mais precisa e confiável.
+A abordagem em rede mostra-se cada vez mais
+presente, refletindo-se inclusive nos ambientes de
+informação. Este artigo buscou contribuir para a temática,
+abordando diversos assuntos, como a formação e
+desenvolvimento de coleções, os estudos de usos e
+usuários, a aplicação da análise de redes e da técnica
+bibliométrica em outros contextos que não aqueles em
+que já estão consolidados. Nesse sentido, o método e as
+ferramentas aqui utilizados poderão ser aplicados em
+outros contextos e bibliotecas, sempre observando a
+qualidade dos registros para análise e questões específicas da unidade, como tipo de usuário, propósitos, acervo, entre outras. O advento de futuras tecnologias também provocará outras propostas e ideias, exigindo novos
+esforços dos gestores de bibliotecas e dos bibliotecários
+para aplicá-las em seu ambiente de trabalho, estreitando
+cada vez mais suas relações com o usuário.
+
+Referências
+Araújo, C.A.Á. Estudo de usuários: pluralidade teórica, diversidade de objetos. In: Encontro Nacional de Pesquisa em
+Ciência da Informação, 9., 2008, São Paulo. Anais... São Paulo:
+ANCIB, 2008. p.1-14.
+Baptista, S.G.; Cunha, M.B. Estudo de usuários: visão global dos
+métodos de coleta de dados. Perspectivas em Ciência da
+Informação, v.12, n.2, p.168-184, 2007.
+
+70
+
+Barabási, A.L. Linked: How everything is connected to
+everything else and what it means for business, science and
+everyday life. Cambridge: Plume, 2003.
+Baran, P. On distributed communications: Introduction to
+distributed communications networks. 1964. Available from:
+<http://www.rand.org/pubs/research_memoranda/RM3420.
+html>. Cited: Feb. 28, 2014.
+
+D.M. NININ et al.
+
+Berto, R.M.V.; Nakano, D.N. A produção científica nos anais do
+encontro nacional de engenharia de produção: um
+levantamento de métodos e tipos de pesquisa. Produção, v.9,
+n.2, p.65-76, 1999.
+Castells, M. A sociedade em rede. 10.ed. São Paulo: Paz e Terra,
+2007. (A era da informação: economia, sociedade e cultura,
+v.1).
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+70
+
+Christiansen, D.E.; Davis, R.; Reed Scott, J. Guide to collection
+evaluation through use and user studies. Library Resources &
+Technical Services, v.27, n.4, p.432-440, 1983.
+Creswell, J.W. Research design: Qualitative, quantitative, and
+mixed methods approaches. 3nd. Los Angeles: Sage, 2009.
+Degenne, A.; Forsé, M. Introducing social networks. London:
+Sage, 1999.
+Dias, M.M.K.; Pires, D. Usos e usuários da informação. São Carlos:
+EdUFSCar, 2004. 55p. (Série Apontamentos).
+Figueiredo, N.M. Avaliação de coleções e estudos de usuários.
+Brasília: Associação dos Bibliotecários do Distrito Federal, 1979.
+96p.
+Figueiredo, N.M. Estudos de uso e usuários da informação.
+Brasília: IBICT, 1994.154p.
+Freeman, L.C. Centrality in social network: Conceptual
+clarification. Social Networks, n.1, p.215-239, 1979.
+Gil, A.C. Como elaborar projetos de pesquisa. São Paulo: Atlas,
+1996.
+Gregolin, J.A.R. et al. Análise da produção científica a partir de
+indicadores bibliométricos. In: Fundação de Amparo à Pesquisa
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+Marteleto, R.M.; Oliveira e Silva, A.B. Redes e capital social: o
+enfoque da informação para o desenvolvimento local. Ciência
+da Informação, v.33, n.3, p.41-49, 2004.
+Matheus, R.F.; Oliveira e Silva, A.B. Análise de redes sociais
+como método para a Ciência da Informação. DataGramaZero:
+Revista de Ciência da Informação, v.7, n.2, 2006. Disponível
+em: <http://www.dgz.org.br/abr06/F_I_art.htm>. Acesso em:
+25 jan. 2012.
+Miguel, P.A.C. Estudo de caso na engenharia de produção:
+estruturação e recomendações para sua condução. Produção,
+v.17, n.1, p.216-229, 2007.
+Oliveira, S.C. Redes de colaboração científica: a dinâmica das
+redes em nanotecnologia. 2010. Dissertação (Mestrado em
+Ciências, Tecnologia e Sociedade) - Centro de Educação e
+Ciências Humanas, Universidade Federal de São Carlos, São
+Carlos, 2010.
+Okubo, Y. Bibliometric indicators and analysis of research
+systems: Methods and examples. Paris: STI Working Papers,
+1997.
+Puerta, A.A.; Amaral, R.M.; Gracioso, L.S. Uso de tecnologias da
+informação e comunicação para participação de usuário na
+formação e no desenvolvimento de coleções. Revista
+Informação & Universidade, v.2, n.1, 2010. Disponível em:
+<http://www.siglinux.nce.ufrj.br/~gtbib/site/2010/10/
+tecnologias-da-informacao-participacao-usuario-naformacao-desenvolvimento-de-colecoes/>. Acesso em: 5 set.
+2013.
+Recuero, R. Redes sociais na internet. Porto Alegre: Sulina, 2009.
+(Coleção Cibercultura).
+
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+Trans6.pmd
+
+71
+
+Scott, J. Social network analysis: A handbook. 2nd. London:
+Sage, 2000.
+Terence, A.C.F.; Escrivão Filho, E. Abordagem quantitativa,
+qualitativa e a utilização da pesquisa-ação nos estudos organizacionais. In: Encontro Nacional de Engenharia de Produção,
+26., 2006, Fortaleza. Anais eletrônicos... Fortaleza: Abepro, 2006.
+Disponível em: <http://www.abepro.org.br/biblioteca/
+enegep2006_ tr540368_8017.pdf>. Acesso em: 5 set. 2013.
+Tijssen, R.J.W.; Van Raan, A.F.J. Mapping changes in science
+and tecnology: Bibliometric cooccurrence analysis of the R&D
+literature. Evalutation Review, v.18, n.1, p.98-115, 1994.
+Tomaél, M.I. Redes de informação: o ponto de contato dos
+serviços e unidades de informação no Brasil. Informação &
+Informação, v.10, n.1/2, 2005. Disponível em: <http://www.
+uel.br/revistas/uel/index.php/informacao/article/view/1611/
+1366>. Acesso em: 5 set. 2013.
+Vergueiro, W.C.S. Desenvolvimento de coleções. São Paulo: Polis,
+1989. 96p. (Coleção Palavra-Chave, v.1).
+Vergueiro, W.C.S. Estudos de uso e de usuários como instrumentos para diminuição da incerteza bibliográfica. Revista da
+Escola de Biblioteconomia, v.17, n.1, p.104-118, 1988.
+Waltman, L.; Van Eck, N.J.; Noyons, E.C.M. A unified approach
+to mapping and clustering of bibliometric networks. Journal
+of Informetrics, v.4, n.4, p.629-635, 2010.
+World Wild Found for Nature. Redes: uma introdução às dinâmicas da conectividade e da auto-organização, 2003. Disponível em: <http://www.wwf.org.br/informacoes/bliblioteca/
+?3960>. Acesso em: 5 set. 2013.
+
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+18/12/2014, 11:25
+
+71
+INDICADORES DE CIRCULAÇÃO DO ACERVO
+
+do Estado de São Paulo. Indicadores de ciência, tecnologia e
+inovação em São Paulo 2004. São Paulo: Fapesp, 2005. Cap.5,
+p.5-43.
+
+72
+
+D.M. NININ et al.
+
+TransInformação, Campinas, 27(1):59-71, jan./abr., 2015
+
+Trans6.pmd
+
+72
+
+http://dx.doi.org/10.1590/0103-37862015000100006
+
+18/12/2014, 11:25
+
+

@@ -1,0 +1,1588 @@
+Papers production in the database Web of Science and
+Scopus about physical education: Comparative
+study between Spain and Brazil
+Joaquín REVERTER-MASÍA1
+Vicenç HERNÁNDEZ-GONZÁLEZ1
+Carme JOVE-DELTELL1
+Teresa FONSECA2
+Alejandro LEGAZ-ARRESE3
+
+Resumen
+Existe un creciente interés y necesidad en la evaluación de la producción científica. Entre las mediciones más importantes, está el
+número de artículos, el factor de impacto de la revista en que se publica y el índice de h. El objetivo analizar la producción de los
+profesores de las áreas de Educación Física de España y Brasil por medio de artículos en revistas en la base de datos Web of Science
+y Scopus. El método es un estudio descriptivo, comparativo y correlacional de análisis de documentos. La muestra la forman 373
+profesores, de los cuales 108 corresponden a Brasil y 265 a España. Los resultados indican que los profesores en España tienen en
+Web of Science un Índice h 2.6 y 7.4 artículos por investigador y en Scopus una h 3.1 y 9.5 artículos. Los profesores brasileños en Web
+of Science tienen un Índice h de 6.05 y 30.91 artículos por autor y en Scopus una h 7.5 y 37.7 artículos. Las correlaciones entre
+número de artículos por profesor e Índice h son muy elevadas tanto en Web of Science como en Scopus. Las revistas en que más
+publican los profesores brasileños y españoles son Medicine and Science in Sports and Exercise y Journal of Strength and Conditioning
+Research. A modo de conclusión, el trabajo ha mostrado que existen notables diferencias de producción entre los profesores de
+los diferentes países. Los resultados muestran una mayor visibilidad de Scopus en relación a Web of Science.
+Palabras Ilave: Deporte. Indicadores bibliométricos. Producción científica. Boletines. Scopus. Web of Science.
+
+Abstract
+There has been a growing interest and need in the evaluation of the quality and quantity of papers published by researchers. Therefore,
+the most important measurements are the number of items, the journal impact factor and the h-index. The aim of this paper is to
+analyze the publications of the professors in the field of Physical Education in Spain and Brazil published in journals in the Web of Science
+and Scopus databases. The method used is a descriptive, comparative and correlational analysis of documents. The sample consisted of
+373 publications of professors of which 108 are in the field of Physical Education in Brazil and 265 in the field of Physical Education in
+1
+
+2
+3
+
+Universidad de Lleida, Faculdad de Educación, Departamento de Didácticas Específicas. Av. de l’Estudi General, 4 E-25001, Lleida, España. Correspondencia
+a nombre de/Correspondence to: V. HERNÁNDEZ-GONZÁLEZ. E-mail: <vicens_h_g@didesp.udl.cat>.
+Escola Superior de Educação, Comunicação e Desporto, Instituto Politécnico da Guarda, Departamento de Educação Física. Guarda, Portugal.
+Universidad de Zaragoza, Facultad de Educación Física, Departamento de Fisiatría y Enfermería. Zaragoza, España.
+Recibido el día 7/1/2013, re-presentado el 12/12/2013 y aceptado para su publicación el 27/2/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+113
+PRODUCCIÓN DE ARTÍCULOS EN LA BASE DE DATOS WEB OF SCIENCE Y SCOPUS
+
+Producción de artículos en la base de datos Web of
+Science y Scopus sobre educación física: estudio
+comparativo entre España y Brasil
+
+Spain. The results indicate that the professors in the field of Physical Education in Spain produced an h-index of 2.6 and 7.4 papers per
+researcher in Web of Science and an h-index of 3.1 and 9.5 papers per professor in Scopus. Brazilian professors obtained an h-index of
+6.05 in Web of Science with a mean of 30.91 papers per researcher and h-index of 7.5 and 37.7 papers per professor in Scopus. Correlations
+between the number of papers per professor and h-index are high both in the Web of Science and Scopus. The majority of Brazilian and
+Spanish professors publish in Medicine and Science in Sports and Exercise and the Journal of Strength and Conditioning Research.
+Significant differences among professors of different countries were found in the present research.
+Keywords: Sport. Bibliometric indicators. Scientific production. Journals. Scopus. Web of Science.
+
+Introducción
+La investigación como simple proceso de
+comprobación o refutación de los supuestos, teorías,
+fenómenos, es importante, ya que permite situar a un
+área del conocimiento a la vanguardia demostrando lo
+que tiene utilidad y lo que no. Estos hallazgos por sí solos
+no tienen relevancia si no se comunican, por lo tanto, la
+publicación de artículos es una actividad fundamental
+principalmente en las universidades y centros de
+investigación (Gil & Sardinha, 2011). El fenómeno de la
+globalización se ha visto beneficiado por los avances en
+la comunicación, ha permitido un desarrollo más
+acelerado en la ciencia. Las revistas de calidad, por sus
+procesos de evaluación, son las incluidas en Web of
+Science (WoS), ya que por tradición se han considerado
+las revistas de mayor prestigio (Olivas-Ávila & MusiLechuga, 2010) y más recientemente las incluidas en
+Scopus (López-Illescas et al., 2008).
+La evaluación de la productividad científica es un
+ejercicio necesario, ya que de esta manera los
+investigadores, los programas educativos y de manera
+global las universidades reciben ciertos beneficios a
+través de las evaluaciones de los organismos
+institucionales (García-Pérez, 2000).
+114
+
+J. REVERTER-MASÍA et al.
+
+Es un hecho constatado en que no existen
+parámetros de producción para algunas áreas del
+conocimiento (Carbonell & Calvó, 2009), es decir, mientras
+se ha demostrado que existe una diferencia bastante
+amplia en función de la media de publicaciones que
+producen los profesores de diferentes áreas de
+conocimiento, como el área de Psicología Evolutiva y de
+la Educación (Musi-Lechuga et al., 2005), nunca se ha
+estudiado, que se tenga conocimiento, la producción del
+área de Educación Física (EF) en España y si existen
+diferencias entre diferentes países. Este problema nos
+lleva a plantearnos la necesidad de analizar la producción
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+científica con el fin tener una evaluación objetiva del
+profesorado universitario (López, 2010).
+La evaluación de la actividad científica y de la
+productividad de los investigadores es una cuestión de
+interés desde muchas perspectivas distintas: la
+financiación de la investigación, la promoción de los
+investigadores, la recompensa de la actividad de
+investigación, la formulación de políticas de investigación
+y la toma de decisiones relacionadas con tales políticas,
+la planificación estratégica de la actividad universitaria,
+la negociación salarial en los casos en que ésta se hace
+directamente entre el investigador y la organización
+contratante, la dotación de plazas de profesorado
+universitario y la promoción del profesorado y la
+concesión de becas, entre otras (Garcia-Pérez, 2000;
+Salgado & Páez, 2007).
+En estudios previos anteriores (Musi-Lechuga et
+al., 2005; Buela-Casal & Zych, 2010) uno de los indicadores
+más fiables relacionados con la calidad académica de los
+profesores universitarios, son los registros en la WoS. Por
+otra parte, de manera complementaria, a partir de 2004
+Elsevier puso en marcha Scopus, una base de datos que
+hoy indexa más de 16 mil revistas peer-reviewed, frente a
+las 11.500 de WoS (Thomson Reuters, 2010). Scopus es
+actualmente, por tanto, la mayor base de datos
+multidisciplinar existente (López-Illescas et al., 2008).
+Con la aparición de Scopus aumenta la posibilidad
+de comparación, una característica crucial en la
+evaluación de la ciencia, que permite además los estudios
+complementarios a los que hasta ahora se habían
+realizado sobre los datos de WoS. Varios autores han
+centrado sus trabajos al comparar las características de
+ambas bases de datos teniendo en cuenta cuestiones
+como el precio, funcionalidades e interfaces de consulta
+(Goodman & Deis, 2005). También han sido comparadas
+esas bases desde la perspectiva de su cobertura: títulos
+de revistas, áreas temáticas, idiomas, editores y
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+De modo general, dos aspectos de la actividad
+investigadora son tenidos en cuenta por los agentes
+evaluadores: la cantidad y la calidad de lo producido. No
+siempre estos indicadores han confluido, dando lugar a
+numerosos debates al respecto y posiciones encontradas.
+En el año 2005, el reputado físico Jorge Hirsch presentó
+el llamado “h-index”, con el que sugería que se podía
+evaluar la actividad científica de los investigadores y que
+superaba las limitaciones de otros indicadores
+ampliamente utilizados para la clasificación de la
+productividad científica (Hirsch, 2005).
+De acuerdo a Hirsch (2005, p.1), “Un científico tiene
+un índice h si el h de sus Np trabajos tienen al menos h
+citas cada uno y los otros Np-h trabajos no tienen más
+que h citas cada uno”. De modo más preciso, Rousseau
+(2006, p.1) señala que “El Índice de Hirsch es h si h es el
+rango más alto (número natural más alto) tal que las
+primeras h publicaciones reciben cada una al menos h
+citas”. Por ejemplo, una h=20 significa que un autor tiene
+20 publicaciones que han sido citadas cada una de ellas
+al menos veinte veces, pero no tiene 21 publicaciones
+que hayan sido citadas 21 veces cada una de ellas.
+En opinión de Braun et al. (2005) entre las ventajas
+del Índice h se encuentran: a) que es robusto, es decir, es
+insensible a un exceso accidental de trabajos no citados
+y también a uno o varios extraordinariamente citados; b)
+que combina el efecto de la “cantidad” (número de
+publicaciones) y la “calidad” (tasa de citas) de un modo
+equilibrado y específico; y c) se puede calcular para
+períodos específicos y no sólo para toda una vida.
+El índice h ha sido aplicado a la literatura de la
+ciencia de la información por Cronin y Meho (2006),
+quienes encontraron, como era de esperar, una elevada
+y positiva correlación entre h y el número de citas. Por
+otro lado, Aluja et al. (2011) muestran una gran diferencia
+en los científicos españoles de Psicología con un rango
+de valores del Índice h que oscila entre 5 y 18.
+El presente estudio tiene como finalidad hacer un
+análisis de la producción de los profesores de las áreas
+de Educación Física (EF) de España y Brasil por medio de
+artículos en revistas en la base de datos WoS y Scopus.
+Por lo tanto, los objetivos del presente estudio serán:
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+presentar el índice h de los profesores españoles y
+brasileños del área de conocimiento de EF. En segundo
+lugar, examinar la distribución estadística de dicho índice
+en esta población. En tercer lugar, examinar la relación
+que hay entre el índice h y otras conocidas medidas
+utilizadas para evaluar la productividad investigadora,
+como el número de artículos y revistas en las que se
+publica. Y por último comparar la base de datos WoS y
+Scopus en el área analizada.
+
+Métodos
+Para la realización del estudio se utilizaron como
+fuentes de información las dos bases de datos
+especializadas en Ciencia y Tecnología de mayor
+relevancia para la comunidad internacional de
+académicos e investigadores: el WoS y Scopus.
+La principal característica de estas dos bases de
+datos, y la que las convierte en herramientas
+imprescindibles para un análisis profundo de cualquier
+disciplina científica, es la posibilidad que ofrecen ambas
+de procesar las referencias bibliográficas de los artículos
+y cuantificar las citas recibidas por cada uno de ellos, lo
+cual permite la construcción de indicadores cualitativos
+para evaluar la actividad científica de una revista, el
+rendimiento científico de una institución o la visibilidad
+internacional de un autor determinado (Dorta-Contreras
+et al., 2008).
+Se trata de un estudio descriptivo, comparativo y
+correlacional de análisis de documentos. Se tomó en
+cuenta las consideraciones propuestas por Hirsch (2005),
+las propuestas por Ramos-Álvarez et al. (2008) y el estudio
+de Olivas-Ávila y Musi-Lechuga (2010).
+La muestra estuvo formada por todos los
+profesores con publicaciones en base de datos WoS en
+el área EF en España y profesores de la Plataforma Lattes,
+del área EF en Brasil.
+Los instrumentos utilizados en este estudio fueron
+los siguientes: Páginas Web de los departamentos del área
+de EF Española; Plataforma Lattes <http://buscatextual.
+cnpq.br/buscatextual/busca.do>; Base de datos WoS.
+Ésta se encuentra disponible a través de la plataforma ISI
+Web of Knowledge y contiene información sobre
+investigación multidisciplinaria en revistas para las cuales
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+115
+PRODUCCIÓN DE ARTÍCULOS EN LA BASE DE DATOS WEB OF SCIENCE Y SCOPUS
+
+distribución geográfica (Gorraiz & Schloegl, 2008; LópezIllescas et al., 2008).
+
+se calcula su Factor de Impacto (IF) y Base de datos
+Scopus. Ésta se encuentra disponible a través de la
+plataforma SCImago Journal Rank (SJR) y contiene
+información sobre investigación multidisciplinaria en
+revistas para las cuales se calcula su factor de impacto.
+En primer lugar, se seleccionaron los profesores a
+partir de la información que aparecía en las páginas Web
+de los departamentos de EF de toda España (1.057
+profesores del área de EF) posteriormente se seleccionaron
+solamente los que tenían registros en WoS (265
+profesores). En cuanto a los profesores brasileños se
+seleccionaron mediante la Plataforma Lattes, en ella, se
+aplicó un primer filtro relativo al “Área de Atuação”,
+seleccionando como “Grande área” las “Ciências da Saúde”
+y como “Área” la “Educação Física”. El segundo filtro
+aplicado fue relativo al estatus “Bolsistas de Produtividade
+do Conselho Nacional de Desenvolvimento Científico e
+Tecnológico (CNPq)” seleccionando las “Categorias/Nível
+de Bolsa” y seguidamente “1A, 1B, 1C, 1D y 2”.
+
+116
+
+En segundo lugar los datos recabados se
+realizaron en función de los registros obtenidos en la WoS,
+teniendo en cuenta que en muchas ocasiones hay errores
+en los nombres de los autores (Ejemplo: Author=
+(Gonzalez, Luis-Millan) AND Address=(Univ Valencia)/
+Author=(Gonzalez, LM o Author=(Casajus, Jose A.) AND
+Author=(Casajus, JA)). Se encontró que un mismo autor
+y un mismo trabajo citado, había sido recogido con
+nombres diferentes. Para una revisión más detallada del
+proceso es importante referirse al estudio de Osca-Lluch
+et al. (2009), donde se mencionan las posibles variaciones
+en los nombres y apellidos de los profesores y sus
+instituciones de afiliación. Por otra parte, otros
+acostumbran a unir sus apellidos por medio de un guión,
+por lo que también se tomó esto en consideración para
+la búsqueda.
+
+J. REVERTER-MASÍA et al.
+
+El proceso de recolección de la información se
+realizó en la base de datos mencionada, ingresando en
+el apartado de “General Search”, en donde se utilizó el
+campo de “Author” y “Address”, incluso en algunos casos
+se utilizó el campo “Topic”. Siempre se ingresaron uno o
+los dos apellidos del autor, algunos casos con letra
+mayúscula, en otros en minúscula, a veces seguidos por
+un espacio y las iniciales del nombre, también se
+emplearon truncadores y operadores booleanos para
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+garantizar la obtención del total de artículos por autor
+considerando todas las combinaciones posibles en las
+que se pueden ordenar los apellidos, iniciales de los
+nombres e inicial del primer apellido, siguiendo en todos
+los casos el nombre suministrado por las webs oficiales
+de la Universidad o la Plataforma Lattes.
+Una vez se localizaba cada autor con sus
+respectivos trabajos, se seleccionaba “Create Citation
+Report”, para obtener el Índice h del autor. Para el estudio
+únicamente se seleccionaron aquellos profesores que
+tenían Índice h.
+El proceso de recolección en Scopus se realizó
+ingresando en el apartado de “Author Search”, donde se
+utilizó el campo de “Author” y “Affilation”. Se ingresaron el
+primer apellido siempre con la letra mayúscula seguidos
+del segundo y separado en algunos casos por espacio y
+sus iniciales, también se emplearon truncadores y
+operadores booleanos para garantizar la obtención del
+total de artículos por autor considerando todas las
+combinaciones posibles en las que se pueden ordenar
+los apellidos, iniciales de los nombres e inicial del primer
+apellido, siguiendo en todos los casos el nombre
+suministrado por las webs oficiales de la Universidad o
+por la Plataforma Lattes.
+Los resultados se acotaron por tipo de documento
+en este caso solo tomando en cuenta los etiquetados
+como artículos, revisiones y reimpresiones (article, review,
+reprint).
+Las búsquedas de los profesores españoles, se
+llevó a cabo durante los meses de noviembre de 2011
+hasta diciembre de 2011 por dos investigadores de
+manera independiente con la finalidad de obtener mayor
+fiabilidad de los resultados, mientras que este mismo
+proceso también se utilizó para la búsqueda de los
+profesores brasileños pero durante el mes de enero de
+2012. Finalmente, se debe considerar que puede existir
+una variación al momento de consultar los resultados
+en el presente estudio y esto es debido principalmente
+a que la base de datos WoS no presenta reportes
+mensuales con resultados estáticos, por el contrario, se
+caracteriza por ser dinámica ya que se agrega información
+de manera constante, el número de registros puede variar
+de un día a otro.
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+Método de cálculo del índice h
+
+En Scopus el cálculo consiste en los siguientes
+pasos: 1) Entrar en Scopus-Elsevier y elegir la opción
+“Search Author”; 2) escribir el apellido del autor en la
+ventana correspondiente “Last Name”; 3) cuando el
+sistema responda la lista de publicaciones, seleccionar
+
+Resultados
+Se analizaron un total de 373 profesores, de los
+cuales 108 corresponden al área EF de Brasil y 265
+corresponden al área EF Española. En la base de datos
+WoS de los 108 profesores de Brasil 93 tenían Índice h
+(86,11%). Del área de EF en España de los 265 profesores,
+un total de 224 tenían Índice h (84,52%). En Scopus 96
+(88,88%) profesores Brasileños tenían índice h, de los
+profesores Españoles 241 tenían índice h (90,90%).
+
+El índice h y número de artículos
+En la Figura 1 se muestra el índice h medio que
+tiene de cada país en WoS y Scopus. Resaltar que en WoS
+
+Figura 1. Índice h de los profesores españoles y brasileños en Web of Science y Scopus.
+Nota: SD: Standard deviation.
+Fuente: De los autores (2013).
+
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+117
+PRODUCCIÓN DE ARTÍCULOS EN LA BASE DE DATOS WEB OF SCIENCE Y SCOPUS
+
+El método de cálculo del índice h sugerido por
+Hirsch (2005) y descrito en más detalle por Imperial y
+Rodríguez-Navarro (2005) consiste en los siguientes
+pasos: 1) entrar en ISI Web of Knowledge y elegir la opción
+“General Search”; 2) escribir el nombre del autor en la
+ventana correspondiente; 3) cuando el sistema responda
+la lista de publicaciones, utilizar la opción de clasificación
+por orden de citas (Sort by times cited); y 4) a continuación
+identificar el último trabajo cuyo número de orden sea
+superior al del número de citas que tiene asociado. Ese
+número de orden corresponde al índice h del autor.
+
+el autor correspondiente; y 4) a continuación identificar
+en la ventana el h index del autor.
+
+los profesores del área de EF en España tienen un índice
+h 2.65 (Figura 1) y una media de 7.49 artículos por
+profesores (Figura 2). En cuanto a los profesores de Brasil
+el rango de valores del índice h es 6.05 (Figura 1) y la media
+de artículos por profesor es de 30.91 (Figura 2).
+
+acuerdo con los objetivos, si atendemos a la relación del
+Índice h con el total de de artículos por investigador. En
+ambos casos la magnitud de la correlación es muy
+elevada, tanto en WoS como en Scopus.
+
+En Scopus los profesores del área de EF en España
+tienen un índice h 3,16 (Figura 1) y una media de 9.5
+artículos por profesor (Figura 2). En cuanto a los
+profesores de Brasil el rango de valores del índice h es
+7,58 (Figura 1) y la media por profesor es de 37,72
+(Figura 2).
+
+Revistas con mayor número de registros
+de artículos por países
+
+Convergencia entre los indicadores de la
+productividad y calidad científica
+En la Tabla 1 pueden verse las correlaciones entre
+los distintos indicadores utilizados en este estudio. De
+
+Analizando la producción por países se encontró
+una gran variedad de revistas registradas en la base de
+datos WoS en las que publican los profesores.
+Observando la Tabla 2, se aprecia como las 3 revistas
+donde más comúnmente publican los profesores de EF
+de Brasil son en primer lugar la Medicine and Science in
+Sports and Exercise con 171 artículos publicados, en
+segundo lugar la Journal of Strength and Conditioning
+Research con 159 entradas y en tercer lugar, la Revista
+
+118
+
+J. REVERTER-MASÍA et al.
+
+Figura 2. Número de artículos de los profesores españoles y brasileños en Web of Science y Scopus.
+Fuente: De los autores (2013).
+
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+119
+
+Tabla 1. Correlaciones entre Índice h y nº de artículos en Web of Science y Scopus.
+
+Brasil
+
+Índice h x NA (WoS)
+
+Índice h x NA (Scopus)
+
+Índice h x NA (WoS)
+
+0,916667 *
+
+0,9066329 *
+
+0,867915 *
+
+Índice h x NA (Scopus)
+0,8410211 *
+
+Nota: * p<.0001; h: Índice de Hirsch; NA=número total de artículos.
+Fuente: De los autores (2013).
+
+Tabla 2. Revistas registradas en la base de Web of Science con mayor número de registros en el área de Educación Física de España y Brasil.
+España
+Revistas
+
+Brasil
+Registros (n)
+
+IF
+
+Cuartil
+
+Medicine and Science in Sports and
+Exercise
+
+171
+
+04.475
+
+Q1
+
+159
+
+1.795
+
+Q1
+
+Journal of Strength and Conditioning
+Research
+
+156
+
+0.268
+
+0.655
+
+Q4
+
+Revista Brasileira de Medicina do
+Esporte
+
+0.730
+
+Q3
+
+Brazilian Journal of Medical and
+Biological Research
+
+88
+
+Q1
+
+Motriz Revista de Educação Física
+
+86
+
+Q3
+
+Arquivos Brasileiros de Cardiologia
+
+Q3
+
+Circulation
+
+Registros (n)
+
+IF
+
+Cuartil
+
+Journal of Strength and Conditioning
+Research
+
+131
+
+1.795
+
+Q2
+
+Revista de Psicología del Deporte
+
+101
+
+0.897
+
+Q3
+
+Medicine and Science in Sports and
+Exercise
+
+99
+
+4.475
+
+Perceptual and Motor Skills
+
+78
+
+Journal of Sports Medicine and Physical
+Fitness
+
+62
+
+European Journal of Applied Physiology
+
+56
+
+2.660
+
+Journal of Sports Science and Medicine
+
+55
+
+0.885
+
+Internacional Journal of Sports Medicine
+
+51
+
+2.268
+
+1.139
+
+Q3
+
+0
+
+01.130
+
+Q3
+
+15.202
+
+Q1
+
+European Journal of Applied
+Physiology
+
+67
+
+02.660
+
+Q1
+
+Journal of Sport Exercise
+Psychology
+
+67
+
+02.452
+
+Q1
+
+Q4
+
+Cadernos de Saúde Pública
+
+59
+
+00.826
+
+Q4
+
+International Journal of Sports
+Medicine
+
+57
+
+02.268
+
+Q3
+
+European Heart Journal
+
+56
+
+14.097
+
+Q1
+
+Journal of Hypertension
+
+54
+
+03.806
+
+Q1
+
+Hypertension
+
+52
+
+06.873
+
+Q1
+
+Revista Brasileira de Fisioterapia
+
+Revista Internacional de Medicina y
+Ciencias de la Actividad Física y del
+Deporte
+
+37
+
+0.205
+
+Q4
+
+Journal of Human Movement Studies
+
+37
+
+European Journal of Sport Science
+
+29
+
+1.146
+
+Q3
+
+Internacional Journal of Obesity
+
+25
+
+5.221
+
+Q1
+
+British Journal of Sports Medicine
+
+24
+
+3.668
+
+Q1
+
+23
+
+Q4
+
+0
+
+80
+
+Q2
+
+International Journal of Sports
+Psychology
+
+0
+
+80
+
+2.082
+
+22
+
+Q2
+
+Q4
+
+42
+
+Haemophilia
+
+0
+
+00.086
+
+Journal of Sports Science
+
+0.056
+
+Revistas
+
+3.170
+
+Q2
+
+0.867
+
+Q1
+
+50
+
+01.000
+
+Q3
+
+46
+
+01.066
+
+Q3
+
+Nutrición Hospitalaria
+
+18
+
+1.305
+
+Q4
+
+Revista de Saúde Pública
+
+Journal of Applied Physiology
+
+17
+
+3.484
+
+Q1
+
+Clinics
+
+43
+
+02.058
+
+Q2
+
+Faseb Journal
+
+38
+
+05.704
+
+Q1
+
+Perceptual and Motor Skills
+
+37
+
+00.655
+
+Q4
+
+Epilepsy Behavior
+
+36
+
+01.844
+
+Q3
+
+Archives of Physical Medicine and
+Rehabilitation
+
+15
+
+2.358
+
+Q1
+
+Psicothema
+
+13
+
+0.961
+
+Q2
+
+Nota: IF: Factor de impacto.
+Fuente: De los autores (2013).
+
+Brasileira de Medicina do Esporte con 156 artículos. En
+cambio, los profesores de EF de España tienen en primer
+lugar la Journal of Strength and Conditioning Research con
+131 artículos, en segundo lugar la Revista de Psicología
+del Deporte que tiene 101 entradas y en tercer lugar,
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+Medicine and Science in Sports and Exercise con más de
+99 artículos.
+En la Tabla 3 se aprecian las revistas donde más
+comúnmente publican segun la base de dstos Scopus.
+Los profesores de EF de Brasil publican en primer lugar
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+PRODUCCIÓN DE ARTÍCULOS EN LA BASE DE DATOS WEB OF SCIENCE Y SCOPUS
+
+Correlaciones
+España
+
+Tabla 3. Revistas registradas en Scopus con mayor número de registros en el área de Educación Física de España y Brasil.
+España
+Revistas
+
+Brasil
+Registros (n) SJR
+
+Cuartil
+
+Revistas
+
+Registros (n) SJR
+
+Cuartil
+
+Revista Brasileira de Medicina do
+Esporte
+
+387
+
+0.189
+
+Q4
+
+Arquivos Brasileiros de Cardiologia
+
+168
+
+0.267
+
+Q3
+
+Journal of Strength and Conditioning
+Research
+
+147
+
+0.953
+
+Q2
+
+Brazilian Journal of Medical and
+Biological Research
+
+117
+
+0.335
+
+Q2
+
+European Journal of Applied Physiology
+
+75
+
+0.857
+
+Q2
+
+Revista Brasileira De Cineantropometria
+E Desempenho Humano
+
+73
+
+0.000
+
+Q4
+
+International Journal of Sports
+Medicine
+
+63
+
+0.848
+
+Q2
+
+Q2
+
+0.848
+
+Q2
+
+Cadernos de Saúde Pública
+
+56
+
+0.880
+
+Q1
+
+0.467
+
+Q1
+
+Revista de Saúde Pública
+
+54
+
+1.070
+
+Q1
+
+Electromyography and Clinical
+Neurophysiology
+
+49
+
+0.167
+
+Q4
+
+Medicine and Science in Sports and
+Exercise
+
+48
+
+1.749
+
+Q1
+
+Clinics
+
+47
+
+0.651
+
+Q1
+
+Q3
+
+Motriz Revista de Educação Física
+
+45
+
+0.117
+
+Q4
+
+42
+
+0.279
+
+Q2
+
+Archivos de Medicina del Deporte
+
+161
+
+0.118
+
+Q4
+
+Journal of Strength and Conditioning
+Research
+
+125
+
+0.953
+
+Q1
+
+Revista Internacional de Medicina y
+Ciencias de la Actividad Física y del
+deporte
+
+75
+
+0.208
+
+Q2
+
+Journal of Sports Medicine and Physical
+Fitness
+
+74
+
+0.378
+
+Q3
+
+Perceptual and Motor Skills
+
+78
+
+0.257
+
+Q3
+
+Revista de Psicologia del Deporte
+
+77
+
+0.207
+
+Q3
+
+European Journal of Applied Physiology
+
+70
+
+0.857
+
+Q2
+
+Journal of Human Movement Studies
+
+71
+
+0.558
+
+International Journal of Sport Medicine
+
+60
+
+Journal of Sports Science and Medicine
+
+58
+
+Journal of Sports Science
+
+55
+
+0.909
+
+Q1
+
+Medicine and Science in Sports and
+Exercise
+
+49
+
+1.749
+
+Q1
+
+Revista Andaluza de Medicina del
+Deporte
+
+40
+
+Apunts Medicina de l’Esport
+
+39
+
+0.108
+
+0.146
+
+Q4
+
+European Journal of Sport Science
+
+40
+
+0.444
+
+Q1
+
+Revista Brasileira de Fisioterapia
+
+British Journal of Sports Medicine
+
+32
+
+1.224
+
+Q1
+
+Epilepsy Behavior
+
+40
+
+0.891
+
+Q1
+
+40
+
+0.257
+
+Q3
+
+International Journal of Obesity
+
+25
+
+2.028
+
+Q1
+
+Perceptual and Motor Skills
+
+Journal of Applied Psysiology
+
+24
+
+1.359
+
+Q1
+
+Journal of Applied Physiology
+
+36
+
+1.359
+
+Q1
+
+Arquivos de Neuro-psiquiatria
+
+33
+
+0.276
+
+Q3
+
+Cell Biochemistry and Function
+
+33
+
+0.712
+
+Q2
+
+International Journal of Cardiology
+
+28
+
+0.712
+
+Q1
+
+Scandinavian Journal of Medicine and
+Science in Sports
+
+22
+
+0.868
+
+Q2
+
+Nutrición Hospitalaria
+
+22
+
+0.263
+
+Q3
+
+Nota: SJR: SCImago Journal Country Rank.
+Fuente: De los autores (2013).
+
+120
+
+J. REVERTER-MASÍA et al.
+
+en la Revista Brasileira de Medicina do Esporte con 387
+artículos publicados, en segundo lugar la Arquivos
+Brasileiros de Cardiologia con 168 entradas y en tercer
+lugar, la Journal of Strength and Conditioning Research con
+147 artículos. En cambio, los profesores de EF de España
+tienen en primer lugar la Archivos de Medicina del Deporte
+con 161 artículos, en segundo lugar Journal of Strength
+and Conditioning Research que tiene 125 entradas y en
+tercer lugar, Revista Internacional de Medicina y Ciencias
+de la Actividad Física y del Deporte con más de 75
+artículos.
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+Discusión
+Este es el primer estudio, que se tenga
+conocimiento, que analiza el índice h y las producciones
+científicas en las áreas de EF de diferentes países, WoS y
+Scopus. De la interpretación de los resultados que aquí
+se presentan se tiene que tener en cuenta el tipo de
+muestra utilizada, es decir, sus características y los criterios
+utilizados para realizar las clasificaciones. Siendo que se
+trata de la selección de todos los profesores elegidos de
+acuerdo a la información aparecida en una página Web
+resultaría difícil hacer una comparación con otros
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+Señala Ball (2005) que los procedimientos de
+elección de profesorado de las instituciones científicas
+son vistos a menudo como opacos, endogámicos y
+caprichosos, y que el método de Hirsch podría servir para
+informar la toma de decisiones de financiación o de
+promoción académica de un modo transparente,
+insesgado y difícil de falsear, porque descansa sobre
+el conjunto de trabajo realizado a lo largo de muchos
+años.
+La presente investigación pone de manifiesto que
+existen importantes diferencias en la producción en
+artículos de revistas con factor de impacto en WoS y
+Scopus de los profesores de las áreas de EF de Brasil y
+España. Los profesores Brasileños producen muchos más
+artículos y tienen un Índice h mucho mayor que los
+Españoles. Según diferentes trabajos España y Brasil son
+los dos países con mayor producción científica en el
+Ranking Ibero-Americano (Marziale, 2011), sin embargo,
+en el área de EF la producción científica en España en
+mucho menor que en Brasil.
+El presente estudio pone de relieve que la
+producción total en número de artículos es mucho mayor
+en Scopus que en WoS, posiblemente debido tal y como
+indica Santa y Herrero-Solana (2010) a que Scopus
+contiene una mayor cantidad de revistas fuente que
+permite identificar a priori un mayor número de citas, por
+lo tanto la visibilidad del trabajo es mucho mayor en
+Scopus que en WoS.
+Cabe destacar que se ha encontrado una
+correlación muy positiva entre el Índice h y la cantidad
+de artículos. Por lo tanto, en este caso la cantidad va
+relacionada con la calidad del investigador. Estos
+resultados se han producido por igual en las dos bases
+de datos analizadas.
+Por otra parte, Hirsch propone un índice h de 20
+después de veinte años de carrera como un indicador
+de buen rendimiento científico, en el caso de las Ciencias
+Físicas. Recordemos que la media de antigüedad de
+doctorado en ciencias del deporte en España es
+relativamente reciente. Por tanto, parece normal, que los
+españoles, tengan un índice inferior que los brasileños.
+Si observamos el Índice h, es mucho mayor en Scopus
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+que en WoS. Teniendo presente que el Índice h es una
+medición que se ha desarrollado para evaluar el impacto
+de un individuo en su campo de conocimiento. Los
+resultados encontrados corroboran los resultados
+obtenidos en otros estudios (Santa & Herrero-Solana,
+2010) sobre la inconveniencia de utilizar exclusivamente
+WoS como una fuente de datos bibliométricos, como se
+aprecia Scopus tiene una gran transcendencia y visibilidad
+en el ámbito científico analizado, por lo tanto la
+evaluación por parte de los organismos competentes
+(administraciones, agencias, gobiernos) no pueden
+limitarse exclusivamente a la WoS.
+El índice h, cuya definición lleva implícito el
+reconocimiento de un grupo de artículos que
+determinan la efectividad de ese investigador, será mayor
+cuanto mayor sea la cantidad de artículos que formen
+parte de él (Roth, 2005). De esta forma, el orden de los
+autores más eficientes se transforma en el orden de los
+autores que mayor productividad y visibilidad han
+alcanzado de manera integral. Un autor muy productivo,
+pero con pocas citas recibidas, no es efectivo desde el
+punto de vista de Hirsch, así como tampoco lo será aquél
+que sólo produzca un artículo muy citado.
+Si bien es cierto que existen algunos sesgos
+importantes en el cálculo del Índice h, como científicos
+que tienen una h muy elevada, el presente estudio nos
+ofrece una panorámica general de la situación de los
+dos países analizados.
+Las revistas con factor de impacto en bases de
+datos reconocidas como criterio de evaluación de las
+instituciones universitarias es un hecho ampliamente
+estudiado, diferentes estudios establecen que la mayor
+parte de la producción científica se lleva a cabo por parte
+de un escaso número de profesores y investigadores
+(Sierra et al., 2008). Hay que tener presente que en España
+y Brasil existen muchos profesores universitarios que no
+tienen ninguna producción científica. Este hecho obliga
+a replantearse las funciones del profesor universitario en
+el siglo XXI y reflexionar si es necesario ser un buen
+investigador para ser un buen docente, a nuestro modo
+de entender estas dos cuestiones en el ámbito
+universitario son indivisibles.
+Se ha observado una tendencia de los profesores
+universitarios a publicar en revistas de su propio país. En
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+121
+PRODUCCIÓN DE ARTÍCULOS EN LA BASE DE DATOS WEB OF SCIENCE Y SCOPUS
+
+estudios, de otras áreas de conocimiento, en que las
+muestras son mucho menores.
+
+la base de datos WoS se registran cuatro revistas
+españolas en las que publican los profesores españoles
+y cinco en Scopus. En Brasil siete revistas brasileñas
+encontradas en WoS y nueve en Scopus. Por otra parte,
+se encontraron diferencias en cuanto al número de
+registros, siendo mucho mayor en Scopus. Esto reafirma
+las consideraciones de algunos informes internacionales
+acerca de las potencialidades de Scopus como futura
+herramienta de análisis y evaluación de la actividad
+científica, principalmente a partir de la aparición del
+portal SCImago Journal & Country Rank, el cual utiliza los
+datos de Scopus para ofrecer un producto que emula con
+dos de los principales productos de Thomson Scientific:
+el Journal Citation Report y el Essential Science Indicators
+(Falagas et al., 2008).
+El análisis comparativo entre los dos países pone
+de manifiesto que no hay costumbres de publicar muy
+diferentes. En este sentido cabe reseñar que las primeras
+revistas en los dos países, que tienen más concentración
+de artículos, son prácticamente las mismas el Journal of
+Strength and Conditioning Research y Medicine and
+Science in Sports and Exercise en WoS. Mientras que en
+Scopus de las tres primeras revistas dos son del propio
+país, lo cual reafirmaría la idea de la mejor cobertura
+regional de la base de datos Scopus.
+
+122
+
+Otro punto a tomar en consideración es la
+concentración de artículos en una misma revista, si
+analizamos las cuatro primeras revistas de España y Brasil,
+se observa que en la base de datos WoS estas cuatro
+revistas publican el 43,7% de artículos realizados en
+España y el 38,7% de los realizados en Brasil. Si analizamos
+las cuatro primeras revistas de Scopus observamos que
+en España aglutinan el 36,8% de los registros y en Brasil
+el 51,8% de los artículos. Por lo tanto existe una
+concentración importante de artículos en revistas muy
+concretas en cada uno de los países.
+
+J. REVERTER-MASÍA et al.
+
+Otro aspecto a tomar en cuenta de las revistas es
+el idioma de las mismas, esto puede llegar a condicionar
+la elección de las mismas a la hora de publicar, y en este
+sentido, en los últimos años han aparecido varias revistas
+de origen brasileño que aparecen en un lugar importante
+en la base de datos WoS como son la Revista Brasileira de
+Medicina do Esporte, Brazilian Journal of Medical and
+Biological Research o Arquivos Brasileiros de Cardiologia.
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+En el caso de España se encuentran la Revista de
+Psicología del Deporte y la Revista Internacional de
+Medicina y Ciencias de la Actividad Física y del Deporte.
+Posiblemente en el futuro ambos países tendrán más
+presencia de revistas en WoS y Scopus. Hay que tener
+en consideración que la mayoría de estas revistas busca
+una internacionalización y visibilidad de sus contenidos
+y actualmente publican sus trabajos en el idioma del
+país y en inglés.
+En relación al idioma en que se publican los
+artículos, si bien es cierto que el inglés es la lengua
+vehicular en el ámbito científico, no se puede tolerar que
+esta lengua sirva de pretexto y permita que los países
+anglosajones hayan creado un monopolio de la
+comunicación científica (Quindos, 2009). Una parte
+importante de los mejores artículos de los grupos de
+investigación, se deberían publicar, bien en castellano o
+bien en inglés, en nuestras mejores revistas nacionales
+o supranacionales sin que ello conllevara una percibida
+menor calidad de la investigación. Al respecto, diferentes
+autores creen que deberían hacer una discriminación
+positiva de todos aquellos artículos escritos en lenguas
+científicas minoritarias que reciben un número no
+desdeñable de citaciones bibliográficas (Quindos, 2009).
+Greenwood (2007) plantea que el factor de
+impacto puede ser análogo a un indicador del
+funcionamiento de una revista. Sin embargo, se debe
+ser muy cauteloso con la interpretación y el uso de las
+posiciones de las revistas en el ranking basado en el
+factor de impacto, puesto que las diferencias en la
+posición de una revista respecto a otra pueden deberse
+a diferencias mínimas en los factores de impacto
+respectivos. Matías-Gámez (2011) afirma que a la hora
+de evaluar los resultados de la actividad investigadora
+de grupos de investigación, instituciones o investigadores
+particulares de especialidades diferentes sería
+conveniente relativizar el IF de las revistas donde se
+publican tales resultados, utilizando para ello índices
+teniendo en cuenta las particularidades de la categoría
+o categorías donde se incluyen esas revistas. En nuestro
+estudio, se observa que el factor de impacto de las
+revistas españolas y brasileñas en WoS es relativamente
+bajo en su categoría. En Scopus las revistas, españolas y
+brasileñas, que tienen la mayor parte de los registros
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+Con este trabajo hemos querido difundir entre la
+comunidad española y brasileña un instrumento útil para
+clasificar la productividad y la calidad de la investigación
+científica en la ciencia del deporte. Los resultados
+expuestos confirman la necesidad de investigaciones que
+profundicen aún más en las características de Scopus
+como herramienta de análisis de producción científica, y
+como alternativa firme a la base de datos WoS. Los
+resultados de esta investigación muestran una mayor
+visibilidad de Scopus en relación a WoS, por lo tanto
+ambas bases de datos deben ser complementarias, y no
+
+excluyentes, respecto a su posible utilización por los
+profesionales de la Educación Física.
+
+Conclusión
+En resumen, en este estudio se cumple con el
+objetivo de ofrecer una visión global de la producción
+científica de las ciencias del Deporte en WoS y Scopus en
+Brasil y España. De esta forma, los investigadores e
+instituciones conocen dentro del campo de la Educación
+Física la situación de algunos indicadores bibliométricos
+que influyen en el rendimiento científico. Estos trabajos
+deberían extrapolarse a las diferentes áreas, tanto
+en “Ciencias” como en “Ciencias Socia-les”, ya que
+de esta forma los autores conocerían la situación de su
+campo de conocimiento correspon-diente, se
+aumentaría la visibilidad de las revistas y así se podría
+facilitar la mejor elección para publicar. Por otra parte,
+las instituciones pueden adoptar medidas que
+contribuyan a aumentar no solo la productividad, sino
+también la visibilidad.
+
+Referencias
+Aluja, A. et al. Indicadores de calidad de la producción en la
+Web of Science de diez profesores del área de Personalidad,
+evaluación y tratamiento psicológico: aportaciones adicionales
+al estudio de Olivas-Ávila y Musi-Lechuga. Psicothema, v.23,
+n.2, p.267-273, 2011. Disponible en: <http://www.redalyc.org/
+articulo.oa?id=72717169016>. Acceso en: 6 feb. 2012.
+Ball, P. An index for fair ranking of scientists. Nature, v.436,
+n.7053, p.900, 2005.
+Braun, T.; Glänzel, W.; Schubert, A. A hirsch-type index fort
+journals. The Scientist, v.19, n.8, p.22, 2005. Available from:
+<http://sci2s.ugr.es/hindex/pdf/Braunetal2006.pdf>. Cited:
+Jun. 24, 2008.
+Buela-Casal, G.; Zych, I. Analysis of the relationship between
+the number of citations and the quality evaluated by experts
+in Psychology journals. Psicothema, v.22, n.2, p.270-276, 2010.
+Carbonell, X.; Calvó, N. Las revistas españolas de Psicología:
+cómo elegir la revista donde publicar. Anales de Psicología,
+v.25, n.2, p.209-216, 2009. Disponible en: <http://www.um.es/
+analesps/v25/v25_2e.htm>. Acceso en: 15 abr. 2010.
+Cronin, B.; Meho, L. Using the h-index to rank influential
+information scientists: Brief communication. Journal of the
+American Society for Information Science and Technology, v.57,
+n.9, p.1275-1278, 2006. Available from: <http://dl.acm.org/
+citation.cfm?id=1144500.1144501>. Cited: Oct. 11, 2011.
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+Dorta Contreras, A.J. et al. Productividad y visibilidad de los
+neurocientíficos cubanos: estudio bibliométrico del período
+2001-2005. Revista de Neurología, v.47, n.7, p.355-360, 2008.
+Disponible en: <http://www.neurologia.com/pdf/Web/4707/
+ba070355.pdf>. Acceso en: 12 abr. 2012.
+Falagas, M. et al. Comparison of SCImago Journal Rank
+indicator with journal impact factor. Faseb Journal, v.22, n.8,
+p.2626-2628, 2008.
+García-Pérez, M. Assessors’ odd listings don’t inspire
+confidence. Nature, v.406, n.6794, p.343, 2000.
+Gil, C.; Sardinha, A. H-Index of the citing articles: A contribution
+to the evaluation of scientific production of experienced
+researchers. Revista Brasileira de Medicina do Esporte, v.17, n.5,
+p.358-362, 2011. Available from: <http://www.scielo.br>. Cited:
+Feb. 19, 2012.
+Greenwood, D. Reliability of journal impact factor rankings.
+BMC. Medical Research Methodology, v.48 n.7, p.48, 2007.
+Available from: <http://link.springer.com/article/10.1186%2
+F1471-2288-7-48#page-1>. Cited: Nov. 15, 2009.
+Goodman, D.; Deis, L. Web of Science (2004 version) and
+Scopus. Charleston Advisor, v.6, n.3, p.5-21, 2005.
+Gorraiz, J.; Schloegl, C. A bibliometric analysis of pharmacology
+and pharmacy journals: Scopus versus Web of Science. Journal
+of Information Science, v.34, n.5, p.715-725, 2008.
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+123
+PRODUCCIÓN DE ARTÍCULOS EN LA BASE DE DATOS WEB OF SCIENCE Y SCOPUS
+
+también tienen un IF bajo. Sin embargo, en el caso de
+Brasil hay tres revistas, con un número considerable de
+artículos, en el primer cuartil. Seria deseable que en el
+futuro las revistas más relevantes de cada país en el
+ámbito de la educación física se sometieran a las
+evaluaciones de las bases de datos analizadas con el fin
+de incrementar la presencia en el ámbito internacional y
+al mismo tiempo se incrementaría visibilidad de trabajos
+y las citaciones de las investigaciones realizadas en cada
+uno de los países analizados.
+
+Hirsch, J.E. An index to quantify an individual’s scientific
+research output. Proceedings of the National Academy of
+Sciences of the U.S.A, v.102, p.16569-16572, 2005. Available
+from: <http://www.pnas.org/content/102/46/16569.full.pdf+
+html>. Cited: Aug. 25, 2009.
+Imperial, J.; Rodríguez-Navarro, A. La utilidad del índice h de
+Hirsch para evaluar la investigación en España. 2005.
+Disponible en: <http://www.bit.etsia.upm.es/Imperial_
+Rodriguez_Navarro.pdf>. Acceso en: 18 Mayo 2012.
+López, L. Citación y dinámicas de la comunicación científica.
+Universitas Psychologica, v.9, n.1, p.9-12, 2010.
+López-Illescas, C.; Moya-Anegón, F.; Moed, H.F. Coverage and
+citation impact of oncological journals in the Web of Science
+and Scopus. Journal of Informetrics, v.2, n.4, p.304-316, 2008.
+Marziale, M.H.P. Indicadores de la producción científica
+Iberoamericana. Revista Latino-Americana de Enfermagem, v.19,
+n.4, 2011. Disponible en: <http://www.scielo.br/pdf/rlae/
+v19n4/es_01.pdf>. Acceso en: 4 nov. 2012.
+Matías-Gámez, A. Relevancia de las revistas españolas incluidas
+en las bases de datos del Institute for Scientific Information
+medida a través del factor de impacto renormalizad.
+Investigación Bibliotecnológica, v.25, n.55, p.67-79, 2011.
+Musi-Lechuga, B. et al. Producción de los profesores
+funcionarios de psicología en España en artículos de revistas
+con factor de impacto de la Web of Science. Psicothema, v.15,
+n.4, p.539-548, 2005. Disponible en: <http://digibug.ugr.es/
+bitstream/10481/19569/1/20130788.pdf>. Acceso en: 24 jul.
+2011.
+Olivas-Ávila, J.A.; Musi-Lechuga, B. Análisis de la producción
+de los profesores funcionarios de Psicología en España en
+artículos de revistas de la Web of Science. Psicothema, v.22,
+n.4, p.909-916, 2010.
+Osca-Lluch, J. et al. Consecuencias de los errores en las
+referencias bibliográficas: el caso de la revista Psicothema.
+Psicothema, v.21, n.2, p.300-303, 2009. Disponible en: <http://
+
+www.psicothema.com/tabla.asp?Make=2009&Team=1002>.
+Acceso en: 10 abr. 2010.
+Quindós, G. Confundiendo al confuso: reflexiones sobre el
+factor de impacto, el índice h(Hirsch), el valor Q y otros
+cofactores que influyen en la felicidad del investigador. Revista
+Iberoamericana de Micología, v.26, n.2, p.97-102, 2009.
+Ramos-Álvarez, M. et al. Criteria of the peer review process for
+publication of experimental and quasi-experimental research
+in Psychology: A guide for creating research papers.
+International Journal of Clinical and Health Psychology, v.8, n.3,
+p.751-764, 2008. Available from: <http://www.redalyc.org/
+articulo.oa?id=33712016009>. Cited: Oct. 4, 2010.
+Roth, D. The emergence of competitors to the Science
+Citation Index and the Web of Science. Current Science,
+v.89, n. 9, p.1531-1536, 2005.
+Rousseau, R. New developments related to the Hirsh index.
+2006. Available from: <http://eprints.rclis.org/bitstream/
+10760/7616/1/Hirsch_new_developments.pdf>. Cited: Oct.
+4, 2011.
+Salgado, J.; Páez, D. La productividad científica y el índice h de
+Hirchs [sic] de la psicología social española: convergencia
+entre indicadores de productividad y comparación con otras
+áreas. Psicothema, v.19, n.2, p.179-189, 2007.
+Santa, S.; Herrero-Solana, V. Cobertura de la ciencia de América
+Latina y el Caribe en Scopus vs Web of Science. Investigación
+Bibliotecnológica, v.24, n.52, p.13-27, 2010.
+Sierra, J. et al. Análisis transnacional del sistema de evaluación y
+selección del profesorado universitario. Interciencia, v.33, n.4,
+p.251-257, 2008. Disponible en: <http://www.redalyc.org/pdf/
+339/33933404.pdf>. Acceso en: 12 dic. 2011.
+Thomson Reuters. Web of Science coverage expansion. 2010.
+Available from: <http://community.thomsonreuters.com/t5/
+Citation-Impact-Center/Web-of-ScienceCoverage-Expan
+Expansion/ba-p/10663>. Cited: Feb. 18, 2011.
+
+124
+
+J. REVERTER-MASÍA et al.
+
+TransInformação, Campinas, 26(2):113-124, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200001
+
+

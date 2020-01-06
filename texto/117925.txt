@@ -1,0 +1,869 @@
+Attitudes and perceptions of faculty members in the
+process adopting innovation: The OpenCourseWare
+initiative at the University of Valencia, Spain
+Lourdes MARGAIX-FONTESTAD1
+Aurora GONZÁLEZ-TERUEL2
+Maria Francisca ABAD-GARCÍA2
+
+Resumen
+El proyecto OpenCourseWare, repositorio de recursos educativos en abierto, se inició en la Universidad de Valencia en 2008 y en
+2009, sólo incluía 10 asignaturas, ninguna de ellas del área de Ciencias de la Salud. El objetivo de este trabajo es investigar las
+actitudes de los docentes de esta área así como sus percepciones con relación a este repositorio para determinar cuáles son las
+estrategias necesarias para extender su uso. Se parte de la teoría de la difusión de las innovaciones de Rogers y de un enfoque
+cualitativo a través del muestreo teórico, entrevistas semiestructuradas y codificación abierta. Los resultados indican la existencia
+de dos grandes grupos de profesores. Los adoptantes tempranos con una predisposición alta a participar en la iniciativa y con una
+percepción positiva de sus atributos y los mainstream o corriente principal más reacios a participar y con una percepción negativa
+respecto a alguno de sus atributos. La identificación de las características de estos dos grandes grupos marca las líneas de acción
+y de investigación futura en el ámbito del marketing y difusión, formación, sensibilización y motivación para extender el uso del
+OpenCourseWare.
+Palabras Ilave: Atributos de la innovación. Categorías de adoptantes. Comportamiento informacional. Difusión de la innovación.
+OpenCourseWare.
+
+Abstract
+The OpenCourseWare project, an open learning resource repository, was established at the University of Valencia between 2008 and
+2009. It initially consisted of only 10 subjects, none of which was in the field of Health Sciences. The objective of this research was to
+investigate the attitudes and perceptions of faculty members in the field of Health Sciences with regard to the project to identify strategies
+to increase its use and expand its coverage. We applied Rogers’ innovation-diffusion theory along with a qualitative approach using
+theoretical sampling, semi-structured interviews and open coding. The results indicate the existence of two categories of faculty members.
+In the first group, we find those who adopt an innovation early, have an inclination to participate in the initiative, and a positive perception
+of the characteristics of the innovation. In the second, the largest category is composed of those who are more reluctant to participate
+1
+2
+
+Universidad de Valencia, Facultad de Enfermería y Podología, Departamento de Enfermería. Valencia, España.
+Universidad de Valencia, Facultad de Medicina, Departamento de Historia de la Ciencia y Documentación. Av. Blasco Ibáñez, 15, 46010, Valencia, España.
+Correspondencia a nombre de/Correspondence to: A. GONZALEZ-TERUEL. E-mail: <agonzal@uv.es>.
+Recibido el dia 17/12/2012, re-presentado el 11/6/2013 y aceptado para su publicación el 12/7/2013.
+
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+133
+ACTITUDES Y PERCEPCIONES DE LOS DOCENTES
+
+Actitudes y percepciones de los docentes universitarios
+en el proceso de adopción de una innovación:
+la iniciativa OpenCourseWare en la
+Universidad de Valencia, España
+
+and who have a negative perception of one or more of its characteristics. Identifying the nature of these two groups provides guidelines
+for further actions and research in marketing and distribution of such projects, training, awareness, and motivation required to increase
+the use of OpenCourseWare.
+Keywords: Innovation attributes. Adopter categories. Information behavior. Innovation diffusion. OpenCourseWare.
+
+Introducción
+El OpenCourseWare (OCW) es uno de los más
+importantes repositorios de Recursos Educativos en
+Abierto (OER, Open Educational Resources) promovido en
+2001 por el Massachusetts Institute of Technology. Se trata
+de una publicación digital libre y abierta de materiales
+educativos universitarios organizados en cursos y que, a
+menudo, incluyen la planificación y las herramientas de
+evaluación. El OCW es libre, con licencia abierta y
+accesible a través de Internet. En los últimos años, las
+universidades han impulsado el desarrollo de los
+repositorios OER y en particular del OCW. Por una parte,
+como extensión del acceso abierto a la información
+científica, por otra, y en el caso de Europa, en el contexto
+del desarrollo del Espacio Europeo de Educación Superior
+(EEES) para la implantación de un modelo pedagógico
+en el que docentes y estudiantes usen, reutilicen y
+compartan recursos con el resto de la comunidad
+educativa (Santos-Hermosa et al., 2012).
+
+134
+
+L. MARGAIX-FONTESTAD et al.
+
+Para la implantación del OCW es necesario
+emplear mucho tiempo y numerosos recursos humanos
+y materiales. En cambio, los gestores de ese sistema
+esperan que sea alimentado y utilizado por sus
+principales usuarios, los docentes. Pero si sólo unos pocos
+profesores participan en el OCW, su objetivo no se
+alcanzará pues ellos son el alma mater del sistema. Si esto
+ocurre, hay una necesidad crítica de entender el porqué
+(Xu, 2008). En este sentido, la Universidad de Valencia (UV)
+se incorporó al proyecto en 2008, al año siguiente se
+incluyeron los primeros materiales docentes y en 2009,
+el momento de realizar la presente investigación, sólo
+incluía 10 asignaturas, ninguna de ellas del área de
+ciencias de la salud.
+La mayor parte de investigación publicada sobre
+la implantación de los OER está centrada en los aspectos
+técnicos y organizacionales y en menor medida en la
+dimensión individual y social de este proceso (SantosHermosa et al., 2012). En este sentido, se destacan los
+trabajos de Shea et al. (2006) sobre las actitudes que
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+condicionaban la adopción del repositorio Multimedia
+Educational Resource for Learning and Online Teaching
+(MERLOT), el trabajo de Gadd et al. (2007) sobre las
+actitudes de profesores hacia la propiedad de derechos
+de autor de sus materiales o el estudio de Rolfe (2012)
+sobre las actitudes del personal universitario en el área
+de Ciencias de la Salud y de la Vida hacia el contenido en
+abierto, entre otros.
+En este contexto, esta investigación plantea como
+objetivos conocer las actitudes hacia el OCW de los
+docentes de Ciencias de la Salud de la UV e investigar
+cómo perciben esta herramienta con relación a su
+integración en el proceso de enseñanza-aprendizaje,
+todo ello con el fin de diseñar estrategias que impulsen
+su uso. Como marco de referencia se parte de la teoría
+de la difusión de las innovaciones de Rogers (2003),
+considerando el OCW como una innovación tecnológica
+y educativa pero también informativa en la que los
+docentes son los principales usuarios, generando los
+contenidos para compartirlos posteriormente.
+
+La difusión de las innovaciones
+La implantación del OpenCourseWare en la
+Universidad de Valencia es un claro ejemplo de
+introducción de una innovación en un contexto con una
+larga tradición de enseñanza presencial. Esta innovación
+puede investigarse en su vertiente tecnológica pero
+también desde el punto de vista individual y social. En
+este sentido, las teorías sobre la difusión de las
+innovaciones proporcionan una base conceptual para el
+estudio de las dimensiones que intervienen en ese
+proceso y un procedimiento para favorecer su adopción.
+Como señala Rogers (2003) dichas teorías, al igual que
+las de aprendizaje social, tratan de explicar cómo y por
+qué los individuos cambian su conducta a través de la
+comunicación con otras personas, siendo el intercambio
+de información un aspecto esencial para que se produzca
+este cambio y los vínculos de una red como su principal
+explicación.
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+Según esta teoría, la difusión es “Un proceso por
+el cual una innovación se comunica por determinados
+canales a través del tiempo entre individuos de un
+sistema social” (Rogers, 2003, p.11). Las dimensiones que
+intervienen en este proceso son: canales de
+comunicación, tiempo, percepción de la innovación y
+sistema social.
+Para alcanzar los objetivos propuestos, se utilizó
+la dimensión tiempo así como la percepción de las
+características de la innovación por parte de los docentes.
+Así, para Rogers (2003) el tiempo durante el cual una
+innovación se difunde determina la existencia de cinco
+categorías de adoptantes según su ritmo previsible de
+adopción: a) innovadores que importan la innovación
+incorporándola al sistema asumiendo un papel
+fundamental en su difusión; b) primeros adoptantes que
+aceptan la innovación antes que la mayoría pero más
+prudentemente asumiendo el liderazgo entre sus
+colegas; c) mayoría precoz que necesita más tiempo para
+adoptar la innovación y legitima la innovación; d) mayoría
+tardía que adopta las nuevas ideas por presión del
+entorno necesitando mayor motivación y e) tradicionales
+que tienen como referencia el pasado aceptando la
+innovación con reservas.
+Por otra parte, Rogers (2003), considera que lo
+importante es la percepción subjetiva que los adoptantes
+potenciales tienen de la innovación, para lo cual define
+cinco atributos: a) ventaja relativa o la percepción de que
+una innovación es mejor que la idea a la que reemplaza;
+b) compatibilidad con el sistema existente; c) complejidad
+o dificultad para entender y utilizar la innovación; d)
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+experimentación o el grado en que una innovación puede
+ser experimentada y e) visibilidad de los resultados de la
+innovación. Así, las innovaciones que son percibidas con
+una mayor ventaja relativa, compatibilidad,
+experimentación y visibilidad y menor complejidad se
+adoptarán con mayor rapidez.
+
+Métodos
+La presente investigación se ha diseñado como
+un estudio exploratorio y adopta un enfoque
+metodológico cualitativo. Dicho enfoque se considera
+el más adecuado para abordar aspectos poco estudiados
+en la implantación del OCW, como son la dimensión
+individual y social de este proceso. Además, se considera
+que aporta mayor flexibilidad a la hora de observar el
+objeto de estudio y una mayor profundidad y detalle en
+el registro y análisis de los aspectos observados.
+La población en la que se centra la investigación
+es la de los docentes del área de Ciencias de la Salud de
+la UV. Concretamente los docentes de Enfermería,
+Podología y Fisioterapia, titulaciones que por la
+implantación del EEES, aumentaron los créditos de
+docencia pasando de diplomatura (3 años) a grado (4
+años). Para la selección de los informantes, se utilizó un
+muestreo teórico (Glaser & Strauss, 1967) en el que ni el
+número ni sus características estaban determinadas de
+antemano. Así, el proceso de recogida y análisis de la
+información transcurrió simultáneamente. La recogida de
+datos se inició con los directores de los centros y
+departamentos así como con aquellos individuos que
+respondieron al llamamiento de colaboración. Tras el
+primer análisis de sus respuestas, siguió una estrategia
+de bola de nieve en la que la localización de nuevos
+informantes se hizo por indicación de los primeros
+(Patton, 2002). La selección de más informantes finalizó
+cuando se alcanzó la saturación teórica y la información
+aportada no añadía ninguna idea, opinión o actitud
+nueva. En total se realizaron 26 entrevistas. La Tabla 1
+resume las características de los entrevistados,
+representados por un código (p.e. E01) que sirve para
+ilustrar los resultados expuestos en el siguiente epígrafe.
+Para la obtención de información se administraron
+entrevistas semiestructuradas guiadas por un guión
+previo de cuestiones relacionadas con los objetivos.
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+135
+ACTITUDES Y PERCEPCIONES DE LOS DOCENTES
+
+La asunción de este enfoque teórico y, en
+concreto, determinados aspectos de la teoría de la
+difusión de las innovaciones de Rogers (2003), se
+consideró el más adecuado para estudiar los potenciales
+usuarios del OCW por dos razones. Primero, porque
+permitía centrar la investigación en sus características
+como individuos de un grupo social asumiendo un rol
+en el proceso de difusión de la innovación. En segundo
+lugar, porque permitía sistematizar sus actitudes y por
+tanto determinar sobre qué aspectos era necesario incidir
+en ese proceso. En el contexto del estudio de las actitudes
+hacia los OER, esta teoría sirvió de fundamento teórico
+en los trabajos de Shea et al. (2006), Xu (2008) y Arendt y
+Shelton (2009), entre otros.
+
+Inicialmente se solicitó autorización institucional y, antes
+de comenzar cada entrevista, los informantes leían y
+firmaban un consentimiento informado.
+
+confirmación por parte de algunos informantes de los
+resultados de las entrevistas y la descripción densa.
+
+Las entrevistas se realizaron entre los meses de
+febrero y junio de 2009, tuvieron una duración media de
+20 minutos, fueron registradas en soporte digital y
+almacenadas posteriormente a través del software
+atlas.ti 5.0.
+
+Resultados
+
+Para el análisis de los datos, se escuchó el
+contenido de las respuestas identificando y transcribiendo
+los fragmentos más significativos. Esta información se
+analizó por medio de un proceso de codificación abierta
+para, posteriormente, comparar los códigos resultantes
+con las categorías de adoptantes y los atributos de la
+innovación de Rogers (2003). La asignación de una
+categoría de adoptante a cada uno de los informantes
+estuvo guiada principalmente por su predisposición
+manifiesta a adherirse a la iniciativa OCW y su destreza
+con el uso de la tecnología. Con relación a la
+experimentación como atributo de una innovación, dado
+que el sistema no se podía probar si el docente no incluía
+sus materiales, se consideró de acuerdo con su
+predisposición a experimentar tal innovación. Con el fin
+de asegurar la confiabilidad de la investigación
+principalmente se aplicaron dos de las estrategias
+propuestas por Lincoln y Guba (1985). En concreto, la
+
+Los resultados se exponen siguiendo las
+categorías de adoptantes de Rogers respecto a la
+adopción potencial de la iniciativa OCW y, para cada tipo
+de adoptantes, según las percepciones que tuvieran
+respecto a esta innovación. La Tabla 2 resume los
+resultados obtenidos.
+Es necesario mencionar que, de los 26 incidentes
+analizados, ninguno pudo clasificarse como innovador
+pues, aunque el OCW estaba un año ya en
+funcionamiento, ninguno de ellos había participado
+todavía.
+a) Primeros adoptantes: los cuatro profesores
+clasificados como primeros adoptantes se mostraron
+favorables a la adopción inmediata de la iniciativa OCW.
+Todos ellos tenían dominio de la tecnología, gran
+experiencia y su plaza docente consolidada. Además, los
+materiales de sus asignaturas ya los tenían disponibles a
+través de la red o en el pasado los habían tenido.
+Opinaron que el OCW podía favorecer el
+autoaprendizaje del alumnado en el marco del EEES,
+aumentar la calidad docente de los materiales por el
+
+Tabla 1. Características de los entrevistados.
+Vinculación laboral
+
+Experiencia docente
+
+136
+
+Contratado
+
+1 a 2 años
+
+E03, E05, E14, E23
+
+3 a 5 años
+
+E15, E20, E26
+
+6 a 10 años
+
+E06
+
+Investigador
+
+Titular
+
+E04
+E16, E17, E21
+E07, E08, E09, E12, E18, E22, E13, E24, E01, E02, E10, E19, E25,
+
+Más de 15 años
+Fuente: Elaboracion propia (2012).
+
+L. MARGAIX-FONTESTAD et al.
+
+Tabla 2. Número de profesores clasificados en cada categoría de adoptantes y percepción de los atributos de dicha innovación según la
+teoría Rogers (2003).
+Categorías de adaptantes
+
+Profesores (n)
+
+Primeros adoptantes
+Mayoría precoz
+Mayoría tardía
+Tradicionales
+
+4
+4
+15
+3
+
+Ventaja relativa Compatibilidad
+Sí
+Sí
+Sí/No
+No
+
+Sí
+Sí
+Sí
+Sí
+
+Complejidad
+
+Experimentación
+
+Visibilidad
+
+Baja
+Baja
+Alta/baja
+Alta
+
+Sí
+Sí
+No
+No
+
+Sí
+Sí
+No
+No
+
+Fuente: Elaboracion propia (2012).
+
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+Una actitud de predisposición a participar en el
+OCW se traduce en una percepción de esta iniciativa
+como ventajosa por su contribución a la generación de
+conocimiento y junto con ello, compartir el material
+docente se vio como un mecanismo para garantizar la
+propiedad intelectual:
+Algunos ya se han quejado de ver su material
+publicado por allí, en el Rincón del vago [...] parte
+de los apuntes de clase, y bueno algún otro
+apropiarse de ello sin consentimiento, no?. Eso
+alguna profesora ya se ha quejado y tal vez, el
+OpenCourse pueda garantizar, como mínimo cita
+al profesor que ha elaborado ese material [E09].
+
+Igualmente los primeros adoptantes vieron la
+iniciativa compatible con el sistema previamente
+utilizado (aula virtual) incluso considerando la posibilidad
+de interconexión entre los dos sistemas. No consideraron
+el sistema como complejo, tanto es así que alguno de
+ellos no esperaba a la experimentación (probar el nuevo
+sistema). No obstante, mostraron reservas al considerar
+que para muchos de sus compañeros su adopción se
+percibiría como compleja. Por último, en cuanto a la
+visibilidad, consideraban que contribuiría a aumentar el
+prestigio de la universidad en general y de la escuela en
+particular: Si los profesores hacemos eso y lo hacemos bien,
+aumentarán las consideraciones de la escuela cara al
+exterior. De la escuela y de la universidad. Yo creo que es un
+prestigio para la universidad [E02].
+b) Mayoría precoz: como mayoría precoz, se
+clasificaron cuatro docentes que mostraron su interés por
+participar en el OCW pero no de forma inmediata sino
+tras un tiempo para la revisión de los materiales. Todos
+ellos tenían en común su experiencia docente así como
+el puesto de trabajo consolidado (profesor titular). Con
+relación a su destreza con la tecnología, todos menos
+uno, no mostraron problemas. Algunas opiniones que
+emitieron, más allá de las opiniones de los primeros
+adoptantes, fueron la posibilidad de una mejor
+coordinación con los demás compañeros, interacción
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+con los docentes de otras universidades y posibilidad de
+aumentar la eficacia y economía de la difusión de su
+trabajo:
+En principio, yo sí que estaría de acuerdo en colgar
+las dos asignaturas y en facilitar no sólo el
+programa y la bibliografía sino especialmente los
+contenidos, porque obedece a un trabajo personal
+del profesor y que tendría una mayor trascendencia
+y una mayor difusión de la información que por
+otros mecanismos sería mucho más costosa [E07].
+
+Tal y como sucedía con el grupo de primeros
+adoptantes, los docentes del grupo de mayoría precoz
+consideraron la iniciativa con gran ventaja relativa,
+compatible con el sistema existente y no la percibieron
+como compleja. Igualmente consideraron que la
+innovación sí sería compleja para algunos compañeros:
+Aquí hay muchos compañeros que, bueno, por
+diversas circunstancias, por la edad, porque les ha
+cogido a contrapié todo el tema de la informática
+[…], y entonces están encasillados ahí, en un lugar,
+donde no moverán pieza. Terminarán su ciclo
+laboral sin acogerse a ésta ni a otra plataforma
+[E12].
+
+Los docentes de este grupo percibieron la
+iniciativa como experimentable y estarían dispuestos a
+probarla, además como ejemplo para el resto de
+compañeros:
+Yo estaría dispuesto a participar en una prueba de
+este tipo, porque, efectivamente aunque yo creo
+que, no creo que tenga dificultad, por lo tanto, la
+prueba debe salir bien, pero bien, a mí, yo creo que
+sería interesante probarla sobre todo para
+demostrar a personas que no estén del todo
+convencidas de la misma [E10].
+
+Por último, en cuanto a la visibilidad, también
+encontraron que la adhesión a la iniciativa sería visible
+para el resto de los compañeros. No obstante, uno de los
+informantes apuntó la posibilidad de sufrir críticas
+destructivas por parte de ellos.
+c) Mayoría tardia: en esta categoría se clasificaron
+la mayor parte de profesores con 15 casos. Eran docentes
+que previsiblemente se incorporarían más tarde a la
+iniciativa porque expresamente informaron de que no
+querían o no podían hacerlo. Su destreza con el uso de
+la tecnología era suficiente, excepto en un caso. Respecto
+al tipo de vinculación con la universidad, ésta fue variable.
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+137
+ACTITUDES Y PERCEPCIONES DE LOS DOCENTES
+
+aumento de la competitividad y la exposición pública
+de los mismos, así como la satisfacción personal por el
+trabajo bien hecho: Te expones a otros profesores, a otras
+universidades, y esto, si tú tienes un poco de amor propio e
+interés, pues claro, ya no es para un grupo reducido […] sino
+que aquí ya te expones a un mayor número de gente, y eso
+es una gran responsabilidad [E02].
+
+En general, no dudaron de que la iniciativa llevara
+a una mejora de los materiales docentes, mejorara la
+coordinación con el resto de profesores y permitiera al
+alumnado el acceso fluido a sus materiales, entre otras.
+Sin embargo, esta opinión positiva estaba supeditada al
+reconocimiento de la propiedad de dichos materiales:
+Yo no tengo ningún problema siempre que la gente
+referencie. Yo cuando he citado algo que está abierto lo he
+referenciado. Supongo que es una forma de respeto unos a
+otros [E05].
+Frente a estas opiniones positivas, en este grupo,
+se opinó de forma negativa en aspectos como la relación
+del esfuerzo que supondría la participación en el OCW
+frente al beneficio que obtendrían por ello: Para qué
+quiero colgarlo yo ahí si no me gano nada, ya no
+económicamente, sino, no sé, yo prefiero publicar en un libro
+de papel, no porque sea de papel, sino [...], o en una revista
+científica [E21].
+Otras opiniones negativas respecto al OCW
+tuvieron que ver con la falta de tiempo por ejercer cargos
+de gestión o por la necesidad de revisión de los
+materiales. A este respecto, se vislumbra una
+preocupación sobre la calidad de los materiales en dos
+sentidos. Por una parte por la dudosa fiabilidad de la
+información depositada en el OCW por no estar sometida
+a revisión: El hecho de que un profesor cuelgue sus apuntes
+y no haya [...] nadie que los haya revisado, sabes lo que te
+digo, a mí no me da ninguna fiabilidad, y más en ciencias
+de la salud [E21].
+Por otra parte, por la inseguridad de poner en
+abierto materiales que no han sido revisados por otros:
+Yo necesito formación para mejorar mis clases, para mejorar
+los contenidos de mi asignatura, yo no me veo capacitada
+para poner unos apuntes en la red [E21].
+138
+
+También otras opiniones negativas estaban
+relacionadas con la obligatoriedad de incorporar una
+asignatura completa o por considerar que sería una
+medida que favorecería el absentismo del alumnado.
+
+L. MARGAIX-FONTESTAD et al.
+
+Respecto a la percepción de la innovación, todos
+los informantes consideraban la iniciativa con ventaja
+relativa condicionada al respeto de la propiedad de los
+materiales, tal y como se ha descrito antes, y compatible
+con el sistema anterior. Sin embargo, con respecto a los
+otros atributos la percepción variaba. Con relación a la
+complejidad, algunos informantes consideraron fácil su
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+participación en el OCW o preferían probarlo antes de
+emitir un juicio. Sin embargo, otros la consideraron
+compleja por la necesidad de incluir asignaturas
+completas cuando sólo eran responsables de parte de
+esa asignatura, por la falta de destreza con la tecnología,
+por la falta de un buen material docente y las dudas
+relacionadas con la inexistencia de mecanismos de
+revisión de su contenido o por las características de una
+materia particular: Porque hay que tocar, la fisioterapia uno
+debe saber la presión que debe ejercer con las manos, la
+temperatura que está una articulación cuando la toca, esto
+por Internet es imposible [E17].
+Respecto a la experimentación, no mostraron
+voluntad de experimentar por falta de tiempo, por no
+tener el temario completo o por tener poca experiencia
+con la asignatura. Por último, consideraron la iniciativa
+como no visible y sólo se podría considerar visible si el
+profesorado tuviera interés en la iniciativa, aunque para
+ello habría que difundirla más.
+d) Tradicionales: en esta categoría se incluyeron
+tres profesores que, aunque pudieran percibir alguna
+ventaja, no estaban dispuestos a participar en el OCW.
+Todos ellos tenían destreza deficiente en el uso de la
+tecnología y sus materiales docentes o no los distribuían
+o lo hacían a través de fotocopias.
+Con relación al carácter de su plaza docente se
+dieron dos casos. Por una parte, uno con escasa
+experiencia y plaza no consolidada, reticente a la
+adopción del OCW y en general a la distribución de los
+materiales por él elaborados:
+Hombre a mí me cuesta, eh, a mí me cuesta, y me
+cuesta a veces darles a los alumnos, cuando hay
+toda una tarea, según el tipo de materiales que tú
+entregas, no?, yo nunca los doy […] nunca les doy
+antes de una clase, porque quiero que me estén
+escuchando, no quiero que tengan los apuntes
+[E15].
+
+Y porque consideraban que eran materiales
+especializados que no deberían estar accesible al público
+general: La información que tiene que recibir el público no
+es la información del material que compartimos los
+profesionales, por eso ellos no son profesionales y nosotros
+sí. No podemos bajar tanto, tanto, tanto [E15].
+Por otra parte, dos docentes profesores titulares
+con gran experiencia docente, cercanos a la jubilación
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+Con relación a los atributos de la innovación, al
+contrario que las categorías de adoptantes anteriores, la
+percepción fue menos favorable a su adopción. Por una
+parte no percibían la ventaja relativa pues no
+consideraban la iniciativa como algo distinto al sistema
+de aula virtual ya utilizado en la universidad.
+Respecto a la compatibilidad, todos los
+informantes percibieron la iniciativa como compatible
+con el sistema actual. Sin embargo, los docentes de este
+grupo percibieron gran complejidad porque era
+necesario utilizar la tecnología para disponer de un
+material docente adecuado: Yo aquí ahora como estoy lo
+veo difícil pero no por el método, sino por mi incapacidad,
+porque yo no soy un experto en sistema informático y todo
+eso, en fin, yo de informática justita [E22].
+Finalmente, los docentes de este grupo opinaron
+que no les interesaría probar la iniciativa y, en cuanto a la
+visibilidad, consideraron que el resto de sus compañeros
+ni siquiera mirarían los materiales disponibles en la
+plataforma OCW.
+
+Discusión
+La adopción de un enfoque cualitativo, en el
+marco de la teoría de Rogers (2003), para el estudio de
+las actitudes y percepciones del OCW por parte de los
+docentes de la UV, ha resultado de utilidad por diversos
+motivos.
+En primer lugar, respecto a la metodología, las
+entrevistas semiestructuradas han permitido obtener
+información de gran riqueza gracias a la expresión libre
+de cada informante. En este sentido, son reveladores los
+resultados de Shea et al. (2006) que, aunque partiendo
+del mismo marco teórico, fueron limitados por la
+imposibilidad de indagar más allá de las contestaciones
+precisas de un cuestionario estructurado.
+En segundo lugar, utilizar las categorías de
+adoptantes de una innovación de Rogers (2003) como
+criterio de segmentación de los potenciales usuarios del
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+OCW ha permitido alejarse de categorizaciones basadas
+exclusivamente en criterios socio-demográficos que, al
+menos en una fase exploratoria, podría alejar del
+verdadero foco de interés que es conocer las dimensiones
+que intervienen en el objeto de estudio. Además, ha
+permitido detectar dos grandes grupos de docentes
+según su predisposición a participar en el OCW, cuyas
+características y necesidades diferenciadas determinan
+el diseño de programas incentivadores distintos. Así, para
+el contexto estudiado, al igual que Zayim et al. (2006),
+sería posible reconocer a un primer grupo de adoptantes
+tempranos (primeros adoptantes y mayoría precoz) y un
+segundo grupo mainstream o corriente principal
+(mayoría tardía y tradicionales). En el primer caso, se trata
+de docentes con una predisposición alta a participar en
+la iniciativa que requerirían programas que potenciaran
+su papel como líderes de opinión y por lo tanto difusores
+de la innovación, en la línea de lo que Rogers (2003)
+denomina agentes de cambio. Y en el segundo, docentes
+más reacios a participar en el OCW, cuyos programas
+deberían orientarse a la sensibilización, formación y al
+fomento de la autoeficacia.
+A la vista de los resultados, en primer lugar llama
+la atención las reservas de algunos informantes, de
+cualquiera de los grupos antes mencionados, respecto a
+que muchos compañeros participen en el OCW e, incluso,
+de que la universidad sea capaz de implantar con éxito
+esa iniciativa. Estas opiniones podrían responder a la falta
+de un clima institucional favorable a la adopción del OCW
+que requeriría, tal y como plantea Margaryan et al. (2006),
+el que formara parte de una estrategia organizacional a
+largo plazo, visible e identificable para todos los
+miembros. Y que ésta no fuera percibida como una
+iniciativa aislada motivada por las presiones del entorno.
+Junto con este clima desfavorable, a la vista de
+los resultados, existen dos factores como son la
+experiencia y la estabilidad de la plaza docente que
+parecen condicionar la actitud hacia la aceptación de una
+innovación. En este sentido los más propensos a la
+adopción del OCW son personas con una gran
+experiencia docente junto con una plaza más estable.
+Correspondería con lo que Sikes (1985) denomina tercera
+etapa o de asentamiento, en la que hay un período de
+gran capacidad física e intelectual. Pero a la vez, esta
+experiencia junto con una gran estabilidad en personas
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+139
+ACTITUDES Y PERCEPCIONES DE LOS DOCENTES
+
+que opinaban que eran propietarios de la información y
+que se trataba de iniciativas para jóvenes: A mí me parece
+muy bien, me parece un avance, pero como te decía antes,
+no soy partidario de nuevas […] dejo estas iniciativas a los
+que vengan detrás de mí [E19].
+
+próximas a la jubilación también es determinante de un
+mayor recelo a la adopción de esa innovación. Así, las
+personas más reacias a participar en el OCW han sido
+docentes próximos a la jubilación, lo que Huberman
+(1989) denomina desencantados, que lo consideran una
+buena idea pero para los más jóvenes. Sin embargo,
+algunos docentes jóvenes también pueden mostrarse
+reacios por no encontrar beneficios curriculares. En este
+caso, el puro altruismo al que Arendt y Shelton (2009) se
+refieren como una de las más importantes motivaciones,
+está a mucha distancia de esta realidad.
+Al examinar los resultados de la percepción de
+los atributos de la innovación, igualmente se detectan
+dos grandes grupos que coinciden con las categorías de
+adoptantes según su predisposición a participar en el
+OCW antes mencionadas. Por una parte, los adoptantes
+tempranos que lo perciben con gran ventaja relativa
+compatible, experimentable, visible y poco complejo, o
+sea, la situación ideal para Rogers (2003), por otra, está el
+grupo de los mainstream que perciben su ventaja relativa
+sólo parcialmente, cierta complejidad y lo consideran no
+experimentable ni visible.
+
+140
+
+Por lo tanto, tal y como antes se ha mencionado,
+las personas consideradas como adoptantes tempranos
+y que tienen mejores opiniones respecto a los atributos
+de la innovación deben ser consideradas personas clave
+para impulsar su difusión. En este sentido, Martins et al.
+(2004) considera que éstos deben participar en
+programas de fomento de la innovación que versen sobre
+sus ventajas y usos, con especial hincapié en la visibilidad
+y experimentación. Pero además Xu (2008) considera que
+los cargos institucionales deben asumir también el papel
+de promotores de la iniciativa para ganar la confianza
+del resto de los adoptantes. Sin embargo, en el contexto
+investigado, los individuos con cargos de gestión
+entrevistados se refirieron a la falta de tiempo derivada
+de dicho cargo como el motivo o barrera para no
+participar de forma inmediata.
+
+L. MARGAIX-FONTESTAD et al.
+
+Respecto al grupo de docentes con percepciones
+poco favorables a la adopción del OCW, de entre todos
+los atributos investigados, la ventaja relativa y la
+complejidad podrían considerarse críticas para la
+adopción del OCW. Respecto a la ventaja relativa,
+mientras que el grupo de tradicionales no percibe esa
+ventaja quizás por desconocimiento de la filosofía del
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+OCW, en la mayoría precoz sí se percibe pero siempre
+que exista reconocimiento de la propiedad intelectual.
+Si un profesor considera que la ventaja de compartir es
+el beneficio de otros, sin el reconocimiento de su trabajo
+y sin incentivos suficientes, difícilmente participará en una
+iniciativa como el OCW. Con relación a la complejidad,
+aparece la idea de la falta de control de la calidad de los
+materiales docentes y por lo tanto la inseguridad de que
+sea adecuado exponerlos al escrutinio público. Tal y
+como afirman Heery y Powell (2006), los docentes
+tradicionalmente han tenido el control sobre sus
+materiales e incluirlos en cualquier tipo de repositorio
+les plantea dudas respecto a la propiedad, los derechos
+de autor, el control de calidad, el intercambio y la
+reciprocidad de tal intercambio. Por otra parte, ambas
+cuestiones, tanto la propiedad intelectual como el control
+de la calidad de los materiales son inquietudes comunes
+que surgen en la investigación de las actitudes de los
+docentes hacia los OER. En este sentido, Rolfe (2012)
+considera que la institución debe establecer políticas
+claras y transparentes tanto en el ámbito de la asistencia
+y orientación como en el de la gestión de los derechos
+de autor. Mientras que Margaryan et al. (2006) consideran
+que una política institucional debe establecer
+procedimientos para incentivar la participación de los
+docentes incluyendo un sistema de revisión de los
+materiales que, además de mejorar la percepción del
+sistema respecto a su complejidad, podría ser un
+mecanismo que impulse su participación. Como afirma
+Ash et al. (2001), para un sistema percibido extremadamente
+complejo, seria ideal que se implementara con la máxima
+participación de los usuarios, con altos niveles de apoyo
+y estar rodeado de una atmósfera de confianza y
+colaboración.
+
+Conclusión
+Conocer los factores que condicionan el uso del
+OCW de la Universidad de Valencia es fundamental para
+su gestión, más en tiempos de restricciones económicas.
+La implicación y el compromiso del profesorado en esta
+iniciativa son de vital importancia para asegurar su
+utilidad y pervivencia. La investigación de las actitudes y
+percepciones de los docentes ha permitido obtener una
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+Agradecimientos
+Esta investigación se ha realizado en el marco del
+proyecto “El acceso abierto a la producción científica (open
+access) en España: análisis del grado de implantación y de la
+sostenibilidad de un nuevo modelo de comunicación científica”,
+financiado por el Gobierno de España. Ministerio de Ciencia e
+Innovación. Plan Nacional de I+D (CSO2011-29503-C02-02).
+
+Referencias
+Arendt, A.M.; Shelton, B.E. Incentives and disincentives for the
+use of OpenCourseWare. International Review of Research in
+Open and Distance Learning, v.10, n.5, p.1-25, 2009.
+
+Martins, C.B.M.J. et al. Factors influencing the adoption of the
+internet as a teaching tool at foreign language schools.
+Computers & Education, v.42, n.4, p.353-374, 2004.
+
+Ash, J.S. et al. A diffusion of innovations models of physician
+order entry. Proceedings AMIA Symposium, p.22-26, 2001 (PMID:
+11825150).
+
+Patton, M.Q. Qualitative research and evaluation methods. 3th.
+Thousand Oaks: Sage, 2002.
+
+Gadd, E. et al. A comparison of academics’ attitudes towards
+the rights protection of their research and teaching materials.
+Journal of Information Science, v.33, n.6, p.686-701, 2007.
+Glaser, B.; Strauss, A.L. The discovery of grounded theory:
+Strategies for qualitative research. New Brunswick: Aldine
+Transaction, 1967.
+Heery, R.; Powell, A. Digital repositories roadmap: Looking
+forward. London: Jaint Information Systems Committee, 2006.
+Available from: <http://www.jisc.ac.uk/uploaded_documents/
+rep-roadmap-v15.doc>. Cited: Dec. 12, 2012.
+Huberman, M. The professional life cycle of teachers. Teachers
+College Record, v.91, n.1, p.31-57, 1989.
+Lincoln, Y.; Guba, E. Naturalistic inquiry. Newbury Park: Sage,
+1985.
+Margaryan, A. et al. CD-LOR delirelable 1: Report on learning
+communities and repositories. Glasgow: Centre for Academic
+Practice and Learning Enhancement, 2006. Available from:
+<http://www.academy.gcal.ac.uk/cd-lor/learning
+communitiesreport.pdf>. Cited: Dec. 12, 2012.
+
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+Rogers, E. Diffusion of innovations. 5th ed. New York: Free Press,
+2003.
+Rolfe, V. Open educational resources: Staff attitudes and
+awareness. Research in Learning Technology, v.20, n.1, p.1-13,
+2012.
+Santos-Hermosa, G. et al. Recursos educativos abiertos:
+repositorios y uso. El Profesional de la Información, v.21, n.2,
+p.136-145, 2012.
+Shea, P. et al. Adoption of the multimedia educational resource
+for learning and online teaching (MERLOT) among higher
+education faculty: Evidence from the state University of New
+York. Journal of Online Learning and Teaching, v.2, n.3,
+p.136-156, 2006.
+Sikes, P. The life cycle of the teacher. In: Ball, S.J.; Goodson, I.F.
+(Ed.). Teachers’ lives and careers. London: Falmer Press, 1985.
+p.27-60.
+Xu, H. The theory analysis of faculty participation in institutional
+repositories. Occasional Paper Series, n.1, p.3-15, 2008.
+Zayim, N. et al. Technology adoption of medical faculty in
+teaching: Differentiating factors in adopter categories.
+Educational Technology & Society, v.9, n.2, p.213-222, 2006.
+
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+141
+ACTITUDES Y PERCEPCIONES DE LOS DOCENTES
+
+visión amplia de los aspectos críticos que pueden
+dificultar o favorecer su uso. Los resultados obtenidos
+marcan diversas líneas de acción para una respuesta
+inmediata en cuanto al fomento del uso del OCW pero
+también líneas de investigación que deben desarrollarse
+en un futuro en el ámbito del marketing y difusión,
+formación, sensibilización y motivación.
+
+142
+
+L. MARGAIX-FONTESTAD et al.
+
+TransInformação, Campinas, 26(2):133-141, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200003
+
+

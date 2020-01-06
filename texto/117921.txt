@@ -1,0 +1,1551 @@
+177
+
+Visibility of scientific journals: A study based on the
+Website of Scientific Journals at Universidade
+Federal do Rio Grande do Sul
+Ana Gabriela Clipes FERREIRA1
+Sônia Elisa CAREGNATO2
+
+Resumo
+Esta pesquisa analisa a visibilidade e as características que promovem as revistas científicas eletrônicas, presentes no Portal de
+Periódicos Científicos da Universidade Federal do Rio Grande do Sul. Avalia-se, também, o grau de presença dessas revistas nas
+fontes de informação da internet. Compreende-se, portanto, que este é um estudo descritivo e exploratório, que combina dados
+qualitativos e quantitativos para analisar o corpus formado por 34 títulos. O mapeamento das fontes de informação permitiu-nos
+destacar a maior presença de periódicos na Latin American Periodicals Tables of Contents, seguida pela Latindex. Apesar da presença
+pouco expressiva em fontes de informação internacionais, concluiu-se que as revistas pertencentes ao Portal de Periódicos
+Científicos buscam adaptar-se às características que promovem sua visibilidade. O trabalho também sugere uma série de novos
+estudos, que visariam aprofundar as análises de outros temas ligados à visibilidade e aos estudos bibliométricos.
+Palavras-chave: Comunicação científica. Fontes de informação. Periódicos. Visibilidade.
+
+Abstract
+The study addresses the visibility of electronic scientific journals, as well as the characteristics that promote, especially focusing on those
+hosted on the Portal of Scientific Journals of the Universidade Federal do Rio Grande do Sul. The study assesses the degree of visibility
+of these journals on the Internet by means of their presence in information sources. The theoretical reference addresses the following
+themes: scientific communication; scientific journals; visibility and searchability; information sources on portal; bibliographic databases
+and open access. This is a descriptive and exploratory study that combines qualitative and quantitative data. The corpus of research was
+composed of 34 titles. Essential information about the journals was collected, giving emphasis to the characteristics that promote their
+visibility. It was found that Human Sciences is the area with the greatest number of journals at the University, 29.4% of all publications.
+Open access is adopted by all journals in the sample. Once the information sources had been mapped, it was found that the majority of
+journals appear in the information source Latin American Periodicals Tables of Contents, followed by Latindex. Despite the limited presence
+of the journals in international information sources, it was concluded that the journals hosted on the Website of Scientific Journals seek
+to adapt to characteristics that promote their visibility. The study suggests a number of new studies, deepens the analyses, and addresses
+other themes related to visibility and, especially, bibliometric studies.
+Keywords: Scientific communication. Information sources. Journal. Visibility.
+1
+
+2
+
+Universidade Federal do Rio Grande do Sul, Faculdade de Educação, Biblioteca Setorial de Educação. Av. Paulo Gama, 110, Prédio 12201, Farroupilha,
+90046-900, Porto Alegre, RS, Brasil. Correspondência para/Correspondence to: A.G.C. FERREIRA. E-mail: <anaclipes@ufrgs.br>.
+Universidade Federal do Rio Grande do Sul, Faculdade de Biblioteconomia e Comunicação, Departamento de Ciência da Informação. Porto Alegre, RS,
+Brasil.
+Recebido em 30/10/2012 e aceito para publicação em 20/2/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+Visibilidade de revistas científicas: um estudo no Portal
+de Periódicos Científicos da Universidade
+Federal do Rio Grande do Sul
+
+Introdução
+As Tecnologias da Comunicação e da Informação
+(TIC) trouxeram novidades aos processos de comunicação e divulgação da ciência, uma vez que a presença
+na web ampliou o acesso aos resultados de pesquisa
+documentados e promoveu o uso dessa produção. As
+revistas eletrônicas estão disponíveis na Web pelas diferentes fontes de informações, quais sejam: os portais, os
+índices, as bases de dados, os repositórios e os diretórios.
+Essas fontes de informação na Web apresentam recursos
+que facilitam a localização de artigos dos periódicos nelas
+indexados e, portanto, promovem a visibilidade desses
+materiais. Um periódico se torna visível na ciência quando
+possui uma série de características que promovam o seu
+acesso, ou seja, quando as informações têm a capacidade
+de exposição, influenciando, assim, o público-alvo (Packer
+& Meneghini, 2006).
+Visto que existe um número elevado de títulos
+de periódicos eletrônicos, se comparados, os periódicos
+que possuírem determinados atributos serão mais visíveis. Entre as características que proporcionam visibilidade é possível destacar: a presença na Web, o acesso
+aberto, a buscabilidade, o idioma da publicação e a
+presença em fontes de informação. Assim, formula-se a
+seguinte questão: quais são as características promotoras
+de visibilidade que os periódicos científicos eletrônicos
+podem possuir?
+Nesse sentido, este artigo indaga se somente a
+presença em bases de dados bibliográficas internacionais
+é capaz de conferir visibilidade aos periódicos, bem como
+quais seriam as características que tornam um periódico
+visível. Parte-se da premissa de que a visibilidade não é
+formada por um único atributo.
+
+178
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+O objetivo geral, portanto, é analisar a relação
+entre as características dos periódicos científicos eletrônicos presentes no Portal de Periódicos Científicos da
+Universidade Federal do Rio Grande do Sul (PPCU/UFRGS)
+e a visibilidade que alcançam. Paralelamente, a fim de
+subsidiar o alcance desse objetivo, salientam-se as principais características dos periódicos: o idioma, o acesso
+aberto e a avaliação no Qualis da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Além
+disso, foi realizado o mapeamento das fontes de informação eletrônicas nas quais os periódicos estão presentes. Por fim, apresentam-se considerações acerca da
+visibilidade dos periódicos científicos eletrônicos.
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+Visibilidade e os atributos que a
+promovem
+O termo visibilidade possui na literatura especializada diferentes definições. Para Packer e Meneghini
+(2006, p.237) visibilidade é a “[...] capacidade de exposição
+que uma fonte ou fluxo de informação possui de, por
+um lado, influenciar seu público-alvo e, por outro, ser
+acessada em resposta a uma demanda de informação”.
+Para ser visível, o periódico eletrônico precisa atingir membros de uma comunidade, que buscam sanar suas demandas e necessidades informacionais. Nesse caso, a
+visibilidade de uma publicação científica indica o seu
+reconhecimento.
+Para Zimba e Mueller (2004, p.49), visibilidade
+científica “é o grau de exposição e evidência de um
+pesquisador frente à comunidade científica”, sendo que
+trabalhos e ideias de um pesquisador que sejam
+facilmente acessíveis podem ser considerados detentores
+de uma alta posição de visibilidade. A definição é voltada
+para a visibilidade do autor e não leva em consideração
+o reconhecimento ou a qualidade do seu trabalho, já que
+a exposição pode ser negativa.
+Para os periódicos alcançarem visibilidade precisam ser referência de qualidade e credibilidade em uma
+determinada área e estar indexados em índices de prestígio nacionais e internacionais (Packer & Meneghini,
+2006). Partindo dessas duas dimensões, Packer e
+Meneghini (2006) propõem alguns atributos e indicadores de visibilidade, que são: (a) sociedade científica,
+organização, grupo ou empresa editora responsável pela
+publicação do periódico; (b) representatividade do editor
+responsável e do corpo editorial junto à comunidade
+científica; (c) distribuição institucional e geográfica da
+afiliação dos autores; (d) publicação eletrônica na Internet
+e com acesso aberto; (e) idioma(s) de publicação; (f )
+número de índices referenciais nacionais e internacionais
+que está indexado; (g) números médios de leituras ou
+de artigos acessados periodicamente; (h) número de
+citações recebidas e fator de impacto.
+Villamón et al. (2009) afirmam que, para haver
+disseminação da informação dos periódicos, é necessária
+a visibilidade na Internet e a indexação em bases de
+dados, preferencialmente internacionais. Porém, o
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+Certamente, a presença na Web e em índices e
+bases de dados, ou de uma maneira mais ampla, a
+presença em fontes de informação eletrônicas, são itens
+essenciais para a promoção da visibilidade. Todavia, o
+conjunto de atributos propostos por Packer e Meneghini
+(2006) englobam essas características e acrescentam
+outras importantes.
+Pode-se inferir que as condições básicas para se
+obter visibilidade são a aceitação, o reconhecimento, o
+uso, a credibilidade e o acesso à informação. É importante
+salientar que nem todas essas condições precisam estar
+presentes ao mesmo tempo para definir se um periódico
+é visível. Por esse motivo, por possuírem uma estreita
+ligação e dependência, em determinadas ocasiões, pode
+ser entendido que os itens ou os atributos que tornam a
+informação visível sejam definidos como visibilidade.
+Assim, neste trabalho aborda-se a visibilidade dos
+periódicos científicos eletrônicos com ênfase em determinados atributos. As características foram baseadas no
+trabalho de Packer Meneghini (2006), quais sejam:
+publicação em revistas de acesso aberto na Internet,
+idioma de publicação da revista, e os índices e bases de
+dados nacionais e internacionais que as indexam. Esses
+itens foram selecionados por serem os mais complexos
+para a avaliação dos periódicos científicos. Os demais
+atributos - a sociedade científica, a organização, o grupo
+ou empresa editora responsável pela publicação do
+periódico e pela representatividade do editor ou do
+corpo editorial, bem como a distribuição institucional e
+geográfica de afiliação dos autores -, não serão considerados por serem características empregadas no instante em que a revista é incluída nos índices e na base
+de dados.
+O termo searchability, ou “buscabilidade” quando
+traduzido para o português, se refere à capacidade do
+site de ser encontrado pelos principais mecanismos de
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+busca; conjuntamente, representa a possibilidade de o
+usuário acessar e identificar a informação recuperada
+(Hernández Ortega et al., 2010), sendo, nesse sentido,
+similar aos conceitos de visibilidade.
+Estudos sobre a buscabilidade são recentes e
+alguns foram relacionados ao uso de redes sociais; por
+esse motivo, o termo é considerado um neologismo da
+Internet. Principalmente, observa-se a utilização da buscabilidade em estudos da área de Sistemas de Informação, para avaliar desenhos de sites e a influência do
+tráfego de informações. Porém, já é possível observar
+alguns estudos nas Ciências Sociais Aplicadas também.
+Peazê (2009, online) define buscabilidade como
+a “característica ativa ou passiva de buscar ou encontrar
+informação ou dado na Internet”, ou seja, para ele trata-se de uma definição ligada diretamente aos mecanismos
+de busca. Assim, verifica-se que visibilidade e buscabilidade não são termos sinônimos, embora tenham
+aspectos comuns. No contexto da comunicação científica, a visibilidade é um conjunto de características e
+atributos de um pesquisador ou periódico, enquanto a
+buscabilidade é a capacidade de recuperação da
+informação em mecanismos de busca. Porém, a possibilidade de recuperar um título utilizando esses recursos é
+mais um dos itens que proporcionam a visibilidade da
+revista. Assim, buscabilidade é uma característica adicional de visibilidade.
+
+Fontes de informação e presença na Web
+As publicações periódicas, ao migrarem para o
+meio eletrônico, promoveram mudanças não só de
+formato, influenciaram, também, a criação de novos
+serviços para disponibilizá-las, e promoveram a adaptação de outros já existentes, são eles: os índices e os
+serviços de indexação e resumo, ou, como também são
+denominadas, as bases de dados bibliográficos.
+Bases de dados e índices são produtos de serviços
+de indexação e resumo, responsáveis pela sua divulgação
+e comercialização (Céndon, 2000). A indexação é uma
+etapa na produção desses serviços de índice e resumo
+oferecidos ao público na forma de base de dados de
+acesso online, e não mais na forma impressa. Silva et al.
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+179
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+conceito de visibilidade para esses autores se limita a
+esses dois indicadores. Em estudo que caracterizou as
+revistas espanholas presentes na Latindex, a análise de
+visibilidade dos autores deu-se pela análise do conteúdo
+disponibilizado na Internet, ou seja, se determinada revista
+disponibiliza ou não os artigos em formato eletrônico
+(Villamón et al., 2009).
+
+(2006, p.264) afirmam que bases de dados eletrônicas
+são as fontes de informação “pesquisáveis de modo
+interativo ou conversacional através de um computador”.
+As bases de dados podem ser classificadas de
+acordo com a natureza da informação nelas presentes.
+Rowley (2002) faz a divisão e subdivisão dos tipos de
+bases de dados da seguinte maneira: (a) bases de dados
+de referências ou referenciais (bibliográficas, catalográficas e de diretórios); (b) bases de dados de fontes
+(numéricas, de texto completo, textuais e numéricas e
+de gráficos).
+Packer e Meneghini (2006) afirmam que um dos
+atributos de visibilidade é a quantidade de fontes de
+informação na qual os periódicos estão presentes. Porém,
+nem todas as fontes possuem a mesma importância para
+a área do conhecimento, pois a cobertura e abrangência
+são diferentes, assim como seus objetivos.
+
+180
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+Para Meneghini (1998) a ciência brasileira é comparada a um iceberg: apenas a parte acima da água
+representa a produção científica indexada em bases de
+dados internacionais e está visível: o restante da produção
+não presente é pouco visível à ciência. Em contraponto
+à realidade das bases de dados internacionais, nas quais
+a presença de revistas brasileiras, da América Latina e
+Caribe ainda é escassa, Aguado-López et al. (2010) apontam fontes de informação que têm como objetivo a
+divulgação do conhecimento científico dessas regiões,
+considerando-as como indicadores alternativos para a
+avaliação das atividades científicas em contraponto com
+o ISI, recurso no qual as revistas norte-americanas e inglesas da área das ciências duras estão mais presentes. Citam projetos como a Scientific Electronic Library Online
+(SciELO), Red de Revistas Científicas da América Latina y el
+Caribe, España y Portugal (Redalyc) e Univerciência.org,
+que são diferentes entre si, pois cobrem áreas do
+conhecimento e têm objetivos distintos. A Redalyc, por
+exemplo, indexa 76% das revistas da área de Ciências
+Humanas, enquanto na SciELO pode ser observada a
+predominância da área de Ciências da Saúde, com 40%.
+Porém, ambas as fontes permitem a produção de indicadores bibliométricos.
+Miguel e Herrero-Solana (2010) também indicam
+as iniciativas latino-americanas que têm como objetivo
+aumentar a visibilidade, no requisito presença em índices
+bibliográficos, dos periódicos da região. Os autores
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+discutem a pouca presença das revistas latino-americanas de Biblioteconomia e Ciência da informação nos
+grandes serviços de indexação e resumo, além das
+dificuldades de identificação, valorização da qualidade e
+determinação da natureza. Essas características, segundo
+os autores, diminuem as possibilidades de reconhecimento e visibilidade internacional. Além da RedaLyC, a
+Latindex é um dos projetos apontados como importantes para esse autores, podendo ser uma medida alternativa de presença em fontes de informação. Essas fontes
+contribuem para a divulgação e disseminação das revistas de diversas áreas do conhecimento. O estudo de
+Miguel e Herrero-Solana (2010) é mais um em que a
+visibilidade é diretamente ligada à presença em bases
+de dados, tendo sido o diferencial à utilização da Latindex
+como fonte para o estudo. Nesse caso, a escolha da fonte
+foi importante por se tratar de uma área, as Ciências
+Sociais Aplicadas, que não possui uma presença marcante nas grandes bases de dados bibliográficas multidisciplinares. O estudo possibilitou uma análise que teria
+resultado não condizente com a realidade da área.
+
+Métodos
+Trata-se de um estudo descritivo e exploratório,
+com análise de dados qualitativos e quantitativos. O
+objeto empírico da pesquisa é o grupo de periódicos
+científicos eletrônicos editados na UFRGS e disponibilizados no Portal de Periódicos Científicos da Universidade. A formação do corpus da pesquisa foi realizada pela
+análise das revistas pertencentes ao PPCU.
+Dos 37 títulos das diversas áreas do conhecimento, foram excluídas apenas três, por se tratarem de
+revistas de associações. Tais revistas contavam com editor
+da Universidade na época da coleta de pesquisa, mas o
+cargo pode ser transferido a qualquer momento para
+outro docente de diferente instituição, fazendo com que
+a revista seja retirada do portal. Assim, preferiu-se excluir
+deste estudo esse tipo de publicação. A consulta aos
+títulos ocorreu em outubro de 2010.
+Para a coleta de dados, foi criado um instrumento
+em formato de formulário. As informações foram coletadas por intermédio das informações fornecidas no
+PPCU pelas equipes editoriais das revistas. Quando incompletas, desatualizadas ou mesmo para a conferência
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+A organização dos dados foi realizada em planilha
+eletrônica. Os recursos oferecidos pelo formato “xls”
+possibilitaram a melhor categorização das informações
+e a utilização de recursos como, por exemplo, a organização das listas em ordem alfabética.
+Os dados sobre as fontes de informações eletrônicas - indexadores no PPCU -, necessitaram de um
+número maior de colunas e de limpeza e uniformização
+de dados. A limpeza desses dados foi realizada, primeiramente, pela padronização dos títulos das bases de
+dados, dos portais e dos diretórios. Após essa etapa,
+conferiu-se a presença das revistas nas fontes de informação. Foram contabilizadas as fontes de informação em
+que está presente o maior número de revistas do PPCU
+pela contagem de palavras da planilha eletrônica.
+As fontes de informação foram listadas de acordo
+com o número de vezes em que foram citadas, ou seja,
+se a fonte foi citada por cinco títulos diferentes, por exemplo, na listagem o seu nome apareceu o mesmo número
+de vezes. O recurso Wordle <http://www.wordle.net/>
+auxiliou na elaboração de uma nuvem a partir dessa
+listagem, com todas as ocorrências das fontes nas revistas.
+Por fim, a análise sobre visibilidade foi realizada e
+os resultados foram agrupados de acordo com a tabela
+do Conselho Nacional de Desenvolvimento Cientifico e
+Tecnológico (CNPq) das grandes áreas do conhecimento,
+com o propósito de realizar uma análise geral do conjunto, e não título por título.
+
+As revistas do PPCU
+Os periódicos abordados neste estudo, seus respectivos títulos, área do conhecimento (informada pelos
+editores das revistas), International Standard Serial
+Number (ISSN), Eletronic International Standard Serial
+Number (E-ISSN), periodicidade e ano inicial estão listados
+no Quadro 1.
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+A utilização dos padrões de acesso aberto pelas
+revistas é marcante. Dos 34 títulos, 32 empregam o Sistema de Editoração Eletrônico de Revista/Open Journal
+Sistems (SEER/OJS) de alguma maneira: três dessas 32
+revistas em processo de migração e outras duas utilizam
+a versão anterior, impossibilitando a presença no Portal
+SEER/UFRGS. A utilização de página Hypertext Markup
+Language (HTML) foi observada em quatro títulos, sendo
+que apenas dois deles não possuem também acesso pelo
+SEER/OJS. Outros três títulos estão presentes também na
+SciELO, biblioteca eletrônica que utiliza o software OJS
+desde 2005 (Santos, 2005). Além disso, observou-se a
+presença significativa de revistas híbridas. Todavia, vários
+títulos deixaram de fornecer o formato impresso nos
+últimos anos e adotaram somente o formato eletrônico.
+A presença no Portal de Periódicos da Capes é
+expressiva. Das revistas analisadas, 23 títulos estão
+presentes no Portal. Dos 11 títulos que estão fora do
+portal, alguns deles, como a Educação & Realidade, têm
+plenas condições de estar presente no PPC: possui Qualis
+A2 na área de Educação e está indexado em fontes de
+informação adequadas e relevantes para a área. O PPC é
+uma fonte de informação importante por disponibilizar
+entre os seus recursos periódicos e bases de dados, tanto
+que é citado por grande parte das revistas do PPCU.
+Porém, não é uma fonte que indexa os artigos ou fornece
+outros serviços, como indicadores de produção ou
+mesmo referências bibliográficas.
+Foram encontrados problemas quanto à atualização dos dados no PPCU. Algumas informações estão
+desatualizadas, outras inexistentes. Quanto à padronização, uma limitação observada foi a ausência do
+E-ISSN em alguns dos títulos. Sendo revistas eletrônicas,
+não possuir o número padrão para publicações é uma
+falha grave e que pode interferir na avaliação da revista,
+seja por agências de fomento ou pelas fontes de informação, como pelo próprio leitor ou autor em potencial
+da publicação.
+Somente as revistas que estão presentes na
+SciELO possuem Digital Object Identifier (DOI). O número
+identificador é um qualificador da publicação ao identificar e localizar objetos na Internet. O fato de a revista
+possuir esse recurso representa segurança na localização
+dos documentos eletrônicos, assim como permite a participação em uma rede internacional de dados bibliográficos.
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+181
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+das informações, utilizou-se os seguintes recursos: (a)
+consulta à página do periódico; (b) consulta ao Catálogo
+Online do Sistema de Bibliotecas (SABI) da UFRGS; e (c)
+consulta ao Catálogo Coletivo Nacional do Instituto
+Brasileiro de Informação em Ciência e Tecnologia
+(CCN/IBICT).
+
+Quadro 1. Revistas do Portal da Universidade Federal do Rio Grande do Sul. 2010.
+Título da Revista
+
+Área do Conhecimento
+
+Acta Scientiae Veterinariae
+
+Veterinária
+
+Análise Econômica
+Anos 90
+
+E-ISSN
+
+Periodicidade Ano inicial
+
+1678-0345 1679-9216
+
+Trimestral
+
+1973
+
+Ciências Econômicas
+
+0102-9924 2176-5456
+
+Semestral
+
+1983
+
+História
+
+0104-236X 1983-201X
+
+Semestral
+
+1993
+
+Arqtexto
+
+Arquitetura
+
+1518-238X
+
+-
+
+Semestral
+
+2000
+
+Caderno de Farmácia
+
+Farmácia
+
+0102-6592
+
+-
+
+Semestral
+
+1985
+1986
+
+Cadernos do Aplicação
+
+Educação
+
+0103-6045
+
+-
+
+Semestral
+
+Cena
+
+Teatro
+
+1519-275X
+
+-
+
+Semestral
+
+2000
+
+ConTexto
+
+Não informado
+
+1676-6016 2175-8751
+
+Semestral
+
+2001
+
+Contingentia
+
+Letras
+
+1980-7589
+
+Semestral
+
+2006
+
+Debates do NER
+
+Antropologia
+
+1519-843x 1982-8136
+
+Semestral
+
+1997
+
+Educação & Realidade
+
+Educação
+
+0100-3143 2175-6236
+
+Quadrimestral
+
+1976
+
+Em Pauta
+
+Música
+
+0103-7420 1984-7491
+
+Semestral
+
+1989
+
+Em Questão
+
+182
+
+ISSN
+
+*
+
+Semestral
+
+1986
+
+1413-5736
+
+-
+
+Semestral
+
+1996
+
+-
+
+1982-6524
+
+Semestral
+
+2007
+
+1517-2473
+
+-
+
+Semestral
+
+1999
+
+0104-7183 1806-9983
+
+Semestral
+
+1995
+
+1516-084X 1982-1654
+
+Semestral
+
+1998
+
+1807-8583
+
+Semestral
+
+1997
+
+0104-754X 1982-8918
+
+Trimestral
+
+1994
+
+1981-4526
+
+Semestral
+
+2005
+
+Biblioteconomia e Comunicação 1807-8893 1808-5245
+
+Episteme
+
+Filosofia e Ciências Humanas
+
+Espaço Ameríndio
+
+Antropologia
+
+Estudos Interdisciplinares sobre o Envelhecimento
+
+Interdisciplinar
+
+Horizontes Antropológicos
+
+Antropologia
+
+Informática na Educação: Teoria & Prática
+
+Interdisciplinar
+
+Intexto
+
+Biblioteconomia e Comunicação
+
+Movimento
+
+Educação Física
+
+-
+
+Nau Literária
+
+Letras
+
+Para Onde!?
+
+Geociências
+
+1982-0003
+
+Semestral
+
+2007
+
+Pesquisas em Geociências**
+
+Geociências
+
+1518-2398 1807-9806
+
+Semestral
+
+1972
+
+Porto Arte
+
+Artes visuais
+
+0103-7269
+
+Semestral
+
+1990
+
+Produto e Produção
+
+Interdisciplinar
+
+1516 3660 1983-8026
+
+Quadrimestral
+
+1997
+
+Psicologia: reflexão e crítica
+
+Psicologia
+
+0102-7972 1678-7153
+
+Quadrimestral
+
+1986
+
+REAd: Revista Eletrônica da Administração
+
+Administração
+
+1980-4164 1413-2311
+
+Quadrimestral
+
+1995
+
+Revista Brasileira de Biociências
+
+Biociências
+
+1679-2343 1980-4849
+
+Trimestral
+
+2003
+
+Revista da Faculdade de Odontologia
+
+Odontologia
+
+0566-1854
+
+-
+
+Quadrimestral
+
+1960
+
+Revista de Informática Teórica e Aplicada
+
+Informática
+
+0103-4308
+
+Revista Debates
+
+Filosofia e Ciências Humanas
+
+-
+
+Semestral
+
+1989
+
+1982-5269
+
+Semestral
+
+2007
+1976
+
+Revista Gaúcha de Enfermagem
+
+Enfermagem
+
+0102-6933 1983-1447
+
+Trimestral
+
+Revista HCPA
+
+Medicina
+
+0101-5575 1983-5485
+
+Quadrimestral
+
+1981
+
+Sociologias
+
+Sociologia
+
+1517-4522 1807-0337
+
+Semestral
+
+1999
+
+Notas: * continuação da Revista de Biblioteconomia, a partir de 2003;
+
+**
+
+continuação da Revista Pesquisas, a partir de 2000.
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+ISSN: International Standard Serial Number; E-ISSN: Eletronic International Standard Serial Number.
+Fonte: Elaborado pelas autoras (2010).
+
+Quanto ao idioma, a maioria dos periódicos publica artigos em português. Observa-se na literatura a
+importância da adoção do idioma inglês para que se
+tenha ampla aceitação pelas comunidades científicas. Há
+a presença de artigos em outros idiomas, em especial o
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+espanhol. Também há artigos em inglês, francês e mesmo
+em alemão na revista Contigentia. Contudo, observou-se que a única revista que publica exclusivamente em
+inglês é a Acta Scientiae Veterinariae. As demais disponibilizam resumo e palavras-chave na língua inglesa. Essa
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+Quadro 2. Fontes de informações das Revistas do Portal de Periódicos Científicos da Universidade Federal do Rio Grande do Sul. 2010.
+
+Fonte
+
+Revista
+Bases de dados referenciais bibliográficas
+
+Base de Dados em Enfermagem (BDENF)
+
+Revista Gaúcha de Enfermagem
+
+Bibliografia Brasileira de Educação (BBE)
+
+Cadernos do Aplicação, Educação & Realidade
+
+Bibliografia Brasileira de Odontologia (BBO)
+
+Revista da Faculdade de Odontologia
+
+Bibliography and Index of Geology
+
+Pesquisas em Geociências
+
+Base de Dados Referenciais de Artigos de Periódicos em Ciência da
+Informação (BRAPCI) / Base
+
+Em Questão
+
+CABI International / CABI International - Index Veterinarius
+
+Acta Scientiae Veterinariae, Revista Brasileira de Biociências
+
+Cambridge Scientific Abstracts (CSA), Social Services Abstracts e
+Sociological Abstracts
+
+Episteme, Psicologia: Reflexão e Crítica, Sociologias
+
+Cumulative Index to Nursing & Allied Health Literature (CINAHL)
+
+Revista Gaúcha de Enfermagem
+
+Citas Latinoamericanas en Sociologia, Economia y Humanidades (CLASE)
+
+Educação & Realidade, Estudos Interdisciplinares sobre o Envelhecimento, Psicologia: Reflexão e Crítica, Sociologias
+
+Cuiden
+
+Revista Gaúcha de Enfermagem
+
+Data Índice – Instituto Universitário de Pesquisas do Rio de Janeiro
+(IUPERJ)
+
+Sociologias
+
+Digital Bibliography & Library Project (DBLP)
+
+Revista de Informática Teórica e Aplicada - RITA
+
+Georef
+
+Pesquisas em Geociências
+
+Index Medicus Latino-Americano
+
+Revista Gaúcha de Enfermagem
+
+Index-Psi Periódicos
+
+Estudos Interdisciplinares sobre o Envelhecimento, Psicologia:
+Reflexão e Crítica
+
+Índice de Aquitetura da USP
+
+Arqtexto
+
+International Nursing Índex
+
+Revista Gaúcha de Enfermagem
+
+Índice de Revistas en Educación Superior y Investigación Educativa
+(IRESIE)
+
+Educação & Realidade
+
+ISI Web of Knowledge
+
+Acta Scientiae Veterinariae, Movimento, Psicologia: Reflexão e Crítica
+
+Latin American Periodicals Tables of Contents (LAPTOC)
+
+Acta Scientiae Veterinariae, Análise Econômica, Anos 90, Arqtexto,
+Caderno de Farmácia, Cadernos do Aplicação, ConTexto, Contingentia, Debates do NER, Educação & Realidade, Em Pauta, Em
+Questão, Estudos Interdisciplinares sobre o Envelhecimento, Horizontes Antropológicos, Informática na Educação: Teoria & Prática,
+Movimento, Pesquisas em Geociências, Porto Arte, Produto & Produção, Psicologia: Reflexão e Crítica, Revista Brasileira de Biociências,
+Revista da Faculdade de Odontologia, Revista Gaúcha de Enfermagem
+
+Centro Latino-Americano e do Caribe de Informação em Ciências da
+Saúde (LILACS)
+
+Estudos Interdisciplinares sobre o Envelhecimento, Movimento,
+Psicologia: Reflexão e Crítica, Revista da Faculdade de Odontologia,
+Revista Gaúcha de Enfermagem, Revista HCPA
+
+MedLine
+
+Revista Gaúcha de Enfermagem
+
+Mineralogical Abstracts
+
+Pesquisas em Geociências
+
+Orientador Adviser - Infobase IBBA - Índice Brasileiro de Bibliografia de
+Administração
+
+REAd: Revista Eletrônica da Administração
+
+The Philosopher’s Índex
+
+Episteme
+
+Psicodoc - Colegio Oficial de Psicólogos de Madrid
+
+Psicologia: Reflexão e Crítica
+
+PsycInfo (Psychological Abstracts)
+
+Psicologia: Reflexão e Crítica
+
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+1 de 3
+
+183
+
+Quadro 2. Fontes de informações das Revistas do Portal de Periódicos Científicos da Universidade Federal do Rio Grande do Sul. 2010.
+
+2 de 3
+Fonte
+
+Revista
+Bases de dados referenciais bibliográficas
+
+Red de Revistas Científicas da América Latina y el Caribe, España y Portugal
+(RedALyC)
+
+Movimento, Psicologia: Reflexão e Crítica
+
+Portal de Revistas de Enfermagem (Rev@Enf)
+
+Revista Gaúcha de Enfermagem
+
+Scopus
+
+Psicologia: Reflexão e Crítica, Revista Gaúcha de Enfermagem
+
+Sistema Brasileiro de Documentação e Informação Desportiva
+(SIBRADID)
+
+Estudos Interdisciplinares sobre o Envelhecimento
+
+SocINDEX
+
+Sociologias
+
+SPORTDiscus
+
+Movimento
+
+Child Development Abstracts and Bibliography (SRCD)
+
+Psicologia: Reflexão e Crítica
+
+Sumários de Revistas Brasileiras
+
+Contingentia, Espaço Ameríndio, Estudos Interdisciplinares sobre o
+Envelhecimento, REAd: Revista Eletrônica da Administração, Revista
+Debates
+Bases de dados referenciais catalográficas
+
+Bauhaus-Universität Weimar
+
+Contingentia
+
+Biblioteca Revistas Eletrônicas CCG/IBT
+
+Contingentia
+
+Biblioteques UAB. Revistes Digitals
+
+Psicologia: Reflexão e Crítica
+
+Elektronische Zeitschriftenbibliothek (EZB)
+
+Contingentia
+
+Fundação Biblioteca Nacional (FBN)
+
+Arqtexto
+
+Fundação Carlos Chagas (FCC)
+
+Educação & Realidade
+
+Germanistik im Netz
+
+Contingentia
+
+Library of Congress (LOC)
+
+Arqtexto
+
+Library University Georgetown
+
+Contingentia
+
+The Royal Institute of British Architects (RIBA)
+
+Arqtexto
+
+York University Libraries
+
+Contingentia
+Bases de dados fontes
+
+Scientific Electronic Library Online (SciELO)
+
+Horizontes Antropológicos, Psicologia: Reflexão e Crítica, Sociologias
+
+Diretórios de revistas, portais e outras fontes de informação
+Directory of Open Access Journals (DOAJ)
+
+Contingentia, Espaço Ameríndio, Pesquisas em Geociências,
+Psicologia: Reflexão e Crítica, Revista Brasileira de Biociências, Revista
+Debates
+
+E-Journals.org
+
+Revista Brasileira de Biociências
+
+Google Acadêmico
+
+Pesquisas em Geociências, Revista Brasileira de Biociências, Revista
+de Informática Teórica e Aplicada - RITA
+
+Sistema Regional de Información en Línea para Revistas Científicas de
+América Latina, el Caribe, España y Portugal (Latindex)
+
+Anos 90, Arqtexto, Caderno de Farmácia, Contingentia, Educação &
+Realidade, Em Pauta, Em Questão, Espaço Ameríndio, Estudos
+Interdisciplinares sobre o Envelhecimento, Movimento, Psicologia:
+Reflexão e Crítica, REAd: Revista Eletrônica da Administração, Revista
+Brasileira de Biociências, Revista Debates, Revista Gaúcha de
+Enfermagem, Revista HCPA, Sociologias
+
+Oásis
+
+Em questão
+
+184
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+Quadro 2. Fontes de informações das Revistas do Portal de Periódicos Científicos da Universidade Federal do Rio Grande do Sul. 2010.
+
+Fonte
+
+Revista
+Diretórios de revistas, portais e outras fontes de informação
+
+Open Archives Harvester - Public Knowledge Project (OAH/PKP)
+PKP - Public Knowledge Project’s Metadata Archive
+
+Pesquisas em Geociências
+
+Red Iiberoamericana de Revistas de Comunicacion y Cultura
+
+Em questão
+
+Ulrich.s International Periodicals Directory
+
+Psicologia: Reflexão e Crítica
+
+Univerciência
+
+Em questão
+
+Zeitschriftendatenbank (ZDB)
+
+Contingentia
+Fontes não localizadas
+
+Political Science and Government
+
+Episteme
+
+Social and Human Science Online Periodicals
+
+Episteme, Psicologia: Reflexão e Crítica
+
+Social Science Online Periodicals
+
+Psicologia: Reflexão e Crítica
+
+Fonte: Elaborado pelas autoras (2010).
+
+característica geral das revistas interfere na sua visibilidade, além de limitar - mas não impossibilitar - o ingresso
+em fontes de informação de âmbito internacional.
+
+Mapeamento e análise das fontes de
+informação
+No Quadro 2, estão listadas as revistas e as respectivas fontes em que estão presentes, seguindo a
+classificação proposta por Rowley (2002).
+Ao total foram relacionadas em um primeiro
+momento 75 fontes de informações utilizadas pelos
+periódicos do PPCU, além do Portal de Periódicos da
+Capes. Porém, ao organizar os dados, chegou-se ao
+número de 61 diferentes fontes, tendo em vista que
+algumas informações estavam duplicadas na descrição
+da revista ou a mesma fonte aparecia com a nomenclatura diferente. Pela descrição dessas fontes, foi possível
+constatar que 46 são bases de dados referenciais (35
+bibliográficas e 11 catalográficas), uma base de dados
+de fontes e 11 portais, diretórios de revistas e outros tipos
+de fontes de informação.
+Das 61 fontes, 20 estão arroladas no PPC e 41 não
+foram localizadas. Para descrever as fontes que não foram
+localizadas no PPC foi realizada pesquisa no mecanismo
+de busca Google. Porém, o resultado do PPC possui maior
+número de informações, pois, além de possibilitar acesso
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+à fonte, fornece o tipo e possibilita acesso àqueles que
+solicitam assinatura. O insucesso na pesquisa, tanto no
+PPC como no Google, ocorreu com três fontes, que pode
+ser considerado um número baixo no universo dessa
+pesquisa, as quais não foram classificadas nem descritas
+na análise.
+A Figura 1 ilustra, pelo gráfico de nuvens, as fontes
+em que estão presentes as revistas do PPCU, enfatizando
+aquelas que têm maior frequência de participação.
+As fontes com menor ocorrência, presentes uma
+vez entre todas as revistas do PPCU, estão em um número
+considerável, já que diversas delas são fontes de informação específicas de uma determinada área do conhecimento. Os tipos variados de fontes enriquecem a
+presença dos periódicos do PPCU na Web. Identificaram-se diretórios, portais, catálogos de bibliotecas, entre
+outras fontes, nacionais e internacionais. Porém, as bases
+de dados bibliográficas, em especial as que possibilitam
+análises de produção científica através dos índices de
+citação, são pouco expressivas, como pode ser observado
+na Figura 1.
+Há predominância de fontes multidisciplinares e
+com abrangência regional, neste caso, específico à América Latina. Sendo a indexação em índices referenciais
+internacionais um dos atributos que promovem a visibilidade, parte dos periódicos da Universidade necessita
+se adequar aos critérios de qualidade que são exigidos
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+3 de 3
+
+185
+
+Figura 1. Nuvem: fontes de informação das revistas do PPCU.
+Fonte: Elaborado pelas autoras (2011).
+
+por essas bases se desejarem atingir uma audiência internacional. A adequação também possibilitará a conferência de melhorias do periódico de uma forma geral.
+A Latin American Periodicals Tables of Contents
+(LAPTOC) é a fonte de informação na qual se encontra o
+maior número de revistas - 24 títulos - e a Latindex vem
+logo em seguida, tendo 18 títulos presentes na base. Tal
+ocorrência é explicável pela análise dos documentos de
+área da Capes: a área de Ciências Sociais Aplicadas I, por
+exemplo, sugere a presença nessas fontes de informação.
+Outras fontes que receberam destaque foram o Directory
+of Open Access Journals (DOAJ) (7 títulos) e o Lilacs (5
+títulos).
+
+186
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+Quanto à presença em portais de informação e
+diretórios de revistas, têm destaque as fontes Latindex e
+DOAJ. Ambas não indexam artigos de periódicos, mas
+listam e direcionam ao site das revistas e possuem acesso
+aberto. No DOAJ, a presença de revistas que utilizam o
+SEER/OJS é marcante. Na plataforma, há um plug-in de
+exportação de dados para o DOAJ, o que pode estimular
+os editores a submeterem proposta para participarem desta fonte. Já que a maioria das revistas utiliza o
+SEER/OJS para editar e gerenciar suas edições, esperava-se um número maior, porém entre os motivos para a
+ausência pode ser justamente o desinteresse de determinadas áreas em estar presente em portais, concentrando
+esforços para a indexação em bases de dados.
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+É importante ressaltar que as fontes de informação que não pertencem a tipologia das bases de
+dados bibliográficas não alcançam a mesma importância
+perante a comunidade científica, que é estimulada a ler
+e publicar periódicos indexados em bases de dados internacionais, sob responsabilidade de determinadas editoras, entre outras características qualificadoras. O idioma
+da fonte, então, é importante e, uma vez que a abrangência é internacional, será predominante o inglês. As
+fontes regionais podem também apresentar os dados no
+idioma inglês, mas observa-se em algumas delas a predominância do idioma espanhol. As fontes sob responsabilidade da Universidade Nacional Autónoma do
+México (UNAM) ilustram essa situação. Em contraponto,
+a Laptoc usa em sua base o idioma inglês, embora a
+maioria dos países participantes utilize o idioma
+espanhol.
+O Google Acadêmico ainda é pouco valorizado
+pelas revistas do PPCU como fonte de informação, porém
+o potencial da ferramenta merece atenção. Já apontado
+por Jacso (2005) e Thelwall (2008) como uma ferramenta
+que oferece serviços similares às bases como o ISI e o
+Scopus, o uso do Google Acadêmico possibilita estudos
+bibliométricos que não poderiam ser executados em
+determinados periódicos do PPCU e de grande parcela
+das revistas brasileiras.
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+Um ponto que foi observado durante a análise
+das fontes diz respeito à adaptação dos serviços de
+determinadas bases de dados, fato ocorrido graças às
+TIC. Se antes as bases de dados bibliográficos não forneciam acesso ao texto completo, agora, elas fornecem o
+link para o usuário acessá-los integralmente. No SABI
+também é possível recuperar o artigo quando ele está
+online e, sendo uma produção intelectual da UFRGS, o
+LUME (Repositório Institucional da Universidade) possibilita também acesso ao texto. Por esse motivo, a inserção
+de novas características aos serviços já existentes pode
+ser explicada pela dificuldade para identificar a diferença
+entre as fontes de informação.
+Além do aumento do número de revistas nas
+últimas décadas, pode ser observado o surgimento de
+novas fontes para poder compilar a informação contida
+naquelas. A quantidade de portais, diretórios de revistas
+e bases de dados que surgiram em meados dos anos
+2000 foi observada na descrição das fontes. Inclusive,
+pode-se dizer que há duplicidade naquelas criadas com
+a metodologia da SciELO. Esse pode ter sido um recurso
+da área do conhecimento para estar presente em mais
+fontes de informação, já que a quantidade também
+parece ser estimulada pelas diversas áreas. Contudo,
+volta-se à questão sobre a qualidade das fontes: nem
+sempre a quantidade é tão importante quanto estar em
+uma base valorizada pela comunidade científica.
+Job et al. (2008) sugerem que as revistas da área
+de Educação Física sejam mais competitivas em relação
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+às publicações das Ciências da Saúde ao qualificarem
+suas publicações. Tal sugestão é válida para as revistas
+do PPCU: buscarem qualificação em relação às revistas
+da mesma grande área, procurando alcançar os níveis
+de qualidade daquelas consideradas as mais importantes
+dentro de sua área, preferencialmente, das publicações nacionais ou não - com abrangência internacional, que
+possuam visibilidade na ciência e que sejam bem avaliadas. Ao se qualificarem a exemplo das revistas de
+prestígio, poderão ser bem avaliadas - relembrando que
+as áreas do conhecimento possuem documentos diferentes na Capes e os níveis de exigência para receber
+um melhor estrato Qualis são distintos. Já as fontes de
+informação possuem critérios diversos de avaliação para
+inserção do periódico em sua base, tendo em vista a
+diversidade de tipos, de abrangência, de cobertura, de
+idiomas, entre outras características que elas possuam.
+Os sistemas de avaliação, sejam os de produção
+científica, sejam os critérios das fontes de informação ou
+de qualquer natureza relacionada ao meio acadêmico,
+são constantemente criticados, discutidos e melhorados
+de acordo com a realidade e as mudanças da ciência.
+Tendo como base essa ideia, é interessante que a atribuição de visibilidade para um periódico não seja limitada à presença em determinados índices e bases de
+dados, uma vez que as áreas do conhecimento são
+diferentes entre si. Um instrumento adequado às ciências
+duras nem sempre pode ser considerado para as Ciências
+Humanas. A presença em fontes diversificadas na Internet
+possibilita um grau de visibilidade a essas publicações pode-se incluir, também, o acesso aberto, a capacidade
+de recuperação da informação ou ainda a buscabilidade
+na Web.
+
+A visibilidade das revistas
+A análise desse item foi feita após a classificação
+das revistas em grandes áreas, tendo em vista que uma
+análise individual não demonstraria tendências, mas sim
+a situação de cada título de revista. A análise por grandes
+áreas do conhecimento possibilitou a visão geral do
+grupo de revistas e evidenciou a concentração de publicações na mesma área do conhecimento. O fato de haver
+muitas publicações em uma mesma temática pode
+interferir na visibilidade geral da área, pois, assim como
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+187
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+Uma fonte de informação abundantemente
+consultada para a caracterização dos periódicos foi o
+catálogo de bibliotecas da UFRGS, o SABI. Além dos
+dados encontrados no CCN, foi possível recuperar
+diversas informações relacionadas às fontes de informação em que estão presentes as revistas da Universidade e ainda artigos de determinadas publicações,
+como a Educação & Realidade. Nenhum periódico
+aponta a presença no SABI, entretanto apontam para
+catálogos de outras bibliotecas internacionais ou de
+instituições importantes no Brasil. Possivelmente, estar
+presente em um catálogo de uma importante biblioteca
+é considerado como prestígio para a revista pelos editores e pelos usuários, porém foi verificado que apenas
+o título da publicação está catalogado, não possibilitando
+recuperação do conteúdo dos artigos.
+
+há periódicos bem classificados, presentes em diversas
+fontes de informação de diferentes tipos e qualidades,
+entre outros atributos positivos, há revistas que não
+possuem características tão positivas. Geralmente são
+periódicos recém lançados ou que possuem alguma
+particularidade em relação à periodicidade.
+Entende-se também que, dentro de uma mesma
+área do conhecimento, há temáticas específicas, podendo ser esta a explicação, em alguns casos, para a
+existência de mais de um periódico dentro de uma faculdade, instituto ou programa de pós-graduação. Essa
+situação pode ser confirmada ao verificar que, se dentro
+de uma mesma unidade há duas ou mais publicações,
+os setores responsáveis são diferentes. Pode ainda existir
+uma demanda de submissão de artigos em que seja
+necessário mais de um título para possibilitar a sua publicação. Ainda assim, é questionável a existência de duas
+revistas, da mesma área do conhecimento, destinada ao
+mesmo público-alvo e disciplinas, editadas na mesma
+Faculdade e com características semelhantes.
+
+188
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+A área de Ciências Humanas se destaca pelo número de revistas existentes e por elas possuírem atributos
+almejados pelos editores, como a presença em fontes
+de informação e estratificação alta. Já na área de Ciências
+da Saúde foi constatada uma grande discrepância entre
+as revistas, constando aquelas com excelentes condições
+de visibilidade e outras que precisam melhorar expressivamente para se tornarem mais visíveis pelos usuários
+da área. Nas Ciências Exatas e da Terra, o resultado da
+análise apontou que as revistas alcançam alguma visibilidade, porém há pontos frágeis no atendimento dos
+atributos que deixam o grupo menos valorizado. Um
+desses pontos é a existência de uma revista nova e não
+classificada ainda no Qualis. Além disso, possui poucos
+periódicos para uma área que valoriza as publicações de
+eventos e o Journal Citation Reports (JCR) ao mesmo
+tempo.
+As Ciências Sociais Aplicadas também não demonstraram uniformidade, porém as subáreas existentes
+são particularmente diferentes entre si. Já a análise de
+revistas interdisciplinares é um desafio, tendo em vista a
+grande diferença entre as publicações. Embora recebam
+artigos de diversas áreas, os títulos possuem características bastante diferenciadas entre si e atingem públicos
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+específicos para cada revista ou mesmo por edição, no
+caso desta ser temática.
+Quanto à disponibilização de conteúdos na
+Internet, o acesso aberto é soberano entre as publicações
+e a presença em diferentes fontes de informação na Web
+contribui positivamente. Gruszynski et al. (2007) verificaram que a prioridade de um grupo de periódicos, na
+primeira metade dos anos 2000, era obter visibilidade
+pela presença na Internet. Finalizada essa etapa - afirmativa possível ao retomar que todas as revistas da Universidade são de acesso aberto - ainda há a necessidade
+da presença maior em índices bibliográficos. Villamón et
+al. (2009) identificaram revistas que disponibilizam fascículos somente no formato impresso, porém estão presentes em índices, disponibilizando a referência e, algumas vezes, o resumo. Assim, verifica-se que a presença
+na Web é importante para estar presente nessas fontes
+de informação, mas não é fundamental.
+Sobre o idioma de publicação, verifica-se que as
+revistas aceitam artigos em português, inglês e espanhol,
+na sua maioria, tendo títulos com artigos em francês e
+alemão. O SEER/OJS permite que a publicação seja traduzida para diversos idiomas, o que beneficia a equipe
+no momento que deseja disponibilizar o site da revista
+em outras línguas. Porém, se mapeado cada artigo das
+revistas, é possível observar a presença quase exclusiva
+de artigos em português, com resumo em inglês ou
+espanhol, e alguns artigos em outras línguas, geralmente
+de autores convidados. Embora a situação só pudesse
+ser confirmada com um estudo mais aprofundado e com
+a demonstração de dados, a primeira análise das revistas,
+no momento da caracterização, permitiu inferir a situação
+descrita acima. O inglês é o idioma reconhecido pelas
+comunidades internacionais, mas a publicação em língua
+portuguesa torna a revista mais atraente para determinados públicos, que leem e compreendem melhor o
+idioma local. Assim, a revista possui visibilidade nos locais
+onde a língua é falada.
+Analisando a presença em índices bibliográficos,
+foi possível observar que a grande maioria das revistas
+está presente em mais de uma dessas fontes de informação, de tipos variados. Porém, se a quantidade pode
+ser uma característica positiva para as revistas, a qualidade, verificada na abrangência geográfica, idioma e
+função da fonte de informação (se indexa artigos ou se
+apenas aponta para os títulos), são indispensáveis para
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+métodos que consideram poucas características para
+definir visibilidade. Todavia, estudos sobre a avaliação e
+caracterização de periódicos estão cada vez mais presentes na literatura, sob as óticas das diversas áreas do
+conhecimento, mas em especial à da Ciência da Informação.
+
+Conclusão
+
+Percebe-se grande valorização da comunidade
+científica em relação aos periódicos que estão presentes
+em bases de dados internacionais. Certamente uma
+revista que está presente nas importantes fontes de
+informação possui qualidade. Por outro lado, observou-se que há diversas críticas aos produtos gerados por
+essas bases, em especial aos indicadores de produção,
+além das coberturas geográficas e de assunto. Se o ISI
+tem na sua maioria revistas norte-americanas e inglesas
+da área das ciências duras, é a fonte mais adequada às
+revistas brasileiras das demais áreas? O público-alvo dessa
+área a utilizaria para consultar artigos de seu interesse?
+
+De um modo geral, as revistas da UFRGS apresentaram características promotoras de visibilidade. Se a
+análise da visibilidade fosse restrita à presença nas bases
+de dados internacionais, poucos títulos poderiam ser
+considerados visíveis à comunidade científica. Sob o
+ponto de vista de que a visibilidade é composta por uma
+série de características ou atributos, especificamente pela
+publicação eletrônica na Internet, acesso aberto, buscabilidade, idioma, presença nas fontes de informação e
+avaliação, certamente em diversos aspectos são necessárias melhorias. Especialmente no que concerne à
+presença em índices referenciais de âmbito internacional,
+o que envolveria mudanças expressivas nas publicações,
+em especial quanto ao idioma. Porém em relação a outras
+características, como o acesso aberto e a capacidade de
+recuperar a informação em mecanismos de buscas e
+tipos variados de fontes de informação, as revistas da
+Universidade estão bem colocadas.
+Na literatura sobre visibilidade da produção
+científica, destaca-se a visão que a resume à presença na
+Web, ou capacidade em ser recuperada pelos mecanismos de busca. Alguns estudos mencionam a visibilidade dos periódicos, mas não definem um conceito
+para apontar o que é ser visível, enquanto outros utilizam
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+Durante o levantamento bibliográfico sobre a
+visibilidade de periódicos, percebeu-se que os artigos
+relevantes são principalmente escritos em idiomas de
+países periféricos, quais sejam, português e espanhol.
+Infere-se, com isso, que nesses países há uma preocupação maior com a visibilidade das publicações periódicas. Isso se deve, provavelmente, ao fato que a
+maioria de suas publicações não consta em bases de
+dados bibliográficas de alcance internacionais, como Web
+of Science. Ainda assim, as publicações brasileiras estão
+conquistando um espaço maior nessas fontes de informação, mesmo que a presença dos periódicos nacionais
+seja pequena se comparada aos países com tradição em
+publicar no idioma inglês.
+
+Essas indagações não procuram minimizar a
+importância dos periódicos presentes no ISI, Scopus ou
+quaisquer importantes fontes de informação. Ao contrário, enfatiza-se a importância da visibilidade internacional. Porém, o ponto que se deseja abordar é que
+embora não tenha atingido esse patamar, a ciência publicada nas revistas científicas da UFRGS não é invisível:
+está na Web, com acesso aberto, pode ser recuperada
+nos mecanismos de busca e está presente em diversas
+fontes de informação.
+Constata-se que o tema visibilidade é muito
+utilizado, mas ainda pouco explorado na literatura
+científica. Considera-se que este estudo pode gerar
+outras formas de abordar a mesma temática ou ser
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+189
+VISIBILIDADE DE REVISTAS CIENTÍFICAS
+
+que ocorra a visibilidade. A ocorrência em um maior
+número de fontes de qualidade pode auxiliar em outras
+características positivas das revistas, como a avaliação do
+Qualis e a aquisição de credibilidade entre a comunidade
+científica e comitês avaliadores de outras bases de dados.
+As duas fontes mais utilizadas pelas revisas do PPCU são
+multidisciplinares e com abrangência geográfica na
+América Latina, quais sejam, a Latindex e a LAPTOC. Em
+comum, ambas oferecem acesso aberto ao seu conteúdo, não exigindo assinatura ou cadastro. Assim, sobre
+a qualidade das bases de dados em que estão presentes
+os periódicos da Universidade, pode-se constatar que,
+embora consistente naquelas de abrangência regional,
+ainda é escassa a presença nos índices de abrangência
+internacional, embora tenha ocorrido o crescimento de
+títulos brasileiros no ISI, por exemplo. Também não foi
+verificada a presença marcante em bases de dados
+específicas das áreas do conhecimento, sendo as multidisciplinares a grande maioria.
+
+corroborado por trabalhos similares. Foi possível concluir
+que a visibilidade é formada por uma série de atributos,
+sendo que os mais relevantes para esta análise foram: a
+publicação eletrônica na Internet e com acesso aberto, o
+idioma de publicação da revista, as bases de dados
+referenciais nacionais e internacionais, a buscabilidade e
+a presença em outras fontes de informação. Essas, pode-se afirmar, estão, em grande parte, presentes nas revistas
+do Portal de Periódicos Científicos da UFRGS.
+Para o aumento da visibilidade das revistas da
+Universidade é necessário o trabalho em equipe. Assim,
+
+recomenda-se: às equipes editoriais buscarem melhorias
+dos aspectos técnicos das revistas; atrair a submissão de
+artigos de qualidade e atender aos rigorosos critérios das
+fontes de informação; aos autores, o envio de artigos de
+qualidade; às unidades de informação, participar não só
+na formatação do artigo, mas indicando as fontes de
+informação adequadas e, quando possível, trabalhando
+junto à comissão editorial. Enfim, o conjunto desses
+fatores, entre outros, aumentará a visibilidade dos
+periódicos presentes no Portal de Periódicos Científicos
+da UFRGS e, por extensão, nos demais portais de revistas
+científicas.
+
+Referências
+Aguado-López, E.; Rogel Salazar, R.; Becerril-Garcia, A. Limites e
+potencialidades da avaliação científica: crítica epistemológica
+à cobertura de bases de dados e à construção de indicadores. In:
+Ferreira, S.M.S.P.; Targino, M.G. (Org.). Acessibilidade e visibilidade
+de revistas científicas eletrônicas. São Paulo: Senac, 2010.
+p.175-212.
+Céndon, B.V. Serviços de indexação e resumo. In: Campello,
+B.S. et al. (Org.). Fontes de informação para pesquisadores e
+profissionais. Belo Horizonte: Editora UFMG, 2000. p.217-248.
+Gruszynski, A.C.; Golin, C.; Lucchese, A. Desafios para a comunicação da ciência: um estudo sobre os periódicos científicos
+e eletrônicos da UFRGS. In: Congresso Brasileiro de Ciência da
+Comunicação, 30., 2007, Santos. Anais eletrônicos... Santos:
+Intercom, 2007. p.1-15. Disponível em: <http://www.intercom.
+org.br/papers/nacionais/2007/resumos/R1395-1.pdf>. Acesso
+em: 12 maio 2012.
+Hernández Ortega, B. et al. Efecto de la calidad de un sitio web
+sobre el tráfico recibido: el caso de la banca electrónica en
+España. Information Research, v.15, n.2, 2010. Disponible en:
+<http://informationr.net/ir/15-2/paper429.html>. Acceso en:
+22 set. 2010.
+
+190
+
+Jacso, P. As we may search: Comparison of major features of
+the Web of Science, Scopus and Google Scholar citationbased and citation-enhanced databases. Current Science, v.
+89, n.9, p.1537-1547, 2005. Available from: <www.ias.ac.in/
+currsci/nov102005/1537.pdf>. Cited: Nov. 10, 2010.
+
+A.G.C. FERREIRA & S.E. CAREGNATO
+
+Job, I.; Fraga, A.B.; Molina Neto, V. Invisibilidade das revistas
+brasileiras de educação física nas bases de dados. Cadernos de
+Biblioteconomia, Arquivística e Documentação, v.1, p.14-26,
+2008.
+Meneghini, R. Avaliação da produção científica e o projeto
+SciELO. Ciência da Informação, v.27, n.2, p.219-20, 1998. Disponível em: <http://www.scielo.br/pdf/ci/v27n2/meneghini.
+pdf>. Acesso em: 24 abr. 2010.
+Miguel, S.; Herrero-Solana, V. Visibilidad de las revistas
+latinoamericanas de bibliotecología y ciencia de la
+informacióna través de Google Scholar. Ciência da Informação,
+TransInformação, Campinas, 26(2):177-190, maio/ago., 2014
+
+v.39, n.2, p.54-67, 2010. Disponible en: <http://revista.ibict.br/
+index.php/ciinf/article/view/1722>. Acceso en: 28 fev. 2011.
+Packer, A.L.; Meneghini, R. Visibilidade da produção científica.
+In: Poblacion, D.A.; Witter, G.P.; Silva, J.F.M. (Org.). Comunicação & produção científica: contexto, indicadores e avaliação.
+São Paulo: Angellara, 2006. p.237-259.
+Peazê, L. Google vs. Jornais = contextualização. Observatório
+da Imprensa, ano15, n.56, 2009. Disponivel em: <http://www.
+observatoriodaimprensa.com.br/artigos.asp?cod=567
+JDB014>. Acesso em: 11 out. 2010.
+Rowley, J.E. A biblioteca eletrônica. Brasília: Briquet de Lemos,
+2002.
+Santos, S. Sistema SciELO de publicação eletrônica. In: Encontro
+Nacional de Editores Científicos, 10., 2005, São Pedro, SP.
+Anais eletrônicos... 2005. Disponível em: <http://www. eventos.
+bvsalud.org/abec/public/documents/Solange_Sistema
+SciELO_OJS-094024.pdf>. Acesso em: 30 mar. 2012.
+Silva, J.F.M.; Ramos, L.M.S.V.C.; Noronha, D.P. Base de dados. In:
+Poblacion, D.A.; Witter, G.P.; Silva, J.F.M. (Org.). Comunicação &
+produção científica: contexto, indicadores e avaliação. São
+Paulo: Angellara, 2006. p.261-286.
+Thelwall, M. Bibliometrics to webometrics. Journal of
+Information Science, v.34, n.4, p.605-621, 2008. Available from:
+<http://jis.sagepub.com/cgi/content/abstract/34/4/605>.
+Cited: Nov. 30, 2010.
+Villamón, M. et al. Las revistas españolas de ciencias del
+deporte incluidas en el catálogo Latindex. Movimento, v.15,
+n.3, p.13-34, 2009. Disponible en: <http://seer.ufrgs.br/
+Movimento/article/download/8567/5577>. Acceso en: 11 nov.
+2010.
+Zimba, H.F.; Mueller, S.P.M. Colaboração internacional e
+visibilidade científica de países em desenvolvimento: o caso
+da pesquisa na área de medicina veterinária em Moçambique.
+Informação e Sociedade, v.14, n.1, p.45-68, 2004. Disponível
+em: <http://www.ies.ufpb.br/ojs2/index.php/ies/article/view/
+71/1544>. Acesso em: 12 jun. 2010.
+http://dx.doi.org/10.1590/0103-37862014000200007
+
+

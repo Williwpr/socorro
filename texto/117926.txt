@@ -1,0 +1,695 @@
+Threshold for the determination of the digital breach:
+Comparative among developed regions
+Juan-José MENDOZA-RUANO1
+Jorge CALDERA-SERRANO2
+
+Resumen
+Este trabajo tiene como objetivo principal establecer una escala porcentual que sirva de base metodológica para determinar la existencia o no de brecha digital entre regiones tecnológicamente desarrolladas. Una vez analizada la literatura
+científica observamos un claro déficit al no contar con una base estudiada que determine bajo qué parámetros se puede hablar
+de Brecha Digital al realizar la comparativas entre zonas. Además, contextualizamos el tema con una breve descripción de los
+conceptos básicos para el estudio, como son el de Sociedad de la Información, y en mucha mayor profundidad, la Brecha Digital.
+Las escalas planteadas son válidas para zonas geográficas de un nivel desarrollado en tecnologías de la información y la
+comunicación, no siendo un trabajo válido para zonas subdesarrolladas o en vías de transformación tecnológica. Se plantea por
+tanto cuatro niveles de brecha digital que corresponden con las siguientes escalas porcentuales: 1%-5%, 6%-10%, 11%-15%, más
+de 16%, respectivamente.
+Palabras Ilave: Brecha digital. Desigualdad social. Herramienta metodológica. Sociedad de la Información.
+
+Abstract
+This piece of work has a main goal: setting a percentage scale that serves as a methodological basis in order to determine the digital
+breach existence or not among regions technologically developed. Once the scientific literature is analysed we can observe a clear
+deficiency because we don not have a studied basis that can determine under which parameters we can talk about Digital Breach when
+we are comparing different regions. Moreover, we contextualize the issue with a brief description of the basic concepts for the study, such
+as the Information Society issue, and in a deeper way, the Digital Breach. The scales suggested are valid and acceptable for geographical
+zones with a high level on Information and Communication Technologies, not being an acceptable approach for underdeveloped
+regions or starter regions with the technological transformation. Hence, four levels of digital breach are suggested that are suitable with
+the percentage scales: 1%-5%, 6%-10%, 11%-15%, more than 16%, respectively.
+Keywords: Digital divide. Social inequality. Methodolgical tools. Information society.
+
+Introducción
+En las últimas décadas, las nuevas Tecnologías de
+la Información y la Comunicación (TIC) han impactado
+1
+2
+
+en nuestra sociedad, logrando modificar nuestra manera
+de vivir, de comunicar, de producir y de comercializar.
+Estas nuevas tecnologías nacen gracias a la convergencia
+de la electrónica, el software y las infraestructuras de las
+
+Universidad de Extremadura, Facultad de Ciencias de la Documentación y la Comunicación. Badajoz, España.
+Universidad de Extremadura, Facultad de Ciencias de la Documentación y la Comunicación, Departamento de Información y Comunicación. Plazuela de
+Ibn Marwan, s/n., 06001, Badajoz, España. Correspondencia a nombre de/Correspondence to: J.-J. CALDERA-SERRANO. E-mail: <jcalser@alcazaba.unex.es>.
+Recibido el dia 4/6/2013, re-apresentado em 27/11/2013 y aceptado para su publicación el 26/2/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+125
+UMBRALES DE LA BRECHA DIGITAL
+
+Umbrales para la determinación de la brecha digital:
+comparativa entre regiones desarrolladas
+
+telecomunicaciones, lo que conocemos como revolución
+digital; esto es, el conjunto de innovaciones tecnológicas
+que han hecho posible que la voz y el sonido, la imagen
+y los datos puedan transmitirse de un lugar a otro a gran
+velocidad reduciendo toda su carga de información a
+simples combinaciones de “ceros” y “unos” integrados
+dentro de un circuito electrónico.
+La asociación de estas tecnologías da lugar a una
+nueva concepción del proceso de la información, en el
+que las comunicaciones abren nuevos horizontes y
+paradigmas; la revolución digital se convierte así en el
+elemento crítico que ha permitido todas estas
+transformaciones que vive el mundo contemporáneo.
+La información cobra mayor relevancia y se
+convierte en un factor determinante en todos los
+procesos, desempeñando un papel vertebrador en la
+denominada Sociedad de la Información.
+La Sociedad de la Información es una forma de
+desarrollo económico y social en que la adquisición,
+almacenamiento, procesamiento, evaluación, transmisión,
+distribución y diseminación de la información con vistas
+a la creación de conocimientos y a la satisfacción de las
+necesidades de las personas y de las organizaciones, es
+utilizada intensivamente en tanto que elemento
+determinante en la vida económica, social, cultural y
+política (Unión Europea, 1997).
+
+126
+
+Sin lugar a dudas, las nuevas Tecnologías de la
+Información y la Comunicación han desempeñado un
+papel medular en el desarrollo de la Sociedad de la
+Información y son instrumentos que pueden contribuir
+a alcanzar los objetivos trazados por las personas y las
+organizaciones, aumentando así la posibilidad de
+interacción y comunicación, y la mejora de la calidad de
+vida económica, social y cultural.
+
+J.-J. MENDOZA-RUANO & J. CALDERA-SERRANO
+
+La irrupción de las TIC ha transformado la imagen
+del mundo, en especial la implantación de Internet en
+todas y cada una de las facetas de nuestra vida. Internet
+se ha convertido en el elemento más significativo de la
+denominada Sociedad de la Información y del
+Conocimiento, ya que permite en primera instancia,
+comunicar instantáneamente a todo el mundo
+(conectado). Es tal la repercusión que actualmente tiene
+Internet en muchas de nuestras decisiones y actuaciones
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+diarias, que se ha convertido en el punto esencial desde
+el que analizar y valorar al fenómeno de la Brecha Digital.
+No obstante, no todo son bondades en esta
+revolución informática. De ahí, que estas nuevas
+tecnologías estén planteando nuevos desafíos y retos a
+la sociedad, especialmente los referidos a cómo
+aprovechar los beneficios de estas tecnologías, cómo
+hacer que todos, sin discriminación alguna, participemos
+de estos beneficios, sobre todo aquellos sectores de
+población, aquellas áreas geográficas, y aquellas zonas
+del planeta más necesitadas de los beneficios de esta
+revolución tecnológica.
+Día a día vemos cómo aparecen nuevas formas
+de exclusión propiciadas precisamente por estas
+tecnologías, ya que no todos consiguen hacer suyos los
+beneficios derivados de su aplicación. De hecho, ya es
+posible afirmar que la gran cantidad de información que
+permiten transferir, gestionar y facilitar está provocando
+una gran división entre los usuarios y los no usuarios de
+las mismas, entre los que saben y no saben utilizarlas,
+entre los que pueden y no pueden hacer uso de ellas, y
+todo ello a pesar de que los grandes precursores y
+defensores de estas tecnologías vaticinaban en sus
+orígenes que las diferencias entre las sociedades iban a
+desaparecer con la aplicación de las mismas ya que, se
+supone, nos iban a hacer a todos la vida mucho más fácil.
+Sin embargo, existen sectores de población y zonas no
+ya solo del mundo, sino dentro de un mismo país,
+desprovistos de estas nuevas oportunidades que han
+traído las nuevas tecnologías.
+Este fenómeno, denominado Brecha Digital, no
+es otra cosa que las desigualdades que existen entre las
+personas, comunidades o países que tienen acceso y uso
+de las TIC y, sobre todo, de Internet como una parte
+rutinaria de su vida diaria y aquéllas que no tienen acceso
+a las mismas y que, aunque lo tengan, no saben utilizarlas
+de manera óptima para su beneficio.
+La Brecha Digital es una nueva dimensión de la
+amplia y vieja brecha social, que perpetúan las relaciones
+de poder, asociada con factores económicos, geográficos,
+raciales, culturales, educativos, de género y de edad entre
+otros. El problema que la Brecha Digital representa para
+la humanidad debe ser motivo de profunda
+preocupación para todos los países del mundo. El
+ejercicio de la democracia depende fundamentalmente
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+¿Qué es la brecha digital?
+La brecha digital es probablemente uno de los
+primeros conceptos con que se inicia la reflexión
+alrededor del impacto social de las Tecnologías de la
+Información y Comunicación. Desde entonces se percibe
+que estas tecnologías van a producir diferencias en las
+oportunidades de desarrollo de las poblaciones y que se
+establecerá una distancia entre aquellas que tienen o no
+tienen acceso a las mismas.
+Existe una gran diversidad de enfoques,
+concepciones y definiciones de Brecha Digital. A
+continuación se presentan varias de ellas.
+El World Resources Institute (2000) apoyado por
+varias de las más importantes empresas internacionales
+informáticas explica así esa hendidura que lejos de
+atenuar, está profundizando las desigualdades en el
+planeta. Se señala la existencia en todos los países de
+porcentaje de personas que tienen acceso a la mejor
+tecnología y a las mejores redes de información y
+comunicación, mientras que existe otro grupo que no
+tienen acceso a estas tecnologías, por aspectos derivados
+de múltiples factores (sociales, económicos, geográficos,
+laborales, etc.), y la diferencia entre estos dos grupos será
+la Brecha Digital.
+La Organización para la Cooperación y Desarrollo
+Económico (2001) define la Brecha Digital como la
+distancia existente entre diferentes parámetros, tales
+como individuos, áreas geográficas, niveles socioeconómicos, etc., en relación a la oportunidad que éstos
+tienen para el acceso a las TIC y al uso de Internet, por lo
+que así se podrá determinar y apreciar diferencias tanto
+entre diversos países como en el marco de un único
+territorio.
+Serrano Santoyo y Martínez Martínez (2003) la
+definen como la separación que existe entre las personas
+(comunidades, estados, países...) que utilizan las TIC como
+una parte rutinaria de su vida diaria y aquellas que no
+tienen acceso a las mismas y aunque las tengan no saben
+cómo utilizarlas.
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+DiMaggio et al. (2001) asumen que las
+desigualdades en el uso de Internet se producen entre
+los que tienen y los que no tienen acceso a Internet, y
+otros como Bucy (2000) y Van Dijk (2002) que definen
+las desigualdades no solamente como resultado del
+acceso potencial a Internet sino también como las
+diferencias en el uso de esta tecnología.
+Monge Gonzaléz y Chacón (2002) del
+Departamento de Comercio de los United States (EE.UU),
+señalan que existe un grupo de personas que cuentan
+con equipos informáticos, con acceso a un servicio
+telefónico de calidad lo que se traduce en rapidez de
+acceso a la red, y que además existe una riqueza de
+contenidos en la información accesible por medio de la
+red. Además este grupo de persona cuenta con una
+capacitación tecnológica (alfabetización digital) que hace
+posible el obtener buenos rendimientos del acceso a la
+red. Los autores lo contraponen con otro grupo que ni
+tienen las mejores computadoras, ni tienen acceso a la
+red, ni aquellos que acceden pueden obtener los mejores
+contenidos. La diferencia entre los dos grupos sería la
+Brecha Digital.
+Más recientemente, el estudioso costarricense
+Monge González y Hewit (2004) consideran que el
+concepto de Brecha Digital está relacionado con el
+acceso que las personas tienen a las TIC, tales como el
+acceso mismo, las herramientas tecnológicas, la calidad
+del uso que se realiza sobre estas tecnologías y el impacto
+que el uso de ésta proporciona en el bienestar del
+individuo.
+En estas definiciones un tanto genéricas del
+concepto se recogen algunas de las diferentes
+dimensiones de la Brecha Digital.
+Otros estudiosos del tema han delimitado dichas
+dimensiones a través de conceptualizaciones separadas.
+Así, por ejemplo Norris (2001) evidencia la
+multidimensionalidad del concepto mediante la
+consideración de tres tipos de brechas: la global, la
+democrática y la social. La primera de ellas se centra en
+una brecha de acceso a la tecnología, y muy
+especialmente a Internet. Esta diferencia vendrá marcada
+por un mundo a varias velocidades de uso e implantación
+de las tecnologías, por lo que la diferencia será clara entre
+países industrializados y aquellos que están en vías de
+desarrollo. En segundo lugar, Norris da cuenta de la
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+127
+UMBRALES DE LA BRECHA DIGITAL
+
+del acceso libre e ilimitado a la información. Es, por ello,
+preciso identificar estrategias que disminuyan el
+problema de la desigualdad en el acceso a la información.
+
+dimensión política y participativa de la brecha, definiendo
+la brecha democrática como la diferencia en el uso de
+las tecnologías entre aquellos la optimizan para participar
+en la vida pública y aquellos que no pueden o no saben.
+Por último, la brecha social es considerada como aquella
+que se da dentro de un mismo país o sociedad, como
+resultado de su estratificación social o geográfica interna.
+Este tipo de Brecha Digital se hace eco de las diferencias
+en el acceso entre distintas regiones, grupos sociales y
+entre individuos según su capacidad económica, su sexo,
+nivel educativo, raza o lugar de residencia (brecha
+geográfica).
+Van Dijk y Hacker (2003) entienden también que
+la Brecha Digital es una expresión más de las diferencias
+sociales existentes en un determinado territorio y que,
+por lo tanto, dependen de las características
+sociodemográficas de dicho territorio. Mientras que estos
+y otros autores mantienen una concepción mucho más
+pesimista según la cual las diferencias en el acceso y uso
+de las TIC disminuirán en la misma medida en que lo
+hagan las diferencias sociales y estructurales existentes.
+Otros, como Anderson et al. (2001) o Compaine (2001)
+vuelven al carácter original y distintivo de la Brecha Digital
+que surge como consecuencia de las relaciones entre
+ciudadanos y tecnología, para afirmar que la extensión
+de Internet hará posible la desaparición de la Brecha
+Digital y permitirá que triunfe la descentralización, los
+procesos de globalización, la armonización y
+empoderamiento rápido.
+
+128
+J.-J. MENDOZA-RUANO & J. CALDERA-SERRANO
+
+Otros autores definen la Brecha Digital como
+analfabetismo digital, el cual consiste en la escasa
+habilidad o competencia de algunas personas para
+manejar las computadoras, Internet y las tecnologías en
+general. Es decir, la Brecha Digital está relacionada con
+aspectos de acceso a los beneficios de la digitalización y
+también a las capacidades de una población o grupo
+social para utilizar las TIC de manera apropiada y que
+contribuya al desarrollo sostenible.
+Aunque todas las definiciones contienen unas
+ideas bastante similares, puede decirse que no existe hoy
+un único concepto sobre qué se entiende por Brecha
+Digital, sin embargo parece razonable afirmar que la
+existencia de una Brecha Digital está directamente
+relacionada con cuatro elementos, que son necesarios
+mencionar con el objeto de hacer un correcto
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+diagnóstico del problema para poder luego plantear las
+medidas adecuadas para reducir y eliminar esa brecha.
+Estos son:
+- La disponibilidad de un ordenador, u otro
+elemento de hardware que permita al ciudadano
+conectarse a Internet.
+- La posibilidad de conectarse y poder acceder a
+la red, desde el hogar, el trabajo o la oficina.
+- El conocimiento de las herramientas básicas para
+poder acceder y “navegar” en la red.
+- La capacidad adecuada para hacer que la
+información accesible en la red pueda ser convertida en
+“conocimiento” por el usuario.
+También apreciamos en las definiciones del
+concepto de Brecha Digital que se han ido modificando
+a través del tiempo. En un principio se refería básicamente
+a los problemas de conectividad. Posteriormente, se
+empieza a introducir la preocupación por el desarrollo
+de las capacidades y habilidades requeridas para utilizar
+las TIC (capacitación y educación) y últimamente
+también se hace referencia al uso de los recursos
+integrados en la tecnología. Así, el concepto de Brecha
+Digital incorpora los siguientes enfoques básicamente:
+a) El enfoque hacia la infraestructura: o sea, la
+posibilidad/dificultad de disponer de ordenadores
+conectados a la red.
+b) El enfoque hacia la capacitación: es decir, las
+habilidades y capacidades/dificultades de usar estas
+tecnologías. En este sentido, se comienza a desarrollar el
+concepto de alfabetización digital relacionado con el de
+Brecha Digital.
+c) El enfoque hacia el uso de los recursos: se refiere
+a la limitación/posibilidad que tienen las personas para
+utilizar los recursos disponibles en la red. En los últimos
+tiempos, se ha integrado en el concepto de Brecha Digital
+las posibilidades de utilizar la tecnología no solamente
+para acceder a la información, al conocimiento, sino
+también a un nuevo modo de educación y para
+aprovechar las “nuevas oportunidades” como el desarrollo
+de los negocios, la atención médica en línea, el
+teletrabajo, el disfrute de nuevas formas de
+entretenimiento y ocio.
+Basados en estos elementos, muchos de los
+organismos internacionales han definido una política de
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+Para concluir, la Brecha Digital implica que hay
+una distribución no homogénea en el acceso a la
+infraestructura de comunicaciones, la conectividad y los
+contenidos digitales. Esta brecha se sustenta en
+desigualdades sociales preexistentes y además puede
+profundizar esas desigualdades. El nivel educativo, el
+estatus socio-económico, la ubicación geográfica, el
+género, la edad, la pertenencia a determinados grupos
+étnicos, la presencia de discapacidades, son todos
+aspectos que explican la exclusión digital de distintos
+colectivos y la agudización de su situación de exclusión
+social.
+Pero la brecha más importante no se produce
+solamente en términos de acceso a la tecnología en sí
+misma; ya que las comunidades afectadas por la Brecha
+Digital de lo que quedan excluidas es de lo que estas
+tecnologías permiten hacer: la capacidad de procesar,
+seleccionar y producir información como un factor de
+desarrollo social. Por otra parte, los excluidos digitales no
+tienen la posibilidad de desarrollar un papel activo en la
+Sociedad de la Información y por tanto, no serán tomados
+en cuenta en su construcción. Esto implica que los valores
+y criterios del mercado que priman en el desarrollo de
+Internet y las telecomunicaciones los van a dejar cada
+vez más afuera. Con lo cual, la exclusión digital se agudiza,
+y con ella, una vez más, la exclusión social.
+
+Métodos
+En todo proceso de modernización, el cambio
+genera una nueva estructura de oportunidades, pero,
+conjuntamente, también cabe la posibilidad de que
+aparezcan nuevos tipos de desigualdad social o se
+acentúen las ya existentes. La transición a la Sociedad de
+la Información no es una excepción.
+El objetivo del trabajo será definir los umbrales
+para la determinación de la Brecha Digital en unas zonas
+geográficas muy concretas y con características que sean
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+similares, para que dichos umbrales puedan ser
+extrapolables y útiles para el análisis del fenómeno.
+Cualquier investigación parte de un
+conocimiento que es preciso analizar. La ingente
+cantidad de literatura científica que versa sobre la
+Sociedad de la Información y la Brecha Digital, ha hecho
+que la revisión bibliográfica haya sido una labor
+importante. Dicha revisión bibliográfica nos ha llevado a
+identificar la inexistencia de parámetros porcentuales
+para determinar la Brecha Digital en la literatura científica.
+El análisis de la realidad de la Comunidad
+Autónoma de Extremadura respecto a la media española
+ha sido realizada a partir de los datos del Instituto
+Nacional de Estadística (España, 2010) en su trabajo
+titulado “Encuesta sobre equipamiento y uso de
+tecnologías de la información y comunicación en los
+hogares” y en la “Encuesta sobre el uso de TIC y comercio
+electrónico en las empresas”. Se han seleccionado 67
+indicadores, analizados en un periodo de cuatro años
+(2006/2010).
+Los indicadores empleados se han agrupado por
+bloques, que simplemente identificamos: Conexión a
+internet en hogares y motivos por los cuales no cuentan
+con dicha conexión; uso del ordenador y de éste con
+conexión a Internet (para qué y cuánto -asiduidad-);
+utilización y comunicación por medio del eadministración para hogares y ciudadanos. Para empresas
+se ha analizado la conexión a Internet; Quién utiliza la
+información; Para qué es utilizada la red.
+La encuesta tenía como objetivo principal
+conocer el equipamiento tecnológico en los hogares y
+empresas, así como analizar su uso. Esta encuesta se
+realiza desde el 2004 de forma continuada en forma de
+“panel rotante” donde las mismas familias son analizadas
+durante varios años, aunque una cuarta parte de la
+población va cambiando en la muestra.
+La muestra alcanza las 28.224 viviendas en 2004,
+siendo un número similar a lo largo de los años siguientes.
+En el año 2010 las familias analizadas fueron de 24.877.
+La entrevista se realiza por teléfono. En caso de que dicha
+familia no cuente con teléfono la encuesta será presencial
+en la casa del analizado. La población objeto de estudio
+son principales familias, siendo exhaustivamente
+analizadas las personas con 16 años o más.
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+129
+UMBRALES DE LA BRECHA DIGITAL
+
+desarrollo orientada a la reducción de la Brecha Digital.
+Sin embargo, a pesar de la evolución en el concepto, se
+enfatiza principalmente el desarrollo de la infraestructura
+tecnológica. Las inversiones y las políticas nacionales para
+la reducción de la Brecha Digital siguen orientadas
+principalmente hacia el desarrollo de la conectividad.
+
+La muestra es de modelo trietápico con
+estratificación de las unidades por medio de secciones
+censales. Por lo tanto, este muestreo es una
+representación de estratos por municipios y habitantes,
+siendo la selección de arranque de la muestra aleatorio.
+El nivel de confianza del muestreo es del 95%
+medida en términos de probabilidad.
+Además de esta herramienta básica se han
+analizado otros dos fuentes. Estos han sido por un lado
+el documento de la Fundación Telefónica (2001) que
+realiza un informe sobre la Sociedad de la Información
+en España y los datos del Observatorio de la Sociedad
+de la Información del Gobierno de Extremadura (2009),
+con datos no actualizados desde 2009, pero que nos ha
+servido para contrastar y/o depurar algunos datos
+extraídos de la herramienta del INE.
+
+Determinación de umbrales
+Como ya hemos comentado anteriormente, la
+inexistencia de umbrales estadísticos para medir la
+Brecha Digital nos ha llevado a determinar dichos
+umbrales con el objeto de dotar al estudio de rigor
+científico.
+Para ello, y siendo consciente que estos umbrales
+porcentuales son únicamente válidos para estructuras
+económicos-sociológicas-culturales-geográficas
+similares, los umbrales se han ajustado mucho partiendo
+de la premisa de la igualdad máxima entre iguales,
+teniendo presente que zonas geográficas con parecida
+renta per cápita, con niveles culturales semejantes, con
+cultura y sociedad parecidas, debieran contar con un
+parecido en acceso y uso a internet muy semejantes.
+
+130
+
+Por ello, los umbrales se han categorizado en
+cuatro niveles muy ajustados.
+
+J.-J. MENDOZA-RUANO & J. CALDERA-SERRANO
+
+- Brecha Digital Tipo I
+Diferencial entre el 1% al 5% de la media. Puede
+estimarse que la Brecha Digital Tipo I es prácticamente
+un empate técnico en la mayor parte de los casos, ya
+que siempre habrá variaciones en cualquiera de las
+variables que hagan que exista una brecha digital o un
+desarrollo tecnológico mínimo respecto a la media
+(denominamos desarrollo tecnológico cuando
+cualquiera de los datos analizados están por encima de
+la media aritmética sobre las que estemos analizando).
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+Con ello no estamos señalando que no se deban realizar
+esfuerzos para eliminar dicha brecha y llegar a un
+desarrollo digital, lo que sí queremos señalar es que el
+diferencial porcentual es poco significativo además de
+poder ser fácilmente superable por medio de políticas
+de información y comunicación.
+- Brecha Digital Tipo II
+Diferencial entre el 6% al 10% de la media. La
+Brecha Tipo II es una brecha que podríamos denominar
+de importancia media o moderada, y sobre la cual se
+debe actuar de forma más tajante. Un diferencial superior
+al 6% ya es significativo en los contextos parejos con nivel
+de acceso y uso elevados. Las políticas estatales deben ir
+encaminadas a reducir dicho diferencial.
+- Brecha Digital Tipo III
+Diferencial entre el 11% al 15% de la media. Este
+tipo de Brecha es significativa y preocupante. Este
+diferencial con la media puede entenderse como una
+Brecha Digital real, con un diferencial que se traduce en
+problemas económicos, sociales; que se traduce en
+problemas para la creación de empresas y muy
+especialmente aquellas que cuentan con una base
+tecnológica. Además se traduce en diferencias
+significativas en las relaciones sociales de los individuos
+de la comunidad.
+- Brecha Digital Tipo IV
+Diferencial más del 16% de la media. La Brecha
+Digital Tipo IV es sin lugar a dudas, preocupante. Una
+diferencia por encima del 16% se va a traducir en
+diferencias muy significativas en el entorno social,
+económico, etc., lo que provocará una fractura social con
+el resto de la sociedad española. Esta diferencia entre
+zonas de países del primer mundo y con un desarrollo
+tecnológico amplio debieran ser resueltas con políticas
+activas de eliminación de la brecha, ya sea desde el punto
+de vista de la implantación de las tecnologías de la
+comunicación e implantación social de tecnologías
+informáticas, o desde la perspectiva del uso de dichas
+tecnologías.
+¿Bajo qué condiciones tendrían validez esta escala
+porcentual para medir la brecha digital?
+Es muy importante determinar bajo qué
+condiciones es válido este umbral porcentual, siendo por
+tanto un estándar válido para investigaciones que
+puedan ser parecidas.
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+Por lo tanto, los datos son equiparables para
+comparaciones entre zonas con alto nivel de acceso a
+las tecnologías de la información, con amplio desarrollo
+gubernamental para penetrar e introducir las tecnologías
+de la información entre sus ciudadanos y su
+administración como fórmula de comunicación, y que
+además están en contextos económicos y sociales
+desarrollados. No es significativo utilizar estos umbrales
+porcentuales para realizar un análisis entre estados de
+Norteamérica o de la Unión Europea con zonas o países
+de África, por ejemplo.
+
+problema derivado del desarrollo de la Sociedad de la
+Información como es la Brecha Digital.
+Se estima importante contar con esta
+herramienta para dotar de valor metodológico a
+potenciales estudios posteriores, ya que de lo contrario
+la identificación de existencia de Brecha Digital vendrá
+marcada por intuiciones, que aunque bien intencionadas,
+no dejarán de ser estimaciones y sensaciones personales
+llevando a cabo la labor comparativa de dos o más
+realidades distintas. Esta labor intuitiva, aunque pueda
+contar con conocimientos previos y referencias que
+sirvan para la determinación de la existencia o no de la
+Brecha Digital, siempre estarán fundamentadas en datos
+porcentuales, por lo que es preferible que dicha labor
+vaya marcada desde la hipótesis teniendo en cuenta los
+datos porcentuales, y que sean las referencias culturales,
+sociológicas, económicas, geográficas, etc. las que
+después utilice el investigador para acabar de definir la
+existencia o no de la brecha.
+Los cambios y revoluciones en la economía
+mundial hace también que sea necesario ajustar los
+elementos de comparación para analizarlos desde los
+iguales para que las comparaciones sean más justas y
+reales respecto de la realidad en la que se interconectan
+y comunican.
+Y a partir de ahí, una vez determinada la Brecha
+Digital y conocido el entorno, será el momento de
+comenzar a buscar soluciones reales y que puedan
+ajustarse a la realidad, lo cual ha estado alejado muchas
+veces, al hacer comparaciones entre elementos con
+variables tan distintas que hacían esta comparación
+imposible o, al menos, poco útil.
+
+Conclusión
+Agradecimientos
+Siendo consciente de las limitaciones y
+complicaciones que se derivan de plasmar unos
+umbrales porcentuales para comparar realidades siempre
+dispares, se ha estimado conveniente contar con una
+herramienta de base, con un elemento metodológico
+estándar y claro para poder identificar claramente el
+
+Este trabajo ha sido financiado por la Junta de
+Extremadura (Consejería de Educación, Ciencia y Tecnología)
+y el Fondo Social Europeo dentro del plan de apoyo a las
+actuaciones de los Grupos de Investigación inscritos en el
+catálogo de la Junta de Extremadura. GR10019.
+
+Referencias
+Anderson, R.H. et al. Universal access to e-mail: Feasibility and
+cocietat implications. In: Compaine, B.M. (Ed.). The digital divide:
+
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+Facing a crisis or creating a myth? Cambridge: MIT Press, 2001,
+p.243-262.
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+131
+UMBRALES DE LA BRECHA DIGITAL
+
+Para ello hemos de determinar que ha sido
+testado para determinar la Brecha Digital en un periodo
+de 6 años de la Comunidad Autónoma de Extremadura,
+que está situada en un país como España que es aún
+considerado un país del primer mundo y con unas
+variables que la posicionan entre los países punteros
+desde el punto de vista tecnológico. Aunque
+actualmente España está modificando claramente
+muchas de las variables que la están empobreciendo,
+los datos se han analizado en el momento en que España
+estaba situada entre los ocho países del mundo con
+mayor pujanza económica. Además, la Comunidad
+Autónoma de Extremadura es la única comunidad
+española que sigue siendo objetivo uno en las ayudas
+de la Unión Europea para el desarrollo, ya que cuenta
+con altas tasas de paro y una renta por ciudadano
+bastante baja. Para contrarrestar estas variables negativas
+desde el Gobierno de Extremadura se han realizado en
+esos años grandes esfuerzos de acceso y capacitación
+tecnológica en toda la sociedad civil, además de
+incrementar el e-goverment de manera significativa.
+
+Bucy, E.P. Social access to the Internet. Harvard International
+Journal of Press/Politics, v.5, n.1, p.50-61, 2000.
+Compaine, B.M. Declare the war won. In: Compaine, B.M. (Ed.).
+The digital divide: Facing a crisis or creating a myth? Cambridge:
+MIT Press, 2001. p.315-335.
+DiMaggio, P. et al. Social implications of the internet. Annual
+Review of Sociology, v.27, p.307-336, 2001.
+España. Instituto Nacional de Estadística. Encuesta sobre
+equipamiento y uso de tecnologías de la información y
+comunicación en los hogares. 2013. Disponible en: <http://
+www.ine.es/jaxi/menu.do?type=pcaxis&path=%2Ft25%
+2Fp450&file=inebase&L=0>. Acceso en: 7 nov. 2013.
+Fundación Telefónica. La sociedad de la información en España.
+2001. Disponible en: <http://www.fundacion.telefonica.com/
+es/arte_cultura/publicaciones/detalle/176>. Acceso en: 7 nov.
+2013.
+Gobierno de Extremadura. Observatorio extremeño de la
+sociedad de la información. 2009. Disponible en: <http://
+www.juntaex.es/consejerias/infraestructuras-desarrollotecnologico/dg-sociedad-informacion/Observatorio-idesidweb.html>. Acceso en: 7 nov. 2013.
+Monge González, R.; Chacón, F. Cerrando la brecha digital en
+Costa Rica: acceso y uso de las tecnologías de la información y
+las comunicaciones en Costa Rica. San José: Fundación CAATEC,
+2002. Disponible en: <http://www.caatec.org/CAATEC/
+publicaciones/crdigital/CR_Digital_1.pdf>. Acceso en: 6 nov.
+2013.
+Monge González, R.; Hewitt, J. Tecnologías de la información y
+las comunicaciones (TICs) y el futuro desarrollo de Costa Rica: el
+
+desafío de la exclusión. San José: Academia de Centroamérica,
+2004. Disponible en: <http://www.caatec.org/CAATEC/
+publicaciones/crdigital/CR_Digital_3.pdf>. Acceso en: 6 nov.
+2013.
+Norris, P. Digital divide? Civic engagement, information poverty
+and the internet worldwide. Cambridge: Cambridge University
+Press, 2001.
+Organización para la Cooperación y Desarrollo Económico.
+Understanding the digital divide. París: OECD Publications, 2001.
+Serrano Santoyo, A.; Martínez Martínez, E. La brecha digital:
+mitos y realidades. México: Editorial UABC, 2003. Disponible
+en: <http://labrechadigital.org/labrecha/LaBrechaDigital_
+MitosyRealidades.pdf>. Acceso en: 6 nov. 2013.
+Unión Europea. Libro Verde sobre la convergencia de los sectores
+de telecomunicaciones, medios de comunicación y tecnologías
+de la información y sobre sus consecuencias para la
+reglamentación: en la perspectiva de la sociedad de la
+información. Bruselas: Comisión Europea, 1997.
+Van Dijk, J. A framework for digital divide research. Electronic
+Journal of Communications, v.12, n.1/2, 2002. Available from:
+<http://www.cios.org/EJCPUBLIC/012/1/01211.html>. Cited:
+Nov. 6, 2013.
+Van Dijk, J.; Hacker, K. The digital divide as a complex and
+dynamic phenomenon. The Information Society, v.19, n.4,
+p.315-326, 2003.
+World Resources Institute. Creating digital dividends. 2000.
+Available from: <http://www.digitaldividend.org/>. Cited: Nov.
+6, 2013.
+
+132
+J.-J. MENDOZA-RUANO & J. CALDERA-SERRANO
+
+TransInformação, Campinas, 26(2):125-132, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200002
+
+

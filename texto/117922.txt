@@ -1,0 +1,869 @@
+Comparing the bibliographic management
+softwares: Mendeley, EndNote and Zotero
+Eduardo Kazumi YAMAKAWA1
+Flávio Issao KUBOTA1
+Fernanda Hansch BEUREN1
+Lisiane SCALVENZI1
+Paulo Augusto CAUCHICK MIGUEL2
+
+Resumo
+A elaboração de uma revisão bibliográfica confiável, a partir de trabalhos relevantes publicados anteriormente, é fundamental
+para evidenciar a originalidade e a contribuição científica dos trabalhos de pesquisa. Devido à grande quantidade de bases de
+dados e de publicações disponíveis, torna-se necessário utilizar ferramentas que auxiliem na gestão das referências bibliográficas
+de uma maneira fácil e padronizada. O objetivo deste artigo é examinar três softwares de gerenciamento bibliográfico utilizados
+com frequência por pesquisadores acadêmicos, são eles: Mendeley, EndNote e Zotero. Nesse sentido, buscou-se, em primeiro lugar,
+evidenciar seus principais benefícios e as possíveis dificuldades de utilização. Em segundo lugar, procurou-se comparar suas
+principais características por meio de uma pesquisa teórico-conceitual baseada em literatura especializada, o que permitiu utilizá-los e analisá-los de maneira crítica. Assim sendo, evidenciou-se as principais particularidades de cada software e foi elaborado um
+quadro comparativo entre os mesmos. Considerando as características analisadas nos três softwares, concluiu-se que todos, ao
+mesmo tempo em que facilitam o trabalho dos pesquisadores, possuem ferramentas que facilitam as buscas, a organização e a
+análise dos artigos.
+Palavras-chave: Comparativo. EndNote. Gerenciamento bibliográfico. Mendeley. Referências Bibliográficas. Zotero.
+
+Abstract
+The development of a reliable literature review from relevant previously published studies is imperative to highlight the originality and
+scientific contributions of research. Due to the large amount of databases and publications available, we need ease-to-use tools that
+assist reference management in a standardized way. The purpose of this article was to examine three of the most frequently used
+bibliographic management softwares by academic researchers: Mendeley, EndNote, and Zotero. The authors sought to highlight
+the main benefits and difficulties in using the softwares and compared their main features by using a theoretical-conceptual
+1
+
+2
+
+Universidade Federal de Santa Catarina, Programa de Pós-Graduação em Engenharia de Produção, Departamento de Engenharia de Produção. Florianópolis,
+SC, Brasil.
+Universidade Federal de Santa Catarina, Departamento de Engenharia de Produção e Sistemas. Campus Trindade, Caixa Postal 476, Cidade Universitária,
+88040-900, Florianópolis, SC, Brasil. Correspondência para/Correspondence to: P.A. CAUCHICK MIGUEL. E-mail: <paulo.cauchick@ufsc.br>.
+Recebido em 7/1/2013, reapresentado em 24/7/2013 e aceito para publicação em 13/9/2013.
+
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+167
+COMPARATIVO MENDELEY, ENDNOTE E ZOTERO
+
+Comparativo dos softwares de gerenciamento
+de referências bibliográficas: Mendeley,
+EndNote e Zotero
+
+research-based literature as well as critically analyzing the softwares cited by the authors. As a result, it was possible to highlight the
+main features of each of the softwares and develop a comparative chart. Considering the characteristics of the three softwares analyzed,
+it was possible to conclude that all of them have tools that facilitate searching, organizing, and analyzing articles, which can facilitate
+the work of researchers who use these softwares.
+Keywords: Comparison. EndNote. Bibliographic management. Mendeley. Bibliographic Reference. Zotero.
+
+Introdução
+As referências, as instruções e a tecnologia caminham juntas no campo de suporte à pesquisa. Independente do nível de qualificação do pesquisador (desde
+o estudante que escreve o primeiro trabalho de pesquisa
+até os cientistas com Prêmio Nobel) as fontes de citação
+são fundamentais para uma boa pesquisa (Hensley,
+2011). Ainda, Mugnaini (2003) afirma que o acúmulo e o
+armazenamento de informações, obtidos por intermédio
+da evolução da informática, suscitaram a necessidade de
+uma eficaz organização para posterior recuperação.
+Nesse contexto, o aumento, nos últimos anos, do número
+de informações disponíveis no meio digital demonstra
+que os pesquisadores necessitam encontrar formas
+rápidas e eficientes para gerenciar esses dados. Dessa
+forma, Duong (2010) destaca que a utilização de programas computacionais - que auxiliem neste gerenciamento - tornou-se um fator importante para facilitar
+o trabalho de usuários que precisam, frequentemente,
+buscar dados na literatura. Consequentemente, diversos
+programas computacionais vêm sendo desenvolvidos
+para este fim.
+
+168
+
+E.K. YAMAKAWA et al.
+
+Nesse sentido, uma maior facilidade de acesso às
+diversas fontes de conhecimento vem se consolidando,
+especialmente por meio da Web, dos portais e das bases
+de periódicos. Por conseguinte, torna-se necessário
+estabelecer alguns critérios para privilegiar o uso de referências mais confiáveis e cientificamente mais
+embasadas; uma vez que dentro desse universo de textos
+e publicações, uma quantia significativa possui ressalvas
+quanto à confiabilidade. Somado a isso, com o passar do
+tempo, a produção contínua e constante do conhecimento acaba por dificultar a tarefa do pesquisador, uma
+vez que o volume de publicações e conteúdos se amplia
+consideravelmente. Uma observação deve ser apresentada: os programas não garantem a qualidade dos
+textos e das publicações gerenciadas, pois quem decide
+o que será gerenciado pelos mesmos são os pesquisadores. Assim, a qualidade é definida por estes.
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+Dessa forma, este artigo apresenta três programas
+utilizados, atualmente, por diversos pesquisadores: o
+Mendeley, o EndNote e o Zotero. Esses softwares são
+utilizados para buscar e organizar sistematicamente os
+artigos disponíveis na literatura.
+O objetivo do trabalho é analisar e destacar os
+principais benefícios e algumas das dificuldades identificadas durante a utilização dos softwares citados acima.
+Essa investigação, comparando o uso dos programas
+computacionais, descreve alguns passos utilizados
+durante uma busca e uma organização bibliográfica.
+Salienta-se, ainda, que este artigo apresenta: 1) a
+busca e a organização bibliográfica particularizada para
+os três programas computacionais analisados; 2) os
+métodos e as técnicas de pesquisa adotadas, bem como
+os critérios e os dados comparativos entre os softwares;
+3) os benefícios e as dificuldades de cada programa
+computacional e a discussão dos resultados, conclusões
+e trabalhos futuros.
+
+Gerenciadores bibliográficos
+Uma revisão da literatura relevante é uma característica essencial de todo projeto acadêmico. Uma revisão
+efetiva cria uma sólida fundação para o avanço do
+conhecimento porque fecha áreas onde já existem
+muitas pesquisas e evidencia áreas onde pesquisas são
+necessárias (Webster & Watsom, 2002). Diante da grande
+quantidade de dados que os pesquisadores necessitam
+para o desenvolvimento de alguma teoria e da quantidade de informações disponíveis, torna-se um desafio
+gerenciar de forma eficaz a quantidade de informação
+(Duong, 2010). Assim, muitos cientistas recorrem a
+programas computacionais que os auxiliem a buscar e a
+organizar bibliografias. Esses gerenciadores de referência
+bibliográfica arquivam e organizam os trabalhos que
+podem ser citados pelos pesquisadores. Registra-se,
+também, que entre as funções mais utilizadas estão as
+que obtêm informações de citação nas bases de dados
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+O Mendeley surgiu em 2008 e apresenta uma
+combinação de aplicação desktop e um Website. O
+desktop é instalado no computador do usuário. Já o
+Website serve para auxiliar pesquisadores no gerenciamento, compartilhamento e acesso a dados relacionados com determinada pesquisa. Esse software permite
+gerar estatísticas relacionadas ao número de artigos
+encontrados, regiões geográficas, identificação de leitores
+por área, autores que estão pesquisando sobre o tema
+de interesse, entre outros. O Mendeley trabalha com redes
+sociais, que possibilitam a interação entre a comunidade
+e os responsáveis pela ferramenta. Essa interação, sugere
+melhorias, quais sejam: a extração de metadados e a
+busca de textos em formato Portable Document Format
+(PDF) completos (Marchiori et al., 2010).
+O EndNote teve sua primeira versão em 1988 para
+Macintosh. A versão atual pode ser utilizada nos ambientes desktop e Web. O EndNote desktop é um software
+que deve ser instalado no computador do usuário e serve
+para gerenciar referências bibliográficas. Esse serviço
+objetiva ser útil para pesquisar, armazenar e organizar as
+referências bibliográficas recolhidas em bases de dados
+credenciadas. O EndNote Web é similar ao desktop, pois
+também gerencia referências bibliográficas e é integrado
+à diversas bases de dados.
+O Zotero foi lançado em 2006 numa versão Web.
+Na última versão pode ser utilizada uma combinação de
+aplicação desktop instalada no computador do usuário,
+e um aplicativo Web que é uma extensão do navegador
+de Internet Mozilla Firefox. O Zotero é desenvolvido pela
+Universidade de George Mason. Assim como o Mendeley
+e EndNote, o Zotero pode pesquisar, armazenar e organizar as referências bibliográficas obtidas em bases de
+dados credenciadas.
+Dentro dessa diversidade de softwares, Fenner
+(2010) comenta que há uma proliferação de ferramentas
+de gestão de referência e estas estão sendo desenvolvidas para serem utilizadas não apenas em computadores, mas também em dispositivos móveis, quais sejam: telefones celulares e tablets. Os softwares de
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+gerenciamento de referências são ferramentas que visam
+economizar tempo para os pesquisadores e, além disso,
+servem para agregar valor - independentemente de como estas ferramentas são exploradas (Zaugg et al., 2011).
+Quando o pesquisador utiliza esste tipo de programa
+para organizar seu trabalho, possui mais tempo disponível para leitura e para escrita. Assim, além de organizar
+seus dados, ele pode identificar os trabalhos mais citados,
+os autores que mais escrevem sobre determinado assunto, os periódicos com maior número de publicações sobre determinado tema e outras formas de análises (e.g.
+análise das referências em cada publicação). Com esses
+dados, os pesquisadores podem ampliar o trabalho de
+pesquisa com informações que se destacam na sua área
+de atuação, pois conhecerão onde estão as informações
+mais relevantes, a partir de uma análise facilitada do grande volume de trabalhos existentes, escritos nos últimos
+anos.
+Nesse sentido, Rokni et al. (2010) evidenciam que
+os autores que utilizam softwares gerenciadores de
+referência bibliográfica para escrever artigos científicos
+melhoram significativamente a qualidade dos manuscritos e ampliam o conhecimento sobre o tema que vem
+pesquisando. Ainda, Fenner (2010) destaca que os
+softwares de gerenciamento de referências auxiliam os
+pesquisadores através da realização de três funções
+básicas:
+1) Busca: localização de literatura científica relevante;
+2) Armazenamento: guardar os resultados da
+pesquisa em um banco de dados pessoal para futuro
+acesso e;
+3) Escrita: inserir as referências quando estiver
+escrevendo um manuscrito.
+Sombatsompop et al. (2007) apresentam a
+importância de utilizar um software de gerenciamento
+bibliográfico para buscar informações contidas nos
+artigos da área de interesse de cada pesquisador. Essa
+atitude procura facilitar o trabalho, pois além de trazer
+os arquivos dos artigos das bases de dados para o
+software, trazem também dados importantes: nomes
+completos dos autores dos artigos, periódicos onde os
+mesmos são publicados, títulos, resumos e outras
+informações pertinentes numa revisão bibliográfica e
+análise bibliométrica.
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+169
+COMPARATIVO MENDELEY, ENDNOTE E ZOTERO
+
+online e aquelas que inserem essas informações de
+citação no documento num formato específico escolhido. Tal fato, automaticamente, gera uma referência
+bibliográfica completa no final do documento (Muldrow
+& Yoder, 2009).
+
+Métodos
+Delineou-se este estudo a partir da pesquisa
+teórico-conceitual (Berto & Nakano, 2000; Miguel, 2010),
+baseada na literatura e na utilização pelos autores dos
+softwares de busca e organização bibliográfica: Mendeley,
+EndNote e Zotero. As bases de dados utilizadas para a
+busca de artigos na literatura foram a Scopus e Web of
+Science, as quais contêm diversos periódicos importantes
+para a área de atuação destes pesquisadores, que é a
+Engenharia de Produção. A busca foi realizada a partir
+das palavras-chave: “software Endnote”, “software Zotero” e
+“software Mendeley”. Foram encontrados 28 artigos que
+tratam das palavras-chave apresentadas. Esses artigos
+foram lidos na íntegra a fim de identificar o que a literatura
+vem tratando sobre cada software.
+O objetivo da pesquisa é apresentar a comparação entre os softwares citados apresentando o que cada
+um traz em termos de benefícios e dificuldades utilização.
+
+170
+
+Os dados foram obtidos por meio de informações
+coletadas a partir do uso destes programas pelos autores
+(Figura 1). A análise dos dados coletados foi tabulada para
+assim apresentar, de forma sistemática, os benefícios e
+dificuldades identificadas durante a utilização de cada
+um dos softwares. Primeiramente, descreve-se cada
+software em separado para, posteriormente, realizar uma
+síntese comparativa entre eles no final dos resultados.
+Na avaliação comparativa entre os três programas computacionais, foram consideradas as seguintes características de uso: disponibilidade (aquisição do software),
+sincronização de arquivos (desktop e Web), monitoramento automático de diretórios, visualização de referências duplicadas, interação com a Web, inserção prática
+de citações nos textos, disponibilidade dos programas
+para diversos sistemas operacionais, facilidade na leitura
+dos arquivos recuperados, disponibilidade dos dados
+básicos de artigos (palavras-chave, periódico, autores
+etc.), busca em base de dados e possibilidade de importação e exportação de dados.
+
+E.K. YAMAKAWA et al.
+
+Características e funções dos
+gerenciadores
+Esta seção apresenta os benefícios e dificuldades
+encontradas durante o uso dos softwares de gerenciamento bibliográfico.
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+Figura 1. Etapas do método de pesquisa.
+Fonte: Elaborada pelos autores (2012).
+
+Mendeley (versão 1.5.2)
+O Mendeley pode ser utilizado por meio de um
+aplicativo instalado no computador chamado “Mendeley
+Desktop” ou pelo acesso ao site do mesmo <http://
+www.mendeley.com>. O aplicativo não possui custo de
+aquisição. Após a utilização e interação com o software
+Mendeley, foi possível obter informações a respeito de
+aspectos de vantagens e desvantagens do programa.
+Essas características são descritas nas subseções seguintes.
+O primeiro benefício encontrado diz respeito à
+sincronização dos arquivos armazenados no programa.
+Com o Mendeley, é possível ter os arquivos de trabalho
+gravados tanto nos computadores de uso pessoal quanto
+na rede (Internet). Assim, pode-se acessar os mesmos
+arquivos em rede, o que gera vantagens tanto em segurança (eventuais perdas) quanto em acessibilidade dos
+dados. Caso o usuário não esteja satisfeito com essas disponibilidades, o programa também permite a realização
+de cópia manual de segurança, com o objetivo de garantir mais um backup de arquivos.
+Além disso, com o Mendeley, também, é possível
+o monitoramento automático dos diretórios utilizados
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+Um dos pontos positivos de utilização do
+Mendeley é a facilidade de acesso. É possível acessar a
+biblioteca de dados em qualquer lugar que possua
+conexão com a internet, com ou sem o Mendeley Desktop
+instalado. No caso de utilizar o Mendeley Desktop, o mesmo pode ser instalado em vários computadores diferentes podendo ser acessado de vários lugares diferentes
+e com o mesmo conteúdo, desde que haja acesso a
+Internet para realizar a sincronização com o conteúdo na
+sua conta Web. No caso de não ter o Mendeley Desktop
+instalado, é possível realizar o acesso pela conta pessoal
+no site do software com toda a sua biblioteca, previamente sincronizada, disponível. Além disso, também
+é possível realizar o acesso à biblioteca pessoal pelo
+aplicativo móvel “Mendeley - Reference Manager (Lite)”
+para uso em aparelhos celulares móveis que possuem
+recursos para navegação.
+Outro benefício percebido é a facilidade em obter
+os dados completos a respeito do artigo, tais como os
+autores, periódico publicado, volume, número etc. Isso
+pode ser feito por meio da inserção do Digital Object
+Identifier (DOI). No entanto, observou-se que, em alguns
+casos, o preenchimento do DOI não foi suficiente, ou seja,
+alguns dados estavam incompletos. Em específico,
+durante a análise, o principal problema encontrado
+relaciona-se com os dados referentes aos autores dos
+trabalhos: apenas o primeiro autor aparecia, sendo que
+os artigos possuíam dois ou mais autores.
+Acerca do compartilhamento de informações, o
+programa permite sincronizar arquivos entre os usuários
+do software. Esse aspecto é benéfico por diversos fatores,
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+dentre os quais o compartilhamento de trabalhos entre
+autores que pesquisam sobre um mesmo tema e/ou
+entre integrantes de grupo de estudos em determinado
+assunto, por exemplo. Além disso, o usuário pode gerenciar e selecionar os arquivos que deseja compartilhar com
+os demais pesquisadores/usuários do Mendeley. Junto a
+isso, o software também permite a sincronização e a
+criação de grupos online, com sincronização entre computadores e Web. Dentro desses grupos é possível subdividir em vários diretórios (pastas) para separar assuntos
+para melhor estruturar uma pesquisa.
+Outro aspecto encontrado é a possibilidade de
+inserir citações de forma prática nos arquivos de texto,
+bem como realizar a mescla dessas (em caso de duas ou
+mais citações para um determinado conceito, por
+exemplo). Simultaneamente às citações, ocorrem nesta
+ação as inserções das respectivas referências dentro das
+formatações desejadas: Associação Brasileira de Normas
+Técnicas (ABNT) ou American Psychological Association
+(APA), por exemplo; ou, até mesmo, outra. Depois de
+finalizada a inserção das referências, é possível salvar uma
+versão do arquivo sem vínculos com o Mendeley (isso é,
+as referências ficam conectadas ao arquivo). Nesse
+aspecto, ressalta-se ainda a possibilidade de importação
+de diversos estilos de referências (numeradas, nominais
+etc.).
+O programa também facilita o gerenciamento
+dos dados dos arquivos armazenados. Na aba “Needs
+Review” (Necessita Revisão) se encontram os documentos
+que precisam ter seus dados atualizados e a aba “Recently
+Added” (Recentemente Adicionado) apresenta os arquivos adicionados mais recentemente. Por fim, a aba
+“Favorites” (Favoritos) pode ser utilizada para separar os
+trabalhos preferenciais para uso em determinado estudo
+e/ou pesquisa. É importante ressaltar que essas abas
+estão disponíveis tanto na versão desktop (uso no próprio
+computador) do programa quanto na Web (conta de
+acesso do usuário), podendo ser sincronizadas.
+Acerca dos Sistemas Operacionais (SO), o Mendeley,
+assim como o Zotero, possui suporte para três: Windows,
+Mac e Linux. Referente aos aspectos de acessibilidade do
+software, verificou-se que o mesmo possui versões e
+aplicativos disponíveis para diversos recursos; além de
+permitir o acesso a partir de computadores, tablets,
+celulares etc.
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+171
+COMPARATIVO MENDELEY, ENDNOTE E ZOTERO
+
+para armazenagem dos arquivos. Ou seja, é possível
+manter monitorada uma pasta, na qual são inseridos
+todos os arquivos; assim, o Mendeley, automaticamente,
+grava-os na pasta de armazenamento. Também, é possível realizar anotações e marcações pessoais nos próprios arquivos. Ainda no ambiente online na Web, a conta
+de usuário possui espaço gratuito de 1GB para armazenamento de documentos diversos. Em casa de
+necessidade, é possível aderir aos planos da empresa
+responsável pelo Mendeley, conforme a quantidade de
+espaço a mais desejada. Uma observação importante é
+que a sincronização web precisa, obrigatoriamente, estar
+ativa no Mendeley Desktop com seu login e senha configurados para que a cópia seja realizada no ambiente Web.
+
+Quanto à utilização na Web, por meio da utilização
+do Mendeley é possível encontrar pessoas que pesquisam
+temas semelhantes e compartilhar artigos que possam
+ser relevantes aos outros pesquisadores. Ainda, é possível
+visualizar as ações das demais pessoas incluídas na rede
+de contatos por meio dos feeds (atualizações em tempo
+real), ou seja, é uma espécie de “rede social acadêmica”
+que funciona via Web. No caso do Mendeley Desktop, é
+possível somente atualizar os feeds e adicionar novas
+pessoas para um determinado grupo.
+Os arquivos no Mendeley podem ser acessados e
+lidos de forma ampla, sem a necessidade de ajustes no
+layout do programa.
+No entanto, durante a utilização deste software,
+algumas dificuldades também foram encontradas, principalmente em aspectos funcionais. Uma das principais
+dificuldades encontradas na utilização do Mendeley é
+com relação aos dados bibliométricos mais simples, por
+exemplo, a quantidade de autores, de palavras-chave, de
+ano de publicação etc. O programa não possui mecanismos que possam realizar a contagem desses dados, o
+que poderia facilitar consideravelmente o trabalho dos
+usuários envolvendo análise sistemática da literatura por
+meio da bibliometria.
+Outra desvantagem encontrada é que o software
+não permite realizar buscas em bases de dados dentro
+de sua própria estrutura. No entanto, segundo a empresa
+responsável pelo programa, esforços já estão sendo
+direcionados para a viabilização dessa característica.
+
+172
+
+E.K. YAMAKAWA et al.
+
+Em relação à criação de grupos e compartilhamentos, o programa somente possibilita criar 5 grupos
+privados, com no máximo 10 integrantes na conta padrão, a free (grátis). Caso ocorra a necessidade de números
+superiores aos mencionados, o usuário deverá escolher
+os planos disponíveis e pagar pelos mesmos. Apesar de
+possuir diversas formas de acesso, não existe um aplicativo móvel oficial para uso com sistemas Android.
+Existem alguns aplicativos não oficiais que podem ser
+utilizados, no entanto, possuem vários problemas na
+utilização e instalação.
+Quanto à funcionalidade nas citações das referências, percebeu-se que o Mendeley não permite a
+alteração dinâmica na formatação das citações nos
+textos. Sendo assim, não é possível alterar, quando
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+necessário, a maneira de citar os autores (exemplo: de
+“Autor (2012)” para “(AUTOR, 2012)”). Ainda em relação à
+funcionalidade, mas na perspectiva de busca por artigos,
+o recurso “Import” do Mendeley não funciona em determinados navegadores, como é o caso do Internet Explorer.
+
+EndNote (versão X5)
+O EndNote é um software de gerenciamento de
+referências bibliográficas, com licença paga, bastante
+utilizado nos ambientes onde se realiza a pesquisa
+acadêmica. O EndNote inclui o EndNote Web, que é uma
+ferramenta baseada em internet que fornece um ambiente colaborativo online com a possibilidade de
+organizar listas de publicação nas comunidades do autor.
+O EndNote possibilita salvar os arquivos de trabalho tanto nos computadores de uso pessoal quanto
+na rede (Internet) por meio do EndNote Web. Porém, para
+que isso seja possível, é necessário que o usuário tenha
+uma conta de acesso no site da empresa responsável pelo
+software e, para isso, o mesmo também deve adquirir
+uma licença válida do programa EndNote, que é paga.
+Apesar de não possuir todas as funcionalidades do
+EndNote Desktop, o EndNote Web possui algumas vantagens na integração com as bases de dados da empresa
+Thomson Reuters, como, por exemplo, a ISI Web of
+Knowledge, onde é possível recolher dados de registros
+relacionados e número de citações de maneira integrada
+ao próprio sistema.
+Com o EndNote é possível encontrar textos completos de artigos automaticamente e baixá-los utilizando
+a opção “Find full text”. Quando o texto completo é
+localizado, o EndNote baixa o arquivo e adiciona o link à
+referência automaticamente. Possibilita também, a busca
+por referências bibliográficas já arquivadas no computador do usuário a partir da seleção dos arquivos que
+são arrastados para o campo “PDF & Quick Edit”. Entretanto,
+o computador deve estar conectado à Internet e os artigos devem estar cadastrados nas bases de dados que
+têm acesso ao programa.
+O software EndNote também apresenta outro
+benefício, a visualização de referências duplicadas, onde
+se pode escolher as opções que apresentam o maior
+número de informações, onde é possível selecionar a
+versão que deve ser mantida e qual deve ser apagada. O
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+No EndNote é possível anexar até 45 arquivos por
+referência bibliográfica. Estes arquivos podem ser do tipo
+PDF, Word ou ainda figuras. Os arquivos com a extensão
+em PDF anexados no software podem ser utilizados não
+apenas para visualização do documento, mas também
+para anotações, comentários e destaques - é possível,
+ainda, realçar as partes do texto com uma ferramenta
+que cria um efeito similar à caneta marca textos.
+A principal dificuldade encontrada pelo software
+EndNote é que a licença para sua utilização é paga, dificultando o acesso de diversos usuários. Cabe destacar
+que o EndNote deve ser atualizado frequentemente, gerando mais custos para sua utilização. Outra dificuldade
+encontrada por usuários desse programa, está relacionado com os sistemas operacionais (SOs), pois o EndNote
+possui suporte apenas para dois destes: o Windows e o
+Mac. Os usuários do sistema operacional Linux não
+possuem até o momento versão compatível do EndNote.
+Uma limitação considerada pelos autores como
+a mais preocupante, está relacionada com as informações
+baixadas pelo EndNote. Esses dados são salvos no disco
+rígido do computador, incluindo os arquivos anexados,
+como os PDF dos artigos. Entretanto, estes dados permanecem apenas no computador do usuário, no qual existe
+o risco de perda ou extravio destas informações, as quais
+não são disponíveis online pelo EndNote Web. Outra
+situação relacionada com este arquivamento é o espaço
+necessário do computador para arquivar os dados.
+Zotero (versão 3.0.11)
+O Zotero pode ser utilizado por meio de um complemento instalado no navegador de Internet Mozilla
+Firefox ou por meio do programa instalado no computador Zotero Standalone. O aplicativo não possui custo
+de aquisição.
+O Zotero é um gerenciador de referência bibliográfica de código aberto, arquivador de documentos,
+gerenciador de citações e uma ferramenta de colabohttp://dx.doi.org/10.1590/0103-37862014000200006
+
+ração. A versão Zotero Web é um complemento do
+navegador Mozilla Firefox. A versão Zotero Standalone
+também está disponível para os navegadores de Internet
+Chrome e Safari. O Zotero é compatível com diversas
+bases de dados como ISI Web of Knowledge, Google
+Scholar, PubMed, entre diversos periódicos e bases de
+dados de universidades. Por meio de um clique no ícone
+de navegação localizada na barra do navegador as
+informações bibliográficas como autor, título, periódico,
+volume, número de páginas etc., são salvas criando um
+arquivo com todas as referências. As referências também
+podem ser inseridas manualmente.
+O Zotero também pode importar os artigos em
+PDF existentes, além de outros tipos de arquivo como
+arquivos de imagem e vídeo. Para os arquivos PDF, além
+da visualização é possível destacar trechos e fazer
+anotações no arquivo dentro do Zotero. As citações podem ser adicionadas ao Microsoft Word, Open Office, Látex
+e GloogleDocs. Diversos estilos de citação estão
+disponíveis no repositório de estilos.
+O Zotero fornece grátis até 100MB de espaço para
+armazenamento online, cópia de segurança e sincronização de referências e anexos permitindo que a base de
+dados das referências bibliográficas seja acessada a partir
+de diversos computadores. Existe, também, a possibilidade de sincronizar esses dados com os serviços de
+armazenamento na internet, como o iCloud, da Apple, os
+quais deverão suportar o protocolo WebDav. As referências podem ser compartilhadas com os colegas por meio
+de bibliotecas públicas e privadas.
+Referente aos sistemas operacionais, o Zotero
+possui suporte para os sistemas operacionais Windows,
+Mac e Linux, sendo, assim, disponível para usuários de
+diversos sistemas operacionais.
+O Zotero em sua versão atual ainda não é compatível com bases de dados como Scopus e Reaxsys. Para
+se salvar as informações das referências bibliográficas é
+necessário importar em algum formato compatível como
+Research Information Systems (RIS) e BibTeX. O programa
+não possui mecanismos que possa realizar a contagem
+de dados bibliométricos mais simples, por exemplo: a
+quantidade de autores, as palavras-chave, o ano de
+publicação etc. O software não permite realizar buscas
+em bases de dados dentro de sua própria estrutura.
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+173
+COMPARATIVO MENDELEY, ENDNOTE E ZOTERO
+
+comando “Cite while you write”, também é um benefício
+deste software, o qual seleciona a referência que se deseja
+utilizar, podendo exportá-la para o documento que esteja
+sendo escrito nas plataformas Microsoft Word, Apple Pages
+’09, OpenOffice.org, Writer 3 ou Mathematica 8.
+
+Em seguida, encerrando-se a seção de resultados, é apresentado um resumo comparativo dos três
+softwares analisados neste trabalho.
+Resumo comparativo entre Mendeley,
+EndNote e Zotero
+Nesta seção, realiza-se uma análise comparativa
+entre as características de cada um dos softwares estudados. Inicialmente, o Quadro 1 mostra, de maneira
+resumida, o comparativo de algumas propriedades do
+Mendeley, EndNote e Zotero.
+Percebe-se que tanto o Mendeley quanto o Zotero
+são softwares gratuitos e, por isso, possuem uma melhor
+facilidade de acesso em relação ao EndNote. No que diz
+respeito à sincronização de arquivos, observou-se que o
+Mendeley é o programa mais vantajoso, uma vez que
+permite o armazenamento dos arquivos tanto no computador do usuário quanto na Web; fato este que possibilita salvar e sincronizar as alterações e marcações feitas
+nos artigos em estudo.
+Em relação à visualização de referências duplicadas, notou-se que o EndNote é o software com mais
+recursos de praticidade e facilidade nesse aspecto, pois
+há opções específicas para detectar os trabalhos armazenados e duplicados (normalmente artigos vinculados
+à diversas bases de dados como Scopus, Compendex etc.).
+O Zotero também possui essa opção. Nesse quesito, o
+Mendeley é o programa menos eficiente. Acerca da interação com a Web, foi observado que os três programas
+de gerenciamento de referências possuem recursos para
+isso.
+174
+
+E.K. YAMAKAWA et al.
+
+Na inserção de citações durante a redação de
+textos, o Mendeley é o software menos benéfico, uma vez
+que não possui opção prática para tal função, ao passo
+que o EndNote e o Zotero, além de permitir a inserção de
+citações, possuem, também, a disponibilidade para
+alterar os diversos tipos de citação. A respeito da disponibilidade para sistemas operacionais, o Mendeley possui
+uma pequena vantagem em relação ao Zotero. Ambos
+possuem versões para Windows, Mac e Linux. No entanto,
+o Mendeley possui aplicativo específico para usuários de
+celulares que possuem o sistema Android (“Mendeley Reference Manager (Lite)”).
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+Na leitura de arquivos, os programas Mendeley e
+Zotero têm um layout mais amigável para essa atividade,
+sem a necessidade de ajuste na tela do software, diferente
+do que ocorre com o EndNote. Por outro lado, em relação
+à visualização e ao gerenciamento de dados básicos (tais
+como palavras-chave, autores, instituições dos autores
+etc.), o mesmo EndNote é o programa mais adequado,
+uma vez que consegue desenvolver uma contagem mais
+prática e automática, fornecendo esses dados de forma
+mais rápida e precisa do que o Mendeley e o Zotero. Por
+fim, na busca em base de dados, o EndNote é o único
+software que possibilita acessar algumas bases dentro
+de sua própria estrutura no desktop, dentre as quais a
+EBSCO e a Web of Science, por exemplo.
+
+Conclusão
+O objetivo do presente trabalho foi destacar os
+benefícios e as dificuldades de utilização dos softwares
+Mendeley, EndNote e Zotero, empregados para realizar
+busca de referências bibliográficas na literatura e, ao
+mesmo tempo, fazer sua organização. Foram descritos
+alguns passos normalmente utilizados durante a pesquisa de comparação dos três softwares. Analisando os
+três programas, foi possível identificar as principais
+características de cada software, seus benefícios e dificuldades - além de visualizar em quais contextos e
+situações um programa se destaca em relação ao outro.
+Quanto à facilidade de obtenção e utilização, o
+Mendeley e o Zotero se destacaram, principalmente,
+devido ao fato de esses serem gratuitos e com recursos
+eficientes no gerenciamento bibliográfico, bem como a
+maior disponibilidade para diferentes sistemas operacionais. Além disso, o Mendeley e o Zotero permitem o
+armazenamento simultâneo dos arquivos no disco rígido
+do computador e na Web, por meio da conta de acesso
+do usuário. Ainda, os três programas organizam dados
+básicos dos trabalhos organizados depois de feitas as
+buscas (palavras-chave, periódico, autores etc.). No
+entanto, foi possível observar que o EndNote possui maior
+facilidade de operação para contagem e sistematização
+dessas informações, o que facilita a realização de análises
+bibliométricas, tais como, por exemplo: os autores que
+mais se destacam em determinado tema de pesquisa,
+nos periódicos de referência, nas palavras-chave mais
+utilizadas, nos autores mais citados etc.
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+175
+
+Quadro 1. Resumo comparativo dos softwares Mendeley, EndNote e Zotero.
+Mendeley
+
+EndNote
+
+Zotero
+
+Disponibilidade
+
+Software livre
+
+Software pago
+
+Software livre
+
+Sincronização de arquivos
+(desktop e Web)
+
+Existente. Principal benefício: Existente. Até 25 mil referências e
+backup de arquivos na Web, em 1GB de espaço para anexos.
+caso de problemas com o computador pessoal do usuário.
+
+Existente. Até 100MB é grátis e a
+partir deste volume é pago.
+
+Monitoramento automático
+de diretórios
+
+Existente. As alterações realiza- As alterações não são realizadas
+das em determinado arquivo são de maneira automática.
+transferidas para a versão salva na
+Web (ou desktop, em caso das
+alterações terem sido feitas na
+Web).
+
+Existente. As alterações realizadas
+em determinado arquivo são
+transferidas para a versão salva na
+Web (ou desktop, em caso das
+alterações terem sido feitas na
+Web).
+
+Visualização de referências
+duplicadas
+
+Não há mecanismo específico
+para essa atividade. O que se
+visualiza no Mendeley são arquivos
+que necessitam ter seus dados
+revisados (comando “Needs review”).
+
+Fácil visualização por meio do
+comando “Find Duplicates”, que
+encontra as referências repetidas
+e possibilita eliminá-las do diretório de arquivos.
+
+Existente. Os arquivos duplicados
+são mostrados em um diretório
+denominado “Duplicate Items”
+
+Interação com a Web
+
+Possibilidade de armazenar e
+compartilhar arquivos na rede,
+bem como interagir com outros
+usuários do software.
+
+Possibilidade de armazenar e
+compartilhar arquivos na rede,
+bem como interagir com outros
+usuários do software.
+
+Possibilidade de armazenar e
+compartilhar arquivos na rede,
+bem como interagir com outros
+usuários do software.
+
+Inserção prática de citações
+nos textos
+
+Existente por meio do comando
+“Alt+M” no editor de textos.
+Limitação: não permite alteração
+prática na forma de citação, por
+exemplo: de “Autor (2012)” para
+“(AUTOR, 2012)”.
+
+Existente por meio da aba “Insert
+Citation” (criada no editor de
+textos após a instalação do
+EndNote) e mais efetiva, pois permite a alteração que é restrita no
+caso do Mendeley.
+
+Existente por meio da opção
+“Copiar Citação” no menu Editar.
+É possível escolher entre diversos
+estilos de citação.
+
+Sistemas operacionais (versões
+disponíveis)
+
+Windows, Mac e Linux, além de Windows e Mac. Não há versão
+um aplicativo para celulares para Linux.
+(“Mendeley - Reference Manager
+(Lite)”).
+
+Windows, Mac e Linux
+
+Leitura de arquivos
+
+Fácil e prática, pois não necessita
+a abertura de arquivos pdf com
+softwares específicos. O próprio
+Mendeley oferece a estrutura para
+a leitura
+
+Necessidade de ajustes no layout
+do programa o que dificulta a
+leitura dos arquivos, porém o
+próprio EndNote oferece estrutura
+para leitura.
+
+Fácil e prática, pois não necessita
+a abertura de arquivos pdf com
+softwares específicos. O próprio
+Zotero oferece a estrutura para a
+leitura
+
+Dados básicos de artigos
+(palavras-chave, periódico,
+autores etc.)
+
+Contagem “mecânica”, o que Contagem mais prática e automádificulta a elaboração de levanta- tica. Fornece os mesmos dados
+mento de dados bibliométricos de forma rápida e precisa.
+simples com o uso do Mendeley.
+
+Contagem “mecânica”, o que dificulta a elaboração de levantamento de dados bibliométricos simples com o uso do Zotero
+
+Busca em base de dados
+
+Não permite realizar busca de É possível realizar busca em algudados dentro de sua estrutura
+mas bases de dados por meio do
+próprio EndNote (Ex: EBSCO, Web
+of Science, PubMed etc.).
+Sim. Formatos: BibTex, RIS, EndNote Sim. Formatos: Txt, Rtf, Htm e XML
+XML e Zotero Library
+
+Não permite realizar busca de dados dentro de sua estrutura
+
+Sim. Formatos: BibTex, RIS e Sim. Formatos: EndNote XML, BiEndNote XML
+blioteca EndNote, Refer/BibIX, Tab
+Delimited, RIS, ISI-CE e Multi-filter
+
+Sim. Formatos: Bibliontology, RDF,
+BibTex, Bookmarks, Coins, MODS,
+Refer/BibIX, RIS, TEI, Unqualified
+Dublin Core RDF, Wikipedia Citation
+Templates e Zotero RDF
+
+Possibilidade de importação
+de dados
+Possibilidade de exportação
+de dados
+
+Sim. Formatos: Zotero RDF, MODS,
+BibTex, Refer/BibIX, Unqualified
+Dublin Core RDF
+
+Fonte: Elaborado pelos autores (2012).
+
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+COMPARATIVO MENDELEY, ENDNOTE E ZOTERO
+
+Características
+
+Após a utilização dos softwares analisados, pôde-se concluir que todos apresentam ferramentas que
+facilitam as buscas e análises de artigos, principalmente,
+em revisões bibliométricas da literatura em diferentes
+áreas. Uma limitação do trabalho diz respeito à análise
+dos softwares estudados. Essa análise foi executada pelos
+autores deste trabalho fazendo com que as considerações do presente artigo se restrinjam a esses pontos
+de vista. Além disso, não é função deste estudo o julgamento de qual, dentre os softwares analisados, é o mais
+adequado para ser utilizados pela comunidade acadêmica. No entanto, os resultados e descobertas descritas
+
+são úteis para melhor visualizar os benefícios e dificuldades de cada programa e orientar para a tomada de
+decisão particular dos pesquisadores a respeito de qual
+software utilizar.
+Por fim, para oportunidade futura, sugere-se o
+desenvolvimento de uma pesquisa baseada numa survey
+ou entrevistas semiestruturadas (aspecto a ser melhor
+definido) com usuários de softwares de gerenciamento
+bibliográfico. Tal investigação visará uma análise mais
+aprofundada das características, das necessidades e das
+preferências de pesquisadores e usuários dessas ferramentas.
+
+Referências
+Berto, R.M.V.S.; Nakano, D.N. A produção científica nos anais
+do Encontro Nacional de Engenharia de Produção: um
+levantamento de métodos e tipos de pesquisa. Produção, v.9,
+n.2, p.65-76, 2000.
+Duong, K. Rolling out Zotero across campus as a part of a
+science librarian’s outreach efforts. Science and Technology
+Libraries, v.29, n.4, p.315-324, 2010.
+Fenner, M. Reference management meets Web 2.0. Cellular
+Therapy and Transplantation, v.2, n.6, p.1-3, 2010.
+Hensley, M.K. Citation management software: Features and
+futures. Reference & User Services Quarterly, v.50, n.3,
+p.204-208, 2011.
+
+Mugnaini, R. A bibliometria na exploração de bases de dados:
+a importância da Linguística. Transinformação, v.15, n.1,
+p.45-52, 2003.
+Muldrow, J.; Yoder, S. Out of cite! how reference managers are
+taking research to the next level. Political Science & Politics,
+v.42, n.1, p.167-172, 2009.
+Rokni, L. et al. A comparative analysis of writing scientific
+references manually and by using endnote bibliographic
+software. Pakistan Journal of Medical Sciences, v.26, n.1,
+p.229-232, 2010.
+Sombatsompop, N. et al. Categorization and trend of materials
+science research from Science Citation Index (SCI) database: A
+case study of ceramics, metallurgy, and polymer subfields.
+Scientometrics, v.71, n.2, p.283-302, 2007.
+
+Marchiori, P.Z. et al. Aspectos estruturais e motivacionais e
+possíveis zoneamentos discursivos em software social
+acadêmico. Liinc em Revista, v.6, n.2, p.355-369, 2010.
+
+Webster, J.; Watsom, R.T. Analyzing the past to prepare for the
+future: Writing a literature review. Management Information
+Systems Quarterly, v.26, n.2, p.13-23, 2002.
+
+Miguel, P.A.C. (Org.). Metodologia de pesquisa em engenharia
+de produção e gestão de operações. Rio de Janeiro: Elsevier,
+2010.
+
+Zaugg, H. et al. Mendeley: Creating communities of scholarly
+inquiry through research collaboration. TechTrends, v.55, n.1,
+p.32-36, 2011.
+
+176
+
+E.K. YAMAKAWA et al.
+
+TransInformação, Campinas, 26(2):167-176, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200006
+
+

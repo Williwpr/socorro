@@ -1,0 +1,731 @@
+A study of patenting on water and wastewater
+treatment technologies
+Odonel GONZÁLEZ-CABRERA2
+Taimi RUIZ-PÉREZ3
+Mirelys CLARO-PÉREZ2
+Nancy María PÉREZ-PINO2
+Grisel PÉREZ-GÁLVEZ2
+Lisbey COLLAZO-ALFONSO2
+
+Resumen
+Se presenta un estudio de patentes sobre la temática tratamiento de agua y agua residual. Se localizan y descargan más de 2.500
+documentos de patentes relacionados con la temática. Estos se procesan en software al efecto y herramientas de procesamiento.
+Se extraen indicadores de patentes para esta tecnología con alto valor para actividades comerciales y de investigación, tales como
+tecnologías emergentes sobre tratamiento de agua, países, entidades e inventores líderes a nivel mundial según el resultado de la
+tecnología patentada. Se presenta la evolución de las tecnologías de tratamiento del agua y el agua residual en los últimos veinte
+años a nivel mundial según el registro de las patentes. La entrega de todo el material se realiza en una herramienta de visualización
+que logra hacer más atractivo el servicio, tener un producto más amigable y cómodo para el uso, constituyendo una información
+de alto nivel de actualización y eficacia para la toma de decisiones de una empresa de proyectos e investigaciones
+hidráulicas.
+Palabras ilave: Documento de patente. Indicadores de patentes. Tratamiento de agua.
+
+Abstract
+The aim of the study is to discuss the patenting of water and wastewater treatment technologies. More than 2.500 patent
+documents related to the topic were found and downloaded. The documents were analyzed by a software and processing
+tools. Patent indicators for the technology with high-value business and research were determined such as water treatment,
+countries, institutions and worldwide leader inventors according to the patented technology. The worldwide development of
+water and wastewater treatment technologies over the past twenty years is presented according to the record of patents. The
+delivery of all materials is done in a visualization tool that manages to make service more attractive, it is a friendlier and more
+comfortable product to use that offers a high-level update and effectiveness of information for decision making in a hydraulic
+project and research business.
+Keywords: Patent document. Patent indicators. Water treatment.
+1
+
+2
+
+3
+
+Trabajo presentado en el VII Seminario Internacional sobre Estudios Cuantitativos y Cualitativos de la Ciencia y la Tecnología “Prof. Gilberto Sotolongo
+Aguilar en XIII Congreso Internacional de Información - INFO’ 2014. Habana, Cuba.
+Centro de Información y Gestión Tecnológica de Villa Clara. Marta Abreu #55 entre Villuendas y Sayas, 50100, Santa Clara, Cuba. Correspondencia a nombre
+de/Correspondence to: O. GONZÁLEZ-CABRERA. E-mail: <ogonzalez@ciget.vcl.cu>.
+Hospital Docente Gineco-obstétrico “Mariana Grajales”. Santa Clara, Cuba.
+Recibido el día 21/5/2014 y aceptado para su publicación el 12/9/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+339
+ESTUDIO DE PATENTES TRATAMIENTO DEL AGUA
+
+Estudio de patentes sobre tecnologías para
+tratamiento de agua y el agua residual 1
+
+Introducción
+El agua es un recurso fundamental para la vida
+tanto de los seres humanos como del resto de las
+especies de la tierra. Con un planeta cada vez más
+poblado y el cambio climático haciendo estragos en
+muchas partes del mundo, la gestión, conservación y
+acceso al agua en buenas condiciones es cada vez más
+difícil sobre todo en los países en desarrollo (Alemany,
+2013).
+
+340
+
+El 59% del consumo total de agua en los países
+desarrollados se destina a uso industrial, el 30% a
+consumo agrícola y un 11% a gasto doméstico, según se
+constata en el primer informe de Naciones Unidas sobre
+el desarrollo de los recursos hídricos del mundo
+(Fernándes-Alba et al., 2006). Conscientes de la
+problemática en torno a este recurso, Naciones Unidas
+trabaja para conseguir que todos los ciudadanos del
+mundo puedan tener acceso al agua potable y
+condiciones de saneamiento dignas. Para ello el período
+comprendido entre 2005 y 2015 se declaró el Decenio
+Internacional para la Acción “El agua, fuente de vida”.
+Dentro de las líneas de actuación de este proyecto, la
+Asamblea General de la Organización de Naciones Unidas
+(ONU) aprobó que el 2013 fuera el “ Año Internacional
+de la Cooperación en la Esfera del Agua “, en su resolución
+65/154 con el objetivo de sensibilizar tanto sobre el
+potencial de una mayor cooperación como sobre los
+desafíos que afronta la gestión del agua debido a una
+mayor demanda y lo que ello implica para el acceso, la
+asignación y los servicios. El Año pondrá en valor la
+historia de las iniciativas exitosas de cooperación en
+materia de agua e identificará los temas emergentes y
+más urgentes.
+
+O.G. CABRERA et al.
+
+El director general de la Organización Mundial de
+la Salud (OMS) Dr. Lee Jong-Wook plantea que el agua y
+el saneamiento son unos de los principales motores de
+la salud pública. Suelo referirme a ellos como “Salud 101”,
+lo que significa que en cuanto se pueda garantizar el
+acceso al agua salubre y a instalaciones sanitarias
+adecuadas para todos, independientemente de la
+diferencia de sus condiciones de vida, se habrá ganado
+una importante batalla contra todo tipo de
+enfermedades (Wikipedia 2013).
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+Para poder contar con estos elevados fines
+debemos contar con los conocimientos de las
+tecnologías existentes para el tratamiento del agua y el
+agua residual, saber quiénes las han generado
+(inventores), quienes son sus dueños (titulares de las
+patentes), en que países están localizadas estas personas,
+empresas o centros de investigación (tema bloqueo y
+otros), nivel de obsolescencia de la tecnología y otros.
+El tratamiento de agua y aguas residuales consiste
+en una serie de procesos físicos, químicos y biológicos
+que tienen como fin eliminar los contaminantes físicos,
+químicos y biológicos presentes en el agua para el uso
+humano, así como los efluentes de este. La tesis
+fundamental para el control de la polución por aguas
+residuales ha sido tratar las aguas residuales en plantas
+de tratamiento que hagan parte del proceso de remoción
+de los contaminantes y dejar que la naturaleza lo
+complete en el cuerpo receptor. Para ello, el nivel de
+tratamiento requerido es función de la capacidad de auto
+purificación natural del cuerpo receptor.
+Por otro lado podemos exponer que existe un tipo
+de información tecnológica especial contenido en
+documentos llamados patentes de invención a los cuales
+por disímiles causas no se les presta la atención debida a
+la hora de resolver problemáticas como podría ser el
+tratamiento y potabilización de aguas. Las patentes
+constituyen una forma de proteger los inventos que
+desarrollan las empresas, instituciones o personas y que
+cumplan con los requerimientos de novedad mundial,
+actividad inventiva y aplicabilidad tecnológica; esta
+protección la otorga una oficina estatal y consiste en
+otorgarle el derecho de monopolio para su venta,
+producción, ofrecimiento de licencia, etc. Pero a la vez
+obliga al titular a rebelar todos los detalles técnicos de
+su invención y es precisamente este hecho el que
+aprovechamos para extraer la información precisa y
+actualizada (estos documentos se publican por las
+oficinas de patentes en un plazo posterior solo de 18
+meses posterior a su presentación) de cualquier rama de
+la tecnología. También se realiza el procesamiento de la
+totalidad de documentos recuperada estadísticamente
+para extraer numerosos indicadores de patentes útiles
+para la toma de decisiones en las más disímiles disciplinas:
+vigilancia y transferencia tecnológica, búsqueda de
+potenciales, socios comerciales, encontrar la solución a
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+Aprovechando el poder y facilidades que aporta
+el desarrollo de las Tecnologías de la Información y las
+Comunicaciones (TIC), se han desarrollado softwares para
+convertir la información de patentes en información
+gráfica clara o mapas, para permitir que el analista tenga
+una visión de los datos, saquen conclusiones y minimicen
+los riesgos en la hora tomar decisiones (Keim, 2002).
+También se ha designado como patinformática, a la
+ciencia de análisis de información sobre patentes para
+descubrir relaciones y tendencias que serían difíciles de
+ver cuando se trabaja con documentos de patentes de
+uno en uno (Trippe, 2003).
+Basándonos en todo lo anterior expuesto
+realizamos el estudio sobre las tecnologías para el
+tratamiento y potabilización de agua para la Empresa de
+investigaciones y proyectos hidráulicos de Villa Clara.
+Presentando como objetivo principal: Fundamentar la
+toma de decisiones de una empresa de investigación y
+proyectos hidráulicos en temáticas de vigilancia
+tecnológica y transferencia de tecnología sobre
+tecnologías de tratamiento de agua y agua residual.
+
+Métodos
+Se implementan estrategias de búsqueda en la
+base de datos de patentes europea Esp@cenet (European
+Patent Office, 2013) bajo la temática de tratamiento de
+agua y agua residual. La estrategia combina los diferentes
+campos de búsqueda (palabras claves, fechas,
+clasificaciones, nombres) para recuperar un número de
+documentos manejables y sin que se excluyan los
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+principales resultados a nivel mundial en la temática
+solicitada. Se trazó la siguiente estrategia de búsqueda:
+Palabras claves en título: “Waste water”
+Palabras claves en título o resumen: Treatment
+Fecha de publicación: 2006-2012
+Código de la Clasificación Internacional de
+Patentes (CIP): C02F
+C: Química
+02F: Tratamiento del agua, agua residual, de
+alcantarilla o fangos
+Cantidad de documentos de patentes: 2826
+Base de datos: Esp@cenet
+La totalidad de los datos bibliográficos se procesa
+en software de procesamiento de patentes desarrollado
+por el Centro de información y Gestión tecnológica de
+Villa Clara. Se extraen indicadores de patentes. Luego se
+completan documentos tales como: datos sobre el
+servicio, estrategias implementadas, breve introducción
+a la temática en cuestión, comportamiento de los
+indicadores de patentes, los resúmenes de todas las
+patentes procesadas y perfiles tecnológicos de las
+principales entidades generadoras de patentes en la
+temática. Utilizamos la base de datos (An open..., 2013)
+que actualmente cuenta con más de 10 millones de
+documentos de patentes incluidos los registros de las
+bases de Estados Unidos de América, Australia, Europa y
+World Intellectual Property Organization (WIPO). También
+nos hemos auxiliado temporalmente de Boliven Pro
+(Patents, 2013) procesador de patentes on line de
+Cambridge IP de la Universidad de Cambridge del Reino
+Unido y los directorios de patentes patentmaps
+(Wordwide..., 2013) y (Intellectual Property Exchange,
+2013). Estas herramientas nos ayudan a de alguna manera
+validar el resultado que se obtiene con el software.
+Finalmente con este volumen de información se
+conforma el boletín en la herramienta de visualización
+desarrollado por el Centro de información y Gestión
+tecnológica de Villa Clara, en el cual permite manejar de
+forma fácil y amigable tan gran volumen de información.
+Para la identificación de las tecnologías
+emergentes nos apoyamos en la CIP. Según la guía de
+la CIP, una invención se incluye en un grupo de la
+clasificación según su función o naturaleza intrínseca o
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+341
+ESTUDIO DE PATENTES TRATAMIENTO DEL AGUA
+
+problemas que tenemos y que alguien en el mundo ya
+solucionó, encontrar nichos tecnológicos para
+investigación, etc. La finalidad declarada del sistema de
+patentes es fomentar la invención y el progreso técnico
+facilitando un plazo temporal de exclusividad sobre la
+invención a cambio de su divulgación. Al ofrecer
+protección y exclusividad, la patente constituye un
+instrumento político cuya finalidad es alentar a los
+inventores a que inviertan en investigación y en el trabajo
+de innovación posterior que conseguirá que esas
+invenciones tengan una aplicación práctica
+(Organización para lá Cooperación y el Desarrollo
+Económicos, 2009).
+
+bien por su campo de aplicación. Por tanto, éste es un
+sistema de clasificación combinado por funciones y
+aplicaciones en el que prevalece la aplicación. Una
+patente puede contener diversos objetos técnicos y ser
+asignada en consecuencia a varias clases CIP; estos
+códigos de la clasificación se publican en los documentos
+de patente. De manera global el comportamiento de las
+tecnologías para el tratamiento de aguas residuales es el
+siguiente:
+En la CIP la clasificación C02F relaciona los
+documentos de patentes relacionados con tratamiento
+del agua, agua residual, de alcantarilla o fangos.
+Seguidamente a estas siglas el numero 1 indica
+tratamientos en general, el número 3 distingue a los
+tratamientos biológicos y el numero 9 hace alusión a
+tratamientos en varias etapas.
+
+Resultados
+Apoyados en las propiedades estadísticas de los
+datos de patentes que están determinadas por sus
+características jurídicas y su aplicación práctica en el
+ámbito económico, puesto que influyen en qué
+invenciones se protegen, quién las hace, qué información
+se hace pública (y, por tanto, accesible a los profesionales
+de la estadística) y qué importancia tienen las patentes
+para la industria, se extraen numerosos indicadores que
+nos ayudan en las más disímiles tareas del quehacer de
+una empresa de investigaciones y proyectos de obras
+hidráulicas.
+
+342
+
+O.G. CABRERA et al.
+
+Los indicadores basados en patentes constituyen
+una herramienta única, y en ocasiones la única disponible
+para seguir el ascenso de las tecnologías emergentes. El
+primer indicador nos entrega el comportamiento en el
+tiempo del registro de patentes, visualizando una
+pendiente creciente en esta tecnología, generándose
+gran cantidad de patentes cada uno de años siendo
+objeto de las pesquisas. Desde el año 2007 hasta el 2011
+se presentan registros por encima de los 400, especial
+destaque para el 2010 (467). Este comportamiento
+muestra el interés elevado por esta temática dado la
+problemática de la contaminación de las aguas y la
+necesidad de agua para los más diversos usos.
+Seguidamente se identifican a nivel mundial los
+países líderes en el registro de patentes en esta
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+tecnología. Este indicador se toma de la fecha de
+prioridad; porque esta es la primera fecha de
+presentación de una solicitud de patente en cualquier
+lugar del mundo para proteger una invención y que
+por lo general se deposita en la oficina de patentes del
+país del solicitante. Es la más cercana a la fecha de la
+invención. Además de la cuestión práctica de este dato,
+incluye la sigla del país de prioridad.
+Las patentes se utilizan para comprobar el
+rendimiento tecnológico de los países. En comparación
+con otros indicadores de producción, como pueden ser
+las publicaciones, las patentes constituyen un indicador
+más adecuado de las actividades más cercanas al
+desarrollo tecnológico. Ayudan a rastrear el liderazgo o
+posicionamiento en un campo o área determinados de
+la tecnología (por ejemplo, índices de ventajas
+tecnológicas reveladas) y los cambios que se producen
+con el tiempo. Como indicadores del rendimiento
+tecnológico, es decir, del nivel de especialización o
+fortaleza tecnológica de un país, las patentes ayudan a
+los gestores de políticas a identificar los puntos fuertes y
+débiles de sus sistemas de innovación nacionales.
+China constituye abrumadoramente el país
+mayor productor y de mayor registro de las patentes
+(1.593 para 56,00 % del total), seguido de Japón (463 y
+16,00 %), Corea del Sur (338 y 12,00%) y Alemania (106 y
+3,75%) entre otros (Figura 1).
+Importante es identificar las firmas más
+destacadas, a este fin tributa un dato contenido en
+documento de patente llamado titular de la patente, esto
+no es más que la persona o personas, físicas o jurídicas, a
+quienes el inventor transfiere jurídicamente en su
+totalidad o de forma limitada los derechos dimanantes
+de una patente. Este puede ser un centro de
+Investigación y Desarrollo; una universidad, una empresa
+o una persona natural (generalmente el mismo
+inventor).
+Es notable en los últimos años el impacto de
+las universidades en este particular, siendo verificable
+recopilando datos de las patentes que han obtenido,
+las citas que generan, etc. En un número cada vez mayor
+de países, agencias o ministerios encargados de aportar
+financiación, estos utilizan el número de patentes para
+evaluar el rendimiento de las instituciones académicas
+o de investigadores determinados.
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+343
+ESTUDIO DE PATENTES TRATAMIENTO DEL AGUA
+
+Figura 1. Países líderes.
+Note: OMPI: Organización Mundial de la Propriedad Intelectual.
+Fuente: Elaboración propia, 2013.
+
+Las patentes incluyen información sobre las
+actividades y el rendimiento inventivo de las
+multinacionales. A través de las direcciones de los
+solicitantes y los inventores, es posible dibujar los
+patrones y medir la intensidad de la coinvención
+internacional. El análisis de los titulares líderes en la
+temática brindó como resultado que existe gran
+variedad de firmas implicadas en la producción de
+patentes relacionadas al tema (Figura 2). Principalmente
+son como se exponía más arriba coincidente con las
+tendencias mundiales, universidades y reconocidas
+transnacionales.
+Los inventores son personas físicas, por lo general
+empleados del solicitante de la patente. En Estados
+Unidos, los inventores son los solicitantes. No obstante,
+también es posible que una misma persona sea el
+inventor y el solicitante (por ejemplo, el caso de los
+inventores independientes).
+Los investigadores líderes a nivel mundial
+resultaron el señor Anil Jha de United States filter
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+Corporation con 50 solicitudes y Nobuyuki Ashikaga de
+Toshiba con 49 solicitudes. Un indicador muy importante
+del registro de patentes a nivel mundial es poder
+identificar dentro de un proceso tecnológico cuales son
+las variantes con mayor número de registros y su
+evolución en el tiempo.
+En cuanto a las tecnologías de tratamiento del
+agua con más solicitudes utilizando los códigos de la CIP
+se detectan los siguientes (Tabla 1).
+Estas son variantes tecnológicas que en el periodo
+2006-2013, con más solicitudes presentan, por lo que
+afirmamos que son las tecnologías en pleno desarrollo o
+emergentes.
+Se extraen otros indicadores importantes como
+son la evolución de cada una de estas variantes
+tecnológicas a nivel de subclase por año. Se observa una
+casi totalidad de registros en la subclase C02F
+(Tratamiento del agua y el agua residual) con presencia
+en todos los años estudiados, seguido de B01D (Métodos
+físico-químicos de separación) con presencia de más de
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+diez registros por año y llegando a 23 en el 2007. Se
+identifican dentro de los tratamientos biológicos los más
+destacados, siendo estos los tratamientos que emplean
+fangos activados (751) y los que usan microorganismos
+(624). Dentro de los de varias etapas se destacan los que
+al menos incluyen en una etapa un tratamiento biológico
+y los que incluyen uno químico (631). Se logra obtener
+un indicador muy importante pues combina temáticas,
+años de solicitud y cantidad de documentos, siendo un
+complemento de los indicadores anteriores. Se incluyen
+además los perfiles de firmas de las firmas líderes y de
+personalidad de los inventores líderes. Se incluyen los
+
+resúmenes de la totalidad de las patentes y los textos
+completos de las más destacadas, tomando como
+parámetro para el grado de importancia las citaciones
+en posteriores documentos. Toda la información se
+presenta en una herramienta informatizada de
+presentación donde se incluyen los siguientes
+documentos: Breve descripción del servicio, la estrategia
+implementada, un informe basado en información no
+patente del tema de la búsqueda, el comportamiento
+de cada uno de los indicadores de patentes acompañado
+de la explicación del mismo, el resumen de las patentes,
+las patentes a texto completo de los más importantes,
+los perfiles de firmas y personalidades (Figura 3).
+
+Discusión
+En la literatura se refieren numerosos artículos
+sobre el tratamiento del agua. Durante años se ha
+utilizado el cloro para la desinfección del agua con buen
+resultado. No obstante, el cloro reacciona con
+compuestos orgánicos presentes en las aguas y produce
+compuestos organoclorados y trialometanos, los cuales
+tienen efectos mutagénicos y carcinogénicos. Además,
+se reportan microorganismos patógenos resistentes al
+cloro (Fernández García, 2013). Sin embargo, el empleo
+del ozono es una alternativa segura y eficaz de
+tratamiento de aguas, no se reportan los inconvenientes
+de la cloración. En este sentido se ha incrementado en
+las últimas décadas dado su alto poder oxidante y su
+elevado efecto germicida de amplio espectro contra
+bacterias, hongos, virus y quistes de parásitos, junto a la
+
+Figura 2. Firmas líderes.
+Fuente: Elaboración propia, 2013.
+
+Tabla 1. Tecnologías más registradas.
+
+344
+
+Código de la Clasificación
+Internacional de Patentes
+
+Cantidad de documentos
+encontrados
+
+Descripción
+
+O.G. CABRERA et al.
+
+C02F1/44
+
+Tratamiento del agua por diálisis ósmosis u ósmosis inversa
+
+287
+
+C02F1/52
+
+Tratamiento del agua por floculación o precipitación de las impurezas en
+suspensión
+
+248
+
+C02F1/28
+
+Tratamiento del agua por absorción o adsorción
+
+248
+
+C02F1/32
+
+Tratamiento del agua por irradiación por luz ultravioleta
+
+158
+
+C02F1/50
+
+Tratamiento del agua por adición o empleo de un germicida o por tratamiento
+oligodinámico
+
+148
+
+C02F1/78
+
+Tratamiento del agua por oxidación por medio de ozono
+
+145
+
+Fuente: Elaboración propia, 2013.
+
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+345
+ESTUDIO DE PATENTES TRATAMIENTO DEL AGUA
+
+Figura 3. Herramienta para visualizar la información.
+Fuente: Wordwide... (2013).
+
+producción de ozonizadores más compactos y eficientes.
+Se menciona la aplicación del método de oxidación por
+medio de ozono en procesos de potabilización de aguas,
+tratamientos de aguas residuales de diferente
+procedencia y para el tratamiento de agua de piscinas,
+también en aplicaciones a usos o procesos en los que se
+requiera un agua de elevada calidad como en la Industria
+farmacéutica y alimenticia. Este estudio corrobora la
+validez de esta tecnología y su factible uso detectado
+como una de las tecnologías emergentes en el presente
+estudio.
+En las aguas que no se utilizarán en el consumo
+humano son otras las tecnologías más factibles de
+emplear, como pueden ser diferentes tratamientos
+biológicos. Se refiere la utilización de pasto vetiver, a
+pequeña escala el objetivo es estudiar el tratamiento
+complementario de aguas residuales en una planta de
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+residuales de fábrica de pepsi-cola (Scavo et al., 2013).
+Este estudio no analiza otras tecnologías basadas en
+tratamientos biológicos también muy factibles a emplear.
+Otro estudio realizado en la Universidad de Stuttgart,
+Alemania; contando con unas noventa páginas, para el
+tratamiento de las aguas y su reuso en la capital del Perú
+específicamente del área metropolitana (McElhinney,
+2012) se abordan las alternativas en cuanto a tecnologías
+para aplicar y no se menciona ni en las fuentes de
+información consultadas y en las tecnologías
+comparadas nada acerca de patentes que describen las
+tecnologías y que son la fuente primaria muchas veces.
+Otro estudio (Radjenovic et al., 2009) muestra los
+resultados del uso de tecnologías detectadas como la
+osmosis inversa Reverse Osmosis (RO) utilizada para la
+eliminación de residuales farmacéuticos. Este estudio
+tampoco menciona la información contenida en los
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+documentos de patentes como basamento teórico en
+la toma de decisiones a la hora de emplear un método u
+otro.
+En otro documento (Reverse…, 2009) se plantea
+que cuando sólo se necesita un pequeño volumen de
+agua tratada, aproximadamente 0-10 galones por día, la
+osmosis inversa (RO) es normalmente el proceso más
+flexible y rentable de tratamiento disponibles para uso
+doméstico privado.
+Por otro lado se plantea en cuanto al uso de
+tecnologías de oxidación con ozono (Ozone..., 2011)
+viable como desinfectante para matar microorganismos
+en el aire y el agua. Muchos spas y jacuzzis usan ozono
+para mantener el agua libre de algas y bacterias dañinas.
+El ozono también se utiliza con fines industriales y de
+fabricación, así como el blanqueo y agente desodorante.
+Las plantas de tratamiento de agua que fueron
+construidas en 1950 y 1960, respectivamente, se están
+actualizando para satisfacer las crecientes demandas de
+agua, a lo largo de las regulaciones de agua más estrictas
+federales y estatales, con el objetivo final de mejorar la
+calidad del agua. Históricamente, el cloro ha sido utilizado
+con eficacia en estas plantas de tratamiento de agua a
+desinfectar el agua potable. Sin embargo, con los avances
+en el tratamiento del agua, ha sido determinado que la
+desinfección con ozono es rentable y resultará en agua
+de mejor calidad.
+
+346
+
+Existe en la literatura numerosos estudios sobre
+tecnologías para el tratamiento de agua y agua residual,
+pero ninguno hace referencia a indicadores de patentes
+y documentos de patentes que describen las invenciones
+que solucionan las diferentes problemáticas tecnológicas
+que esta esfera presenta. Algunos estudios corroboran
+el grado de maduración de las tecnologías detectadas
+en nuestro estudio como tecnologías en auge, lo que
+indica la precisión del estudio de las patentes a la hora
+de localizar tecnologías para aplicaciones en transferencia
+de tecnología.
+
+O.G. CABRERA et al.
+
+Indicadores de patentes como las firmas líderes
+nos sirven para analizar posibles socios comerciales,
+adquisición de licencias de patentes y otros tipos de
+negociaciones. Los demás indicadores ayudan a tener
+una visión global de la situación de desarrollo
+tecnológico en la materia que queramos investigar.
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+Es de vital importancia en las temáticas de
+información la manera que se presenta esta. A este efecto
+las tecnologías de la información y la comunicación
+juegan un papel primordial ofreciéndonos herramientas
+que a la distancia de un clic nos permite acceder a la
+información extractada y de alta elaboración como
+fungen los servicios de información que ofrecemos. El
+poder contar con herramientas de procesamiento,
+presentación y representación de la información logra
+hacer más atractivo el servicio, tener un producto más
+amigable y cómodo para el uso.
+
+Conclusión
+Se logra recuperar un número suficiente de
+soluciones tecnológicas contenidas en los documentos
+de patentes fundamentado por la estrategia de
+búsqueda trazada.
+Se procesa la totalidad de los datos bibliográficos
+de las patentes utilizando para ello herramientas
+diseñadas en el centro de Información y Gestión
+tecnológica de Villa Clara y otras disponibles en la Web,
+extrayendo varios indicadores que permiten tomar
+decisiones en cuanto a tecnologías a utilizar en
+dependencia del uso posterior del agua y por supuesto
+el espacio disponible y los recursos financieros. También
+se identifican líderes mundiales en la generación de
+soluciones tecnológicas a la problemática en cuestión
+como es la firma japonesa Kurita Water Industries Limited
+y otras firmas e institutos de investigación con los que se
+puede negociar cualquier tipo de asociación. Se obtienen
+otros indicadores de actividad de países, inventores y
+otros de valor aplicable a actividades de centros de
+investigación y proyecto como patentes más citadas por
+otros autores lo que valoriza el documento como
+primario de una tecnología.
+Toda la información recuperada es de gran
+utilidad para investigación y proyecto de plantas para
+tratamiento de agua y agua residual, cumpliendo así con
+los requisitos para ser la más valiosa fuente de
+información en la actividad de vigilancia tecnológica.
+Documentos de patentes relativos a equipos para decidir
+a la hora de proyectar equipamiento para tratamiento
+de agua y potabilización. Documentos relativos a
+procedimientos a la hora de decidir qué tipo de
+tratamiento emplear según su aplicación a tratamientos
+de aguas residuales de diferentes industrias.
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+Referencias
+documentos_relacionados/Memorias_de_Actividades_
+y_Estadisticas/EstadisticasOCDE/Estadisticas_OCDE.pdf>.
+Acceso en: 23 oct. 2013.
+
+European Patent Office. 2013. Available from: <http://world
+wide.espacenet.com/advancedSearch?locale=en_EP>. Cited:
+Sept. 26, 2013.
+
+Ozone disinfection for drinking water Miramar and Alvarado
+water treatment plants. 2011. Available from: <http://
+www.sandiego.gov/cip/pdf/ozonefaq.pdf>. Cited: Apr. 15,
+2013.
+
+Fernándes-Alba, A.R. et al. Tratamientos avanzados de aguas
+residuales industriales. Madrid: Universidad de Alcalá, 2006.
+(Vigilancia Tecnológica, v.2).
+
+Patents. CambridgIP. 2013. Available from: <http://www.
+boliven.com/patents/search?q=abstract%3A%28water+
+treatment%29&query_type=>. Cited: May 20, 2013.
+
+Fernández García, L.A. Tratamiento de aguas y aguas residuales
+con el empleo de ozono. Centro de investigaciones del ozono.
+2013. Disponible en: <http://www.ozono.cubaweb.cu/acerca/
+tratamiento.htm>. Acceso en: 22 oct. 2013.
+
+Radjenovic, J. et al. Rejection of pharmaceuticals in nanoltration
+and reverse osmosis membrane drinking water treatment.
+Water Research, v.42, n.14, p.3601-3610, 2008.
+
+Intellectual Property Exchange. 2013. Available from:
+<www.ipexl.com/>. Cited: May 19, 2013.
+Keim, D.A. Information visualization and visual data mining.
+IEEE Transactions on Visualization and Computer Graphics, v.8,
+n.1, p.18- 67, 2002.
+McElhinney, K.J. Auditing water resources for application to
+water-sensitive urban design: A case study in the Lima (Perú)
+metropolitan area. 2012. Available from: <http://www.limawater.de/documents/kmcelhinney_tesis.pdf>. Cited: Dec.
+17, 2013.
+Open source for innovation cartography (An). Patent Lens.
+2013. Available from: <http://www.lens.org/lens/>. Cited:
+Dec. 12, 2013.
+Organización para lá Cooperación y el Desarrollo Económicos.
+Manual de estadísticas de patentes de la OCDE. 2009. Disponible
+en: <http://www.oepm.es/export/sites/oepm/comun/
+
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+Reverse osmosis treatment for drinking water. New Hampshire:
+Departmente Environmental Services, 2009. Available from:
+<http://des.nh.gov/organization/commissioner/pip/
+factsheets/dwgb/documents/dwgb-2-11.pdf>. Cited: May 7,
+2013.
+Scavo, M.; Rodriguez, O.; Luque, O. Estudio de un sistema de
+tratamiento de aguas residuales complementario, con pasto
+vetiver (vetiveria zizanioides l.), provenientes de una planta de
+producción de gaseosas, en villa de cura, estado Aragua. 2013.
+Disponible en: <http://www.vetiver.org/ICV4pdfs/BA17es.
+pdf>. Acceso en: 19 dic. 2013.
+Trippe, A.J. Patinformatics: Tasks to tools. World Patent
+Information, v.25, n.3, p.211-221, 2003.
+Wikipedia. Agua potable. 2013. Disponible en: <http://
+es.wikipedia.org/wiki/Agua_potable>. Acceso en: 18 feb. 2013.
+Worldwide patent directory and citation statistics. Patentmaps.
+2013. Available from: <http://www.patentmaps.com/
+inventor/index.html>. Cited: May 26, 2013.
+
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+ESTUDIO DE PATENTES TRATAMIENTO DEL AGUA
+
+Alemany, S. Año internacional de la cooperación en la esfera del
+agua. 2013. Disponible en: <http://www.ecogestos.com/
+2013-ano-internacional-de-la-cooperacion-en-la-esfera-delagua/>. Acceso en: 15 enero 2013.
+
+347
+
+348
+
+O.G. CABRERA et al.
+
+TransInformação, Campinas, 26(3):339-347, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300010
+
+

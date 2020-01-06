@@ -1,0 +1,1645 @@
+Scholarly communication in Uruguay: Study of
+publications of active researchers from the
+National System of Researchers (2009-2010)
+Paola PICCO1 (in memoriam)
+Natalia AGUIRRE-LIGÜERA1
+Juan MALDINI2
+Lucía SIMÓN1
+Patricia PETROCCELLI1
+Exequiel FONTANS1
+José FAGER1
+María Gladys CERETTA1
+
+Resumen
+Se estudia el fenómeno de la comunicación científica en Uruguay considerando las publicaciones declaradas en los Currícula
+Vitae por parte de los investigadores que integran el Sistema Nacional de Investigadores de la Agencia Nacional de Investigación
+e Innovación de Uruguay. Se construye una base de datos ad-hoc, en la que se registran los datos relativos a las siguientes variables:
+área de conocimiento, tipo de publicación, tipo de responsabilidad, idioma, lugar de publicación, soporte, arbitraje e indización. El
+análisis de los datos se realiza a partir de una aproximación cuantitativa, con métodos estadísticos descriptivos. Los datos se
+procesan mediante un software para análisis estadístico. En consonancia con la literatura se encuentra que los patrones de
+comunicación varían de acuerdo al área de conocimiento. Se concluye que los Currícula Vitae, a pesar de sus limitaciones, son una
+fuente rica para abordar el estudio de la producción científica en su conjunto, y que estos trabajos son complementarios a los
+estudios bibliométricos realizados a partir de bases de datos internacionales que permiten estudiar otros aspectos.
+Palabras Ilave: Comunicación científica. Currículum vitae. Sistema Nacional de Investigadores. Uruguay.
+
+Abstract
+Scholarly communication in Uruguay was studied considering the publications reported in the researchers’ curricula vitae from the
+National System of Researchers of the National Agency for Research and Innovation of Uruguay. An ad-hoc database was developed,
+where data relative to variables such as field of knowledge, kind of publication, type of responsibility, place of publication, support,
+1
+
+2
+
+Universidad de la República, Facultad de Información y Comunicación, Instituto de Información. Calle: Emilio Frugoni, 1427, 11200, Montevideo, Uruguay.
+Correspondencia a nombre de/Correspondence to: N. AGUIRRE-LIGÜERA. E-mail: <naguirre@eubca.edu.uy>.
+Universidad de la República, Facultad de Información y Comunicación, Programa de Desarrollo Académico de la Información y la Comunicación. Montevideo,
+Uruguay.
+Recibido el dia 27/5/2013, re-apresentado em 12/10/2013 y aceptado para su publicación el 11/12/2013.
+
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+155
+LA COMUNICACIÓN CIENTÍFICA EN URUGUAY
+
+La comunicación científica en Uruguay: estudio de
+las publicaciones de los investigadores activos del
+Sistema Nacional de Investigadores (2009-2010)
+
+language, peer review and indexing were registered. A quantitative data analysis was carried out with descriptive statistical methods,
+using a software for statistical analysis. In accordance to the literature, it has been found that communication patterns vary depending
+on the field of knowledge. It is concluded that the curricula vitae, regardless of their limitations, are a rich source to approach the study
+of scientific production globally and complement bibliometric studies through international databases which allow the study of other
+aspects.
+Keywords: Scholars communication. Curriculum vitae. National System of Researchers. Uruguay.
+
+Introducción
+La comunicación científica, actividad inherente a
+la ciencia, se basa en la necesidad de difundir los
+resultados de las investigaciones al resto de la comunidad
+para que sean conocidos, validados y utilizados en la
+generación de nuevo conocimiento. En su clásica
+definición Borgman (1989) sostiene que puede
+entenderse como la forma en que se comunican y
+difunden los resultados de investigaciones en cualquier
+disciplina, ya sea a través de canales formales o
+informales.
+La producción científica se configura como espejo
+de la ciencia y de la comunidad científica de un país y de
+una disciplina ( Targino, 2010). El investigador
+generalmente no persigue beneficios económicos
+inmediatos con sus publicaciones y no recibe
+remuneración por parte de los editores por su trabajo
+sino que, como plantea Maltrás Barba (2003), la
+publicación se constituye en canal reivindicativo de la
+prioridad del investigador respecto a los hallazgos, aporta
+a su reconocimiento por parte de la comunidad y al
+incremento de su prestigio.
+
+156
+
+El desarrollo de la ciencia en cualquier país y
+especialidad se ve condicionado por la posibilidad de
+acceder al conocimiento previamente registrado, dada
+la tradición acumulativa del conocimiento científico ya
+señalada por Bernal (1967). En este sentido, Russell (2001)
+sostiene que es tan importante comunicar los resultados
+como acceder a los hallazgos de investigaciones previas,
+para formular propuestas y metodologías de
+investigación.
+
+P. PICCO (in memoriam) et al.
+
+Una de las principales manifestaciones de esta
+actividad es la publicación de artículos o papers en
+revistas científicas (Sancho, 1990). La aparición de las
+mismas se remonta hacia finales del siglo XVII y sustituye
+la correspondencia entre los miembros de las sociedades
+científicas (López-Borrul, 2012). El artículo en revistas
+científicas arbitradas es el tipo de documento privilegiado
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+en el modelo tradicional de comunicación científica, lo
+que se refleja en los estudios que tienen como fuente las
+bases de datos internacionales que principalmente
+indizan estos documentos. Maltrás Barba (2003, p.20)
+denomina a los artículos en revistas arbitradas como
+publicaciones oficiales, planteando que operan como
+“Filtro protector que salvaguarda la autoridad y prestigio
+de la ciencia [generando un] corpus de conocimiento
+público y consensuado”. Desde esta perspectiva todo lo
+que se publica por otros canales quedaría fuera de ese
+corpus.
+Estudios anteriores revelan que los mecanismos
+que utilizan los investigadores para comunicar sus
+resultados varían de acuerdo a las distintas áreas de
+conocimiento, e incluso a las disciplinas que las
+conforman (Van Raan, 1997; Glanzel & Schoepflin, 1999;
+Bordons et al., 2010; Gantman, 2011). Estas diferencias
+responden a las características del objeto de estudio, las
+metodologías y las dinámicas referidas al consumo de
+información científica instaladas en cada disciplina, que
+afectan la forma en que los investigadores comunican
+sus aportes (Russell & Liberman, 2002).
+En la literatura se encuentran conceptualizaciones
+que enfatizan en distintos elementos para definir qué se
+entiende por modelo de comunicación científica. Están
+quienes refieren al ciclo de comunicación o el recorrido
+que transita el conocimiento para llegar a ser publicado
+y citado. En esta línea Garvey y Griffith (1972) desarrollan
+su tradicional modelo distinguiendo entre medios
+formales e informales de comunicación. Según éste los
+resultados preliminares de una investigación son
+comunicados a través de medios informales
+(comunicaciones interpersonales, seminarios, coloquios,
+conferencias). A medida que la investigación avanza y
+obtiene el respaldo de la comunidad se preparan
+artículos para ser publicados en revistas científicas
+arbitradas. Con el paso del tiempo se espera que estos
+artículos sean incluidos en revisiones y fuentes
+secundarias.
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+Asimismo Björk (2005) presenta un modelo
+jerárquico que focaliza en particular en los artículos
+publicados en revistas arbitradas, agregando como
+actores involucrados no solo a los autores, sino también
+a revisores, editores, impresores, lectores, bibliotecarios,
+así como añade las tareas que realizan: redacción, revisión,
+impresión, edición, distribución, archivo, recuperación,
+lectura, entre otras.
+Están también quienes conceptualizan al modelo
+de comunicación científica en relación a la distribución
+y posibilidad de acceso a la literatura científica. Aquí
+aparece el modelo de acceso abierto en aparente
+oposición al modelo comercial tradicional monopolizado
+por las grandes editoriales.
+El sistema de archivos abiertos no solo determina
+profundas transformaciones a nivel tecnológico
+sino que se presenta como un movimiento sociocientífico tendiente a cambiar completamente el
+modelo vigente de la comunicación académica
+y el sistema científico de forma más amplia. Se
+estaría frente a un cambio de paradigma de los
+procesos de comunicación especializada,
+priorizando la divulgación antes que el ‘negocio’
+de la información (Gómez & Arias, 2002, p.100).
+
+En este trabajo se presentan resultados de la
+primera etapa del proyecto de Investigación y Desarrollo
+(I+D) Modelo de repositorio institucional como
+alternativa para el desarrollo social, científico y
+tecnológico del País, de la Universidad de la República
+(Uruguay). El mismo se propone identificar los patrones
+de comunicación que siguen los investigadores
+uruguayos para difundir los resultados de sus actividades
+y analizar en qué medida ese conocimiento registrado
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+está visible y disponible libremente para sus instituciones
+de afiliación. Partiendo de este estado de situación se
+apunta a evaluar la viabilidad de construir un modelo de
+repositorio que propenda al acceso abierto al
+conocimiento científico originado en el País,
+particularmente aquel generado con fondos públicos.
+Este modelo de repositorio deberá considerar, entre otros
+aspectos, los patrones de comunicación identificados.
+En el marco de este proyecto se considera que el
+acceso abierto no constituye un nuevo modelo de
+comunicación científica, en la medida que no atenta
+contra las bases del modelo tradicional, sino que se trata
+de una filosofía que convive con éste y lo que busca es
+democratizar el acceso al conocimiento registrado, en
+oposición al modelo de negocios de los grandes grupos
+editoriales. En relación a las dos vías propuestas para su
+concreción, la vía dorada (publicación en revistas de
+acceso abierto) se mantiene fiel al sistema de publicación
+en revistas científicas arbitradas, pero cambia los
+mecanismos de acceso a las mismas. Mientras que la vía
+verde (autoarchivo en repositorios digitales) no tiene
+como objetivo la publicación sino la difusión de los
+trabajos en repositorios de acceso abierto; esos trabajos
+pueden haber sido publicados tanto en revistas de
+suscripción como de vía dorada (Miguel et al., 2012).
+Este estudio se centra en el análisis de las
+publicaciones de los investigadores nacionales, dejando
+de lado otros procesos involucrados, como por ejemplo
+el acceso, que será objeto de otra publicación por parte
+este equipo.
+
+Situación nacional
+Uruguay viene impulsando, desde 2005, una
+batería de políticas nacionales destinadas a la promoción
+de la Ciencia y la Tecnología (CyT). La Agencia Nacional
+de Investigación e Innovación (ANII) ejecuta y articula
+las políticas públicas de CyT y tuvo entre sus cometidos
+la creación del Sistema Nacional de Investigadores (SNI)
+con el objetivo de identificar, consolidar y expandir la
+comunidad científica nacional. También puso en
+funcionamiento el portal Timbó <http://www.timbo.
+org.uy/>, que brinda acceso a la comunidad educativa y
+científica a bases de datos científicas, referenciales y a
+texto completo, por las que el país paga dos millones de
+dólares anuales (Uruguay, 2012).
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+157
+LA COMUNICACIÓN CIENTÍFICA EN URUGUAY
+
+Este modelo ha sido retomado y actualizado por
+distintos autores. Hurd (2000) analiza el impacto de las
+Tecnologías de la Información y la Comunicación (TIC) y
+propone un modelo basado en medios digitales.
+Introduce la idea de que este entorno propicia un cambio
+en los roles de los actores tradicionales, por ejemplo las
+bibliotecas, quienes comienzan a desarrollar nuevos
+productos y servicios. Esta autora incorpora la noción de
+acceso al conocimiento científico, introduciendo al
+modelo distintas herramientas de control bibliográfico
+que permiten la organización y recuperación del
+conocimiento, como son los catálogos, los servicios de
+citación, entre otros.
+
+A partir de entrevistas realizadas a distintos
+actores del ámbito político-educativo se puede constatar
+que está presente en la agenda política la preocupación
+por la problemática del acceso a la información científica.
+Sin embargo no se han detectado antecedentes de
+investigación que tomen como objeto el fenómeno de
+la comunicación científica a nivel nacional, con excepción
+de los trabajos de Fernández et al. (2005) y de
+Aguirre-Ligüera (2009-2011) en los que se consideran las
+publicaciones del País recogidas en la Web of Science
+(WoS).
+El éxito de la instrumentación de políticas
+tendientes a generar mecanismos de acceso abierto
+estará condicionado por el conocimiento de este
+fenómeno. Esta problemática no se limita a las
+dificultades para acceder a los contenidos sino también
+a la ausencia de mecanismos de control bibliográfico que
+den cuenta de la producción científica nacional, con
+excepción de algunas iniciativas aisladas y limitadas a
+disciplinas específicas.
+
+Métodos
+Se analizan los patrones de publicación seguidos
+por los investigadores activos, registrados y categorizados
+en el SNI, agrupados en las seis áreas definidas por la ANII.
+Se toma como objeto de estudio la producción científica
+correspondiente a los años 2009 y 2010 declarada en sus
+Currícula Vitae (CV). La unidad de análisis está constituida
+por las publicaciones.
+
+158
+
+P. PICCO (in memoriam) et al.
+
+La fuente de datos para el estudio la constituyen
+los CV ingresados en el sistema automatizado de
+currículum vitae de Uruguay, denominado CVuy. El
+mismo está basado en el CV-LAC (Currículum Vitae
+Latinoamericano) heredero del CV Lattes desarrollado en
+Brasil. El CVuy es el instrumento de evaluación que
+permite determinar si el investigador ingresa al sistema,
+en qué categoría y en cuál de las seis áreas se encuentra
+categorizado. De este modo el CVuy constituye una
+fuente de información de gran utilidad en un país que
+no cuenta con bases de datos que registren la producción
+científica nacional. Asimismo estudios anteriores insisten
+en que los sesgos, sobre todo temático e idiomático, de
+las bases de datos internacionales comerciales hacen que
+no resulten las mejores fuentes cuando se trata de
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+estudiar la producción científica de ciertos países y áreas
+del conocimiento (Fernández et al., 2005; Sanz Casado &
+Conforti, 2005; De Filippo et al., 2011).
+La fuente de datos (CVuy) presenta ciertas
+limitaciones señaladas en la bibliografía (Dietz et al., 2000),
+porque contiene información auto-reportada, es decir,
+susceptible a errores intencionados o no, y a información
+faltante, inconsistente o no actualizada. Sin embargo, de
+la revisión bibliográfica también surge que se trata de
+una fuente rica y muchas veces única, aunque de uso
+bastante reciente en estudios por parte de gestores e
+investigadores de la ciencia (Cañibano & Bozeman, 2009).
+Para esta investigación es la única fuente disponible
+que recoge toda la producción de los científicos
+categorizados en el SNI.
+El análisis de los datos se realiza a partir de una
+aproximación cuantitativa, con métodos estadísticos
+descriptivos. Los datos se procesan mediante el software
+estadístico Statistical Package for the Social Sciences (SPSS)
+v.19 en español, de la empresa IBM.
+La recolección de datos se lleva a cabo entre mayo
+y setiembre de 2011, desde el sitio web del SNI <http://
+www.anii.org.uy/web/paginas/cvuy> consultando todos
+los CV y cargando una base de datos propia que incluye
+las siguientes variables y categorías, previamente
+codificadas y mutuamente excluyentes.
+- Área de conocimiento, esta variable tiene 6
+categorías definidas por el SNI: Humanidades, Ciencias
+Agrícolas, Ciencias Naturales y Exactas, Ciencias Médicas
+y de la Salud, Ingeniería y Tecnología y Ciencias Sociales.
+- Tipo de publicación, sus categorías son: artículo,
+monografía, capítulo de monografía, ponencia
+(publicadas en actas de eventos científicos), producción
+técnica (incluye patentes, informes técnicos, y otros),
+artículos de difusión (publicados en prensa y otras
+publicaciones no especializadas). Las categorías son
+tomadas del CVuy.
+- Tipo de responsabilidad, las categorías que
+asume son: individual, colectiva (más de un autor) y
+editor/ compilador.
+- Lugar de publicación, las categorías previstas
+son: Uruguay, Mercosur (sin Uruguay), Resto de América
+Latina, Estados Unidos y Canadá, Europa, otros.
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+- Idioma, puede asumir las categorías: español,
+inglés y otros.
+- Arbitraje, se aplica solo a artículos, sus categorías
+son: arbitrado y no arbitrado.
+- Indización, se aplica solo a artículos, sus
+categorías son: indizado y no indizado. Entendiendo por
+indizados aquellos artículos publicados en revistas
+recogidas por Web of Science, Scopus o por ambas, ya que
+son las que recoge en CVuy.
+El análisis de los datos se hace a partir de la
+variable área de conocimiento, tomando en cuenta las
+diferencias de comportamiento entre áreas mencionadas
+en la introducción. En cada área se eliminan los registros
+duplicados reportados al sistema CVuy por más de un
+investigador, producto de la colaboración entre
+investigadores de la misma área.
+Considerar toda la producción científica en sus
+distintos tipos documentales, tiene la ventaja de permitir
+identificar los patrones imperantes en el proceso de
+difusión y publicación de los resultados, sin privilegiar
+un tipo de documento sobre otro. Esto habilita el análisis
+de algunas publicaciones que seguramente no son
+recogidas por ninguna fuente de datos nacional o
+internacional. Sin embargo, se presume fundamental
+analizar particularmente aquella parcela de la producción
+científica que cumple con ciertos estándares de calidad,
+aquella que para ser publicada se sometió previamente
+a un proceso de revisión por pares. Por lo anterior, se
+divide el análisis en una primera parte de carácter general
+y luego se consideran específicamente los artículos de
+revistas científicas.
+
+Resultados y Discusión
+
+159
+
+Los resultados están en consonancia con la idea
+presente en la bibliografía de que las publicaciones en
+las distintas áreas de conocimiento no presentan un
+comportamiento homogéneo.
+Se identifican 1.252 investigadores que declaran
+haber publicado 8.808 publicaciones, en el período 20092010. Se encuentran 1.748 publicaciones ingresadas más
+de una vez al sistema, por distintos investigadores,
+producto de la colaboración entre al menos dos
+investigadores de la misma área de conocimiento. Al
+eliminar estos duplicados se obtiene un total de 7.060
+publicaciones. Estas distribuciones se aprecian en la
+Tabla 1.
+En la representación de cada área a partir del
+número de investigadores se destaca Ciencias Naturales
+y Exactas con más de un tercio del total de investigadores
+del sistema. Por esto no sorprende que sea el área que
+más produce en términos absolutos, aportando más de
+un cuarto de las publicaciones. La fuerte presencia de
+esta área en el SNI se explicaría, al menos en parte, por la
+aplicación sostenida de algunas políticas fuertes para el
+desarrollo de la misma durante más de 25 años, como el
+Programa de Desarrollo de las Ciencias Básicas
+(PEDECIBA).
+La búsqueda de similitudes y divergencias entre
+las publicaciones de las distintas áreas a partir de la Tabla
+2 arroja comportamientos similares entre Ciencias
+Sociales y Humanidades en las cinco variables
+consideradas, formando una dupla suficientemente
+homogénea. Las otras cuatro áreas se diferencian
+sustancialmente de éstas y se parecen bastante entre sí.
+
+Tabla 1. Investigadores y publicaciones por área de conocimiento.
+Áreas
+
+Publicaciones
+
+Investigadores
+Frecuencia absoluta
+
+Porcentaje
+
+Frecuencia absoluta
+
+Porcentaje
+
+Ciencias Agrícolas
+Ciencias Médicas y de la Salud
+Ingeniería y Tecnología
+Ciencias Naturales y Exactas
+Ciencias Sociales
+Humanidades
+
+0.185
+
+014,8
+
+1.572
+
+022,2
+
+0.167
+
+013,3
+
+1.038
+
+014,7
+
+0.126
+
+010,1
+
+0.556
+
+007,9
+
+0.422
+
+033,7
+
+1.826
+
+025,9
+
+0.244
+
+019,5
+
+1.407
+
+019,9
+
+0.108
+
+008,6
+
+0.661
+
+009,4
+
+Total
+
+1.252
+
+100,0
+
+7.060
+
+100,0
+
+Fuente: Sistema CVuy. Elaboración propia (2013).
+
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+LA COMUNICACIÓN CIENTÍFICA EN URUGUAY
+
+- Soporte, sus categorías son: papel, digital, otros
+y sin dato.
+
+Tabla 2. Publicaciones (en porcentaje) por área de conocimiento, tipo de publicación, tipo de responsabilidad, lugar de publicación, soporte
+e idioma.
+Áreas de
+conocimiento
+
+Ciencias Médicas
+y de la Salud
+
+Ciencias Naturales Ciencias
+Humanidades
+y Exactas
+Sociales
+
+Ingeniería y
+Tecnología
+
+Variables
+
+Categorías
+
+Tipo de publicación
+
+Artículo
+
+028,1
+
+036,7
+
+030,8
+
+044,9
+
+025,9
+
+020,4
+
+Monografía
+
+002,4
+
+000,7
+
+001,4
+
+002,1
+
+014,3
+
+016,7
+
+Capítulo
+Monografía
+
+006,6
+
+006,1
+
+004,3
+
+008,2
+
+030,5
+
+029,2
+
+Ponencia
+
+052,5
+
+054,1
+
+062,1
+
+038
+
+028,4
+
+019,8
+
+Producción técnica
+
+004,6
+
+001,1
+
+000,5
+
+002,7
+
+000,4
+
+000,9
+
+Artículo de
+difusión
+
+005,8
+
+001,3
+
+000,9
+
+004,1
+
+000,5
+
+013,0
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Individual
+
+008,5
+
+007,2
+
+009,9
+
+009,2
+
+056,4
+
+070,2
+
+Colectiva
+
+090,5
+
+092,7
+
+090,1
+
+089,8
+
+040,4
+
+022,5
+
+Editor/Compilador
+
+001,0
+
+000,1
+
+000,0
+
+001,0
+
+003,2
+
+007,3
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Uruguay
+
+048,5
+
+034,8
+
+018,0
+
+025,6
+
+048,0
+
+056,1
+
+Mercosur sin
+Uruguay
+
+014,9
+
+012,0
+
+028,2
+
+014,1
+
+019,5
+
+016,9
+
+Resto de América
+Latina
+
+07,0
+
+009,6
+
+004,5
+
+006,1
+
+011,5
+
+009,7
+
+Estados Unidos y
+Canadá
+
+08,6
+
+014,7
+
+014,9
+
+018,7
+
+004,7
+
+003,6
+
+Europa
+
+017,2
+
+025,1
+
+031,5
+
+031,1
+
+013,9
+
+012,7
+
+Otros/Sin dato
+
+003,8
+
+003,8
+
+002,9
+
+004,4
+
+002,4
+
+001,0
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Español
+
+062,6
+
+047,9
+
+036,0
+
+034,4
+
+084,7
+
+091,7
+
+Inglés
+
+035,1
+
+051,8
+
+062,9
+
+064,8
+
+013,2
+
+005,4
+
+Otros
+
+002,3
+
+000,3
+
+001,1
+
+000,8
+
+002,1
+
+002,9
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Papel
+
+064,0
+
+065,2
+
+049,4
+
+067,5
+
+077,4
+
+075,7
+
+Electrónico
+
+030,3
+
+032,3
+
+044,1
+
+026,8
+
+022,2
+
+023,4
+
+Otros
+
+000,6
+
+002,5
+
+000,2
+
+001,0
+
+000,3
+
+000,3
+
+Sin dato
+
+005,1
+
+000,0
+
+006,3
+
+004,7
+
+000,1
+
+000,6
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Tipo de
+responsabilidad
+
+Lugar de publicación
+
+Idioma
+
+Soporte
+
+160
+
+Ciencias
+Agrícolas
+
+%
+
+0
+
+0
+
+Fuente: Sistema CVuy. Elaboración propia (2013).
+
+P. PICCO (in memoriam) et al.
+
+Esto va en la misma línea de la literatura especializada a
+nivel internacional (Glanzel & Schoepflin, 1999; Hicks,
+1999), que distingue claramente el tratamiento de la
+producción de las Ciencias Sociales y Humanas de otras
+áreas científicas.
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+Ciencias Sociales y Humanidades
+La dupla Sociales y Humanidades se comporta
+parecido en cuanto al tipo de publicación. El capítulo de
+monografía es la categoría más representada rondando
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+seriadas, requieren revisiones sustantivas para ser
+aplicados.
+Para la variable tipo de responsabilidad, más de
+la mitad de las publicaciones son producto del trabajo
+individual de un investigador. Rovira (2006) afirma que
+este comportamiento autoral es otra de las características
+que distingue a estas áreas. Sin embargo, cabe diferenciar
+que mientras en las Ciencias Sociales la autoría individual
+alcanza poco más de la mitad y la colectiva
+aproximadamente un 40%, la relación en Humanidades
+es de un 70% contra un 22%. Asimismo la categoría
+editor/compilador solo consigue cierto peso en estas
+áreas, muy posiblemente por el alto porcentaje de
+monografías declarado.
+
+Tabla 3. Artículos (en porcentaje) por área de conocimiento, arbitraje, indización, tipo de responsabilidad, lugar de publicación e idioma.
+Áreas de
+conocimiento
+
+Ciencias
+Agrícolas
+
+Ciencias Médicas
+y de la Salud
+
+Ingeniería y
+Tecnología
+
+Ciencias Naturales Ciencias
+Humanidades
+y Exactas
+Sociales
+
+Variables
+
+Categorías
+
+Arbitraje
+
+Arbitrada
+
+090,7
+
+098,4
+
+095,9
+
+098,0
+
+067,9
+
+069,6
+
+No arbitrada
+
+009,3
+
+001,6
+
+004,1
+
+002,0
+
+032,1
+
+030,4
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Indizada
+
+066,1
+
+082,2
+
+077,8
+
+091,0
+
+016,8
+
+014,1
+
+No indizada
+
+033,9
+
+017,8
+
+022,2
+
+009,0
+
+083,2
+
+085,9
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Individual
+
+004,8
+
+005,8
+
+008,2
+
+005,9
+
+056,9
+
+085,2
+
+Colectiva
+
+095,2
+
+094,2
+
+091,8
+
+094,1
+
+043,1
+
+014,8
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Uruguay
+
+018,1
+
+007,9
+
+012,3
+
+003,7
+
+037,1
+
+037,0
+
+Mercosur sin
+Uruguay
+
+014,5
+
+005,0
+
+006,4
+
+006,6
+
+020,6
+
+016,3
+
+Resto de América
+Latina
+
+004,5
+
+007,3
+
+004,1
+
+002,9
+
+013,7
+
+012,6
+
+Estados Unidos y
+Canadá
+
+015,2
+
+026,5
+
+024,0
+
+028,5
+
+005,8
+
+011,9
+
+Europa
+
+040,3
+
+048,3
+
+052,6
+
+054,5
+
+021,2
+
+021,5
+
+Otros/Sin dato
+
+007,4
+
+005,0
+
+000,6
+
+003,8
+
+001,6
+
+000,7
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Español
+
+028,5
+
+019,2
+
+020,5
+
+007,1
+
+076,1
+
+085,2
+
+Inglés
+
+067,9
+
+080,8
+
+079,5
+
+092,4
+
+021,4
+
+011,1
+
+Otros
+
+003,6
+
+000,0
+
+000,0
+
+000,5
+
+002,5
+
+003,7
+
+Total
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+100,0
+
+Indización
+
+Tipo de
+responsabilidad
+
+Lugar de publicación
+
+Idioma
+
+%
+
+Fuente: Sistema CVuy. Elaboración propia (2013).
+
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+161
+LA COMUNICACIÓN CIENTÍFICA EN URUGUAY
+
+el 30% de las publicaciones, seguida por los artículos con
+poco más del 20%, y un peso mayor en las Ciencias
+Sociales que en las Humanidades. Sin embargo, al sumar
+las categorías capítulo de monografía y monografía, en
+función de sus semejanzas, representan cerca del 45%
+despegándose ampliamente de las otras categorías.
+Hicks (1999) sostiene que la literatura de las Ciencias
+Sociales tiene un carácter más fragmentado, debido a
+que se dan menos consensos entre los investigadores y
+conviven distintos paradigmas. Esto suele vincularse con
+la mayor publicación de monografías, en contraposición
+a la señal de consenso que significaría la publicación de
+artículos. En la misma línea, Glanzel y Schoepflin (1999)
+sostienen que en estas áreas los modelos estándar de
+comunicación científica, basados en publicaciones
+
+El lugar de publicación más representado es
+Uruguay, alcanzando prácticamente la mitad de la
+producción científica de la dupla. Este aspecto se
+relaciona con la publicación de monografías y capítulos
+y con la tendencia de estas áreas a investigar sobre temas
+locales de escaso interés internacional (Hicks, 1999). Al
+sumar las categorías que corresponden a trabajos
+publicados en América Latina, en Ciencias Sociales
+alcanzan el 79%, mientras que en Humanidades este
+porcentaje sube al 82%. Se confirma que aunque “No son
+muchos los estudios empíricos que posibilitan el análisis
+comparativo, algunos trabajos sugerirían que la
+tendencia a publicar en el ámbito latinoamericano es
+común entre científicos [sociales] de la región” (Gantman,
+2011, p.423).
+Más de tres cuartos de las publicaciones se
+registran en soporte papel y una proporción aún mayor
+se publica en idioma español. Con relación a la variable
+idioma es oportuno indicar algunos matices, mientras
+que en Humanidades solo el 5% se publica en inglés, en
+Ciencias Sociales el porcentaje asciende a un 13%, esto
+podría deberse a que dentro de esta área conviven
+disciplinas que se comportan de manera diferente al
+resto, por ejemplo Economía o Psicología (Gantman,
+2011). Asimismo ambas áreas, conjuntamente con
+Ciencias Agrícolas, son las que cuentan con más
+publicaciones en otros idiomas, entre los que destacan
+portugués, italiano y francés.
+
+162
+
+P. PICCO (in memoriam) et al.
+
+En la Tabla 3 se considera separadamente la
+porción de publicaciones conformada por artículos en
+revistas científicas. Corresponde en primer lugar analizar
+el comportamiento de dos variables, arbitraje e
+indización, que solo aplican a este tipo documental. En
+ambas áreas más de dos tercios del total de artículos se
+publican en revistas arbitradas, pero los artículos
+indizados apenas rondan el 15%. Esto da cuenta de la
+poca visibilidad internacional de muchas revistas
+arbitradas en las que los investigadores de estas áreas
+publican. Esto podría explicarse por la baja visibilidad de
+las revistas científicas editadas en América Latina
+(Fernández et al., 2005).
+En segundo lugar es interesante observar el
+comportamiento de algunas variables para los artículos
+y su relación con el total de la producción. La variable
+tipo de responsabilidad en los artículos no presenta
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+diferencias significativas con el conjunto de todas las
+publicaciones. Sin embargo, en lugar e idioma de
+publicación se encuentra un incremento de la presencia
+del inglés en detrimento del español, al mismo tiempo
+que disminuye el peso de América Latina como región
+de publicación y crecen considerablemente otras como
+Estados Unidos y Canadá y, principalmente, Europa.
+
+Ciencias Agrícolas, Médicas y de la Salud,
+Naturales y Exactas e Ingeniería y
+Tecnología
+El cuarteto formado por las Ciencias Agrícolas,
+Ciencias Médicas y de la Salud, Ingeniería y Tecnología,
+Ciencias Naturales y Exactas no es tan parejo como las
+Ciencias Sociales y Humanidades, aunque sus
+regularidades y su relativo apego al modelo tradicional
+permiten considerarlas en conjunto.
+Para la variable tipo de publicación la categoría
+ponencias publicadas corresponde a algo más de la
+mitad de las publicaciones en las áreas Agrícola y Médica,
+mientras que en Ingeniería y Tecnología alcanza el 62%.
+En los tres casos la categoría que le sigue es el artículo,
+rondando el 30%. Siguiendo el modelo de Garvey y
+Griffith (1972) se podría asumir, aunque la metodología
+utilizada no permite afirmarlo, que la prominencia de
+ponencias responde a que este tipo de documentos es
+utilizado para circular y discutir los hallazgos entre pares,
+buscando su validación para luego ser publicados en
+artículos de revistas arbitradas. Algunas de estas
+ponencias no alcanzarían el apoyo o interés para generar
+un artículo. Por su parte en las Ciencias Naturales y
+Exactas es el artículo quien tiene más peso alcanzando
+casi el 45%, seguido por las ponencias con 38%.
+La importancia del artículo para estas cuatro áreas
+era de esperar. Esta tendencia está en consonancia con
+la detectada por Russell y Liberman (2002) para los
+investigadores de una universidad mexicana, salvando
+las distancias metodológicas. Estas investigadoras
+afirman que los artículos predominan en las áreas Exactas,
+Naturales y Aplicadas distanciándose de las Humanidades
+y Sociales, aunque en su investigación no consideran las
+ponencias.
+Las variables idioma y el lugar de publicación se
+presentan estrechamente relacionadas. Para ambas se
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+Sin embargo, en las Ciencias Médicas poco más
+del 50% de la producción es en inglés. Esta cifra la acerca
+a las Ciencias Naturales e Ingeniería, aunque en las
+últimas supera el 60% mientras que sólo un 30% se
+produce en español. La hegemonía del inglés está
+evidentemente vinculada con la publicación en países
+angloparlantes y en revistas científicas internacionales.
+El soporte papel supera ampliamente las otras
+categorías, excepto en el área Ingeniería y Tecnología,
+en la cual este soporte y el digital son similares, sin
+alcanzar diferencias tan importantes como en
+Humanidades y Sociales. En este aspecto, se encontraron
+indicios de que ante publicaciones en formato papel y
+electrónico, los autores reportan el primero.
+La variable tipo de responsabilidad presenta
+valores similares dentro del cuarteto. La enorme mayoría
+(en torno al 90%) de los trabajos son de responsabilidad
+colectiva, es una diferencia muy significativa respecto a
+la autoría individual que prima en Humanidades y
+Sociales, confirmando las tendencias detectadas en la
+literatura.
+En relación a los artículos más del 90% son
+arbitrados en las cuatro áreas consideradas, alcanzando
+casi la totalidad en Ciencias Médicas y de la Salud y en
+Naturales y Exactas, como evidencia la Tabla 3. La
+indización es también muy significativa, aunque se
+distribuye heterogéneamente entre las áreas yendo
+desde el 66% en Agrícolas hasta el 91% en Naturales y
+Exactas, lo que habla de la mayor visibilidad de la
+producción en estas áreas. Este tipo de documento
+mantiene el patrón general para todas las publicaciones
+con más del 90% de autoría colectiva. En relación al
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+idioma predomina ampliamente el inglés en todas las
+áreas. Para el lugar de publicación las categorías reunidas
+en la región latinoamericana oscilan en un rango que va
+desde el 13% en Naturales y Exactas a un 37% en Médicas.
+Destacan los artículos publicados en Europa
+representando aproximadamente la mitad del total, con
+excepción del área Agrícola, y los publicados en la región
+norteamericana con un cuarto.
+Por último, la comunicación pública de los
+resultados de investigación científica (muchas veces
+denominada divulgación científica) no ha sido objeto
+frecuente de estudio desde la Ciencia de la Información
+en Uruguay. Aunque el fenómeno trasciende los
+objetivos de este trabajo, es interesante señalar la baja
+frecuencia de aparición de la categoría artículos de
+difusión. La misma se distribuye gradualmente en un
+rango que va desde el 0.5% en Ciencias Sociales hasta el
+5.8% en Ciencias Agrícolas, con un pico de 13.0 % en las
+Humanidades, ampliamente despegadas del resto.
+
+Conclusión
+Esta investigación permite sostener que para la
+producción científica uruguaya las áreas de conocimiento
+presentan un comportamiento particular en relación a
+la publicación de los resultados de investigación. Estas
+particularidades deben considerarse muy especialmente
+a la hora de diseñar políticas de evaluación,
+fortalecimiento y acceso a los resultados de la
+investigación científica, que muchas veces privilegian la
+publicación en revistas de alto impacto descuidando
+otros canales de comunicación.
+Se pueden identificar dos patrones claramente
+diferenciados que conforman dos grupos, por una parte
+el de las Ciencias Sociales y Humanidades y por otro el
+de las Ciencias Naturales y Exactas. El primer grupo se
+caracteriza por el predominio de la publicación en
+monografías (incluyendo los capítulos), en idioma
+español, de autoría individual, publicando en la región, y
+por una menor visibilidad internacional. Se destaca
+también la importante proporción de artículos
+publicados en revistas no arbitradas. Mientras que en el
+segundo grupo se privilegian los artículos en inglés y de
+autoría colectiva en revistas arbitradas, internacionales e
+indizadas. Las otras tres áreas tienen un comportamiento
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+163
+LA COMUNICACIÓN CIENTÍFICA EN URUGUAY
+
+encuentran ciertas similitudes entre las áreas Médica y
+Agrícola, que publican en idioma español cerca de la
+mitad y del 60% de sus trabajos respectivamente. Las
+Ciencias Médicas publican un tercio en Uruguay, y
+sumando con el resto de Latinoamérica, esta proporción
+sube a poco más de la mitad de los trabajos. Las Ciencias
+Agrícolas por su parte publican en Uruguay
+prácticamente la mitad y en la región latinoamericana
+aproximadamente el 70% del total de sus trabajos. La
+distribución de las dos variables condice con la relación
+antes mencionada. Más del 90% de los trabajos en
+español son publicados en Latinoamérica en ambas
+áreas.
+
+que las sitúa entre estos dos grupos, aunque en principio
+parecen más cercanas al segundo. No obstante, en
+algunos aspectos se diferencian de ambos, como por
+ejemplo la importancia de las ponencias publicadas,
+especialmente en el área de Ingeniería y Tecnología, y el
+peso del idioma español para las Ciencias Agrícolas y
+Médicas, entre otros.
+Esta situación justifica el tipo de investigación y
+la fuente de datos utilizada, que permite estudiar la
+producción científica en su conjunto. Asimismo las
+características de la fuente utilizada limita la posibilidad
+de hacer comparaciones con trabajos anteriores, que
+generalmente parten de las bases de datos
+internacionales. Se concluye que los estudios como el
+presente resultan en una alternativa interesante y
+complementaria a los análisis bibliométricos realizados
+a partir de bases de datos comerciales. Estos últimos
+
+también son necesarios, y aún poco desarrollados en
+Uruguay, al permitir estudiar otros aspectos como
+impacto, visibilidad y colaboración.
+Paralelamente y dada las limitaciones de los CV
+resultaría fundamental desarrollar herramientas de
+registro, conservación y acceso a la producción científica
+nacional que permitiesen su identificación, recuperación
+y estudio sistemático, y/o implementar mecanismos de
+mejora de la calidad de los datos de los CV.
+Por otro lado, la investigación en curso muestra
+la necesidad de estudios que, atendiendo a las diferencias
+entre áreas, logren comprender la complejidad y variedad
+de canales y medios utilizados por los investigadores para
+publicar (en el sentido amplio de hacer público) los
+productos de su trabajo, y cómo se relaciona la sociedad
+con este conocimiento generado en ámbitos
+académicos.
+
+Referencias
+Aguirre-Ligüera, N. Aproximación al estudio de la producción
+científica uruguaya incluida en la Web of Science entre 2000
+y 2009. Informatio, n.14/16, p.80-98, 2009-2011.
+Bernal, J.D. Historia social de la ciencia I: la ciencia en la historia.
+Barcelona: Península, 1967.
+Björk, B.C. A lifecicle model of a scientific communication
+process. Learned Publishing, v.18, n.3, p.165-176, 2005.
+Bordons, M. et al. Perfil de actividad científica de las
+universidades españolas en cuatro áreas temáticas. Revista
+Española de Documentación Científica, v.33, n.1, p.9-33, 2010.
+Borgman, C. Bibliometrics and scholarly communication:
+editor´s introduction. Comunication Research, v.16, n.4,
+p.583-599, 1989.
+
+164
+
+Cañibano, C.; Bozeman, B. Curriculum vitae method in science
+policy and research evaluation: The state-of-the-art. Research
+Evaluation, v.18, n.2, p.86-94, 2009.
+De Filippo, D. et al. El papel de las bases de datos institucionales
+en el análisis de la actividad científica de las universidades.
+Revista Española de Documentación Científica, v.34, n.2,
+p.165-189, 2011.
+
+P. PICCO (in memoriam) et al.
+
+Dietz, J.S. et al. Using the curriculum vita to study the career
+paths of scientists and engineers: An exploratory assessment.
+Scientometrics, v.49, n.3, p.419-442, 2000.
+Fernández, M.; Frank, C.; Pitaluga, L. El conocimiento científico
+uruguayo en revistas internacionales 1981-2002. Montevideo:
+Instituto de Economía, 2005.
+Gantman, E.R. La productividad científica argentina en ciencias
+sociales: economía, psicología, sociología y ciencia política en
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+el CONICET (2004-2008). Revista Española de Documentación
+Científica, v.34, n.3, p.408-425, 2011.
+Garvey, W.D.; Griffith, B.C. Communication and information
+processing within scientific disciplines: Empirical findings for
+Psychology. Information Storage and Retrieval, v.8, n.3,
+p.123-136, 1972.
+Glanzel, W.; Schoepflin, U. A bibliometric study of reference
+literature in sciences and social science. Information Processing
+& Management, v.35, n.1, p.31-44, 1999.
+Gómez, N.D.; Arias, O.M. El cambio de paradigma en la
+comunicación científica. Información, Cultura y Sociedad, n.6,
+p.93-102, 2002. Disponible en: <http://www.scielo.org.ar>.
+Acceso en: 23 abr. 2012.
+Hicks, D. The difficulty of achieving full coverage of
+international social science literature and the bibliometric
+consequences. Scientometrics, v.44, n.2, p.193-215, 1999.
+Hurd, J.M. The transformation of scientific communication: A
+model for 2020. Journal of the American Society for Information
+Science, v.51, n.14, p.1279-1283, 2000.
+López-Borrull, A. Física vs química: dos modelos de publicación
+científica. El profesional de la Información, v.21, n.2, p.167-172,
+2012.
+Maltrás Barba, B. Los indicadores bibliométricos: fundamentos
+y aplicación al análisis de la ciencia. Gijón, ES: Trea, 2003.
+Miguel, S.; Gomez, N.-D.; Bongiovani, P. Acceso abierto real y
+potencial a la producción científica de un país: el caso
+argentino. El profesional de la Información, v.21, n.2, p.146153, 2012. Disponible en: <http://dx.doi.org/10.3145/
+epi.2012.mar.04>. Acceso en: 23 abr. 2012.
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+Russell, J.M. La comunicación científica a comienzos del siglo
+XXI. Revista Internacional deficiencias Sociales, v.168, 2001.
+Disponible en: <http://oei.es/salactsi/rusell.pdf>. Acceso en:
+22 abr. 2013.
+Russell, J.M.; Liberman, S. Desarrollo de las bases de un modelo
+de comunicación de la producción científica de la Universidad
+Nacional Autónoma de México (UNAM). Revista Española de
+Documentación Científica, v.25, n.4, p.361-370, 2002.
+Sancho, R. Indicadores bibliométricos utilizados en la
+evaluación de la ciencia y la tecnología: revisión bibliográfica.
+Revista Española de Documentación Científica, v.13, n.3/4,
+p.842-865, 1990.
+
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+Sanz Casado, E.; Conforti, N. Análisis de la actividad científica
+de la Facultad de Humanidades de la Universidad de Mar del
+Plata, durante el período 1998-2001. Revista Española de
+Documentación Científica, v.28, n.2, p.196-205, 2005.
+Targino, M.G. Produção intelectual, produção científica,
+produção acadêmica: facetas de uma mesma moeda? In:
+Gonçalves Curty, R. (Org.). Produção intelectual no ambiente
+acadêmico. Londrina: Universidade Estadual de Londrina, 2010,
+p.31-45. Disponível em: <http://www.uel.br/pos/mestrado
+informacao/pages/arquivos/Producao_Intelectual.pdf>.
+Acesso em: 14 fev. 2012.
+Van Raan, A.F.J. Scientometrics: State of the art. Scientometrics,
+v.38, n.1, p.205-218, 1997.
+Uruguay. Gabinete Ministerial de la Innovación. Informe a la
+sociedad: ciencia, tecnología e innovación en los últimos años.
+Montevideo: DICyT, 2012.
+
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+165
+LA COMUNICACIÓN CIENTÍFICA EN URUGUAY
+
+Rovira, L. ¿Hacia una evaluación métrica de la investigación en
+las humanidades y en las ciencias sociales? In: Ibarra, A.; Castro,
+J.; Barrenechea, J. (Ed.). La evaluación de la actividad científica
+en ciencias sociales y humanidades. Bilbao: Universidad del
+País Vasco, 2006. p.31-52.
+
+166
+
+P. PICCO (in memoriam) et al.
+
+TransInformação, Campinas, 26(2):155-165, maio/ago., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000200005
+
+

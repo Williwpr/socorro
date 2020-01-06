@@ -1,0 +1,984 @@
+Use of devices in social web communication
+through university libraries: A space for
+mediation of information
+Raquel do Rosário SANTOS1
+Henriette Ferreira GOMES2
+
+Resumo
+A comunicação é fundamental para a interação na construção do conhecimento e mediação da informação. Ao interagir com a
+biblioteca por meio dos dispositivos de comunicação na Web social, para ter acesso à informação, o sujeito tem a possibilidade
+não apenas de identificar e localizar informações, mas também de desenvolver, no coletivo, o debate, a troca de informações e
+realizar outras práticas que auxiliem suas operações mentais em torno dos conteúdos acessados. Dessa maneira, neste artigo, são
+apresentadas características e possibilidades de utilização dos dispositivos de comunicação da Web social pelas bibliotecas universitárias no desenvolvimento de suas atividades de mediação da informação. Para tanto, foi realizado um estudo bibliográfico,
+aplicando-se a técnica da análise de conteúdos, com o objetivo de identificar e analisar pesquisas e estudos abordando a temática
+na Ciência da Informação. Como resultado, foram identificadas diversas modalidades de uso desses dispositivos e suas
+potencialidades de aplicação no âmbito da biblioteca universitária, concluindo-se que a adoção dos diversos tipos de dispositivos
+demanda a análise dos objetivos específicos de cada atividade, serviço ou produto que a biblioteca pretenda desenvolver, como
+também do perfil de seus usuários e da infraestrutura tecnológica disponível. Contudo, numa perspectiva da missão da biblioteca
+universitária, concluiu-se, ainda, que é latente a necessidade da mesma repensar o seu processo de comunicação e interação com
+os usuários da informação, buscando utilizar, de maneira mais ampla e eficiente, esses dispositivos de comunicação da Web social.
+Palavras-chave: Bibliotecas universitárias. Mediação da informação. Web social.
+
+Abstract
+Communication is imperative for interaction, knowledge construction, and mediation of information. When interacting with the library
+using communication devices in the social web to obtain access to information, the person has the ability not only to identify and locate
+information, but also to discuss and exchange of information collectively, and perform and develop practices that enhance mental
+operations of the content accessed. Thus, this study presents features and possibilities for university libraries to use communication
+devices in the social web to integrate information activities. Therefore, we applied technique of content analysis to conduct a bibliographic
+study to identify and analyze surveys and studies on the subject in Information Science. As a result, we identified the different uses of
+these devices and their potential application within the university library and concluded that the adoption of different types of devices
+1
+2
+
+Universidade Federal da Paraíba, Programa de Pós-Graduação em Ciência da Informação. João Pessoa, PB, Brasil.
+Universidade Federal da Bahia, Instituto de Ciência da Informação, Programa de Pós-Graduação em Ciência da Informação. R. Augusto Viana, s/n., Canela,
+40110-909, Salvador, BA, Brasil. Correspondência para/Correspondence to: H.F. GOMES. E-mail: <henriettefgomes@gmail.com>.
+Recebido em 17/10/2012, reapresentado em 17/7/2013 e aceito para publicação em 12/9/2013.
+
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+DISPOSITIVOS
+DE COMUINCAÇÃO DA WEB SOCIAL
+ORIGINAL
+ORIGINAL
+
+Utilização dos dispositivos de comunicação da web
+social pelas bibliotecas universitárias: um
+espaço para mediação da informação
+
+39
+
+requires the analysis of the specific objectives for each activity, service or product that the library wishes to develop, as well as the user
+profile and the technological infrastructure available. However, in view of the mission of the university library, it was concluded that we
+need to rethink the process of communication and interaction with users of information in order to use these communication devices in
+the social web in a broader and more efficient way.
+Keywords: University libraries. Mediation of information. Social Web.
+
+Introdução
+Nos últimos anos, as tecnologias de informação
+e comunicação, mais especificamente os dispositivos de
+comunicação da Web, vêm fomentando a ampliação de
+uma cultura participativa, da troca e interlocução de
+informações entre os sujeitos, provocando mudanças
+também no modo de comunicação entre bibliotecários
+e usuários. Nesse contexto, o espaço virtual vem demonstrando ser um importante dispositivo para o processo de disponibilização das informações, um veículo
+rápido e acessível para o provimento de respostas aos
+usuários, apresentando-se, assim, como um importante
+aliado para a construção de redes de conhecimento a
+partir do ambiente da biblioteca.
+
+40
+
+A comunicação no espaço virtual tem um papel
+relevante na dinâmica e crescimento da biblioteca, pois,
+por meio dessa interação, possíveis barreiras existentes
+entre ela e o usuário poderão ser reduzidas. Aos usuários,
+facilita o provimento das suas necessidades de informação, a ampliação do conhecimento e fortalecimento
+de uma visão crítica. Por outro lado, para a biblioteca,
+esse tipo de comunicação permite maior agilidade no
+processo de esclarecimento de dúvidas, orientações,
+oferta de opções de acesso à informação, permitindo que
+a biblioteca levante sugestões, receba contribuições,
+enfim, estabeleça vínculos de parcerias com seus
+usuários, intensificando um processo de interlocução que
+favorece a mediação da informação.
+
+R.R. SANTOS & H.F. GOMES
+
+Essa perspectiva norteou o desenvolvimento
+deste estudo que, a partir da adoção do método bibliográfico e da técnica da análise de conteúdo, procurou
+alcançar o objetivo de identificar e analisar os resultados
+obtidos em pesquisas e estudos desenvolvidos no campo da Ciência da Informação acerca dessa temática. Os
+resultados alcançados permitiram a identificação das
+diversas modalidades de uso dos dispositivos de comunicação da Web social, como também suas potencialidades de aplicação no âmbito da biblioteca universitária,
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+focalizando-se, em especial, as atividades de mediação
+da informação.
+Assim, neste artigo procura-se discutir as características e o uso que a biblioteca universitária pode
+fazer desses dispositivos, enquanto recursos auxiliares no
+cumprimento de sua missão de atender as necessidades
+informacionais, apoiando o processo de apropriação da
+informação pelos usuários, concluindo-se que é latente
+a necessidade de se repensar o processo de comunicação
+e interação da biblioteca com os usuários, utilizando-se,
+de maneira mais ampla e eficiente, os dispositivos de
+comunicação da Web social.
+
+Web social e seus dispositivos de comunicação
+no contexto da biblioteca universitária: a
+necessidade de adotar novos aliados
+A biblioteca universitária vem desenvolvendo, em
+seu ambiente físico, uma estrutura que favorece o usuário
+no acesso, uso e apropriação da informação. Sabendo
+da grande quantidade de informações que circulam
+pelos ambientes físicos e virtuais, que muitas vezes não
+têm um grau de confiabilidade e que demandam tempo
+do sujeito para a seleção dessa informação, Sousa (2009,
+p.78, grifo nosso) afirma que:
+O papel dos mediadores nunca teve tanta
+importância como nesses novos tempos em que
+vivemos, não mais com a carência, mas sim com
+o excesso de informação disponibilizada na forma
+impressa, virtual e através dos canais de mídia de
+massa, cada vez mais modernos.
+
+Nessa perspectiva, destaca-se o papel mediador
+da biblioteca universitária, que se ocupa de selecionar,
+organizar e promover a disseminação e circulação da
+informação, proporcionando maior conforto e segurança
+aos usuários no desenvolvimento de suas práticas
+acadêmicas.
+Atualmente, os dispositivos de comunicação
+promovem interferência direta na biblioteca e nas
+
+[...] todos os dispositivos de comunicação
+midiatizada, todas as mídias, das mais antigas - a
+escrita, por exemplo - às mais contemporâneas - a Web, a rede Internet, o ciberespaço - constituem dispositivos, mais especificamente dispositivos tecno-semiopragmáticos.
+
+Os dispositivos de comunicação da Web social
+podem ser importantes aliados da biblioteca na aproximação com os sujeitos, favorecendo tanto a interlocução
+e cooperação entre eles quanto a circulação, uso e
+apropriação das informações. Assim, quando utilizados
+pelas bibliotecas, esses dispositivos podem favorecer as
+ações mediadoras de informações, tornando mais dinâmica a comunicação entre os usuários que compõem as
+redes sociais.
+A Web social amplia a cultura participativa e dinâmica, possibilitando aos sujeitos uma comunicação mais
+intensiva e colaborativa nesse espaço. Nesse sentido,
+Curty (2008, p.55) afirma que a Web 2.0 pode ser compreendida de uma forma mais social, por envolver maior
+número de pessoas e ser mais participativa, onde “[...]
+todos são partícipes potenciais e têm condição de se
+envolver mais densamente; mais apreensível, pois
+desmistifica que conhecimentos técnicos sejam necessários para a interação [...]”.
+Ao criar um espaço virtual, utilizando recursos de
+comunicação da Web social, a biblioteca poderá promover a participação e atuação dos usuários, seja na
+construção e disponibilização de textos, seja no debate
+de informações com outros usuários. A “[...] Web 2.0 é um
+novo espaço para acessar, organizar, gerenciar, tratar e
+disseminar a informação, conhecimentos e saberes. [...]
+cabe estudar, experimentar, explorar tecnologias da Web
+2.0 para facilitar o acesso e ampliar o uso da informação”
+(Blattmann & Silva, 2007, p.211).
+No contexto da Web social é necessária a ampliação de informações que desenvolvam o indivíduo
+cognitivamente, impulsionando-o profissionalmente e
+academicamente, todavia, esse processo só será efetivado quando os indivíduos utilizarem mais intensamente
+esse recurso para a construção e disseminação do conhecimento. Desse modo, é imprescindível que a biblioteca
+universitária atue na construção e ampliação de seus
+
+espaços no meio virtual, de forma a possibilitar a formação intensa de redes sociais promotoras do compartilhamento e debate de informações.
+Vieira et al. (2008, p.2) refletem que:
+[...] a Internet transformou-se, pois, em um espaço
+democrático de expressão e de acesso à informação nas bibliotecas universitárias, que, através
+de seus endereços eletrônicos direcionam os
+usuários para páginas e/ou links, permitindo a
+interatividade e a participação coletiva [...].
+
+A Web social e seus dispositivos vêm potencializar
+as atividades realizadas pelas bibliotecas, intensificando
+a participação do usuário e ampliando a visibilidade
+dessas atividades. A partir da utilização dos dispositivos
+de comunicação da Web social, a biblioteca universitária
+poderá adotar um perfil mais inovador, buscando a
+colaboração mais ativa dos seus usuários, não mais em
+uma perspectiva individual, isto é, em que cada usuário
+contribui isoladamente, sem se identificar e mantendo-se no anonimato; ao contrário, a perspectiva é de uma
+participação coletiva, com o fomento à troca, debate e
+produção conjunta de ideias e desenvolvimento de
+atividades que facilitam o processo de apropriação da
+informação.
+Nesse sentido, existe a necessidade de reflexão
+acerca das características e possibilidades de utilização
+dos dispositivos da Web social no ambiente da biblioteca,
+a fim de ampliar as relações entre os bibliotecários e
+usuários, como também de promover uma maior disseminação e circulação de informações.
+Características e perspectivas de utilização
+dos dispositivos da web social: uma relação
+promissora com as bibliotecas universitárias
+No contexto da Web social, dispositivos são desenvolvidos e utilizados para facilitar a interação entre
+os sujeitos. Os usuários podem apresentar, a partir das
+discussões em grupos de estudo e pesquisa, ou ainda,
+em rede social no espaço virtual das bibliotecas, suas
+necessidades informacionais, como ter acesso a títulos
+que, por meio de mecanismo de comunicação, poderão
+ser sugeridos à biblioteca. Ainda por meio dos dispositivos de comunicação, os sujeitos podem eliminar dúvidas, podem sugerir leituras, colaborando para a amTransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+41
+DISPOSITIVOS DE COMUINCAÇÃO DA WEB SOCIAL
+
+atividades de mediação da informação. Peraya (2002,
+p.29) reflete que:
+
+pliação do seu conhecimento e do conhecimento de
+outros sujeitos.
+No exame da literatura sobre os dispositivos de
+comunicação da Web social, percebeu-se a necessidade
+da construção de um quadro síntese para melhor visualização de suas características, apresentando semelhanças e diferenças entre eles, como também os
+tipos de conteúdos que podem ser disponibilizados pelas
+bibliotecas com maior facilidade, visando à mediação da
+informação. No Quadro 1, pode-se observar que muitos
+dispositivos podem potencializar a comunicação e a
+troca de informações no contexto da biblioteca universitária, auxiliando o processo de acesso e uso da informação.
+Os dispositivos de Instant Messaging (IM, Mensagens Instantâneas) permitem esclarecer dúvidas no
+momento em que surgem, por exemplo, dúvidas quanto
+à disponibilidade de matérias, questões sobre o uso das
+fontes de informação e sua circulação, além de solicitar
+informações institucionais como horário de funcionamento, ou ainda esclarecimento sobre atividades que
+foram ou serão realizadas pela biblioteca, a exemplo de
+treinamento, palestra ou mesa redonda. A interação por
+meio desse recurso oferece ao usuário maior conforto,
+não impondo o deslocamento imediato até o ambiente
+físico da biblioteca para obter orientação quanto ao uso
+da biblioteca e das fontes de informação.
+Esses dispositivos de comunicação ampliam as
+atividades que bibliotecários realizam, possibilitando
+maior aproximação com os usuários, a exemplo daquelas
+desenvolvidas no serviço de referência, que favorecem a
+recuperação, o acesso e a utilização das informações com
+maior rapidez e facilidade.
+Conforme afirmam Vieira et al. (2008, p.11, grifo
+42
+
+nosso),
+
+R.R. SANTOS & H.F. GOMES
+
+[...] o serviço de referência online seria o primeiro
+serviço beneficiado de forma concreta para possibilitar uma interação e maior motivação para
+que o usuário se comunique com o bibliotecário
+para tirar dúvidas. Por outro lado, a biblioteca teria
+a chance de que o próprio catálogo possa sofrer
+atualizações baseadas em índices de referências
+citadas constantemente pelos usuários formando
+uma espécie de sugestão de compra coletiva.
+
+Esses autores alertam para a importância da utilização desses dispositivos de mensagem instantânea
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+pelas bibliotecas universitárias brasileiras, destacando que
+o uso desse recurso já é considerado realidade em
+bibliotecas universitárias americanas. Maness (2007, p.45),
+também ratifica essa utilização pelas bibliotecas americanas:
+Bibliotecas já estão colocando links para seus
+serviços de referência por chat dentro de seus
+próprios recursos [...]. Da mesma forma que um
+usuário em uma biblioteca física está quase por
+definição perto de um bibliotecário, a referência
+por chat se tornando mais presente poderia gerar
+uma circunstância similar no mundo Web.
+
+Essas bibliotecas não estão apenas inovando os
+seus serviços, mas igualmente se aproximando de seus
+usuários, estabelecendo uma interlocução mais ativa e
+promissora.
+Os blogs são também dispositivos de comunicação que devem ser explorados no ambiente virtual das
+bibliotecas. Com a utilização desse dispositivo, os
+usuários podem compartilhar informações com pares
+publicando seus textos e reflexões, recebendo contribuições, favorecendo o amadurecimento e a sedimentação das reflexões, além da produção de novos conhecimentos.
+Nesse sentido, Curty (2008, p.62, grifo nosso) afirma que, “[...] existem diversos blogs comunitários ou
+colaborativos, blogs institucionais e temáticos, que buscam discutir assuntos de interesse de determinada comunidade e se articulam de forma semelhante às listas de
+discussão ou fóruns online”. A biblioteca universitária, ao
+adotar esse dispositivo, poderá ampliar o espaço para
+discussão e troca de opiniões, tanto de assuntos relacionados ao seu funcionamento, quanto de debates em
+torno de temáticas que surgiram em sala de aula, grupos
+de pesquisa e/ou a partir de leituras, possibilitando a
+formação de redes sociais e a aproximação e interlocução
+entre os sujeitos.
+Constata-se que os usuários se tornam mais participativos quando disponibilizam e trocam informações,
+interagindo com outros sujeitos. Além de selecionar e
+sugerir textos que estão no acervo das bibliotecas, os
+usuários também poderão disponibilizar links para acesso
+a artigos ou textos na Web que são de interesse comum.
+Por outro lado, a biblioteca também ressignifica suas
+atividades com ações ligadas à leitura, saindo dos limites
+do espaço físico, utilizando e indicando fontes de credi-
+
+Quadro 1. Principais características dos dispositivos de comunicação da Web social.
+Continua
+
+Principais funções dos dispositivos
+Semelhanças
+
+Tipo de informação
+mais disponibilizada
+
+Diferenças
+
+Mensagens
+Esses dispositivos podem também
+Instantâneas (Chat) ser agregados a dispositivos assíncronos, como o facebook e o orkut.
+
+Interação em tempo real entre os sujeitos, com visibilidade restrita aos
+interlocutores.
+
+Por meio desse dispositivo pode ocorrer
+a troca de qualquer tipo de informação.
+Dispositivo mais propício para esclarecer
+dúvidas.
+
+Blog
+
+Favorece a interação entre os sujeitos, fortalecendo e ampliando a
+possibilidade de desenvolvimento
+de redes sociais.
+
+Possibilita a disponibilização de textos
+de grandes dimensões ou reduzidas.
+
+Esse dispositivo pode ser utilizado para
+divulgar informações sobre a biblioteca,
+eventos e notícias do campo do conhecimento em que a biblioteca trabalha.
+
+Twitter
+
+Possibilita a interlocução entre os
+sujeitos, aproximando usuários e
+bibliotecários e favorecendo a relação de sujeitos com afinidades.
+
+Apenas é possível escrever pequenos
+textos de até 140 caracteres. Exige
+dos sujeitos a apresentação da informação de maneira breve e direta, característica que pode poupar o tempo dos sujeitos no acesso à informação.
+
+Por meio desse dispositivo a biblioteca
+pode apresentar links de acesso às informações na Web, como também notícias
+em geral.
+
+Wiki
+
+Permite que os sujeitos se tornem
+mais colaborativos, como também
+potencializa o trabalho coletivo.
+
+Favorece a produção de textos, elaborados coletivamente, possibilitando que qualquer sujeito realize alterações.
+
+É um dispositivo que mais especificamente pode apresentar informações
+sobre a biblioteca, suas atividades, equipe, fontes de informações do campo do
+conhecimento em que está ligada.
+
+Orkut
+
+Potencializa a participação dos
+usuários e a aproximação deles
+com a biblioteca, ampliando as
+possibi-lidades de interlocução.
+
+Dispositivo mais direcionado a formação de redes sociais, por disponibilizar recursos como apresentação de
+auto-perfil, fotos, vídeos, recados, entre outras informações pessoais. Além
+de incentivar os usuários a desenvolverem uma lista de sujeitos que têm
+maior afinidade, adicionando-os a lista de contato pessoal.
+
+A biblioteca pode disponibilizar informações textuais, imagéticas ou multimídias relacionadas ou não com a própria
+biblioteca, a exemplo, da apresentação
+de suas atividades de mediação da informação.
+
+Facebook
+
+Por meio desse dispositivo os sujeitos interagem entre si e com a
+biblioteca, favorecendo a aproximação de usuários com características
+comuns, potencializando a formação de redes sociais.
+
+Dispositivo com as mesmas características do Orkut, direcionado a formação e desenvolvimento de redes
+sociais.
+
+Como os dispositivos de comunicação
+da Web social já apresentados, o
+facebook também disponibiliza informações tanto da biblioteca quanto de
+demais instituições, além das informações
+ligadas ao desenvolvimento da área do
+conhecimento da biblioteca, mantendo
+os usuários atualizados.
+
+Flickr
+
+Favorece a interação entre os
+usuários e deles com a biblioteca.
+Favorece a interação entre os
+usuários e deles com a biblioteca.
+
+Possibilita a disponibilização, organização e o compartilhamento de imagens entre os sujeitos em ambiente
+virtual. Por meio da apresentação das
+imagens os usuários inscritos no dispositivo poderão comentar as fotos.
+
+A biblioteca poderá disponibilizar imagens do seu ambiente físico, dos seus
+profissionais e das atividades desenvolvidas em seu espaço.
+
+Youtube
+
+Potencializa a formação e desenvolvimento de redes sociais, além
+da participação mais ativa dos
+usuários.
+
+Permite a disponibilização, compartilhamento, acesso e comentários a
+vídeos na Web.
+
+A biblioteca pode criar vídeos que apresentem seu ambiente físico, as fontes de
+informações ou ainda esclarecendo
+como se desenvolvem as atividades em
+seu ambiente. Além disso, podem disponibilizar vídeos e imagens dos eventos
+que ocorrem em seu espaço, registrandoos e possibilitando que um maior número
+de usuários possa ter acesso.
+
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+DISPOSITIVOS DE COMUINCAÇÃO DA WEB SOCIAL
+
+Dispositivos de
+comunicação da
+Web social
+
+43
+
+Quadro 1. Principais características dos dispositivos de comunicação da Web social.
+Dispositivos de
+comunicação da
+Web social
+
+Conclusão
+
+Principais funções dos dispositivos
+Semelhanças
+
+Tipo de informação
+mais disponibilizada
+
+Diferenças
+
+Favorece a comunicação e interação entre os sujeitos, como também permite que eles possam trocar informações.
+
+Permite que os usuários tenham acesso às informações divulgadas pela
+biblioteca, mantendo-se atualizados
+sem a obrigatoriedade de visitarem a
+página da biblioteca.
+
+Possibilita que a biblioteca apresente
+qualquer informação sobre suas atividades e eventos, como também outras
+informações de interesse dos usuários.
+
+Social bookmarking Esse dispositivo apoia o acesso à
+informação de maneira mais rápida
+(delicious)
+e dinâmica e possibilita que os sujeitos possam comentar essas informações, interagindo entre si.
+
+A biblioteca pode organizar e disponibilizar links de acesso às páginas da
+Web, favorecendo a recuperação dessas informações pelos usuários.
+
+A biblioteca pode disponibilizar qualquer
+informação de interesse dos usuários.
+
+Really Simple
+Syndication (RSS)
+
+Fonte: Dados da pesquisa (2012).
+
+bilidade na Web, disponibilizando links de acesso a artigos
+e textos de revistas científicas, ou ainda ferramentas e
+recursos gratuitos da Web, interagindo com os usuários
+de modo mais confortável e motivador.
+No que tange às BUFs [Bibliotecas Universitárias
+Federais] na Web 2.0, os blogs sugerem um melhor
+relacionamento com os usuários, fortalecendo a
+imagem da biblioteca, criando fontes de informação, aumentando o tráfego do sítio da biblioteca, quebrando as barreiras de comunicação, incentivando a colaboração e participação
+em projetos da universidade de forma ativa,
+gerando novas idéias em conjunto com o bibliotecário e o usuário, e acima de tudo, detendo
+o poder de persuadir no sentido de mudar a
+opinião pública. De outra forma a biblioteca é
+simplesmente vista como um local estático de onde
+os serviços de referência, que devem ajudar os
+pesquisadores no desenvolvimento da ciência,
+ainda merecem maior interatividade (Vieira et al.,
+2008, p.7, grifo nosso).
+
+44
+
+R.R. SANTOS & H.F. GOMES
+
+Nesse contexto, a biblioteca poderá utilizar o blog
+para interagir com os usuários, expondo a dinâmica de
+suas atividades, a exemplo do planejamento e execução
+da aquisição de fontes, abrindo a possibilidade dos
+usuários sugerirem novos títulos para o acervo. A biblioteca pode ainda explicar como se elabora referências de
+livros, CD, artigos, entre outros documentos, que são
+constantemente utilizados na construção de textos,
+eliminando dúvidas que sempre surgem na elaboração
+da lista de referências utilizadas na pesquisa. Assim, a
+biblioteca pode usar esse dispositivo em auxílio ao
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+usuário, tanto na utilização da informação quanto no
+desenvolvimento de suas atividades acadêmicas.
+Bari (2010, p.12), ao tratar sobre os blogs como
+um importante dispositivo para interação entre os sujeitos nos ambientes acadêmicos, afirma que:
+Aproveitando o ambiente livre e menos hierarquizado, além das inerentes vantagens da comunicação assíncrona, grupos de pesquisa científica
+do mundo todo têm dedicado parte do seu tempo à construção de Blogs especializados, tanto
+para divulgação científica quanto para o estabelecimento de contatos entre pares, desenvolvendo trabalhos e debates de forma cooperativa
+e compartilhada.
+
+Nesse sentido, os blogs proporcionam aos grupos
+de estudos e de pesquisas das Instituições de Ensino
+Superior (IES), um espaço de troca de informações e
+conhecimentos, favorecendo a comunicação científica
+e interação entre os sujeitos. Por outro lado, os blogs
+criados por pesquisadores, grupos de estudos e/ou
+pesquisas ultrapassam os “muros” das IES, anulando as
+barreiras do espaço e tempo, auxiliando na disseminação
+das informações científicas.
+A biblioteca pode, por sua natureza cultural, possibilitar o encontro dos usuários com o universo diversificado de informações científicas, objetos culturais,
+dispositivos tecnológicos e também com outros sujeitos
+que se interessam pelas mesmas temáticas, estejam eles
+inseridos ou não na academia. Esse encontro com a
+heterogeneidade poderá contribuir para a formação
+
+Mais uma das implicações da Blogosfera na Universidade é a possibilidade de constituição de
+ambientes de produção de conhecimento e
+informação vinculada às funções docentes de
+discentes, de forma paralela às práticas tradicionais de ensino e pesquisa. O que permite dizer,
+por exemplo, que a Biblioteca Universitária, por
+sua centralidade na questão da busca pela informação para cumprimento dos objetivos de
+ensino e pesquisa, tem a possibilidade de desenvolver a Competência Informacional de grupos
+sociais heterogêneos, iniciando sua inclusão
+digital por meio da criação de Blogs unificados
+ou setoriais, que contam com a participação de
+bibliotecários, docentes e discentes (Bari, 2010,
+p.14).
+
+Já o twitter permite aos sujeitos o compartilhamento de mensagens resumidas, imagens e indicações
+de páginas na Web, por meio da disponibilização de links.
+Nesse dispositivo, a biblioteca pode disponibilizar informações sobre suas atividades, produtos, serviços, horário
+de atendimento, além de indicar outros dispositivos de
+comunicação que a biblioteca possui na Web. Dessa maneira, além de ampliar o acesso a informações institucionais e possibilitar aos usuários conhecerem melhor
+as atividades que desenvolve, a biblioteca poderá
+também divulgar temas, promover discussões e indicar
+materiais pertinentes ao campo do conhecimento da
+biblioteca disponíveis na Web, possibilitando o acesso a
+informações na Internet que tenham maior grau de
+confiabilidade.
+Por meio desse dispositivo, a biblioteca também
+pode disponibilizar informações elaboradas por outros
+sujeitos ou instituições, ação chamada retwittar, disseminando notícias interessantes, conferindo os créditos aos
+sujeitos que elaboraram a informação.
+Resende (2011) indica algumas ações que a biblioteca pode realizar no twitter, como a divulgação de
+novas aquisições, artigos da área de interesse dos alunos,
+solicitação quanto a doações para autores/professores,
+além de manter-se atualizada e identificar quais serviços
+e produtos os usuários precisam.
+Dessa maneira, a biblioteca amplia a aproximação
+dos usuários com a informação, a exemplo de quando
+divulga novos títulos adquiridos e disponíveis no acervo
+
+ou quando sugere fontes confiáveis e de credibilidade
+disponíveis para recuperação e acesso na Web. Ela também pode explorar os recursos desse dispositivo para
+potencializar a formação dos usuários, divulgando treinamentos, oficinas, palestras, seminários, entre outros eventos, realizados por ela ou outras instituições, que contribuirão para o desenvolvimento acadêmico e social dos
+usuários.
+Resende (2011, p.6) alerta para o cuidado que se
+deve ter quanto à maneira de disponibilizar informações
+no twitter, destacando que “[...] ao colocar a informação
+sobre um determinado artigo e/ou a divulgação de uma
+base de dados é importante, mesmo que em 140 caracteres falar o que é aquele link, pois muitos usuários nem
+abrem o link”. Como mediador, o bibliotecário deve estar
+atento à maneira que desenvolve a disseminação da
+informação, também nos dispositivos da Web, de modo
+que possa atrair os usuários para o acesso às informações.
+O bibliotecário deve desenvolver estratégias convidativas, que atraiam a atenção dos usuários, desenvolvendo
+o interesse em buscar, acessar e utilizar novas informações.
+Por meio da utilização desse dispositivo, a biblioteca pode identificar as necessidades de informação
+dos usuários, mantendo uma comunicação mais direta
+com eles. Nesse dispositivo, os usuários têm a possibilidade de fazer sugestões de aquisições para o acervo,
+bem como de novas atividades ou ressignificação das já
+existentes. Também podem expor dúvidas e questionamentos, que podem ser respondidos pela biblioteca com
+agilidade. Conforme defende Resende (2011, p.6) esses
+dispositivos “[...] só possuem razão de existir se as indagações dos usuários forem respondidas [...]. Este tempo
+de resposta também não pode se estender muito [...]”.
+Além disso, a biblioteca precisa identificar os comentários,
+dúvidas, questionamentos e sugestões dos usuários, respondendo e também desenvolvendo uma interação que
+ofereça abertura para uma interlocução continuada.
+Outro dispositivo da Web social é o wiki que favorece o exercício de produção de textos, elaborados
+coletivamente, possibilitando que um número indeterminado de sujeitos possa alterar as informações. Segundo
+Blattmann e Silva (2007, p.202) “O que distingue o sistema
+Wiki é que, diferentemente de outras páginas da Internet,
+o conteúdo pode ser editado e atualizado pelos usuários
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+45
+DISPOSITIVOS DE COMUINCAÇÃO DA WEB SOCIAL
+
+cognitiva, social e cultural dos sujeitos, incluindo o desenvolvimento de competências informacionais.
+
+constantemente sem haver a necessidade de autorização
+do autor da versão anterior”. Esse dispositivo, quando
+utilizado pelas bibliotecas universitárias, pode potencializar atividades de produção de textos voltadas aos
+usuários, auxiliando-os no desenvolvimento das práticas
+de escrita.
+Esse dispositivo favorece a elaboração de textos
+coletivos, a troca de informações e a produção de novos
+conhecimentos, tendo como principal característica a
+interação entre os sujeitos, favorecendo o desenvolvimento de redes sociais, auxiliando no processo de
+apropriação da informação. “Por serem ferramentas de
+colaboração acabam por propiciar um ambiente de
+compartilhamento e produção de novos conhecimentos
+promovendo a interatividade, criatividade, diálogo e contribuindo para o processo de aprendizagem cooperada”
+(Ramalho & Tsunoda, 2007, p.7).
+Se adotado pela biblioteca, esse dispositivo também pode auxiliar no redimensionamento das suas atividades e na participação dos usuários. Como ressaltam
+Santos e Andrade (2010), por meio do wiki, a biblioteca
+pode permitir ao usuário “descrever” a outros usuários o
+que representa para ele, os seus serviços, produtos,
+acervo, atividades e profissionais. Dessa maneira, os
+usuários poderão refletir sobre o significado social e
+cultural da biblioteca.
+
+46
+
+R.R. SANTOS & H.F. GOMES
+
+Por outro lado, por meio do orkut torna-se possível
+o acesso ao auto-perfil de usuários, scraps (recados), fotos,
+vídeos, depoimentos e aplicativos. Esses recursos do orkut
+disponibilizam informações que podem potencializar a
+interação entre os sujeitos. O perfil, por exemplo, disponibiliza informações pessoais como e-mail, data de
+aniversário, endereço, escolaridade, entre outras informações. Promove a aproximação entre os participantes
+que têm afinidades e potencializa a troca de informações
+entre eles, como a divulgação e o compartilhamento de
+fotos, vídeos e textos curtos. Também possibilita que um
+participante tenha acesso a todas as atualizações realizadas pelos contatos.
+O Orkut funciona basicamente através de perfis
+e comunidades. Os perfis são criados pelas pessoas ao se cadastrar, que indicam também quem
+são seus amigos. As comunidades são criadas
+pelos indivíduos e podem agregar grupos, funcionando como fóruns, com tópicos (nova pasta
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+de assunto) e mensagens (que ficam dentro da
+pasta do assunto) (Recuero, 2005, p.5).
+
+Nas comunidades originadas no orkut, os usuários
+se inscrevem para participar e acompanhar as atualizações do grupo. Essa comunidade se desenvolve por meio
+de uma temática de interesse do grupo. A partir dela são
+desenvolvidos debates, enquetes e a interação entre os
+sujeitos. Assim, tanto na aproximação entre os sujeitos a
+partir de perfis, quanto nas comunidades, pode existir
+interação, comunicação e afinidade, gerando um sentimento de pertencimento ao grupo.
+A biblioteca pode utilizar o Orkut, tanto desenvolvendo um perfil da biblioteca, quanto criando uma
+comunidade, de modo que os usuários tenham a possibilidade de interagir e se aproximar de outros com interesses em comum. Dessa maneira, a biblioteca poderá
+estimular a formação de novas redes sociais.
+Refletindo sobre o Orkut, percebemos que seu
+sucesso enquanto rede social deve-se ao fato de
+que as pessoas encontram nele um canal, um
+espaço onde podem expressar gostos, opiniões,
+identidades e interesses, manifestando seus
+pensamentos e, ao mesmo tempo, sendo ouvidos (lidos) por outros (Bezerra & Araújo, 2008,
+p.208).
+
+Os usuários também poderão utilizar o orkut para
+“[...] expressar gostos, opiniões, identidades e interesses
+[...]” (Bezerra & Araújo, 2008, p.208) e, dessa maneira, serem
+identificados por pessoas com afinidades semelhantes.
+Por outro lado, a biblioteca também poderá observar
+o perfil desses usuários, elaborando estratégias para
+atraí-los ao uso mais intenso de seus produtos e serviços.
+Tanto o orkut quanto o facebook são dispositivos
+que possibilitam a formação de redes sociais. Os sujeitos
+podem criar um perfil no qual forneçam seus dados pessoais, profissionais e acadêmicos. A visualização dessas
+informações pode ser um dos fatores de aproximação
+entre sujeitos que possuem afinidades, dessa maneira,
+esses dispositivos potencializam a interação e a comunicação entre os sujeitos.
+A biblioteca universitária pode, ainda, utilizar os
+recursos do facebook, disponibilizando informações da
+sua área de conhecimento, eventos e notícias importantes, além de disponibilizar links de acesso a textos,
+artigos, revistas, base de dados e até de outras bibliotecas
+e instituições importantes para a formação dos usuários.
+
+Entre os dispositivos da Web social, já apresentados, existem ainda o flickr, youtube, Really Simple
+Syndication (RSS) e o social bookmarking. O flickr possibilita o compartilhamento de fotos. Segundo Curty (2008,
+p.59) “[...] o usuário pode descarregar fotos, criar álbuns
+temáticos e campos descritivos para posterior recuperação, convidar pessoas relacionadas à sua rede de
+contatos para visualizá-los ou até mesmo deixá-los disponíveis em um grande banco de imagens para acesso
+coletivo”. Esse dispositivo também potencializa a formação de redes sociais, uma vez que os participantes interagem entre si trocando e comentando conteúdos de
+interesse.
+Ao adotar esse dispositivo a biblioteca poderá
+disponibilizar imagens de seu ambiente, fotos dos seus
+profissionais, do acervo e eventos que ocorrem em seu
+espaço. Por exemplo, ao disponibilizar e nomear as fotos
+da equipe da biblioteca, ela permitirá que os usuários
+identifiquem as pessoas com as quais eles podem interagir, o que lhes proporcionará maior conforto na aproximação com a biblioteca. Esse recurso pode ainda aproximar os usuários potenciais, atraindo-os e despertando o
+interesse por conhecer a biblioteca e participar ativamente de suas atividades.
+A biblioteca universitária não deve apenas se
+preocupar em disponibilizar informações no flickr de
+maneira estática e mecânica, é importante motivar os
+usuários a colaborarem e também a realizarem comentários. Por exemplo, a apresentação de fotos do ambiente
+físico da biblioteca ou de atividades pode fazer com que
+esses usuários recordem momentos importantes da sua
+formação ou mesmo de descontração, se sensibilizando
+
+quanto à relevância da biblioteca também como ambiente de convivência e fortalecimento das relações
+sociais. Caso esses usuários comentem ou registrem suas
+lembranças e experiências nesse ambiente poderão,
+intencionalmente ou não, contribuir para que outros se
+sintam motivados a visitar o ambiente físico da biblioteca.
+Por sua vez, o youtube potencializa a formação e
+o desenvolvimento de redes sociais por meio do compartilhamento, indicação e comentários sobre vídeos. Ao
+selecionar o vídeo desejado, o usuário visualiza no lado
+direito do dispositivo sugestões de outros vídeos relacionados ao assunto pesquisado. Além disso, o usuário
+pode interagir com outros apresentando opiniões sobre
+o vídeo, pois, abaixo deste, ele encontra opções que o
+ajudam a demonstrar sua apreciação, quais sejam:
+“gostei”; “adicionar” e “compartilhar”. O usuário pode,
+igualmente, expor comentários publicamente, favorecendo a disseminação da informação, com o desdobramento de possíveis interações com outros sujeitos.
+Conforme Curty (2008, p.63) “Esse serviço pode
+ser considerado líder de vídeos online e a primeira opção
+para assistir e compartilhar vídeos originais globalmente
+por meio da Web.” A biblioteca pode fazer uso do youtube
+em paralelo à utilização do flickr, disponibilizando, ainda,
+vídeos relacionados às suas atividades, treinamentos e
+eventos, como também vídeos que aproximem o usuário
+do ambiente físico da biblioteca, apresentando o acervo
+e sua equipe.
+Como no flickr, a biblioteca não deve apenas se
+preocupar em disponibilizar os vídeos, é essencial
+fomentar a participação dos usuários na utilização dos
+recursos. Ao terem acesso aos vídeos, os usuários podem
+e devem ser estimulados a realizar comentários, compartilhando suas impressões, o que demonstrará seu grau
+de satisfação com o acesso à informação. É importante
+que os usuários interajam com a biblioteca, sugerindo e
+criticando os conteúdos disponibilizados, de modo que
+a biblioteca possa avaliar e redimensionar seus serviços.
+Já o feeds - Really Simple Syndication (RSS) consiste
+em um dispositivo que permite a seleção de informações
+que mais interessam aos sujeitos, de modo que esses
+possam ter acesso mais fácil e rápido sem precisarem
+visitar o site de onde a informação foi originada. Segundo
+Vieira et al. (2008, p.7):
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+47
+DISPOSITIVOS DE COMUINCAÇÃO DA WEB SOCIAL
+
+Outro recurso que também pode ser utilizado é a
+disponibilização de fotos e vídeos que poderão auxiliar
+na apresentação do espaço físico, dos dispositivos e
+equipamentos que devem ser utilizados pelos usuários.
+Por meio dos vídeos, pode-se apresentar as atividades
+realizadas e o papel delas na formação dos usuários. As
+fotos, especialmente aquelas que expõem o ambiente
+físico da biblioteca, podem auxiliar na compreensão
+quanto ao potencial de colaboração da biblioteca para
+a construção de um ambiente propício ao processo de
+significação. Os usuários podem reconhecer o ambiente
+da biblioteca como espaço de estudo, leitura e debate
+entre os colegas.
+
+[...] o programa RSS disponibiliza ao usuário, por
+meio de uma espécie de ‘assinatura’, somente o
+conteúdo selecionado de acordo com a sua
+necessidade, ou seja, ao invés de visitar os sites
+para saber as ultimas atualizações, as informações
+vêm até ele permitindo examinar de forma rápida
+as novidades dos conteúdos condensados.
+
+Esse dispositivo poderá ser disponibilizado tanto
+no website da biblioteca quanto em seus dispositivos de
+comunicação na Web, a partir de um link que possibilita
+o acesso à página do dispositivo. Também existe a possibilidade da “assinatura” pelos usuários, que podem
+acompanhar esse feed (dispositivo) pelo “menu” favoritos,
+na barra de ferramentas do navegador. Dessa maneira,
+esse dispositivo agrega as informações que mais interessam aos usuários, auxiliando-os no acesso às informações de modo mais confortável.
+Além dessas possibilidades vinculadas ao acesso
+às informações, a biblioteca também pode proporcionar
+ao usuário a exposição de seus comentários no dispositivo, aspecto que inclui o RSS no conjunto dos dispositivos da Web social já apresentados. A principal característica desse e de outros dispositivos da Web social é a
+possibilidade de colaboração e exposição de ideias, opiniões e críticas realizadas pelos usuários.
+
+48
+
+também pode favorecer a interação entre os sujeitos na
+discussão das informações acessadas, o que pode auxiliar
+a apropriação da informação.
+No trabalho “Serviço de referência online: pressuposto para uma biblioteca 2.0”, Moraes et al. (2010) relatam o
+uso de dispositivos da Web social no site do Serviço
+Técnico de Biblioteca e Documentação (STBD) da Universidade Estadual Paulista (Unesp) do campus de Rio
+Claro. Entre outros dispositivos, a biblioteca também adotou o delicious, com a criação de um perfil da biblioteca
+no dispositivo.
+Esta ferramenta possibilitou aos bibliotecários
+adicionar endereços úteis para os usuários da
+comunidade acadêmica, formando assim um
+guia de fontes de informação. A atualização desse
+perfil se dá de forma constante, ou seja, cada vez
+que o bibliotecário toma conhecimento de uma
+fonte de informação ou site interessante ela é
+incluída no perfil (Moraes et al., 2010, p.9).
+
+Essa experiência aponta outro exemplo de uso
+desse dispositivo, em que a biblioteca também disponibiliza aos usuários informações de credibilidade no ambiente da Web, como os links de acesso a revistas e/ou
+artigos científicos.
+
+R.R. SANTOS & H.F. GOMES
+
+O social bookmarking, ou marcadores sociais, é
+um dispositivo que permite a organização e recuperação
+de links possibilitando o acesso às páginas na Web. O
+usuário cria uma lista com páginas na Web que são de
+seu interesse, e, de modo confortável, poderá ter acesso
+a informações, compartilhando-as no momento em que
+desejar. Assim, esse dispositivo pode favorecer o acesso,
+a troca e a disseminação de informações na Web pelos
+sujeitos, além de fomentar o desenvolvimento de redes
+sociais.
+
+As bibliotecas universitárias precisam considerar
+a importância desses dispositivos de comunicação para
+ressignificar e redimensionar suas atividades de mediação
+da informação, de modo que possam favorecer a interlocução, aproximação e interação entre a biblioteca e o
+usuário. Como reflete Blattmann e Silva (2007, p.199) “Se
+antes a Web era estruturada por meio de sites que colocavam todo o conteúdo online, de maneira estática, sem
+oferecer a possibilidade de interação aos internautas,
+agora é possível criar uma conexão por meio das comunidades de usuários com interesses em comum, [...]”.
+
+Segundo Santos e Andrade (2010), o delicious pode ser apresentado como um exemplo de sistema que
+utiliza marcadores sociais. Ao ser adotado pelas bibliotecas, o delicious pode ser utilizado como importante aliado
+nas atividades desenvolvidas no serviço de referência, por
+facilitar a disponibilização de informações na Web. A
+biblioteca poderá utilizá-lo, por exemplo, em apoio a
+treinamentos, palestras, seminários, entre outros eventos,
+realizados no ambiente físico ou virtual, disponibilizando
+e indicando informações na Web para ampliação do
+conhecimento produzido na atividade. Esse dispositivo
+
+A utilização dos dispositivos de comunicação da
+Web social pela biblioteca universitária proporciona
+também o fortalecimento das relações entre usuários e
+entre usuários e bibliotecários. Os usuários são motivados
+a interagir com o coletivo, trocar, comentar, debater as
+informações, auxiliando na formação de redes sociais que
+poderão promover uma nova dinâmica no acesso e uso
+da informação, favorecendo a apropriação da informação.
+Por outro lado, a biblioteca no ambiente Web se relaciona
+mais intensamente com os usuários, e, nessa relação mais
+direta, passa a apresentar postura mais acolhedora e
+
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+Conclusão
+No contexto da biblioteca universitária, a Web
+social e seus dispositivos de comunicação tornam-se
+importantes aliados para o desenvolvimento de novas
+atividades, como na potencialização daquelas que já são
+realizadas. É necessário que as bibliotecas utilizem esses
+dispositivos em toda sua extensão de maneira interativa,
+permitindo a maior participação dos usuários.
+A partir do estudo realizado, foram identificados
+e analisados dez tipos de dispositivos de comunicação
+da Web social, verificando-se as diferenças e semelhanças
+entre eles, e as possibilidades de aplicações nas atividades de mediação da informação realizadas pela biblioteca, buscando-se contribuir para uma adoção mais
+sistematizada e planejada desses dispositivos. Desse
+modo, este artigo permite verificar, por meio do exame
+do agrupamento dos dispositivos apresentado no Quadro 1, que esses se distinguem, principalmente, pelo
+formato em que as informações são apresentadas. Todos
+eles têm em comum a possibilidade de uso para a
+disseminação e promoção do acesso e uso das informações.
+Por outro lado, pode-se concluir que, entre eles,
+o blog, orkut, wiki, facebook, flickr, youtube, feeds-RSS e
+
+social bookmarking (delicious), além de permitirem a
+realização de atividades de disseminação, acesso e uso
+da informação no ambiente Web, também facilitam uma
+divulgação mais ampla da própria biblioteca, sua equipe,
+atividades, produtos e serviços. Já o twitter mostra-se mais
+adequado à oferta de informações mais breves e concisas, sendo mais apropriado à divulgação de links de
+acesso à informação na Web, enquanto as mensagens
+instantâneas (chat) se apresentam como dispositivo mais
+propício ao processo de troca de informações mais direta
+entre a biblioteca e o usuário, em especial para o esclarecimento de dúvidas.
+Ainda quanto às semelhanças entre os dispositivos, conclui-se que esses sempre estão voltados à
+promoção da participação e interação entre os sujeitos.
+Assim, potencialmente, todos podem ser adotados como
+recurso para o fomento da comunicação com e entre os
+usuários, por possibilitarem trocas mais dinâmicas de
+informações, proporcionando maior conforto na interação.
+As características analisadas neste artigo sinalizam
+para a necessidade de se recomendar que a adoção de
+cada dispositivo seja planejada e efetuada de modo
+sistematizado, considerando-se as necessidades da biblioteca, do perfil dos usuários e também da infraestrutura tecnológica disponível. Contudo, na perspectiva
+da missão da biblioteca universitária, compreende-se
+como principal conclusão a latente necessidade de se
+repensar o processo de comunicação e interação da
+biblioteca com os usuários da informação, buscando-se
+utilizar os dispositivos e comunicação da Web social de
+maneira mais ampla e eficiente.
+
+Referências
+Bari, V.A. A relação entre a inclusão social na universidade
+brasileira e o desenvolvimento da competência informacional:
+implicações no campo teórico da ciência da informação e na
+prática de seus agentes sociais. In: Encontro Nacional de
+Pesquisa em Ciência da Informação, 11., 2010, Rio de Janeiro.
+Anais... Rio de Janeiro: Unirio, 2010. p.1.
+Bezerra, M.A.A.; Araújo, E.A. Uma ética da informação para
+pensar o orkut: reflexões sobre a informação e a liberdade no
+contexto da sociedade da informação. Informação e Sociedade,
+v.18, n.2, p.207-218, 2008. Disponível em: <http://www.
+ies.ufpb.br/ojs2/index.php/ies/article/view/1760/2132>.
+Acesso em: 12 fev. 2009.
+
+Blattmann, U.; Silva, F.C.C. Colaboração e interação na web
+2.0 e biblioteca 2.0. Revista ACB, v.12, n.2, p.191-215, 2007.
+Disponível em: <http://revista.acbsc.org.br/index.php/racb/
+article/view/530/664>. Acesso em: 20 set. 2009.
+Curty, R.G. Web 2.0: plataforma para o conhecimento coletivo.
+In: Tomael, M.I. Fontes de informação na internet. Londrina:
+Eduel, 2008. p.53-78.
+Maness, J.M. Teoria da biblioteca 2.0: web 2.0 e suas
+implicações para as bibliotecas. Informação & Sociedade, v.17,
+n.1, p.43-51, 2007. Disponível em: <http://www.ies.ufpb.br/
+ojs2/index.php/ies/article/view/831/1464>. Acesso em: 20 set.
+2009.
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+49
+DISPOSITIVOS DE COMUINCAÇÃO DA WEB SOCIAL
+
+descontraída, facilitando a aproximação com a comunidade acadêmica, favorecendo a aproximação com o
+público em geral, expandindo o reconhecimento de sua
+função social na disseminação e acesso à informação
+científica.
+
+Moraes, A.M. et al. Serviço de referência online: pressuposto
+para uma biblioteca 2.0. In: Seminário Nacional de Bibliotecas,
+16., 2010, Rio de Janeiro. Anais eletrônicos... Rio de Janeiro:
+UFRJ, 2010. Disponível em: <http://www.gapcongressos.
+com.br/eventos/z0070/trabalhos/final_519.pdf>. Acesso em:
+14 mar. 2010.
+Peraya, D. O ciberespaço: um dispositivo de comunicação e
+de formação midiatizada. In: Alava, S. et al. Ciberespaço e
+formações abertas: rumo a novas práticas educacionais? Porto
+Alegre: Artmed, 2002. p.25-52.
+Ramalho, L.; TsunodaA, D.F. A construção colaborativa do
+conhecimento a partir do uso de ferramentas wiki. In:
+Encontro Nacional de Pesquisa em Ciência da Informação, 8.,
+2007, Salvador. Anais... Salvador: UFBA, 2007. p.1.
+Recuero, R.C. Um estudo do capital social gerado a partir de
+redes sociais no Orkut e nos weblogs. FAMECOS: Mídia, Cultura
+e Tecnologia, n.28, p.19, 2005. Disponível em: <http://200.
+144.189.42/ojs/index.php/famecos/article/viewFile/454/
+381>. Acesso em: 25 maio 2009.
+
+50
+
+R.R. SANTOS & H.F. GOMES
+
+TransInformação, Campinas, 26(1):39-50, jan./abr., 2014
+
+Resende, E.S. O bibliotecário e a evolução do serviço de
+referência na biblioteca universitária. In: Congresso Brasileiro
+de Biblioteconomia, Documentação e Ciência da Informação,
+24., 2011, Maceió. Anais... Maceió: Febab, 2011. p.1.
+Santos, A.; Andrade, A. Bibliotecas universitárias portuguesas
+no universo da web 2.0. Encontros Bibli: Revista Eletrônica de
+Biblioteconomia e Ciência da Informação, n. esp., 2010. Disponível
+em: <http://www.periodicos.ufsc.br/index.php/eb/article/
+view/16586/pdf_23>. Acesso em: 12 jan. 2012.
+Sousa, M.M. A biblioteca universitária como ambiente de
+aprendizagem no ensino superior. 2009. Dissertação (Mestrado
+em Ciência da Informação) - Escola de Comunicações e Artes,
+Universidade de São Paulo, São Paulo, 2009.
+Vieira, D.V.; Carvalho, E.B.; Lazzarin, F.A. Uma proposta de
+modelo baseado na web 2.0 para as bibliotecas das universidades federais. In: Encontro Nacional de Pesquisa em
+Ciência da Informação, 9., 2008, São Paulo. Anais... São Paulo:
+Enancib, 2008. p.13. Disponível em: <http://www. acquaviva.
+com.br/enancib2008/cd/>. Acesso em: 20 out. 2009.
+
+

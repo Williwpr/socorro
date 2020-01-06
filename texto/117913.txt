@@ -1,0 +1,727 @@
+Marketing in the field of information
+disciplines: Research trends in
+Latin America (1985-2012)
+Carlos Luis GONZÁLEZ-VALIENTE2
+
+Resumen
+Se esclarecen las tendencias de investigación relativas a la mercadotecnia en el campo de las disciplinas informativas, a partir de la
+producción científica de América Latina. Se utiliza como fuente de consulta las revistas electrónicas indizadas por el Directorio
+Latindex. Se recuperaron 108 registros bibliográficos a los cuales se les aplicaron los indicadores bibliométricos de productividad
+por años, revistas, autores, idioma y análisis de coocurrencia de términos. Se evidencia que el mayor índice de productividad
+radica en el contexto de las revistas, idioma y autores brasileños. Tras el análisis de coocurrencia se conformaron cuatro clúster
+principales que denotaron como tópicos más tratados: la mercadotecnia del profesional de la información en el mercado de
+trabajo, la mercadotecnia en bibliotecas, la mercadotecnia de productos y servicios de información, y la gestión de información de
+mercadotecnia. Desde otro punto de vista se identificaron tendencias a partir de cuatro rasgos en las investigaciones, tales como:
+el objeto mercadotécnico, el contexto organizacional, la perspectiva disciplinar y las técnicas y herramientas de marketing más
+exploradas. Se comprobó que el marketing en las Ciencias de la Información es un tópico que no ha estado ajeno a la investigación
+en la región latinoamericana, además se logró caracterizar la productividad de un grupo de revistas (51.4%) que no son indizadas
+por bases de datos de la corriente principal.
+Palabras ilave: América Latina. Disciplinas informativas. Indicadores bibliométricos. Latindex. Marketing. Produção científica.
+Tendencias de investigación.
+
+Abstract
+This study seeks to clarify research trends related to marketing in the field of information disciplines from Latin American scientific
+production. As a reference source, we used the electronic journals indexed in the Latindex Directory. Some bibliometric indicators were
+applied to 108 documents; these indicators were as follows: productivity by year, journals, authors, language, and finally term cooccurrence analysis. It was evident that the highest rate of productivity was found in Brazilian journals and authors, and in the Portuguese
+language. The four main clusters in term co-occurrence analysis in the most relevant topics were as follows: marketing of the information
+professional in the labor market, library marketing, marketing of information products and services, and marketing information
+management. From another point of view, four kinds of traits were also identified, as follows: the marketing object, organizational
+context, disciplinary perspective, and the most commonly used marketing tools and techniques. It was found that marketing in Infomation
+Sciences is a relevant topic in the Latin American research activity. In addition, it was possible to establish the productivity of some
+journals (51.4%) that are not included in the most relevant databases.
+Keywords: Latin America. Information disciplines. Bibliometric indicators. Latindex. Marketing. Scientific production. Research trends.
+1
+
+2
+
+Trabajo presentado en el VII Seminario Internacional sobre Estudios Cuantitativos y Cualitativos de la Ciencia y la Tecnología “Prof. Gilberto Sotolongo
+Aguilar” en XIII Congreso Internacional de Información - INFO’ 2014. Habana, Cuba.
+Grupo Empresarial de la Industria Sidero Mecánica, Departamento de Informática y Gestión de la Información. Carretera Cujae, km 2½, La Habana, Cuba.
+E-mail: <carlos.valiente@fcom.uh.cu>.
+Recibido el día 6/6/2014 y aceptado para su publicación el 12/9/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+305
+MARKETING EN EL CAMPO DE LAS DISCIPLINAS
+
+Marketing en el campo de las disciplinas
+informativas: tendencias de investigación
+en América Latina (1985-2012)1
+
+Introducción
+Las disciplinas informativas son consideradas por
+Guinchat et al. (1990) como el campo en el cual se ubican
+tres grandes grupos: la archivística, la bibliotecología y la
+documentación. Sin embargo, Pérez Matos (2011, p.4)
+las concibe como “aquellas que aparecen enmarcadas
+en determinadas instituciones, - bibliotecología y
+archivística- y las que mantienen un carácter institucional
+completamente independiente - bibliografía y ciencia de
+la información- y que tienen un objeto de estudio en
+común: la información”. Aunque Zins (2007a) destaca que,
+paralelo a la información, se encuentran el dato y el
+conocimiento como importantes categorías de su
+estudio. La nomenclatura genérica de los grupos que
+integran tales disciplinas varía según el contexto
+geográfico; pero, en este artículo se les reconocerán
+como el amplio dominio de las Ciencias de la
+Información.
+
+306
+
+Las relaciones interdisciplinares que estas Ciencias
+de la Información (CI) mantienen con otras áreas del
+conocimiento han precisado de la construcción de un
+cuerpo teórico y práctico que está dotado de múltiples
+enfoques, perspectivas y corrientes de pensamiento. Tal
+es el caso de la mercadotecnia, la cual, proviniendo de
+las Ciencias Administrativas, Económicas y Contables; ha
+sido ubicada dentro de los veintiocho esquemas de
+clasificación del mapa del conocimiento de las CI que
+integra Zins (2007b) en los siguientes niveles: 7.3.1, como
+parte de las Áreas de aplicación que define Alan Gilchrist;
+5.4, como parte de la Industria de la información que
+Donald Hawkins propone; 4.4, como parte del Mercado
+de información estructurado por Haidar Moukdad y 3.7,
+como parte de las Disciplinas gerenciales que concibe
+Lena Vania Pinherio.
+
+C.L. GONZÁLEZ-VALIENTE
+
+De forma explícita, González-Valiente et al. (2014,
+online) declaran que las relaciones entre la mercadotecnia
+y las CI “se ha dado en la manera en que los elementos
+de mercadeo pueden ser aplicados a los productos y
+servicios de información que se generan en las
+organizaciones”. Esta idea constituyó la base para que
+previamente Gupta (2006), en un estudio bibliométrico,
+indicara las fuentes que han publicado artículos sobre la
+mercadotecnia de tales productos y servicios
+informativos. En su investigación, partiendo del criterio
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+de que es abundante lo que se ha publicado sobre esa
+área del conocimiento en el campo informacional, fue
+declarada la importancia de investigar su crecimiento
+cronológico y temático; así como su comportamiento
+según las distintas áreas geográficas.
+En el contexto específico de Latinoamérica, no
+se han encontrado exhaustivas y sólidas referencias de
+materiales publicados donde se hayan caracterizado tales
+investigaciones producidas en la región. Es por ello que
+el objetivo de este artículo es el de esclarecer las
+tendencias de investigación relativas a la mercadotecnia
+en el campo de las disciplinas informativas, detectadas
+desde la producción científica de América Latina. Para
+ello se explorarán indagaciones que se hayan orientado
+a identificar tendencias similares. Además, serán
+determinados algunos indicadores bibliométricos que
+permitan identificar las respectivas tendencias.
+Amaral (1996), concentrándose en el dominio
+brasileño, examinó lo que en ese país se había producido
+de marketing entre 1972 y 1994. Sus principales fuentes
+de consulta fueron libros, capítulos de libros, tesis de
+disertación, monografías y artículos de periódicos. Desde
+ahí la autora identificó 97 referencias, distribuidas por un
+total de 45 autores. Mientras que Ponjuán (1999),
+mediante una búsqueda en la base de datos Library and
+Information Science Abstract (LISA), mostró las tendencias
+de investigación asociadas a los diferentes elementos de
+la Gestión. En sus resultados (a partir de 2.632 referencias
+obtenidas) se evidenció que la mercadotecnia había sido
+una de las temáticas más tratadas en los últimos treinta
+años, con cifras superiores a las de otros temas como
+gestión de recursos de información, gestión de archivos y
+registros administrativos, gestión de proyectos, gestión de
+la calidad total, y demás. Por otra parte Amaral (2000),
+tomando como referencia las fuentes LISA y Library
+Literature, exploró la aparición de las cuatro P’s del
+mercadeo en unidades de información durante los años
+1975-1995. Aquí fue corroborada la existencia de
+limitaciones sobre la existencia de una terminología
+específica sobre mercadotecnia de información en el área
+de las CI. Paralelamente, Gupta y Jain (2009) encaminaron
+un análisis de la literatura periódica en la base de datos
+LISA, en donde estudiaron la productividad sobre esta
+temática, pero solo de las revistas procedentes de la India
+(cobertura: 1980-2003). Estos autores identificaron
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+Entre los trabajos anteriormente citados se
+percibe cómo autores latinoamericanos, como Ponjuán
+y Amaral, han investigado bibliométricamente el
+fenómeno de la mercadotecnia; pero orientan sus análisis
+sobre literatura indizada en bases de datos que no son
+de la región latinoamericana. En otros casos, los estudios
+solo se han reducido a contextos muy limitados,
+abarcando periodos poco emergentes para los
+momentos actuales. Estas prácticas, a instancias de
+Rodríguez-Gallardo (2009), sesgan los resultados
+obtenidos porque no son proporcionados los datos reales
+de la producción científica del área.
+
+Métodos
+Para la consulta de materiales bibliográficos que
+han abordado el tema en cuestión, se utilizó como
+método de investigación el análisis documental clásico.
+Mientras que la identificación y esclarecimiento de las
+tendencias se hizo a partir de los principios de la
+bibliometría, debido a su relevancia en la caracterización
+de los variados perfiles científicos (Miguel et al., 2006).
+Concerniente al hallazgo de los registros se utilizó como
+fuente de consulta el Directorio del sistema de
+información Latindex <http://www.latindex.unam.mx/
+latindex/directorio.html>, el cual indiza revistas científicas
+clasificadas por disciplinas, no solo de América Latina y
+el Caribe, sino también de España y Portugal; países que
+también fueron usados para hacer más provechoso el
+análisis y la discusión de los resultados. Latindex no solo
+fue seleccionada por su cobertura geográfica y temática,
+sino también por presentar una base de datos bien
+actualizada (Verdecia-Gutierrez, 2010) y por estar regida
+por adecuadas normas, criterios e indicadores de calidad
+(Cetto, 1998). Es importante destacar que aunque no es
+una práctica muy común, debido a las particularidades
+de su infraestructura, Latindex se ha convertido en objeto
+de consulta para el desarrollo de estudios bibliométricos
+en varias temáticas ubicadas tanto dentro como fuera
+del dominio de las CI (Alcain & Ascurain, 2002; Sieres,
+2006; Rodríguez-Gallardo, 2009).
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+En el Directorio fue escogida la disciplina
+Bibliotecología, la cual contiene 159 revistas. Sobre las
+disciplinas informativas el Directorio Latindex expone,
+independientemente, el campo Bibliotecología por un
+lado y Ciencia de la Información por otro. Se escogió el
+de Bibliotecología por poseer más títulos (159) y porque
+además incluye todas las revistas listadas en el campo
+Ciencia de la Información (146). La búsqueda fue
+ejecutada sobre aquellas que permitieron el acceso
+electrónico a sus materiales mediante la opción Enlace
+de Revistas Electrónicas, entre las que solo figuraron 57.
+Este Enlace localiza automáticamente las publicaciones
+incluidas en el Directorio que tienen versión en línea e
+informa sobre el tipo de acceso, los formatos en que se
+presenta y la cobertura temporal, estableciendo un
+enlace con la dirección electrónica de la revista (Flores et
+al., 2009). Los términos usados en las ecuaciones de
+búsqueda fueron mercadotecnia y sus posibles familias
+de palabras como mercadeo y mercado, en las variantes
+idiomáticas de español, inglés y portugués. No se
+definieron límites mínimos en cuanto a cobertura
+temporal, pero sí un máximo hasta el 2012. Se le dio
+prioridad a los registros que destacaron tales términos
+en el título y las palabras clave.
+Para el esclarecimiento de las tendencias se
+emplearon algunos indicadores bibliométricos que
+permitieron caracterizar el comportamiento de la
+temática. Se usaron algunos de los que Schneider (2004)
+propone dentro del grupo de análisis de publicaciones,
+tales como: Productividad por revistas; Productividad por
+años; Productividad autoral; Productividad idiomática;
+Análisis de coocurrencia de términos.
+Se realizó el cálculo de los cuatro primeros
+indicadores, y en el caso del análisis de coocurrencia se
+procesaron aquellos términos que coocurrieron dos o
+más de dos veces. Ello permitió visualizar las frecuencias
+y relaciones que presentaron los descriptores. Los
+términos que se encontraban en portugués e inglés
+fueron traducidos al español para el desarrollo de dicha
+coocurrencia. En un primer momento se conformó una
+biblioteca a partir del gestor bibliográfico EndNote X5, el
+cual facilitó la elaboración de una base de datos con las
+referencias obtenidas y así se normalizaron las entradas
+de cada registro. Posteriormente fue usado el software
+Bibexel para el análisis de la coocurrencia que se efectuó
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+307
+MARKETING EN EL CAMPO DE LAS DISCIPLINAS
+
+patrones de autoría, colaboración, crecimiento y tópicos
+emergentes a partir de 125 artículos procedentes de 38
+revistas.
+
+a partir de los descriptores extraídos del título y las
+palabras clave de los artículos. Por último, se empleó el
+programa VOSviewer 1.4.0 para la generación y
+visualización de los mapas que se elaboraron a partir de
+un fichero net creado en Bibexel.
+
+Resultados y Discusión
+Productividad temática por años y revistas
+Durante el ejercicio de búsqueda se obtuvieron
+108 artículos para el periodo 1985-2012; cuya
+distribución alcanza un límite de 33 revistas a partir del
+total de las 57 que poseen enlace electrónico a sus
+materiales. A través de la Figura 1 se evidencia cómo el
+índice de crecimiento temático ha ido aumentando con
+el curso del tiempo. Un 73,14% de las investigaciones
+han sido publicadas durante la década 2000-2012,
+develándose que por este plazo la productividad ha
+aumentado casi tres veces más con respecto a lo
+publicado desde 1985 hasta el 2000 (26,86%). Es
+detectable, a su vez, que la mayor cantidad de estudios
+se publicaron entre los años 2006-2009, periodo en el
+que está concentrado el 30,50% de la productividad. Este
+incremento puede que se deba a los grandes intereses
+por expandir el mercado de trabajo de los profesionales
+
+de la información, ya que la mayoría de los estudios
+presentes en esta fecha se enfocan en este tipo de
+abordajes.
+Para determinar las revistas que más han
+colaborado se procedió a representar arbitrariamente
+aquellas que han publicado más de cinco artículos. A
+través de la Figura 2 se visualizan como muy productivas,
+las procedentes de Brasil. En primera instancia figuraron
+Ciência da informação (Brasil) y Ciencias de la Información
+(Cuba), aunque en cada caso respectivamente, solo tres
+de sus artículos se han publicado después del 2000. Ello
+confirma que actualmente no se comportan como las
+más prolíferas. Contrariamente; Biblios (Perú), Biblionline
+(Brasil), Informação & Sociedade: Estudos (Brasil) y
+Perspectivas em Ciência da Informação (Brasil) concentran
+sus estudios en la última década; considerándose éstas
+como las más emergentes. Importante es destacar que
+de las revistas listadas en la (Figura 2), cuatro están siendo
+indizadas, indistintamente, por las bases de datos Scopus
+y Web of Science (WoS); garantizándose así la alta calidad
+y buena visibilidad de gran parte de las investigaciones
+(48,14%) sobre el tópico en cuestión.
+Enfocando un poco el análisis desde otra arista,
+es detectable la baja contribución de los países en
+relación al total de aquellos que pertenecen a la región
+latinoamericana, ya que las 33 revistas identificadas
+proceden solamente de ocho países. Éstos son: Brasil
+
+308
+
+C.L. GONZÁLEZ-VALIENTE
+
+Figura 1. Productividad de las investigaciones por años.
+Fuente: Elaboración del autor a partir de los datos obtenidos (2014).
+
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+Productividad idiomática y autoral
+
+Fuente: Elaboración del autor a partir de los datos obtenidos (2014).
+
+(41%), España (25%), Cuba (10%), México (9%), Perú (6%),
+Argentina (3%), Colombia (3%) y Venezuela (3%). Se
+mantiene Brasil como líder, región desde la cual 13
+revistas han publicado estudios sobre marketing;
+evidenciándose algunos títulos que no aparecen
+reflejados en la Figura 2, tales como: Em Questão (4),
+Pesquisa Brasileira em Ciência da Informação e
+Biblioteconomia (3), Transinformação (3), Informação &
+Informação (3), Comunicação e Informação (2), Revista
+Digital de Biblioteconomia e Ciência da Informação (2) y
+otros cuya productividad es de solo un artículo.
+Estos resultados que asientan al dominio
+brasileño como el más relevante son paralelos con datos
+actuales que muestra SCImago Journal & Country Rank,
+el cual destaca a Brasil como el país latinoamericano que,
+en el área de la Bibliotecología y Ciencias de la
+Información (BCI) para el 2012, mantiene un mayor
+número de documentos (78) e índice Hirsch (17) en
+comparación con el resto de los países de la región
+<http://www.scimagojr.com/countr yrank.php?
+area=3300&category=3309&region=Latin+America&
+year=2012&order=it&min=0&min_type=it>. Aunque
+indagaciones muy puntuales, como las de Licea de
+Arenas et al. (2000), Ríos Gómez y Herrero Solana (2005)
+y Martínez Rodríguez y Solís Cabrera (2013), han
+demostrado que las revistas brasileñas son las que más
+publican artículos científicos sobre BCI en toda América
+Latina.
+3
+
+Análisis de coocurrencia de términos
+Mediante el análisis de coocurrencia propiciado
+a través de VOSviewer 1.4.0 quedaron conformados nueve
+clúster principales, de los cuales se harán breves
+descripciones de cuatro de los más representativos
+(Figura 4). El clúster 1 contiene un total de trece ítems,
+siendo profesional de la información el de mayor
+densidad; y manteniendo una mayor fuerza de relación
+(fr) con las categorías mercado de trabajo (fr: 7)
+mercadotecnia personal (fr: 4) y promoción (fr: 3). Estas
+relaciones denotan las exploraciones asociadas a mostrar
+
+La información de apoyo que se expone sobre estas autoras ha sido extraída de la Plataforma Lattes <http://lattes.cnpq.br/>, la cual publica currículum
+profesionales de investigadores asociados al Centro Nacional de Desenvolvimiento Científico y Tecnológico (CNPq) de Brasil.
+
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+MARKETING EN EL CAMPO DE LAS DISCIPLINAS
+
+Figura 2. Comportamiento de las revistas más productivas.
+
+Se identificó que el 50,92% de los artículos han
+sido publicados en español, aunque un 53,00% de las
+investigaciones concentradas en la última década han
+sido en portugués. Esto precisa el desplazamiento del
+portugués por el español en materia de mercadotecnia.
+Similarmente, los autores más productivos son nativos
+de esta lengua, y proceden precisamente de Brasil. En
+primera instancia se destaca Sueli Angelica do Amaral
+con nueve artículos (9,3%) (Figura 3). Una de las áreas de
+formación e investigación de esta autora es la
+mercadotecnia de información, y sobre esta área realizó
+su tesis de maestría y doctorado en Ciencias de la
+Información por la Universidad de Brasilia. Actualmente
+es la líder de investigación en el área de mercadeo dentro
+del Programa de Postgrado en Ciencia de la Información.
+Otra autora fecunda ha sido Alzira Karla Araújo da Silva, a
+quien le pertenecen cinco artículos (4,6%). Su vínculo con
+este tópico devine gracias a que funge como profesora
+en la modalidad pregrado de las disciplinas
+Mercadotecnia en unidades de información y
+Mercadotecnia bibliotecaria, en los cursos de
+Biblioteconomía y Archivología de la Universidade
+Federal da Paraíba. Por último, con solo cuatro artículos
+(3.7%), se encuentra Angela María de Oliveira, quien se
+desenvuelve como bibliotecaria de la Universidade
+Estadual de Ponta Grossa y cuya tesis de maestría fue
+sobre mercadotecnia en el contexto de las bibliotecas
+públicas3.
+
+309
+
+Figura 3. Comportamiento de los autores más productivos según la serie temporal.
+Fuente: Elaboración del autor a partir de los datos obtenidos (2014).
+
+la figura de este profesional como un objeto de interés
+para el escenario laboral. Nótese cómo también dentro
+de las categorías aquí incluidas están mercadotecnia
+profesional, ofertas de empleo e imagen. Al parecer, esta
+tendencia parece examinarse mayormente desde la
+perspectiva de los grupos disciplinares, ya que en este
+clúster es donde más se concentran los términos que
+dan nombramiento al dominio informacional, tales
+como: Archivología, Biblioteconomía y Documentación.
+
+310
+
+C.L. GONZÁLEZ-VALIENTE
+
+Por otra parte el clúster 2, con un total de diez
+ítems, resalta por agrupar descriptores relacionados con
+el entorno de las tecnologías; aunque es el clúster que
+posee menor densidad y mayor aislamiento dentro del
+mapa. Como categoría más intensa se encuentra
+mercadotecnia, quien tiene una gran fuerza de relación
+con bibliotecas (fr: 18), mezcla de mercadotecnia (fr: 8),
+gestión del conocimiento (fr: 7) y mercadotecnia de
+información (fr: 6); aunque aludiendo un poco sobre las
+tecnologías, las fuerzas más potenciales se dan con
+ciberespacio (fr: 3), sitios Web (fr: 3) e Internet (fr: 3) respectivamente.
+Al clúster 3 están adheridos diez descriptores que
+responden generalmente a los elementos productos de
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+información y servicios de información; éstos con gran
+fuerza de relación entre sí (fr: 11). También es detectable
+la marcada presencia de las categorías información de
+mercadotecnia, sistemas de información de mercadotecnia,
+base de datos y mercado. Mientras que el cuarto clúster 4
+posee diez descriptores al igual que el 3, en donde,
+gestión de información es el más denso. Sus mayores
+relaciones están dadas con los términos mercadotecnia
+(fr: 8), gestión del conocimiento (fr: 4), mercado (fr: 3),
+servicios (fr: 3) y ciencia de la información (fr: 3). Otros de
+los ítems distintivos en este clúster lo son mercado de
+información, industria de la información y usuarios.
+La coocurrencia también ha servido para indagar
+sobre cuatro rasgos muy particulares, tales como el
+objeto mercadotécnico, el contexto organizacional, la
+perspectiva disciplinar y las técnicas y herramientas de
+mercadotecnia que más se han tratado. Desde la Figura
+5 se visualizan las relaciones de términos, cuestión básica
+para identificar estos rasgos. Entre el principal objeto de
+mercadeo está servicios de información, con una
+Frecuencia de Aparición (fa) de 22 veces. Ello confirma
+una vez más la concepción de que la profesión
+informativa es, por excelencia, una profesión de servicios.
+Similarmente es percibido como otro objeto distintivo
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+311
+MARKETING EN EL CAMPO DE LAS DISCIPLINAS
+
+Figura 4. Mapa de densidad de clúster de la coocurrencia de términos.
+Fuente: VOSviewer 1.4.0. (2014).
+
+la figura del profesional de la información (fa: 18), al cual
+se le relacionan técnicas precisas de mercadotecnia
+personal y promoción en el contexto del mercado de
+trabajo. Cabe afirmar que una de las utilidades del
+marketing en el campo informacional es la de ofertar a
+sus profesionales como productos humanos que pueden
+ser oportunos en el marco de un mercado laboral que
+está necesitando cada vez más de experticia en el manejo
+de la información. De ahí que los abordajes del mercadeo
+desde el ángulo de lo profesional tienen una orientación
+dual; una interna, dirigiéndose a la adquisición de
+competencias asociado al marketing como subdisciplina
+dentro de las CI, y otra externa, enfocada a la aplicabilidad
+del marketing para dar a conocer las competencias de
+estos profesionales de manera que salden las exigencias
+de los mercados laborales actuales. En menor medida
+ha primado la categoría productos de información con
+una frecuencia de aparición de 13 veces.
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+Referente a los contextos organizacionales, un
+primer plano lo ocupan las unidades de información (fa:
+19), y seguido, las bibliotecas (fa: 18). De este último sector,
+han sido más frecuentes las de tipo universitarias (fa: 8), y
+luego las públicas (fa: 7). Oportuno es de resaltar que los
+archivos (fa: 5) están llegando a ser otra de las
+organizaciones informativo-documentales que muestran
+acrecentado interés por la orientación al mercado.
+Mientras que desde la perspectiva disciplinar prima la
+Ciencia de la Información (fa: 5), relacionándose
+ampliamente con la Gestión de información y la Gestión
+del conocimiento. En otra medida se encuentra la
+Biblioteconomía (fa: 4), reflejando gran vínculo con el
+mercado de trabajo (fr: 3). Y en última instancia ha figurado
+la Archivología (fa: 2), siendo un factor importante que
+no solo se haga alusión a sus respectivas instituciones,
+sino también a la disciplina a la cual responden. Asociado
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+Mercadotecnia
+
+Internet
+
+Figura 5. Mapa de coocurrencia de términos.
+Fuente: VOSviewer 1.4.0. (2014).
+
+312
+
+C.L. GONZÁLEZ-VALIENTE
+
+a estos resultados, planteamientos como el de Junqueira
+y Rodríguez (2009) develan que a lo interno de las
+relaciones entre el marketing y las CI coexisten
+indicadores muy comunes como: (1) la dimensión
+cognitiva y afectiva en la búsqueda de información de
+los individuos, (2) la manera en la que ellos le dan
+significado (sensemaking) a esa información y al
+conocimiento del mercado, y (3) el campo de la teoría
+organizacional; dentro del cual las organizaciones son
+asumidas como altas consumidoras de información. Estos
+tres elementos ampliamente recaen bajo la plataforma
+teórica del comportamiento o conducta informacional
+que abordan Pettigrew et al. (2001).
+
+mercados (fa: 5). Válido es de mencionar la presencia no
+tan pronunciada de técnicas igualmente contribuyentes
+como la mercadotecnia social (fa: 4), la política (fa: 3), la
+de relaciones (fa: 3) y la interna (fa: 3). Se distingue además,
+mediante la figura 2, una asociación precisamente entre
+técnicas informacionales como gestión de información y
+gestión del conocimiento y el tópico mercadotecnia;
+vinculando estas relaciones a otras categorías como
+industria de información, investigación de mercados,
+unidades de información, profesional de la información y
+mercadotecnia de información.
+
+Recayendo en las técnicas y herramientas
+mercadotécnicas, la más frecuente es promoción (fa: 11),
+principalmente asociada a servicios, bibliotecas y
+profesional de la información. Entre las que le siguen están
+mezcla de mercadotecnia (fa: 8), investigación de mercados
+(fa: 7), mercadotecnia personal (fa: 5) y segmentación de
+
+Conclusión
+
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+En sentido general, la mercadotecnia como área
+del conocimiento dentro de las disciplinas informativas,
+es una temática que no ha estado en decrecimiento por
+parte de las publicaciones de la región latinoamericana.
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+Los resultados han mostrado que Brasil es quien
+actualmente figura como el país más productivo en
+cuanto a idioma, autores y revistas. Por otro lado, el
+análisis de los términos coocurrentes sirvió para
+identificar cuatro líneas básicas de investigación que se
+han estado tratando: la mercadotecnia del profesional
+de la información en el mercado de trabajo, la
+mercadotecnia en bibliotecas, la mercadotecnia de
+productos y servicios de información, y la gestión de
+información de mercadotecnia. Ha sido muy relevante,
+no solo la exploración de técnicas de mercadeo en el
+contexto de trabajo de las organizaciones de información,
+sino también la adopción de técnicas informacionales
+en la ejecución de tareas mercadotécnicas. También es
+considerable el alto interés hacia la figura de los
+profesionales de la información, específicamente porque,
+
+mediante la perspectiva del marketing como herramienta
+gerencial, estos actores logren ganar en relevancia laboral
+y social; así como en el manejo de nuevas habilidades
+como factor de cambio en sus disímiles escenarios de
+actuación.
+Latindex, como sistema amplio de información,
+no posee la infraestructura adecuada para la aplicación
+de determinados indicadores bibliométricos que podrían
+resultar útiles en la determinación de algunas tendencias
+y patrones en la productividad. En añadidura, muchas
+de las revistas electrónicas identificadas han perdido
+vigencia (el caso de tres) y otras, al pasar a versión
+electrónica no brindan la opción de acceder a materiales
+publicados durante su antigua versión impresa. Con ello
+se infiere que no se haya trabajado con algunas
+investigaciones que pudieron haberse desarrollado.
+
+Agradecimientos
+Ofrezco mi agradecimiento a la licenciada Anet Ponce
+Blanco por los apoyos técnicos que amablemente me brindó.
+De igual manera quiero resaltar las contribuciones de la Dra. C.
+Nuria Esther Pérez Matos y el Dr. C. Ricardo Arencibia Jorge por
+las revisiones y sugerencias previas a la publicación de este
+estudio.
+
+Referencias
+Alcain, M.D.; Ascurain, M.L. Análisis de las revistas
+latinoamericanas de psicología incluidas en el Directorio
+Latindex. Papeles del Psicólogo, n.83, p.34-43, 2002. Disponible
+en: <http://www.papelesdelpsicologo.es/vernumero.asp?id=
+895>. Acceso en: 30 ago. 2013.
+Amaral, S.A. Literatura biblioteconômica brasileira de
+marketing: produção até 1994. Revista de Biblioteconomia de
+Brasília, v.20, n.1, p.69-98, 1996.
+Amaral, S.A. Os 4Ps do composto de marketing na literatura
+de Ciência da Informação. Transinformação, v.12, n.2, p.51-60,
+2000.
+Cetto, A.M. Ciencia y producción científica en América Latina.
+El proyecto Latindex. International Microbiology, v.1, n.3,
+p.181-182, 1998. Disponible en: <http://revistes.iec.cat/
+index.php/IM/article/viewFile/4c3da6fc9aedf.002/36>.
+Acceso en: 30 ago. 2013.
+Flores, A.M.; Penkova, S.; Román Román, A. Once años de
+Latindex: una experiencia al servicio de las publicaciones
+científicas iberoamericanas. Simbiosis, v.6, n.1, p.1-27, 2009.
+Disponible en: <http://repositorio.upr.edu:8080/jspui/
+bitstream/10586/41/3/latindex.pdf>. Acceso en: 30 ago. 2013.
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+González-Valiente, C.L.; León Santos, M.S.; Rivera, Z. El egresado
+de la carrera ciencias de la información y su inserción en la
+gestión de mercadotecnia. Revista Cubana de Información en
+Ciencias de la Salud, v.25, n.2, 2014. Disponible en: <http://
+acimed.sld.cu/index.php/acimed/article/view/583>. Acceso
+en: 25 abr. 2014.
+Guinchat, C.; Menou, M.; Blanquet, M.F. Introducción general a
+las ciencias y técnicas de la información y documentación. 2.ed.
+Madrid: Unesco, 1990.
+Gupta, D.K. Bibliographical literature on LIS marketing: A review.
+Annals of Library and Information Studies, v.55, n.4, p.308-316,
+2006.
+Gupta, D.K.; Jain, A.K. Marketing library and information services:
+A study of periodical literature. Annals of Library and
+Information Studies, v.56, n.4, p.217-226, 2009.
+Junqueira, H.L.C.; Rodrigues, R. Busca da informação em
+marketing: a perspectiva da ciência da informação. Revista de
+Administração de Empresas, v.49, n.2, 2009. Disponível em:
+<http://www.redalyc.org/pdf/1551/155113815008.pdf>.
+Acesso em: 30 ago. 2013.
+Licea de Arenas, J. et al. Una visión bibliométrica de la
+investigación en bibliotecología y ciencia de la información
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+313
+MARKETING EN EL CAMPO DE LAS DISCIPLINAS
+
+Se considera que uno de los aportes más trascendentales
+de este artículo radica precisamente en la caracterización
+de un tópico, a partir de artículos contenidos en un grupo
+de revistas (51.4%) que no están indizadas por sistemas
+de información científica de la corriente principal como
+Web of Science, Scopus, Social Science Citation Index,
+Journal Citation Report, etc. De igual manera, desde
+Latindex, se han detectado notables índices de
+colaboración respecto a la temática aquí examinada.
+
+de América latina y el Caribe. Revista Española de
+Documentación Científica, v.23, n.1, p.45-53, 2000.
+
+(1989-2003). Revista Interamericana de Bibliotecología, v.28,
+n.1, p.43-61, 2005.
+
+Martínez Rodríguez, A.; Solís Cabrera, F.M. Investigación en el
+campo de la información en Cuba. Necesidad de su
+redimensionamiento. Anales de Documentación, v.16, n.2,
+p.1-15, 2013.
+
+Rodríguez-Gallardo, J.A. La literatura bibliotecológica y de
+estudios de la información: un análisis crítico de Latindex.
+Revista Interamericana de Bibliotecología, v.32, n.2, p.335-365,
+2009.
+
+Miguel, S.; Moya-Anegón, F.; Herrero-Solana, V. Aproximación
+metodológica para la identificación del perfil y patrones de
+colaboración de dominios científicos universitarios. Revista
+Española de Documentación Científica, v.29, n.1, p.36-55, 2006.
+
+Schneider, J.W. Verification of bibliometric methods´ applicability
+for thesaurus construction. 2004. Tesis (Doctoral in Information
+Science) - Departament of Information Studies, Royal School
+of Library and Information Science, Denmak, 2004.
+
+Pérez Matos, N. E. Las disciplinas informativas en Cuba: análisis
+de su literatura profesional y su relación con los períodos
+constitucionales de la nación. 2011. Tesis (Doctoral en
+Información y Documentación) - Departamento de
+Biblioteconomía y Documentación, Universidad de Granada,
+Granada, 2011.
+
+Sieres, E.G. Evaluación de la Revista de Toxicología según los
+criterios de calidad Latindex. Revista de Toxicología, v.23, n.2,
+p.101-107, 2006. Disponible en: <http://www.redalyc.org/
+articulo.oa?id=91923302#>. Acceso en: 30 ago. 2013.
+
+Pettigrew, K.E.; Fidel, R.; Bruce, H. Conceptual frameworks in
+information behavior. Annual Review of Information Science
+and Technology, v.35, p.43-78, 2001.
+Ponjuán D. G. Gestión, gestión de información, gestión del
+conocimiento… gestión del futuro. Ciencias de la Información,
+v.30, n.3, p.43-52, 1999.
+Ríos Gómez, C.; Herrero Solana, V. La producción científica
+latinoamericana y la ciencia mundial: una revisión bibliográfica
+
+Verdecia-Gutiérrez, T. Sistema Regional de Información en
+línea para revistas científicas de América Latina, el Caribe,
+España y Portugal: un reto para las publicaciones científicas
+cubanas. Ciencias de la Información, v.41, n.1, p.71-73, 2010.
+Zins, C. Conceptual approaches for defining data, information,
+and knowledge. Journal of the American Society for Information
+Science and Technology, v.58, n.4, p.479-493, 2007a.
+Zins, C. Knowledge map of Information Science. Journal of the
+American Society for Information Science and Technology, v.58,
+n.4, p.645-672, 2007b.
+
+314
+
+C.L. GONZÁLEZ-VALIENTE
+
+TransInformação, Campinas, 26(3):305-314, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300007
+
+

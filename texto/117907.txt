@@ -1,0 +1,1428 @@
+9
+LECTURA Y TECNOLOGÍAS SOCIALES
+
+¡Leer, comentar, compartir! El fomento de
+la lectura y las tecnologías sociales
+Read, comment, share! Promoting reading
+and social technologies
+Ramón-Alberto MANSO-RODRÍGUEZ1
+
+Resumen
+Se reflexiona sobre los desafíos que suponen los avances tecnológicos para el sector bibliotecario, fundamentalmente los asociados
+a la llamada Web social y las potencialidades de éstas, para implementar acciones que contribuyan a fomentar y promover el gusto
+por la lectura en las nuevas generaciones de lectores. De esta forma, en un primer momento, el estudio analiza las tendencias
+actuales, en términos de comportamiento de los lectores y las herramientas tecnológicas más empleadas para establecer conexiones
+entre bibliotecarios, autores y lectores, con la finalidad de convertir la lectura en una actividad social. Seguidamente en la
+presentación se analizan una serie de iniciativas que actualmente se desarrollan en bibliotecas públicas y otras instituciones, para
+develar elementos a considerar como buenas prácticas en este sentido y con los cuales implementar desde la biblioteca acciones
+de fomento de la lectura, empleando las herramientas tecnológicas disponibles. Como resultado del estudio se identifican las
+principales funcionalidades que ofrecen los clubes de lectura en el entorno de Internet, como acción fundamental para la promoción
+de la lectura. De igual forma se observó cómo dichas actividades empleen como tecnologías para su implementación, los blog y
+las redes sociales y en menor medida los canales para el intercambio de archivos y los Wiki. Finalmente se ofrecen recomendaciones
+para el desarrollo de esta modalidad de servicio en cualquier biblioteca.
+Palabras ilave: Bibliotecas públicas del Estado. Fomento de la lectura. Tecnologías sociales. Usuarios. Web 2.0.
+
+Abstract
+We reflect on the challenges posed by technological advances for the library sector, primarily those associated with the so-called social
+Web and their potential to implement actions that help foster and promote a love for reading in new generations of readers. Thus, at
+first, we analyzed the current trends in terms of reader behavior and technological tools used to establish connections between librarians,
+authors and readers, in order to make reading a social activity. Next, we examine a number of initiatives currently being developed at
+public libraries and other institutions to unveil elements considered as good practices and actions that promote reading using the
+technological tools available. As a result of the study, we identified the main features offered by book clubs in the Internet environment
+as fundamental to the promotion of reading. Similarly we observed how these activities use technologies, blogs and social networks
+and, at a lower rate, file sharing and Wiki. Finally, we recommend the development of this type of service at any library.
+Keywords: Public libraries. Promoting reading. Social technologies. Users. Web 2.0.
+
+Introducción
+En la actualidad el debate entorno al fomento de
+lectura debe asentarse sobre la base de tres pilares
+1
+
+fundamentales: las necesidades y preferencias de una
+nueva generación de lectores, la incidencia del uso
+prolífero de innumerables dispositivos electrónicos por
+parte de estos y los nuevos medios y formas de lecturas.
+
+Universidad Central Marta Abreu de Las Villas, Centro de Estudios de Educación, Facultad de Ciencias de la Información y la Educación. Carretera a Camajuaní,
+km5 y 1/2, Santa Clara, Cuba. E-mail: <manso@uclv.edu.cu>.
+Recebido el 5/9/2013, re-presentado el 6/3/2014 y aceptado para su publicación el 28/3/2014.
+
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+Trans1.pmd
+
+9
+
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+18/12/2014, 11:17
+
+Todo ello propicia que la biblioteca tenga ante sí
+un gran reto ¿cómo fomentar y promover el gusto por la
+lectura en las nuevas generaciones de lectores? Desafío
+que en primer término debe partir precisamente del
+reconocimiento de las necesidades y preferencias de los
+lectores, algo que puede resultar complejo, dado en parte
+por la diversidad de segmentos etáreos que se atienden
+desde la propia institución.
+Por otro lado se vive una época en que la
+tecnología inunda cada espacio en el que habitamos y
+la irrupción y auge de los medios audiovisuales han
+propiciado un cambio en el modelo cultural, pasando
+de la supremacía de una cultura alfabética, textual e
+impresa a un modelo construido a base de imágenes
+audiovisuales.
+Es así como el placer de leer un libro, ha cedido
+espacio ante medios como la televisión, Internet, juegos
+interactivos, entre otros, los que hoy centran la atención
+e interés de las jóvenes generaciones. Influye de igual
+forma la manera en que estos jóvenes crean, gestionan
+y consumen la información en la actualidad.
+Aparejado a la diversificación de soportes, las
+tecnologías disponibles favorecen que el lector se
+enfrente a nuevas formas de lectura. La aparición del
+hipertexto ha dado paso de una lectura lineal, a una
+multisecuencial y multilineal, que permite leer rastreando,
+o sea, saltándose párrafos o bloques de información, así
+como la posibilidad, a través de enlaces, de abrirse a
+nuevas fuentes de información que complementan la
+principal.
+
+10
+
+R.A. MANSO-RODRÍGUEZ
+
+Se observa entonces que el entorno donde los
+lectores interactúan a diario se ve influenciado por las
+diferentes herramientas tecnológicas y dispositivos
+existentes, el cambio hacia una cultura más visual que
+textual y por los nuevos soportes y formas de lectura.
+Elementos que las bibliotecas deben reconocer y
+aprovechar para construir un escenario más adecuado a
+las necesidades e intereses de estos grupos de lectores y
+afianzar en ellos los hábitos de la lectura.
+El análisis de estos elementos resulta indispensable
+para el desarrollo e implementación de proyectos
+socialmente interactivos, donde a través de una
+participación activa del lector, se logre que la lectura
+resulte significativa para esta generación.
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+Trans1.pmd
+
+10
+
+En este sentido son innegables los esfuerzos que
+desde la biblioteca se realizan para lograr que la lectura
+sea valorada por la sociedad y particularmente por las
+generaciones más jóvenes. Muchas de estas iniciativas
+hacen un uso intensivo de las tecnologías sociales (blogs,
+wikis, sitios de redes sociales, etc.), constituyendo estos
+medios, mecanismos idóneos y eficaces para complementar
+la labor de fomento en el uso de los libros y el gusto por
+la lectura que se realiza en las bibliotecas (Celaya, 2007;
+Manso-Rodríguez, 2012).
+
+Métodos
+El estudio que se presenta tiene un alcance
+descriptivo. El tipo de investigación descriptiva, busca
+especificar propiedades, características y rasgos
+importantes de cualquier fenómeno que se analice.
+Resultando de utilidad para mostrar con precisión los
+ángulos o dimensiones de un fenómeno, suceso,
+comunidad, contexto o situación. Los estudios
+descriptivos miden conceptos o variables para decir
+cómo se comporta el fenómeno de interés, sin establecer
+relaciones entre las variables medidas (Hernández
+Sampieri et al., 2006).
+Dado su alcance, para la realización de la
+investigación se emplearon los métodos empíricos del
+análisis documental clásico y los estudios de caso, los
+cuales permitieron en un primer acercamiento, a través
+de la literatura referente al tema, detallar las diferentes
+herramientas y potencialidades de las mismas para
+ofrecer las acciones para el fomento de la lectura. Con
+posterioridad, se observó un conjunto de servicios que
+en este sentido se ofrecen en la Web y a partir de su
+estudio especificar propiedades, características y rasgos
+importantes, con los cuales establecer los elementos que
+todo servicio de fomento de la lectura, que emplee
+tecnologías en su desarrollo, debe observar para su
+implementación.
+La muestra la conformaron 14 proyectos (Cuadro
+1), tanto de habla hispana como anglosajona, de los
+cuales siete son desarrollados por bibliotecas públicas,
+correspondiendo el resto a otras organizaciones
+interesadas en el fomento del hábito de la lectura. Para
+la selección de dicha muestra se realizó una búsqueda
+global en Internet, tomándose aleatoriamente las
+experiencias, algunas de las cuales resultaban
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+18/12/2014, 11:17
+
+11
+
+Cuadro 1. Proyectos de fomento de la lectura a evaluar. 2014.
+Dirección electrónica
+
+Folec, portal para el fomento de la lectura
+
+<http://www.fomentolectura.es/>
+
+Lecturalia
+
+<http://www.lecturalia.com/>
+
+aNobii
+
+<http://www.anobii.com/>
+
+Book country
+
+<http://bookcountry.com/>
+
+Entrelectores
+
+<http://www.entrelectores.com/>
+
+Goodreads
+
+<http://www.goodreads.com>
+
+Quelibroleo.com
+
+<http://www.quelibroleo.com/>
+
+Club de Lectura Virtual, Biblioteca de Barcelona
+
+<http://www.clubdelectura.net>
+
+Ciberclub de Lectura, Bibliotecas Municipales de A Coruña
+
+<http://ciberclublectura.wordpress.com/>
+
+Club de Lectura El grito, Biblioteca Pública de Albacete
+
+<http://clubelgrito.blogspot.com/>
+
+Book Buzz: Virtual Book Club, Toronto Public Library
+
+<http://www.torontopubliclibrary.ca/bookbuzz/>
+
+Online Book Club, San José Public Library
+
+<http://www.sjpl.org/tags/online-book-club>
+
+Online Book Club, Haliburton County Public Library’s
+
+<http://www.goodreads.com/group/show/82817-hcpl-s-online-book-club>
+
+Online Book Club: Daily Book Samples, Bibliotecas Públicas EE.UU <http://www.dearreader.com/>
+Fuente: Elaboración propia (2014).
+Nota: EE.UU: Estados Unidos.
+
+representativas, dado su referencia en la literatura
+analizada (Cruz González-Cutre & Saurin Parra, 2008;
+Seoane, 2010; Manso-Rodríguez, 2012).
+Para la valoración de cada uno de estos proyectos
+y observar su funcionamiento, con vistas a identificar
+elementos comunes y diferencias más representativas,
+resultó necesario normalizar los datos sobre cada página.
+En este sentido se elaboró una guía, que contempló los
+siguientes elementos: denominación, modalidad,
+público al que va dirigido, cantidad de usuarios, alcance
+temático, entidad organizadora, tecnologías que usan y
+funcionalidades o servicios que ofrece.
+Como modalidad de actividad para el fomento
+del hábito de lectura, se determinó valorar la
+implementación del Club de Lectura, por ser ésta la
+acción más común entre las instituciones bibliotecarias
+y de otras organizaciones que ofrecen a su comunidad
+usuaria, una vía para la promoción del libro y la lectura.
+
+El lector, el fomento de la lectura y la Web
+social
+Hoy en día, las acciones que la biblioteca realice
+para desarrollar o reforzar el hábito de la lectura, deben
+lograr despertar interés y erigirse como espacios de
+expresión y comunicación en los que el lector encuentre
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+Trans1.pmd
+
+11
+
+una amplia oferta cultural, contribuyendo de esta
+manera, a su formación como lectores competentes,
+críticos y capaces de dominar las diferentes formas de
+lecturas presentes en la actualidad y de discriminar la
+abundante información a la que tienen acceso (Abello,
+2010; Lozano, 2010).
+Para lograr estos fines es primordial definir la
+tipología de lectores a atender, elemento que permitirá
+identificar los gustos, preferencias y hábitos de lectura
+de la comunidad de lectores asociados a la biblioteca.
+De manera general, en estos tiempos, se pueden
+reconocer y definir tres tipos de lectores: el tradicional, el
+polivalente y el digital.
+El lector tradicional siente cierta reticencia por los
+medios digitales para la lectura, necesita aún hojear el
+libro y percibir el olor característico del título recién salido
+de imprenta, en cambio, al otro extremo se encuentra el
+lector digital, quien es un gran consumidor de las
+tecnologías, concibe su mundo alrededor de las redes,
+leyendo y comunicándose solo a través de ella y rara vez
+a tomado un libro en sus manos, y en término medio,
+el polivalente, quien tiene aptitudes para utilizar
+diferentes formas de lectura, para apropiarse de
+diferentes tipos de textos y escritos y es capaz de leer en
+diferentes soportes.
+Por lo general, dentro de las categorías de lector
+polivalente y del digital, podemos englobar a las
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+18/12/2014, 11:17
+
+LECTURA Y TECNOLOGÍAS SOCIALES
+
+Proyecto
+
+generaciones más jóvenes. Estos lectores se caracterizan,
+entre otros elementos, por poseer una amplia cultura
+digital, y por ello están acostumbrados a utilizar disímiles
+tecnologías y a compartir sus gustos, preferencias y hasta
+contenidos, en espacios de socialización.
+
+- Favorece la creación de una fuente de
+información complementaria a los suplementos
+y revistas culturales tradicionales.
+
+Al ser estos los segmentos etáreos a los que se
+debe encaminar los esfuerzos para fomentar y afianzar
+los hábitos de la lectura, requerirá la construcción de un
+escenario más adecuado a sus necesidades e intereses.
+Una vía para ello, es aprovechando las potencialidades
+que los avances tecnológicos ofrecen y propiciar así
+espacios donde la comunidad se “reúna” con dicha
+finalidad.
+
+- Motivan la creación a partir de más visibilidad a
+lo escrito y lo publicado.
+
+Es así, como las bibliotecas para ofrecer las
+actividades de fomento de la lectura, deben apostar por
+la innovación, que basada en la cooperación, la búsqueda
+de sinergia y el uso eficiente de los recursos, permita la
+presentación de las mismas, de forma diferente,
+diversificada, atractiva e impregnada de la filosofía 2.0
+(Celaya, 2007; Lozano, 2010).
+
+- Facilita la organización cronológica de eventos.
+
+Por tanto se han de encaminar los esfuerzos para
+crear espacios, que desde la biblioteca, contribuyan a
+conectar a los lectores entre ellos y con los libros que les
+son afines, en el momento adecuado y el lugar correcto
+(Abram, 2008), así como propiciar el acercamiento entre
+lectores, autores y bibliotecarios, todos en un ambiente
+colaborativo y con una participación activa de cada uno
+de ellos.
+
+12
+
+Sin lugar a dudas, aprovechando las tecnologías
+sociales, los lectores han encontrado un mecanismo
+donde expresarse sin ningún tipo de intermediación, por
+tal motivo estas se han convertido en la vía idónea para
+obtener información y compartir opiniones sobre libros
+y autores, actuando como fuentes complementaria a las
+oficiales. Veamos algunas de las potencialidades de
+algunas de las herramientas más utilizadas en el
+desarrollo de acciones para el fomento de la lectura.
+
+R.A. MANSO-RODRÍGUEZ
+
+Blog: Uno de los usos más frecuente de este tipo
+de tecnología, para la implementación de acciones de
+fomento de la lectura, es para el desarrollo de un Club de
+Lectura Virtual. Entre las ventajas que se le reconocen a
+los blog para el desarrollo de estas acciones, Seoane
+(2010, online), plantea como principales:
+- Permiten crear una comunidad de lectores con
+los mismos hábitos, gustos, preferencias, etc. y su
+participación.
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+Trans1.pmd
+
+12
+
+- Es una vía fiable de intercambio de información
+sobre libros entre lectores.
+
+- Constituyen una forma de comunicación
+bidireccional.
+- No requiere desembolso económico.
+- Su actualización es sencilla y constante.
+- Posibilidades de vincularse con otros blog o
+contenidos.
+
+Con relación a esta tecnología, Richardson (2006)
+señala que al ser una herramienta que se emplea para el
+intercambio de ideas y como un recurso para
+interconexión y comentarios sobre las ideas relacionadas
+entre sí, son una vía idónea para promover el
+pensamiento crítico, analítico, creativo, intuitivo,
+asociativo y analógico, además para potenciar el acceso
+a la información de calidad y combinar la interacción de
+lo individual con lo social.
+Wiki: La utilización de los Wikis, para el desarrollo
+de acciones para el fomento de la lectura, según Celaya
+(2009), aporta una serie de valores que se deben tener
+en cuenta, entre ellos: favorece el desarrollo de la
+capacidad de argumentación para hacer valor un punto
+de vista frente a otros, contrastar información de
+diferentes fuentes, valorar la relevancia de los datos
+encontrados y reconocer el valor de los textos firmados
+frente a los anónimos. Este autor además enuncia, que
+independientemente de las imperfecciones que en esta
+plataforma se puedan observar, la misma ofrece la
+posibilidad de mostrar a los jóvenes lectores la
+complejidad de la elaboración de contenidos, los
+diferentes puntos de vista que puede tener una historia
+y la importancia de contrastar las fuentes, por citar
+algunas potencialidades.
+Entre las utilidades principales de esta
+herramienta están: la creación de biografías de autores,
+materiales de consulta y apoyo a las disímiles actividades
+y para el desarrollo de concursos literarios. También
+resulta atractiva para la elaboración de antologías, con
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+18/12/2014, 11:17
+
+Sitios de Redes Sociales: Con respecto al empleo
+de los sitios de redes sociales en el fomento de la lectura,
+estas herramientas ofrecen la posibilidad de mantener
+un flujo de comunicación constante con los lectores y
+estos a su vez con otros, beneficiándose ambas partes,
+pues al conocer mediante la recomendación de libros
+entre estos últimos, la biblioteca podrá monitorear sus
+gustos, necesidades e intereses (Manso-Rodríguez, 2012).
+Los sitios de redes sociales además favorecen la
+creación de espacios de lectura y escritura más cercanos
+a la manera en que los lectores se comunican
+actualmente, redundando en una mayor motivación por
+el placer de leer (Celaya, 2009). Siendo sus usos más
+frecuentes, para la implementación de Club de Lectura
+Virtual y como vía para intercambiar archivos multimedia.
+Intercambio de archivos y datos: Otra alternativa,
+con relación al fomento de la lectura, que las bibliotecas
+deben evaluar, son las diferentes plataformas o
+herramientas para el intercambio de archivos
+audiovisuales y datos, entre ellas por ejemplo: YouTube,
+Flickr, Slideshare, Really Simple Syndication (RSS).
+El empleo desde la biblioteca, de algunas de estas
+herramientas, permite desarrollar un conjunto de
+acciones para el fomento de la lectura, actividades que
+según algunos autores (Bolan et al., 2007; Luo, 2009)
+comprenderán de manera general la realización de:
+- videos con entrevista a autores o de actividades
+de promoción desarrollada en la biblioteca.
+- fotos relacionadas con los encuentros de
+escritores o la presentación de libros la digitalización de
+la cubierta o algunas páginas de los libros.
+- grabación de fragmentos de libros o entrevistas
+con autores en formato de audio.
+- la elaboración de presentaciones, orientaciones
+bibliográficas, guías de lectura y tutoriales (sobre cómo
+utilizar el catálogo, ilustrar el contenido del curso de
+alfabetización informacional, sobre la búsqueda,
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+Trans1.pmd
+
+13
+
+recuperación y evaluación de la información, cómo
+acceder y utilizar bases de datos de la biblioteca, etc...).
+Acciones que se pueden complementar, según
+sugiere Celaya (2009), con la participación activa del
+lector en los procesos de creación, etiquetado y
+publicación en la red.
+Aprovechando estas funcionalidades, la
+biblioteca, puede crear su propio perfil o canal y subir o
+destacar como favoritos en su propio espacio archivos
+audiovisuales, además elaborarlos en el centro, grabando
+las actividades culturales y de animación a la lectura que
+llevan a cabo, para posteriormente colgarlas en la Red,
+acción que puede ser auxiliada por los propios usuarios.
+Arya y Mishra (2012) y Buigues-García y GiménezChornet (2012), señalan en relación con la utilización de
+los RSS, la disponibilidad de la información en cualquier
+interfaz, las posibilidades para descubrir nuevas fuentes
+de interés: notificaciones de nuevos resultados de
+búsquedas, artículos publicados, fotos, etc.; la privacidad
+al evitar el uso del correo electrónico para subscribirse a
+las fuentes y la protección contra el spam y los virus.
+Resulta evidente, que para intentar motivar en las
+nuevas generaciones los hábitos de la lectura, y que esta
+se convierta en una opción de ocio, se debe procurar
+emplear algunas de las herramientas descritas con
+anterioridad. Al hacer una mirada en la Web, encontramos
+múltiples iniciativas en este sentido, el análisis de algunas
+de ellas, dará las pistas de los elementos a considerar para
+desarrollar esta modalidad de servicio desde cualquier
+biblioteca que desee implementar su club de lectura en
+ambiente virtual.
+
+Algunas realidades, el fomento de la lectura
+en la Web social
+Del análisis anterior observamos que una de las
+potencialidades que ofrecen el empleo de las tecnologías
+sociales para propiciar el desarrollo de acciones para el
+fomento de la lectura, es la implementación de los Clubs
+de Lectura, actividad que tradicionalmente la biblioteca
+ofrece a su comunidad de usuarios y que es considerado
+como un grupo informal de lectores que se reúnen para
+leer un mismo libro y posteriormente comentarlo y
+discutir sus puntos de vista entre todos (Reitz, 2010).
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+18/12/2014, 11:17
+
+13
+LECTURA Y TECNOLOGÍAS SOCIALES
+
+la selección, organización y presentación de textos según
+determinados criterios y la recopilación y presentación
+de fuentes documentales diversas, como por ejemplo:
+artículos de prensa, reseñas de libros y cuentos o poemas
+escritos por los propios usuarios, entre otras opciones
+creativas e innovadoras (Arreguin, 2004; Chawner & Lewis,
+2006; Seoane, 2010).
+
+Así podemos definir como un Club de Lectura
+Virtual, al espacio de encuentro, que basado en el empleo
+de herramientas tecnológicas, propicia que los lectores
+se “reúnan” para exponer sus criterios y puntos de vista
+sobre determinada lectura, debatir, valorar y sugerir obras
+literarias.
+Señalan Cruz González-Cutre y Saurin Parra (2008),
+que existen dos modalidades: los que fijan un día y hora
+para la discusión, de un modo similar al típico chat, y en
+otros la participación es atemporal: los participantes
+dejan sus opiniones en cualquier momento. De igual
+manera pueden ser considerados como: generales
+cuando su finalidad es promover cualquier temática o
+dedicados a un interés o género específico, si se organizan
+con dicha finalidad. Si por el contrario tenemos en cuenta
+quienes lo organizan, estos pueden ser institucionales,
+cuando son promovidos por bibliotecas, librerías,
+editoriales u otras organizaciones asociadas al mundo
+del libro y la literatura y personales, si son creados por un
+escritor o lector interesado en crear su propio espacio de
+promoción.
+
+14
+
+Aunque no existen muchas diferencias entre las
+funcionalidades que brindan los servicios regentados por
+bibliotecas y los ofrecidos por librerías u otras
+organizaciones, de manera particular se presentan
+elementos distintivos que son por tanto característicos
+de cada uno y a la vez diferenciadores.
+
+R.A. MANSO-RODRÍGUEZ
+
+En efecto, un club de lectura virtual, es ya una
+realidad para muchas organizaciones, entre las que por
+supuesto se incluyen las bibliotecas, pero ¿cuáles son las
+funcionalidades o servicios más comunes? ¿qué patrón
+seguir para desarrollar eficientemente esta modalidad de
+servicio? Una valoración de algunas de estas experiencias
+permitirá evacuar estas interrogantes y de este modo
+adquirir ideas que permitan un mejor desarrollo de esta
+actividad. Aspectos que primeramente son abordados
+de manera particular por cada proyecto y posteriormente
+analizados en su conjunto.
+
+La mayor diferencia reside en las fuentes
+documentales que se proponen para la lectura, en las
+instituciones bibliotecarias éstas proceden en gran
+medida de sus fondos y el objetivo del club es
+precisamente promover la circulación de las obras que
+se atesoran en la biblioteca y por tanto están
+condicionadas, aparte de los intereses del usuario, por la
+disponibilidad del título dentro de la institución. En
+cambio en las iniciativas que responden a otras
+instituciones relacionadas con el mundo del libro, lo
+primero es promover la obra literaria, en algunos casos
+con un marcado interés comercial, aunque la gran
+mayoría lo que persigue es fomentar la lectura basada
+en los intereses consensuados de los miembros del club.
+
+En las Cuadro 2 y Cuadro 3 se muestra la
+información general recopilada de cada uno de los
+proyectos. Para su análisis han sido divididos en dos
+grupos bajo el criterio de la entidad que lo organiza, ya
+sean instituciones bibliotecarias o perteneciente a otros
+organismos o asociaciones.
+
+Se observa de manera general, que los proyectos
+analizados emplean como tecnología para implementar
+el servicio, los blog y las redes sociales (principalmente:
+Facebook y Twitter) y en menor medida emplean los Wikis
+y los sitios para el intercambio de archivos, resultando
+YouTube y los canales RSS, los más comunes.
+
+Por regla general todos los servicios evaluados se
+centran en la promoción del libro para su consulta y
+diseminación por parte de los usuarios que consultan el
+sitio, enfocados fundamentalmente en promover los
+valores de determinada obra, divulgar las características
+del libro que puedan ser atractivas para los usuarios y
+brindar datos de los autores e informaciones diversas
+
+Valorando cada característica general o
+específica de los proyectos analizados, para desarrollar
+acciones de fomento de la lectura potenciadas desde
+la biblioteca y empleando herramientas de la Web
+social, se sugiere seguir un conjunto de pasos, modificados
+a partir de la propuesta de Manso-Rodríguez (2012) y
+entre los que se pueden mencionar:
+
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+Trans1.pmd
+
+sobre el mundo del libro y la literatura. En resumen se
+puede observar que entre las funcionalidades más
+comunes, se encuentran: Crear y/o unirse a grupos de
+interés; Publicar sugerencias de libros; Publicar
+comentarios sobre un libro; Valorar mediante sistema de
+puntos los libros; Foro/Chat para contacto de la
+comunidad; Encuentro con escritores; Publicar fotos/
+actividades/biografías de autores; Guías de Lectura;
+Debate guiado por preguntas; Presencia en los sitios de
+redes sociales; Enlaces a la crítica especializada; Crear lista
+de autores/libros preferidos; Información general del
+Club.
+
+14
+
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+18/12/2014, 11:17
+
+15
+
+Cuadro 2. Información general de los proyectos desarrollados por instituciones no bibliotecarias (2014).
+Folec
+
+Lecturalia
+
+aNobii
+
+Book country
+
+Modalidad
+
+Asincrónico
+
+Asincrónico
+
+Asincrónico
+
+Asincrónico
+
+Público al que va
+dirigido
+
+Adolescentes (12 a 18
+años)
+
+Público general
+
+Público general
+
+Público general (más de 18
+años)
+
+Usuarios
+
+55
+
+64.083
+
+68.154
+
+1.166
+
+Alcance temático
+
+Literatura infantil
+
+Literatura general
+
+Literatura general
+
+Romance, fantasía, misterio,
+ciencia ficción
+
+Entidad
+organizadora
+
+e-Infosfera
+
+Ontecnia
+
+HMV Group
+
+Penguin Group, Pearson
+
+Tecnologías que
+usan
+
+Blog, Wiki, Redes Sociales y
+Canal YouTube
+
+Blog, Redes Sociales y
+Canal RSS
+
+Blog y Redes Sociales
+
+Blog y Redes Sociales
+
+Funcionalidades
+o servicios que
+ofrece
+
+Noticias relacionadas con
+la lectura, Tutoriales para
+el desarrollo de habilidades
+lecto-escritoras, Ranking
+de libros por más votados
+o comentados, Wiki para
+colgar relatos, suscripción
+a canal RSS, lista de libros
+favoritos, estimulación a
+usuarios por participar.
+
+Introducir comentarios,
+puntear libros, añadir o
+modificar fichas de libros
+y autores, información
+sobre novedades, enlace
+a artículos de opinión
+especializada, ofrece
+recomendaciones,
+suscripción a canal RSS.
+
+Crear y administrar una
+biblioteca virtual,
+categorizar libros leídos,
+crear comunidad de
+lectores afines, enviar
+mensajes privados, recibir
+sugerencias, crear reseñas
+de libros, comentar o
+puntear los libros, incluir
+widget, versión para
+móviles, obtener criticas e
+información bibliográfica
+mediante el escaneo de
+código de barra del libro.
+
+Los autores pueden publicar
+una obra o parte de ella,
+introducir críticas,
+comentarios o sugerencias,
+recibir información
+actualizada sobre las
+actividades del sitio, estimular
+la participación de sus
+miembros.
+
+Denominación
+
+Entrelectores
+
+Goodreads
+
+Quelibroleo.com
+
+Modalidad
+
+Asincrónico
+
+Asincrónico
+
+Asincrónico
+
+Público al que va dirigido
+
+Público general
+
+Público general (más de 13 años) Público general
+
+Usuarios
+
+15.745
+
+16.000.000
+
+59.419
+
+Alcance temático
+
+Literatura general
+
+Literatura general
+
+Literatura general
+
+Entidad organizadora
+
+Evoluziona, DosDoce, Nervia,
+Ediciona y Gavilán Digital
+
+Goodreads Inc. (sitio personal de
+Otis Chandler)
+
+Grupo RC S.L.
+
+Tecnologías que usan
+
+Blog, Redes Sociales y Canal RSS
+
+Blog, Redes Sociales
+
+Blog, Redes Sociales y Canal
+YouTube y RSS
+
+Funcionalidades o servicios que
+ofrece
+
+Compartir información,
+opiniones, críticas y gustos de
+lectura, comunicarse entre los
+miembros, recibir
+recomendaciones, conversar
+con autores, puntear o
+comentar libros, suscripción a
+canal RSS, añadir libros y
+compartirlos.
+
+Puntear y comentar libros,
+conectar con otros lectores y
+autores, recibir
+recomendaciones de lectura,
+añadir libros, crear estanterías
+de títulos.
+
+Selección de la lectura del mes
+mediante sistema de votos, hacer
+comentarios, canal YouTube y RSS,
+listar las sugerencias por varias
+categorías, informarse de eventos
+o noticias generales, recibir
+recomendaciones, comentar o
+puntear los libros, crear biblioteca
+personalizada.
+
+Fuente: Elaboración propia (2014).
+Nota: RSS: Really Simple Sindication.
+
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+Trans1.pmd
+
+15
+
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+18/12/2014, 11:17
+
+LECTURA Y TECNOLOGÍAS SOCIALES
+
+Denominación
+
+Cuadro 3. Información general de los proyectos desarrollados por instituciones bibliotecarias (2014).
+
+16
+
+Denominación
+
+Club de lectura virtual
+
+Ciberclub de lectura
+
+Club de lectura el grito
+
+Book buzz: virtual book club
+
+Modalidad
+
+Asincrónico/Sincrónico
+
+Asincrónico
+
+Asincrónico
+
+Asincrónico/Sincrónico
+
+Público al que va
+dirigido
+
+Público general
+
+Público general
+
+Público general
+
+Público general
+
+Usuarios
+
+7.000
+
+10.368
+
+403
+
+802
+
+Alcance temático
+
+Novelas autores
+contemporáneos
+
+Literatura general
+
+Novela negra, Fantasía,
+Terror, Policiaco
+
+Literatura general
+
+Entidad
+organizadora
+
+Biblioteca de Barcelona
+
+Bibliotecas Municipales Biblioteca Pública de
+de A Coruña
+Albacete
+
+Toronto Public Library
+
+Tecnologías que
+usan
+
+Blog y Redes Sociales
+
+Blog, Redes Sociales y Blog, Redes Sociales,
+Canal RSS
+Canal RSS y Podcasts
+
+Blog, Redes Sociales y Canal RSS
+
+Funcionalidades o
+servicios que ofrece
+
+Comentar el libro
+propuesto, charlar con
+el autor, presentar
+materiales de ayuda
+para la lectura, videos
+con entrevistas al autor
+o escenas de la obra,
+enlaces a la crítica
+especializada, acceso a
+capítulos del libro,
+datos del autor y de
+sus obras, información
+sobre el libro y los
+personajes,
+recomendaciones de
+lectura, foro.
+
+Comentar libros, sugerir
+nuevas adquisiciones,
+lectura y debate guiado
+por plazos y preguntas,
+imagen de la portada,
+nube de palabras,
+efemérides, listado de
+títulos más populares,
+calendario de plazos
+para la lectura,
+suscripción a noticias
+por correo electrónico y
+RSS.
+
+La lectura del mes es promovida a
+partir de la sugerencia de los
+miembros, permite intercambiar
+opiniones, conocer e interactuar con
+el escritor, suscripción a noticias por
+correo electrónico, debate guiado
+por preguntas, reseñas de libros,
+concurso anual de mejores lecturas,
+suscripción a canal RSS.
+
+R.A. MANSO-RODRÍGUEZ
+
+Denominación
+
+Online book club
+
+Online book club
+
+Online book club: daily book samples
+
+Modalidad
+
+Asincrónico
+
+Asincrónico
+
+Asincrónico
+
+Público al que va dirigido
+
+Público general
+
+Público general
+
+Público general
+
+Usuarios
+
+2.220
+
+36
+
+375.000
+
+Alcance temático
+
+Literatura general
+
+Literatura general
+
+Ficción, Misterio, Romance, Suspense
+
+Entidad organizadora
+
+San José Public Library
+
+Haliburton County Public
+Library’s
+
+Public Library’s Public Library’s
+EE.UU
+
+Tecnologías que usan
+
+Blog y Redes Sociales
+
+Blog y Redes Sociales
+
+Blog y Redes Sociales
+
+Funcionalidades o servicios
+que ofrece
+
+Presenta reseñas del libro del
+mes, datos del autor con enlace
+a su página personal, video de
+presentación de la obra, acceso
+al libro en varios formatos,
+debate guiado por preguntas,
+enlace a la crítica especializada,
+suscripción a noticias por correo
+electrónico
+
+Selección de la lectura del
+mes mediante sistema de
+votos, obtener
+recomendaciones de lectura,
+comentar o puntear libros,
+reseñas de libros, datos del
+autor, pequeños fragmentos
+de la obra, enviar mensajes
+privados y datos de cada
+miembro: libros, autores y
+géneros favoritos, amigos,
+etc.
+
+Recibir por correo extracto de libros,
+compartir lecturas y opiniones, recibir
+notificaciones por correo electrónico,
+intercambiar con el autor, publicación
+de entrevistas y fotos de autores.
+
+Fuente: Elaboración propia (2014).
+Nota: EE.UU: Estados Unidos; RSS: Really Simple Sindication.
+
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+Trans1.pmd
+
+Promocionar
+actividades del club,
+recomendaciones de
+lectura, suscripción a
+noticias por correo
+electrónico y RSS,
+enlace los libros al
+catálogo social
+LibraryThing, descargar
+o escuchar podcasts
+de las emisiones del
+club en la radio local.
+
+16
+
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+18/12/2014, 11:17
+
+- Conformar el grupo de usuarios.
+- Definir los objetivos del club y las políticas del
+servicio.
+- Evaluar las capacidades tecnológicas existentes,
+tanto desde el punto de vista del usuario, como de la
+biblioteca.
+- Crear la página o grupo en la Web social.
+- Elaborar los contenidos para el servicio:
+digitalizar portadas de los libros y capítulos del mismo,
+confeccionar reseña del título, biografía del autor, ofrecer
+enlaces a la crítica especializada.
+- Proponer títulos de libros para que mediante
+sistema de votación los miembros decidan qué van a
+leer.
+- Guiar e incentivar el debate entre los lectores,
+mediante preguntas.
+- Supervisar y alertar ante incidencias, a los
+usuarios infractores de la Política del Servicio.
+- Promocionar las actividades del club tradicional
+y otras actividades de la biblioteca.
+- Evaluar continuamente el servicio y tramitar las
+sugerencias de los usuarios.
+El primer elemento a considerar en la planificación
+del servicio, es conocer los intereses y necesidades de
+los lectores. Con esta información se procederá a
+conformar el Club de Lectura con los lectores que
+presentan similar interés por determinada temática,
+posteriormente con el consenso de todos los miembros
+se deberá definir los objetivos del club, las políticas del
+servicio y las estrategias a desarrollar para su difusión,
+pues algunos lectores en ocasiones prefieren recibir
+asesoría en lugar de actividades participativas. Las vías
+para desarrollar esta actividad pueden ser muy variadas,
+desde la observación del medio ambiente, la
+investigación, hasta el contacto personal con los lectores
+mediante entrevistas o encuestas.
+En relación a las políticas del servicio, estas en lo
+fundamental, deben responder a cuatro dimensiones: las
+relativas a la organización del servicio, al comportamiento
+del personal que atenderá el mismo, a los deberes y
+derechos de los lectores y sobre lo concerniente al
+respecto a la legislación sobre Derecho de autor.
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+Trans1.pmd
+
+17
+
+Antes de proceder a diseñar e implementar el
+servicio, se requiere de una evaluación de la
+infraestructura tecnológica con la que cuenta la
+organización y el usuario. A partir de esa valoración, se
+han de analizar las disímiles tecnologías existentes y
+ajustándose al estudio anterior, seleccionar la más idónea,
+que entre las funcionalidades más atractivas para los
+usuarios debe considerar: la capacidad para ofrecer
+facilidades para, de manera opcional, recibir notificación
+por correo electrónico, servir de espacio para
+proporcionar contacto con autores, preferentemente por
+chat, foro y otros servicios que potencien la participación
+activa de la comunidad usuaria.
+En este punto resulta igualmente importante
+evaluar otros servicios similares y tomar de estos las
+mejores experiencias. Empezar el proceso de formar un
+club de lectura, investigando sobre el funcionamiento
+de clubes ya existentes, rinde buenos frutos en cuanto a
+mejorar el funcionamiento del mismo, logrando así
+minimizar los aspectos negativos, que ya previamente
+estas instituciones han identificado.
+Antes de poner en marcha el Club de Lectura, en
+el medio tecnológico definido, un aspecto de primordial
+importancia es establecer los criterios para la selección
+de los libros, acción que se realizará en conjunto con
+algunos lectores seleccionados. Establecidos estos
+criterios, se determina el título a promover, se digitaliza
+su portada y se elabora una información detallada de
+dicha obra, incluyendo datos del autor, si existe la versión
+en digital de la obra, se deberán realizar todas las
+gestiones necesarias para obtener la licencia
+correspondiente y permitirles a los lectores poder leer
+en pantalla o descargarse la obra para un dispositivo de
+lectura. Un ejemplo de buenas prácticas en este sentido
+es el Club de Lectura Virtual de la Biblioteca de Barcelona
+<http://www.clubdelectura.net> quien junto a la
+propuesta de título, presenta materiales de ayuda para
+la lectura, videos con entrevistas al autor o algunas
+escenas de la obra, enlaces a la crítica especializada,
+acceso a capítulos del libro, datos del autor y de sus obras,
+así como información sobre el libro y los personajes.
+Para determinar los títulos a promover, es
+recomendable elaborar una lista de al menos cinco
+opciones, para que mediante sistema de votación los
+miembros del club, determinen su favorito. Esta práctica
+es seguida por algunos de los servicios analizados, entre
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+18/12/2014, 11:17
+
+17
+LECTURA Y TECNOLOGÍAS SOCIALES
+
+- Diagnosticar los gustos, motivaciones y el
+comportamiento de los lectores.
+
+ellos los clubes de lectura de la Toronto Public Library
+<http://www.torontopubliclibrary.ca/bookbuzz/> y de la
+Haliburton County Public Library’s <http://www.
+goodreads.com/group/show/82817-hcpl-s-online-bookclub> y por Quelibroleo.com <http://www.quelibroleo.
+com/>. Resulta oportuno señalar que esta acción debe
+ser intencionada por el moderador del club, quien está
+apoyado en listas de best seller, folletos de editorial o
+reseñas de libros de otros clubes de lectura existentes
+en la red, y facilite información complementaria al grupo
+para ayudar la toma de decisión.
+Una excelente vía para incentivar el debate es
+preparar una guía de lectura y en caso de no tener una
+disponible o de tiempo para su confección, se debe
+recurrir a elaborar preguntas o comentarios generales
+que ayuden a promover el debate. Alternativas para ello
+son: visitar otros clubes de lectura o sitios de promoción
+de libros, los cuales suelen proporcionar una breve
+descripción del mismo junto con comentarios y
+preguntas de los lectores, hacer que cada miembro, antes
+de comenzar la sección, anote una pregunta que luego
+es socializada o presentar fragmentos interesantes de la
+obra para mantener un hilo de conversación entorno al
+mismo.
+
+18
+
+En sentido general, las preguntas pueden estar
+relacionadas con: el valor de la obra, sobre los temas que
+más enfatiza el escritor y el aumento del interés del lector
+sobre los mismos, la evolución de los personajes en la
+historia y la identificación del lector con estos y la manera
+en que el escritor revela su visión del mundo a través de
+la obra y su incidencia en un cambio de actitud del lector
+ante la temática que se aborda o la asimilación de nuevo
+conocimiento que modifique algún aspecto de su vida,
+no descubierto con anterioridad. Los clubes de lectura
+de las Bibliotecas Municipales de A Coruña <http://
+ciberclublectura.wordpress.com/> y de la Toronto Public
+Library <http://www.torontopubliclibrary.ca/bookbuzz/>
+incentivan la participación de sus lectores a través de las
+prácticas descritas anteriormente.
+
+R.A. MANSO-RODRÍGUEZ
+
+Para mantener una buena dinámica dentro del
+club de lectura virtual, el moderador o facilitador además
+de guiar el debate en torno a la obra del autor y al título
+que se presenta, debe animar la participación de los
+lectores, dar respuesta a los mensajes de los miembros,
+reseñar los libros y la información bibliográfica
+correspondiente, debe aplicar o hacer cumplir las reglas
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+Trans1.pmd
+
+18
+
+del servicio. Funciones que requieren que el moderador
+sea flexible, dedicado y con mesura, sobre todo para
+mantener una conversación equilibrada y el buen tono
+del debate.
+Evidentemente la promoción del club de lectura
+es esencial para atraer a nuevos miembros,
+recomendando como vías: los concursos, forma divertida
+y gratificante de estimular la participación; unirse a otros
+clubes de lectura virtual; vincular el sitio del club con los
+de los autores que se promueven y con la biblioteca.
+Además no se deben olvidar las formas tradicionales,
+como la creación de folletos, poster y la promoción
+directa en actividades relacionadas con el libro. De los
+clubes analizados son ejemplo de incentivar la
+participación de sus lectores mediante variadas
+alternativas, el de la Toronto Public Library <http://
+www.toronto publiclibrary.ca/bookbuzz/> y los portales
+Book Country <http://bookcountry.com/> y Folec <http://
+www.fomentolectura.es/>.
+Por último, es recomendable establecer mecanismos
+de retroalimentación que permitan evaluar
+periódicamente el estado del proyecto y tomar medidas
+correctoras, modificar los objetivos o lo que sea necesario,
+mantener una actualización constate, así como, tramitar
+las sugerencias de los usuarios.
+En resumen, el éxito del Club de Lectura Virtual no
+solo dependerá de una buena selección de las obras
+literarias a promover, más bien estribará en una actitud
+de escucha permanente de las aportaciones de todos
+los lectores, y de estimularlos y agradecerles como con
+su trabajo han contribuido al desarrollo de los hábitos
+de la lectura en la comunidad.
+
+Conclusión
+Innegable son los esfuerzos que se realizan por
+lograr que la lectura sea valorada por la sociedad y
+particularmente por las generaciones más jóvenes, en
+este sentido, la biblioteca para desarrollar acciones que
+contribuyan a este fin, primeramente ha de reconocer
+las tendencias actuales en el comportamiento de los
+lectores, reconociendo que estos se pueden tipificar, en
+cuanto al formato que prefieren para la lectura, en
+tradicionales, polivalentes y digitales. Por otro lado
+reconocer que en la actualidad, la lectura compite con
+una variedad de opciones donde pasar el tiempo libre y
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+18/12/2014, 11:17
+
+En este sentido, propiciar un acercamiento del
+lector a los libros que le pueden ser de interés, requerirá
+aprovechar las potencialidades que diferentes
+tecnologías sociales brindan, espacios donde obtener
+información y compartir opiniones sobre libros y autores
+es una opción más. Particularmente se han documentado
+las oportunidades que brindan herramientas como los
+blog, wikis, sitios de redes sociales y diferentes
+plataformas para el intercambio de archivos
+audiovisuales y datos, tal como: YouTube, Flickr, Slideshare,
+RSS.
+Al hacer una mirada a la web, múltiples son las
+iniciativas que se pueden valorar para dar los primeros
+pasos en el desarrollo e implementación de las
+actividades para el fomento de la lectura. Cada
+
+experiencia reseñada en este estudio permitió obtener
+información de primera mano y adquirir ideas para el
+desarrollo de estas actividades, con las cuales desde la
+biblioteca, en crear espacios que favorezcan el
+intercambio de opiniones y experiencias, que involucre
+y estimule la participación de los lectores e intente
+motivarlos a formar en ellos la necesidad de leer, como
+una opción de ocio.
+Finalmente, a modo de recomendación, si se
+quiere ofrecer un servicio de promoción de la lectura,
+que resulte atractivo a los lectores, se ha de considerar
+como un elemento fundamental la creación de las
+condiciones para estimular la colaboración de los mismos
+(participación activa en el diseño, implementación,
+desarrollo y evaluación), resultando las tecnologías
+sociales un mecanismo idóneo para lograr cumplimentar
+estas acciones, logrando así que el club de lectura de la
+biblioteca se convierta en una comunidad de lectores
+colaborativa y participativa.
+
+Referencias
+Abello, L. Uso de Tic’s en fomento a la lectura: experiencia en
+la biblioteca pública municipal de Doñihue y otras bibliotecas.
+Encuentro Nacional de BiblioRedes, 7., 2010, Olmué, Chile: Anales
+electrónicos... Olmué: Word Press, 2010. Disponible en: <http://
+www.slideshare.net/BiblioRedes/>. Acceso en: 22 feb. 2013.
+
+Cruz González-Cutre, I.; Saurin Parra, J. Un viaje virtual por los
+clubes de lectura. 2008. Disponible en: <http://eprints.rclis.org/
+bitstream/10760/12561/1/Art._Blogs-De_la_ Cruz%26Saurin.
+pdf>. Acceso en: 22 feb. 2013.
+
+Abram, S. Promoting reading using this 2.0 Stuff. MultiMedia &
+Internet@Schools, v.15, n.5, p.21-23, 2008.
+
+Hernandez Sampieri, R.; Fernandez Collado, C.; Baptista Lucio,
+P. Metodología de la investigación. 4.ed. México: McGraw Hill,
+2006.
+
+Arreguin, C. Wikis. In: Hoffman, B. (Ed.). Encyclopedia of
+educational technology. 2004. Disponible en: <http://
+www.etc.edu.cn/eet/eet/articles/wikis/index.htm>. Acceso
+en: 22 feb. 2013.
+Arya, H.B.; Mishra, J.K. Oh! web 2.0, virtual reference service 2.0,
+tools & techniques (II). Journal of Library & Information Services
+in Distance Learning, v.6, n.1, p.28-46, 2012.
+Bolan, K.; Canada, M.; Cullin, R. Web, library, and teen service
+2.0. Young Adult Library Service v.5, n.2, p.40-43, 2007.
+Buigues-García, M.; Giménez-Chornet, V. Impact of web 2.0 on
+national libraries. International Journal of Information
+Management, v.32, n.1, p.3-10, 2012.
+Celaya, J. Fomento de la lectura en red. 2007. Disponible en:
+<http://www.dosdoce.com/articulo /opinion/2832/fomentode-la-lectura-en-red/>. Acceso en: 22 feb. 2013.
+Celaya, J. Las redes sociales en el fomento de la lectura en
+bachillerato. 2009. Disponible en: <http://www.plec.es/
+documentos.php?id_seccion=6&id_documento=155&nivel=
+Bachillerato>. Acceso en: 22 feb. 2013.
+Chawner, B.; Lewis, P. Wikiwikiwebs: New ways of
+communicating in a web environment. Information Technology
+and Libraries, v.25, n.1, p.33-43, 2006.
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+Trans1.pmd
+
+19
+
+Lozano, R. El fomento de la lectura en la biblioteca pública 2.0:
+una apuesta por la innovación y el riesgo. Anuário ThinkEPI,
+v.4, p.87-90, 2010. Disponible en: <http://www.thinkepi.net/
+el-fomento-de-la-lectura-en-la-biblioteca-publica-20-unaapuesta-por-la-innovacion-y-el-riesgo>. Acceso en: 22 feb.
+2013.
+Luo, L. Web 2.0 Integration in Information Literacy Instruction:
+An overview. The Journal of Academic Librarianship, v.36, n.1,
+p.32-40, 2009.
+Manso-Rodríguez, R.A. Bibliotecas, fomento de la lectura y
+redes sociales: convirtamos amigos en lectores. El profesional
+de la información, v.21, n.4, p.401-405, 2012.
+Reitz, J.M. ODLIS: online dictionary for library and information
+science, 2010. Available from: <http://www.abc-clio.com/
+ODLIS/about.aspx>. Cited en: Feb. 22 2013.
+Richardson, W. Blogs, wikis, podcasts, and other powerful web
+tools for classrooms. California: Corwin Press, 2006.
+Seoane, C. Aplicaciones web 2.0 para fomentar la lectura. 2010.
+Disponible en: <http://www.slideshare.net/catuxa>. Acceso
+en: 22 feb. 2013.
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+18/12/2014, 11:17
+
+19
+LECTURA Y TECNOLOGÍAS SOCIALES
+
+ratos de ocio, propiciadas en gran medida por el
+desarrollo de tecnologías más colaborativas y enfocadas
+a las expectativas de los usuarios.
+
+20
+
+R.A. MANSO-RODRÍGUEZ
+
+TransInformação, Campinas, 27(1):9-19, jan./abr., 2015
+
+Trans1.pmd
+
+20
+
+http://dx.doi.org/10.1590/0103-37862015000100001
+
+18/12/2014, 11:17
+
+

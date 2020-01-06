@@ -1,0 +1,909 @@
+Content analysis of the technological domain
+vegetable oil combustion
+Noé PÉREZ-ARREORTÚA2
+Maidelyn DÍAZ-PÉREZ3
+Raudel GIRÁLDEZ-REYES3
+Humberto Andrés CARRILLO-CALVET4
+
+Resumen
+La patente es una medida de productividad científico-tecnológica muy utilizada como indicador tecnológico. Sus análisis está
+enfocado principalmente a recuentos por año, países, titulares e inventores, pero escasean los estudios de patentes
+considerando la clasificación técnica utilizada y la información contenida en el documento de invención. La presente investigación
+tiene como objetivo proponer el uso de la clasificación internacional de patentes y el análisis de contenido de determinados
+campos del documento de patente como unidad de análisis y medida para realizar un estudio patentométrico en el dominio
+tecnológico vegetable oil combustion. Se utiliza un conjunto de indicadores simples y relacionales, y el software proINTEC para el
+análisis y representación de los datos. La interpretación de los resultados confirma que la información contenida en las patentes
+de este dominio es pertinente a los intereses del proyecto que ejecuta el caso de estudio.
+Palabras ilave: Aceite vegetal. Análisis de contenido. Clasificación internacional de patentes. Patentes. Combustión.
+
+Abstract
+The patent document is a measurement unit for scientific and technological productivity commonly used as a technological indicator.
+Patent studies mainly focus on frequency counts by year, country, assignee and inventor. There are scarce studies on the technical
+classifications and contents of the invention. The aim of this paper is to propose the use of the International Patent Classification and
+content analysis of some fields of the patent document as a unit of measurement and analysis to conduct a study on patent metrics in
+the technological domain vegetable oil combustion. A set of simple and relational indicators were used and the software proINTEC
+analyzed the data. The interpretation of the results proves that the information contained in patent documents from this domain is
+relevant for the goals of the project in the present case study.
+Keywords: Vegetable oil. Content analysis. International patent classification. Patents. Combustion.
+1
+
+2
+3
+
+4
+
+Trabajo presentado en el VII Seminario Internacional sobre Estudios Cuantitativos y Cualitativos de la Ciencia y la Tecnología “Prof. Gilberto Sotolongo
+Aguilar” en XIII Congreso Internacional de Información - INFO’ 2014. Habana, Cuba.
+Universidad La Salle Oaxaca, Escuela de Ingeniería. Oaxaca, México.
+Universidad de Pinar del Rio, Grupo Gestión de Información, Conocimiento y Tecnologías, Dirección de Información Científico Técnica. Calle Martí Esquina
+#300, entre 27 de Noviembre y González Alcorta, 20100, Pinar del Río, Cuba. Correspondencia a nombre de/Correspondence to: M. DÍAS-PÉREZ. E-mail:
+<maidelyn@ict.upr.edu.cu>.
+Universidad Nacional Autónoma de México, Facultad de Ciencias, Departamento de Matemática, Laboratorio de Dinámica no Lineal. Ciudad de México,
+México.
+Recibido el día 27/5/2014 y aceptado para su publicación el 9/9/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+327
+VEGETABLE OIL COMBUSTION
+
+Análisis de contenido del dominio tecnológico
+vegetable oil combustion1
+
+Introducción
+La patente es una medida de productividad
+científico-tecnológica, es un documento que comunica
+el avance científico al igual que los artículos. Las patentes,
+incluso indican que la tecnología resultante puede ser
+aplicada en los procesos de producción, dato que influye
+y facilita un mejor desempeño en las transferencias de
+tecnologías y licencias tecnológicas. Las patentes son un
+indicador tecnológico de significativa relevancia en los
+estudios de innovación tecnológica (Basberg, 1982, 1983;
+Pavitt, 1985, 1988; Grupp et al., 1991; Narin, 1995), y una
+de las fuentes de datos más confiables para realizar
+estudios bioinformétricos en las últimas décadas (Rip &
+Courtial, 1984; Leydesdorff & Heimeriks, 2001; Díaz-Pérez
+& Moya-Anegón, 2008). Por ello hoy, dentro de los análisis
+bibliométricos se incluyen los estudios con indicadores
+de patentes (Narin & Olivastro, 1988; Narin, 1994; Spinak,
+1998; Klitkou & Gulbrandsen, 2010; Pao-Long et al., 2010).
+A pesar de ser tan importantes los estudios de
+patentes, la mayoría de sus análisis trabajan recuentos
+por años, países, titulares e inventores, escaseando los
+estudios patentométricos que realicen análisis con el
+contenido del documento de invención.
+
+328
+
+Dentro de los diferentes tipos de mapas que se
+pueden elaborar mediante análisis métricos de
+información, uno de los más estudiados es el mapa de
+coocurrencias de palabras. Se elabora cuando se desea
+reducir un texto, a las palabras o sus relaciones, mediante
+las apariciones conjuntas de las palabras que componen
+ese texto. Este tipo de análisis permite identificar áreas
+emergentes de conocimiento, composición temática de
+líneas de investigación, estructura temática de un
+proyecto investigativo, etc. (Buzydlowski et al., 2002;
+Fattori et al., 2003; Gil Kim et al., 2008).
+
+N.P. ARREORTÚA et al.
+
+Para analizar texto libre dentro de los registros
+bibliográficos o documentos a texto completo un
+proceder muy utilizado es establecer relaciones entre dos
+palabras, contando las veces que estas aparecen juntas
+en la misma oración o dentro del texto del documento
+(Callon et al., 1983; Yuen-Hsien et al., 2007). De esta forma
+se pueden definir las relaciones entre palabras y su grado
+de intensidad.
+Para elaborar los mapas de coocurrencia se parte
+del principio del valor de las coocurrencias entre dos
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+agregados, cualesquiera deben ser considerados como
+el inverso de la distancia (similaridad) existente entre esos
+mismos agregados en una representación bidimensional.
+Esta correlación negativa entre similaridad y distancia
+permite utilizar diversos procedimientos matemáticos
+para calcular las coordenadas de los agregados en el
+mapa a partir de sus distancias. Y permite a su vez,
+mediante la utilización de una metáfora espacial
+(Shneiderman & Plaisant, 2006) representar las relaciones
+existentes entre ellas. Estos mapas no son un objetivo en
+sí mismo sino el vehículo mediante el cual se recuperan
+y representan estructuras de conocimiento. Los mapas
+de relaciones de palabras sirven de herramienta para
+expresar de forma visual los conglomerados que se
+establecen entre los contenidos de los documentos, e
+incluso su presencia y combinación en diferentes campos
+de un registro bibliográfico (Braam et al., 1991). A partir
+de estas premisas, este estudio pretende analizar el
+estado del arte del dominio que se analiza para conocer
+su estructura de contenidos, y además aplicar las técnicas
+de análisis de contenido a campos específicos y poco
+analizados en los estudios de patentes (título, resumen y
+reivindicaciones), no se encontró dentro de la bibliografía
+consultada estudios anteriores que aborden de igual
+manera este proceder.
+El objetivo de esta investigación es proponer el
+uso de la clasificación internacional de patentes y la
+coocurrencia de palabras en determinados campos del
+documento de patente como unidad de análisis y
+medida para el análisis de contenido del dominio
+tecnológico vegetable oil combustion.
+Este caso de estudio forma parte de un proyecto
+de investigación de la empresa Vidrio Artesanal Xaquixe
+S. de R.L. M.I.ART., con nombre comercial Studio Xaquixe,
+fundada en el año 2002 como una de las primeras fábricas
+de vidrio artesanal en México. Tiene como objeto crear
+piezas artesanales con diseños originales para lograr un
+impacto en la apreciación del vidrio como forma de arte.
+Durante los últimos años, la empresa se ha dedicado a
+mejorar el diseño de su horno, se examina la utilización
+de nuevos materiales con el fin de construir hornos con
+una mayor eficiencia y que hagan uso de combustibles
+diferentes a los no renovables (de origen fósil); de tal
+manera, que se disminuya el impacto negativo al medio
+ambiente por el uso de este tipo de hornos en el proceso
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+sólo los enlaces más relevantes de las redes mapeadas.
+Se usa además como técnica de poda, la delimitación
+numérica de la intensidad de las relaciones en aquellos
+nodos en que su relación es débil. Y para el
+posicionamiento de los nodos en la visualización del
+dominio se emplea el algoritmo de representación
+espacial Spring Embedded, se utiliza el Netdraw para
+manipular los gráficos en las representaciones visuales.
+
+Métodos y Procedimientos
+
+Serie Temporal: El dominio vegetable oil
+combustion está compuesto por un total de 211 patentes
+concedidas por la USPTO entre 1976 y el 10 de diciembre
+del año 2013. El análisis de la razón de variación de la
+producción por años indica que no hay estabilidad en el
+crecimiento a lo largo del período de tiempo estudiado.
+
+La metodología utilizada se describe mediante la
+fuente de datos, estrategia de búsqueda, herramienta
+para el procesamiento de datos y técnicas para la
+representación y visualización de la información del
+dominio.
+Fuente de datos: Oficina de Patentes y Marcas de
+Estados Unidos (USPTO - United States Patent and
+Trademark) se utiliza específicamente como fuente de
+datos la Base de Datos (BD) Patent Grant.
+Estrategia de búsqueda: abst/((“vegetable oil” OR
+“vegetable oils” OR “cooking oil” OR “cooking oils”) AND
+(burn$ OR Combust$) ANDNOT (candle OR lamp)) OR
+aclm/((“vegetable oil” OR “vegetable oils” OR “cooking oil”
+OR “cooking oils”) AND (burn$ OR Combust$) ANDNOT
+(candle OR lamp))
+Procesamiento de los datos: Software proINTEC
+para la descarga, normalización, procesamiento, análisis
+y visualización de los datos.
+Técnicas: Se utiliza como técnica de visualización
+las redes presentadas en forma de nodos o vértices,
+donde la estructura semántica se encuentra definida por
+los enlaces que conectan dichos nodos. La visualización
+mediante redes hace posible representar las relaciones
+en red, cruzando variables para encontrar comportamientos
+o patrones dentro del contenido de las patentes.
+Para una mejor representación de la información
+en el análisis e interpretación de los mapas tecnológicos
+se utiliza el algoritmo Pathfinder porque permite mostrar
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+Resultados y Discusión
+
+Análisis: indicadores simples
+
+Titulares: Son 103 los propietarios de las patentes
+relacionadas con vegetable oil combustion. Alcanzan el
+mayor liderazgo los titulares: Paloma Industries, Ltd. en
+Nagoya, Japón; The Frymaster Corporation en Shreveport,
+Estados Unidos; Phillips Petroleum Company en
+Bartesville Estados Unidos y Pitco Frialator, Inc. de Estados
+Unidos con sede en Concord. Le siguen Gas Research
+Institute de Chicago, The Lubrizol Corporation en Wickliffe
+y Heat and Control, Inc.de Hayward todas de Estados
+Unidos, así como Elf Antar France del estado de
+Courbevoie en Francia, cada uno con 4 patentes. Otro
+segmento muy pequeño de titulares tiene 3 patentes
+(Ethyl Corporation en Richmond y Philip Morris
+Incorporated en New York, ambos de Estados Unidos);
+seguidos de un bloque de 16 titulares con 2 patentes
+cada uno. El resto de los titulares tienen una sola patente.
+Inventores: Hay 334 inventores en las patentes
+concedidas por USPTO entre 1976 y el 2013 sobre el
+dominio vegetable oil combustion.
+La mayor productividad inventiva de este
+dominio recae en la persona de Ejiri; Susumu de Japón,
+inventor con mayor desempeño tecnológico en esta
+temática al ostentar 7 patentes en el periodo que se
+estudia. Le sigue, Rice George McNair de Shreveport en
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+329
+VEGETABLE OIL COMBUSTION
+
+de fabricación de los productos. A partir de esta
+necesidad, el presente estudio tiene el propósito de
+conocer las tecnologías que existen en el dominio
+vegetable oil combustion e indentificar si existe alguna
+que utilice el aceite vegetal para la combustión interna
+en hornos. Para alcanzar este objetivo se propone analizar
+la clasificación temática de las patentes de este dominio
+tecnológico y realizar un análisis de contenido en
+diferentes campos del documento de patente: título,
+resumen y reivindicaciones. Los resultados del estudio
+apoyarán significativamente el desarrollo de nuevas
+tecnologías que optimicen los trabajos artesanales con
+vidrio, como forma de arte.
+
+Estados Unidos con 6 invenciones, y por Yokoyama
+Nobuyoshi de Japón con 5 patentes. Se encuentran
+además otros inventores con relativa productividad
+respecto a la mayoría, como es el caso de: Kimura Makoto
+de Tokio, Sank; Gerald W., Benson; Clark K., Caridis Andrew
+A. y Moore Lewis Frank todos de Estados Unidos, cada
+uno con 4 patentes.
+Este grupo de 8 inventores es el núcleo de
+investigación e innovación más fuerte de todo el
+dominio, constituyen el principal frente de investigación
+de frontera en la temática vegetable oil combustion.
+Otro grupo de aproximadamente 55 inventores
+sólo tienen 2 patentes durante el periodo estudiado,
+mientras el resto de los inventores le han concedido tan
+solo una patente sobre este tema entre 1976 y el 2013.
+Clasificación Internacional de Patentes (CIP):
+dentro de las normativas que establece la (Organización
+Mundial de la Propiedad Intelectual, 2014) se encuentra
+que toda invención debe acreditarse a una o varias
+clasificaciones en el campo número 51 del documento
+de patente. La Clasificación Internacional de Patentes
+identifica y describe las áreas del conocimiento
+tecnológico a la cual pertenece cada invención.
+La Clasificación Internacional de Patentes abarca
+todo el conjunto de conocimientos que pueden
+considerarse dentro del ámbito científico-tecnológico, y
+de forma específica, los que trabajan las patentes de
+invención. Uno de los autores que más trabaja el tema
+de las clasificaciones de patentes es Leydesdorff, quién
+incluso considera las clases de la clasificación como
+equivalentes de las revistas (Leydesdorff, 2008a; 2008b).
+
+330
+
+El conocimiento tecnológico en la CIP está
+dividido en ocho secciones, constituye la Sección el nivel
+jerárquico más alto de esta clasificación. Cada sección
+de la CIP tiene un título (compuesto por una o varias
+palabras) y un símbolo (una letra mayúscula del alfabeto
+romano). El título de cada sección va seguido de un
+resumen de los títulos de sus subdivisiones principales.
+
+N.P. ARREORTÚA et al.
+
+El dominio vegetable oil combustion aborda
+dentro de las reivindicaciones que protegen sus patentes
+7 áreas del conocimiento de la técnica.
+El mayor número de patentes están clasificadas
+en la sección A relacionada con la temática necesidades
+corrientes de la vida, se infiere que las aplicaciones
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+tecnológicas de este dominio tienen un alto uso en
+variadas esferas de la vida. Esta sección técnica tiene
+además patentes en casi todos los años bajo estudio,
+alcanzando la mayor sostenibilidad temporal dentro del
+dominio.
+Le sigue la sección C (Química) con 72 patentes
+concedidas en casi todos los años bajo estudio, así como
+la sección F (Mecanica. Iluminacion. Calefacción.
+Armamento. Voladura) con 56 patentes. Ambas
+clasificaciones tienen una fuerte presencia investigativa
+en casi todos los años del periodo que se analiza.
+La clasificación que aparece como emergente es
+la sección G (Física), al tener el mayor número de sus
+patentes concedidas en los últimos años; algunas
+patentes concedidas en este siglo han protegido
+conocimientos relacionados con la sección G.
+El análisis por el segundo nivel jerárquico de la CIP
+reveló que las invenciones sobre vegetable oil combustion
+se ubican en más de una veintena de clases temáticas.
+El análisis de las clases técnicas por años proyectó
+la siguiente composición temática:
+- Las clasificaciones más trabajadas en el periodo
+comprendido entre los años 1976 y el año 1986 son las
+siguientes: A23, A24, A47, A61, A62, A63, B1, B41, B65,
+C1, C10, C6, C8, C9, F1, F16, F2, F21, F23, F24, F28, G1, G5,
+G8, G9, H1 y H5.
+- Las clases temáticas trabajadas después del año
+2000 son: A1, A47, A61, B1, B32, B60, B9, C10, C23, C6, C7,
+C8, C9, F1, F16, F2, F23, F24, G1, G5, G6 y la H5.
+- Las clases presentes en las patentes del año 2013
+son: A61, B60, B9, C10, C7, F23, G5 y G6.
+El análisis por el tercer nivel jerárquico de la CIP
+reveló que las patentes sobre vegetable oil combustion
+ubican el conocimiento tecnológico de sus
+reivindicaciones en un amplio número de sub clases
+temáticas.
+- Las temáticas trabajadas en el dominio vegetable
+oil combustion se concentran en 27 subclases después
+del año 2000.
+- Las subclases temáticas trabajadas en el
+presente siglo son: A1N, A47J, A61K, A61L, A61Q, B1D,
+1J, B32B, B60L, B60P, B65D, C10J, C10L, C1B, C1F, C6C, C7C,
+C7D, C8J, C8K, C8L, F23B, F23D, F23G, G5D, G6F y G6G.
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+Relaciones Temáticas
+El dominio vegetable oil combustion tiene una
+estructura de relaciones temáticas compuesta por 7
+secciones del conocimiento tecnológico. Las relaciones
+interdisciplinarias más fuertes ocurren entre la sección
+técnica de Mecánica (F) y la (A) que representa la
+aplicación de las tecnologías o procesos que se
+desarrollan. También existen relaciones triangulares entre
+(A, F, B)-(H, A, F)-(H, A, G), etc. En particular, a esta
+investigación le interesa destacar la triangulación
+establecida entre la sección F (Mecánica), la sección A
+(Necesidades corrientes de la vida) y la sección que se
+ocupa de Técnicas Industriales Diversas (B).
+Las clasificaciones conjuntas que tienen mayor
+intensidad en el segundo nivel jerárquico de la CIP del
+dominio son a partir de la clase A47 con otras clases; así
+como la triangulación presente entre A47-F23-A23. En
+este último caso, se manifiesta la relevancia de las
+investigaciones relacionadas con aparatos de
+combustión. Procesos de combustión (F23) dentro de
+este dominio.
+Al profundizar el análisis hasta el último nivel
+jerárquico de clasificación se obtuvieron las principales
+clasificaciones conjuntas de este dominio. En los
+diferentes clúster temáticos que muestra este análisis
+aparecen delimitados los diferentes nodos que existen
+incluso, dentro de una misma sección del conocimiento
+tecnológico de este dominio.
+Las relaciones más intensas se manifiestan entre
+las clasificaciones A47J0037/120000 y la A47J0027, y
+éstas con la clasificación F23C0015, constituyen la
+relación de triangulación más intensa e interesante de
+todo el dominio. Esta relación indica que existe un gran
+número de patentes concedidas que han protegido
+invenciones relacionadas dentro del área de Mecánica
+con procedimientos o aparatos de combustión que
+utilizan combustibles fluidos o fluidizados, principalmente
+aparatos en los que la combustión tiene lugar en pulsos
+influenciados por resonancia acústica en una masa de
+gas (F23C0015).
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+Otra fuerte presencia recae en la sección C donde
+los subgrupos que mayor relación están relacionados con
+combustibles de líquidos carbonosos, dentro de ellos los
+basados esencialmente en componentes constituidos
+únicamente por carbono, hidrógeno y oxígeno; así como
+los que contienen aditivos, y compuestos orgánicos, etc.
+A esta investigación le interesan las relaciones que
+se establecen principalmente con el subgrupo que
+abarca combustibles no previstos en otros lugares.
+Adición de sustancias a los combustibles o al fuego para
+reducir el humo o depósitos indeseables, o para facilitar
+la eliminación del hollín. Generadores de fuego
+(C10L0001/180000), subgrupo temático que presenta el
+mayor núcleo de relaciones dentro del área de la Química.
+Área Temática de los Inventores: El análisis del frente
+temático de los inventores de este dominio manifestó
+que los investigadores más productivos están
+patentando sus invenciones en el área de Mecánica (F).
+Se conoció que otro gran número de investigadores
+trabajan en patentes relacionadas con la sección A (201
+inventores), C (167 inventores), F (117 inventores), B (41
+inventores), H (24 inventores) y E (1 inventor).
+Área Temática de los Titulares: Al analizar el
+comportamiento de los titulares por secciones de la CIP
+se conoció la estructura temática de los signatarios, así
+como las relaciones temáticas entre ellos (Figura 1). Se
+identificó que:
+- Paloma Industries, Ltd. trabaja principalmente en
+3 secciones de la CIP (mecánica-F, física-G y necesidades
+corrientes de la vida-A);
+- Gas Research Institute trabaja invenciones
+relacionadas con la sección de mecánica -F y necesidades
+corrientes de la vida-A;
+- The Frymaster Corporation tiene invenciones
+relacionadas con física-G y necesidades corrientes de la
+vida-A;
+- Philip Morris Incorporated trabaja invenciones
+relacionadas con la sección de necesidades corrientes
+de la vida-A y química. metalurgia-C);
+- Thermo Electron Corporation tiene invenciones
+relacionadas con necesidades corrientes de la vida-A y
+tecnicas industriales diversas-B.
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+331
+VEGETABLE OIL COMBUSTION
+
+- Y las subclases temáticas que abordan las
+patentes del año 2013 son: A61K, A61L, B60L, B9B, C10L,
+C10M, C7D, F23B, F23D, F23G, G5D, G6F y G6G.
+
+A
+
+F
+
+B
+
+C
+
+Figura 1. Titulares por sección Classificación Internacional de Patentes (CIP) mayores que 1.
+Fuente: Software proINTEC.
+
+Lo más significativo de este análisis es encontrar
+dentro de esta sección F a los principales titulares, o sea
+a los de mayor productividad. Aquí también escalan las
+primeras posiciones, tal y como ocurre con el
+comportamiento de los inventores por secciones
+temáticas.
+
+332
+
+Al analizar el comportamiento temporal de la
+sección F se obtuvo que las patentes concedidas sobre
+esta temática están presentes desde 1976, existe el mayor
+incremento en investigaciones de esta temática en el año
+1990 (5 patentes concedidas). A partir de ese año, se han
+mantenido las investigaciones relacionadas con la
+sección de Mecánica dentro vegetable oil combustion.
+
+Las reivindicaciones definen el objeto por el que
+se solicita protección. Su redacción debe ser clara y
+concisa, argumentándose en la descripción. El contenido
+de las reivindicaciones es de esencial interés puesto que
+son ellas las que determinan la extensión de la protección
+conferida por la patente y el alcance del objeto que se
+protege. En las reivindicaciones se encuentra el objeto
+de invención y están contenidas las principales palabras
+que describen la nueva tecnología patentada, así como
+en los campos título y resumen.
+El primer estudio (Figura 2) analizó los campos
+título, resumen y reivindicaciones de los documentos de
+patentes del dominio; en este caso, el enlace máximo es
+de 71 y el mínimo de 7.
+
+N.P. ARREORTÚA et al.
+
+Análisis contenido (Co-word)
+
+La parte superior del mapa muestra que existen
+tecnologías relacionadas con este tema.
+
+Para realizar el análisis del contenido de las
+patentes de este dominio se aplicó la técnica de coword
+en diferentes campos del documento de patente. En este
+caso, los campos del registro de patente que tienen un
+alto contenido de información importante a relacionar
+son: título, resumen y reivindicaciones.
+
+La relación más intensa se establece entre Oils y
+Vegetables, y este último término con minerales, ácidos,
+etc. revela de alguna manera que mantienen relación con
+la utilización de combustible de origen vegetal, o sea,
+esto puede estar relacionado con procesos o tecnologías
+de obtención de combustibles a partir del aceite o grasas
+vegetales.
+
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+Otro segmento de la Figura 2 muestra las
+relaciones entre los térrminos Comprising y Having,
+Composition, etc., palabras que se asocian por lo general
+a procedimientos para obtener biocombustibles a partir
+de aceite vegetal. Lo cuál guarda relación muy estrecha
+con otros resultados encontrados en artículos científicos,
+y que revelan tal aseveración.
+La cadena de relaciones de Oils con heating,
+apparatus, combustion, internal, engines, deposits, etc.,
+evidencia de cierta forma también la combinación de
+aceites con aparatos de combustión interna. Así como la
+unión de comprising con system, methods, producing,
+etc., también es representativo de este dominio porque
+en términos generales representan los objetivos de este
+estudio.
+
+Por último, en la Figura 2 aparece un nodo
+relacionado con semillas, etc., que puede indicar que se
+trabaja a partir de semillas. Es decir, hay interés en los
+aceites vegetales que se obtienen de semillas, pero no
+se muestra de manera evidente si está asociada su
+utilización directa para obtener combustibles. Más
+adelante se profundizará en esta red de relaciones.
+La Figura 3 muestra un coword de las palabras
+presentes en los títulos de las patentes del dominio, y
+donde la relación más fuerte tiene valor 15 y la más
+débil 2.
+En la parte central de este mapa lo principal recae
+en los términos métodos, producción, combustible y
+combustible relacionada con Oils, y con vegetable, y a
+su vez con combustión, se confirma de cierta manera
+que se trabaja en procedimientos para producir a partir
+de aceites vegetales combustibles que se utilizan en
+máquinas de combustión interna.
+La parte izquierda el mapa muestra que frying
+está asociada con combustión lo que muestra
+nuevamente que existe algún uso del aceite vegetal para
+la combustión, sin llegar a tener certeza que su uso sea
+de forma directa.
+
+formula
+
+f
+
+Figura 2. Coword en los campos titulo, resumen, reivindicaciones.
+Fuente: Software proINTEC.
+
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+333
+VEGETABLE OIL COMBUSTION
+
+Otra de las relaciones interesantes de la Figura 2
+se establece entre Oils con Comprising, a su alrededor
+aparecen términos que revelan que pueden existir
+procedimientos o tecnologías relacionadas con
+máquinas de combustión interna. Se estima por las
+palabras presentes en este núcleo de relaciones que
+existen métodos o técnicas a partir de las cuales algún
+aceite vegetal pueda producir combustible.
+
+temperature
+
+heat
+
+production
+
+improve
+combustion
+engine
+
+composition
+cosmetic
+oil
+
+additives
+acid
+vegetables
+oils
+
+tall
+extending
+burner
+
+high
+
+Figura 3. Coword en el campo título.
+Fuente: Software proINTEC.
+
+334
+
+Si se sigue la cadena de relaciones que involucra
+los términos oils, vegetable, lubricants, etc. se pudiera
+inferir que además de existir tecnologías enfocadas a los
+combustibles también pueden estar orientadas a la
+obtención de lubricantes.
+
+La Figura 4 muestra un coword realizado en los
+campos título y resumen pero configurado para extraer
+las relaciones entre las palabras vegetable, oils,
+combustion, burners, engines. En este mapa la relación
+máxima es de 16 y la menor de 2.
+
+Por otra parte, en la Figura 3 el nodo que integra
+source con energy, y este con reduced emission y
+productos derivados o secundarios, puede indicar que
+las tecnologías también han puesto interés en reducir
+las emisiones contaminantes. Todo indica que existen
+patentes dentro de este dominio orientadas a producir
+tecnologías para disminuir emisiones contaminantes.
+
+En este caso, el nodo que contiene Oils tiene una
+fuerte asociación con vegetable, mixtures, animal, esters,
+apparatus, fuel, lubrication y se puede deducir que de
+alguna manera se desarrollan tecnologías para utilizar
+aceite vegetal como combustible en máquinas de
+combustión interna; así como tecnologías que utilizan
+aceites vegetales como lubricantes en máquinas de
+combustión interna.
+
+N.P. ARREORTÚA et al.
+
+El nodo de relaciones que incluye la palabra
+systems, evidencian que existen ciertas patentes que
+tienen que ver con el control y automatización del
+proceso de obtención de combustibles a partir de aceites
+vegetales. Llama la atención que estos sistemas de
+control están basados en microprocesador que
+pretenden controlar la temperatura. Y por último, la
+palabra cogeneración puede significar que se está
+patentando esquemas de control para la cogeneración
+de energías, se corrobora el criterio anterior.
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+La Figura 5 se realizó a partir de interrogantes
+generadas en mapas anteriores, por ejemplo el núcleo
+relacionado con varios tipos de semillas presentes en el
+primer mapa de palabras. A partir de este referente se
+construyó el siguiente mapa que analiza las palabras del
+mapa anterior y además incluye otras: corn, rapeseed,
+cottonseed, soybean, peanut, sunflower, safflower; y se
+realiza usando los campos título, resumen y
+reivindicaciones. La relación máxima es de 31 y la menor
+es de 3.
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+335
+
+Figura 4. Coword en el campo título y resumen. Personalizado.
+Fuente: Software proINTEC.
+
+Figura 5. Coword en el campo título, resumen y reivindicaciones. Personalizado.
+Fuente: Software proINTEC.
+
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+VEGETABLE OIL COMBUSTION
+
+oils
+
+El mapa representa la cadena de relaciones de
+esta tecnología, o sea el uso de las semillas para obtener
+aceites y el uso de los aceites como combustión, etc. e
+indica que no se usan de manera directa en la
+combustión. Y por otra parte, todas las palabras asociadas
+a quemadores están relacionadas con cocinas y aceites,
+esto pudiera significar que desarrollan estos quemadores
+para diferentes usos, incluyendo la cocina.
+Del mapa resultante se obtuvo evidencias claras
+de las relaciones tecnológicas que existen en la obtención
+a partir de diferentes semillas de aceites vegetales que
+permitan generar combustibles para máquinas de
+combustión interna.
+
+Conclusión
+El dominio vegetable oil combustion está
+compuesto por un total de 211 patentes concedidas por
+la USPTO entre 1976 y el 10 de diciembre del año 2013.
+La mayor productividad sostenida se observa a partir del
+año 2011, aunque la razón de variación de la producción
+por años indica que este dominio ha estado fluctuando
+su desarrollo durante todo el periodo que se analiza.
+Existen 103 propietarios en el dominio vegetable
+oil combustion. Alcanzan el mayor liderazgo los titulares:
+Paloma Industries, Ltd. de Japón y The Frymaster
+Corporation; Phillips Petroleum Company y Pitco Frialator,
+Inc. de Estados Unidos.
+
+336
+
+El país que mayor liderazgo ostenta introduciendo
+nuevos procesos y tecnologías en el mercado
+internacional sobre vegetable oil combustion y el que
+mayor poderío tecnológico tiene es Estados Unidos (72
+invenciones). Considerado el país que mayor
+infraestructura tecnológica y empresarial exhibe en esta
+temática. Le siguen Japón (12 titulares), Alemania (6
+titulares), Francia (4 titulares), Canadá (3 titulares) y China
+con 2 titulares. El resto de los países sólo tienen un titular
+que trabaja en este dominio.
+
+N.P. ARREORTÚA et al.
+
+Hay 334 inventores en las patentes concedidas
+por USPTO entre 1976 y el 2013 sobre el dominio
+vegetable oil combustion. La mayor productividad
+inventiva y desempeño tecnológico lo exhibe el
+investigador Ejiri; Susumu de Japón (7 patentes), seguido
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+por Rice George McNair de Estados Unidos (6
+invenciones) y Yokoyama Nobuyoshi de Japón (5
+patentes). Le acompañan otro grupo de inventores con
+relativa productividad respecto a la mayoría: Kimura
+Makoto, Sank; Gerald W., Benson; Clark K., Caridis Andrew
+A. y Moore Lewis Frank, cada uno con 4 patentes. Este
+conjunto de 8 inventores son el núcleo de investigación
+e innovación más fuerte de todo el dominio, constituyen
+el principal frente de investigación de frontera en la
+temática vegetable oil combustion.
+Algunos de los inventores emergentes que
+aparecen en las investigaciones mas recientes del
+dominio son: Germanaud; Laurent (3 patentes) y Sackler;
+Richard S, Sagar; Christopher Lee, Nam; Jong Hyun con 2
+patentes, etc.
+Los investigadores más productivos del dominio
+patentan principalmente en el área de Mecánica,
+Necesidades corrientes de la vida y en menor alcance en
+la sección de Química. Así como los titulares más
+productivos son los que trabajan fundamentalmente en
+la sección de Mecánica.
+El análisis de colaboración por titulares reveló que
+existe un grupo de organizaciones que trabajan de
+manera conjunta, pero los titulares que aparecen en
+cotitulación no son de los más productivos del dominio.
+Los titulares de mayor productividad son los únicos
+propietarios de las tecnologías que desarrollan y no
+trabajan sus investigaciones en colaboración.
+El dominio vegetable oil combustion aborda 7
+áreas del conocimiento de la técnica. El mayor número
+de patentes se clasifican en la sección A relacionada con
+temáticas sobre necesidades corrientes de la vida,
+además es la sección que le han concedido patentes en
+casi todos los años bajo estudio. Esto manifiesta que las
+aplicaciones de las tecnologías de este dominio tienen
+un alto uso en variadas esferas de la vida. Le sigue la
+sección C de química y la sección F de mecánica, con
+una fuerte presencia investigativa en casi todos los años
+del periodo que se analiza.
+Las relaciones interdisciplinarias más fuertes que
+ocurren en este dominio se establecen entre la sección
+técnica de Mecánica (F) y la sección A, ellas representan
+la aplicación de las tecnologías o procesos que se
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+El análisis de relaciones temáticas en sus niveles
+jerárquicos muestra la presencia de invenciones
+relacionadas dentro del área de Mecánica con
+procedimientos o aparatos de combustión que utilizan
+combustibles fluidos, principalmente aparatos en los que
+la combustión tiene lugar en pulsos influenciados por
+resonancia acústica en una masa de gas (F23C). Una
+fuerte presencia recae en Química donde los subgrupos
+que mayor relación tienen/están relacionadas con
+combustibles de carbonosos líquidos, dentro de ellos los
+basados esencialmente en componentes constituidos
+únicamente por carbono, hidrógeno y oxígeno; así como
+los que contienen aditivos, y compuestos orgánicos, etc.
+
+Otras relaciones interesantes se establecen con el
+subgrupo que abarca combustibles no previstos, adición
+de sustancias a los combustibles o al fuego para reducir
+el humo o depósitos indeseables, o para facilitar la
+eliminación del hollín, generadores de fuego, etc.
+Subgrupo temático que además presenta el mayor
+núcleo de relaciones dentro del área química.
+Del análisis de contenido (co-Word) se obtuvo
+evidencias claras de la obtención de aceites vegetales a
+partir de diferentes semillas para la generación de
+combustibles para máquinas de combustión interna.
+Oils tiene una fuerte asociación con vegetable,
+mixtures, animal, esters, apparatus, fuel, lubrication y se
+puede deducir que de alguna manera se desarrollan
+tecnologías para utilizar aceite vegetal como
+combustible en máquinas de combustión interna, así
+como tecnologías que utilizan aceites vegetales como
+lubricantes en máquinas de combustión interna.
+
+Referencias
+Basberg, B. Foreign patenting in the U.S. as a technology
+indicator: The case of Norway. Research Policy, v.12, n.4,
+p.227-237, 1983.
+
+Grupp, H.; Schmoch, U.; kuntze, U. Patents as potential
+indicators of the utility of ec research programmes.
+Scientometrics, v.21, n.3, p. 417-445, 1991.
+
+Basberg, B. Technological change in the Norwegian whaling
+industry: A case-study in the use of patent-statistics as a
+technology indicator. Research Policy, v.11, n.3, p.163-171,
+1982.
+
+Klitkou, A.; Gulbrandsen, M. The relationship between
+academic patentingand scientic publishing in Norway.
+Scientometrics, v.82, n.1, p.93-108, 2010.
+
+Braam, R.R.; Moed, H. F.; Van R.; Anthony F. J. Mapping of
+science by combined co-citation and word analysis. I: structural
+aspects. Journal of the American Society for Information Science,
+v.42, n.4, p.233-251, 1991.
+Buzydlowski, J.; White, H. D.; Lin, X. Term co-occurrence analysis
+as an interface for digital libraries. In: Bomer, K. & Chen, C. (Ed.).
+Visual interfaces to digital libraries. Berlin: Springer, 2002,
+p.133-144. (Lecture Notes in Computer Science Series, v.2539).
+Callon, et al. From translation to problematic networks an
+introduction to co-word analysis. Social Science Information
+Sur les Sciencies Sociales, v.22, n.2, p.191-235, 1983.
+Díaz-Pérez, M.; Moya-Anegón, F. El análisis de patentes como
+estrategia oportuna para la toma de decisiones innovadoras.
+El Profesional de la Información, v.17, n.3, 2008.
+Fattori, M., Pedrazzi, G.; Turra, R. Text mining applied to patent
+mapping: A practical business case. World Patent Information,
+v. 25, n.4, p.335–342, 2003.
+Gil Kim, Y.; Hwan Suh, J.; Chan Park, S. Visualization of patent
+analysis for emerging technology. Expert Systems with
+Applications, v.34, n.3, p.1804-1812, 2008.
+
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+Leydesdorff, L. The delineation of nanoscience and
+nanotechnology in terms of journals and patents: A most
+recent update. Scientometrics, v.76, n.1, p.159-167, 2008a.
+Leydesdorff, L. Patent classifications as indicators of Intellectual
+organization. Journal of the American Society for Information
+Science and Technology, v.59, n.10, p.1582-1597, 2008b.
+Leydesdorff, l.; Heimeriks, G. The self organization of the
+European Information Society: The case of “biotechnology”.
+Journal of the American Society for information Science and
+Technology, v.52, n.14, p.1262-1274, 2001.
+Narin, F. Patent bibliometrics. Scientometrics, v.30, n.1,
+p.147-155, 1994.
+Narin, F.; Olivastro, D. Technology indicators based on patents
+and patent citations. In: Van Raan, A.F.J. (Ed.). Handbook of
+quantitative studies of science and technology. Amsterdam:
+Elsevier Publishers, 1988.
+Narin, F. Patents as indicators for the evaluation of industrial
+research output. Scientometrics, v.34, n.3, p.489-496, 1995.
+Organización Mundial de la Propriedad Intelectual.
+Classificación internacional de patentes: guia, 2014.
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+337
+VEGETABLE OIL COMBUSTION
+
+desarrollan. La triangulación establecida entre la sección
+de Mecánica (F), la sección A y la sección de Técnicas
+Industriales Diversas (B) manifiesta la relevancia de las
+investigaciones relacionadas con aparatos de
+combustión y procesos de combustión dentro de este
+dominio.
+
+Disponible en: <http://www.wipo.int/pct/es/>. Acceso en:
+10 jun. 2013.
+Pao-Long, C.; Chao-Chan, W.; Hoang-Jyh, L. Using patent
+analyses to monitor the technological trends in an emerging
+field of technology: a case of carbon nanotube field emission
+display. Scientometrics, v.82, n.1, p.5-19, 2010.
+Pavitt, K. Patent statistics as indicators of innovative activities:
+Possibilities and problems. Scientometrics, v.7 n.1-2, p.77-99,
+1985.
+Pavitt, K. Uses and abuses of patent statistics. In: Van
+Raan, A.F.J. (Ed.). Handbook of Quantitative studies of
+science and technology. Amsterdam: Elsevier Publishers,
+1988. p.509-536.
+
+Rip, A.; Courtial, J.P. Co-word maps of biotechnology- an
+example of cognitive scientometrics. Scientometrics, v.6, n.6,
+p.381-400, 1984.
+Shneiderman, B.; Plaisant, C. Strategies for evaluating
+information visualization tools: Multi-dimensional in-depth
+long-term case studies. In: Workshop on Beyond Time and
+Errors: Novel Evaluation Methods For information Visualization
+BELIV’06, 2006, New York. Proceedings… New York: ACM Press,
+2006. p.1-7.
+Spinak, E. Indicadores cienciométricos. Ciência da informação, v.27, n.2, p.141-148, 1998.
+Yuen-Hsien T.; Chi-Jen, L.; Yu-I L. Text mining techniques for
+patent analysis. Information Processing and Management, v.43,
+n.5, p.1216-1247, 2007.
+
+338
+
+N.P. ARREORTÚA et al.
+
+TransInformação, Campinas, 26(3):327-338, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300009
+
+

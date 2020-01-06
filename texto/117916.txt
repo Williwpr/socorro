@@ -1,0 +1,1169 @@
+Visibility of studies in social network analysis
+in South America: Its evolution and
+metrics from 1990 to 2013
+Adilson Luiz PINTO2
+Audilio GONZALES-AGUILAR3
+
+Resumen
+El estudio visa analizar la productividad científica de los países de América del Sur sobre el tema de los Análisis de Redes Sociales,
+según la representación de los países, instituciones, investigadores y referencias teóricas (las citas utilizadas en estas producciones).
+Estudio temporal de 1990 hasta 2013 (31/5/2013); descriptivo bibliográfico por averiguar el estado de las Análisis de Redes
+Sociales en contenidos de la literatura blanca; cuantitativo por aplicar volúmenes de datos de frecuencia de publicación y de citas
+utilizando técnicas de la Bibliometría y Cientometría; la coleta de datos fue total en la base de datos Web of Science, refinando los
+datos para los países seleccionados Argentina n=166, Brasil n=775, Bolivia n=28, Chile n=179, Colombia n=78, Ecuador n=19,
+Paraguay n=8, Perú n=33, Uruguay n=21, Venezuela n=48. Los países Guyana Francesa, Islas Malvinas, Suriname no publicaran
+ningún artículo recuperando n=922 artículos científicos; el tratamiento de los datos fue en Statistical Package for the Social Sciences,
+CiteSpace y DetDraw. Como datos relevantes, las principales relaciones por países fueron en especial con los Estados Unidos de
+América, cooperados con Brasil, Argentina, Chile, Venezuela y Perú. Entre los países de América del Sur la centralidad de la red se
+hace por Brasil, Argentina y Chile. Entre las universidades, las con más destaques son: Universidade de São Paulo, Universidade
+Federal de Minas Gerais, Universidad de Buenos Aires, Pontificia Universidad Católica de Chile y Fundação Oswaldo Cruz, donde
+todas estas instituciones concentran un universo de colaboraciones y hacen con que los estudios de análisis de redes sociales
+se desarrollen, teniendo como principales representantes Herrmann HJ Eidgenoessische Technische Hochschule - Switzerland,
+Carrasco JA Universidad de Concepción - Chile, Bastos FI Fundação Oswaldo Cruz - Brasil, Costa LD Universidade de São Paulo - Brasil,
+Moll J Labs D’or Hospital Network - Brasil, Benevenuto F Universidade Federal de Ouro Preto - Brasil, Gonzalez MC Universidade Federal
+de Sao Paulo - Brasil, Miller EJ University of Toronto - Canadá, Zanette DH Centre Atomic Bariloche - Argentina. Para la red de citas, los
+únicos latinos con destaque fueron Benevenuto F, Castellano C, Lancichinetti A. Sin embargo, las grandes referencias del área
+fueron Freeman LC, Granovetter M, Wasserman S, Scott J, Borgatti SP y Burt RS. En estudios de análisis de red social aplicado a
+bibliometría y cientometría los autores que publican no son identificados como los más citados y con constancia en la red. El
+Análisis de Redes Sociales en América de Sur trabaja directamente con el soporte de red social, el capital social, la epidemiología,
+la salud mental, la depresión, la violencia. Los estudios están vinculados a la medicina y enfermería, psicología, sociología, negocios
+y economía, física y ciencia de la información.
+Palabras ilave: Análisis de redes sociales. América del Sur. Bibliometría. Cientometría.
+1
+
+2
+
+3
+
+Trabajo presentado en el VII Seminario Internacional sobre Estudios Cuantitativos y Cualitativos de la Ciencia y la Tecnología “Prof. Gilberto Sotolongo
+Aguilar” en XIII Congreso Internacional de Información - INFO’ 2014. Habana, Cuba.
+Universidade Federal de Santa Catarina, Departamento de Ciência da Informação. Campus Universitário Reitor João David Ferreira Lima, Trindade, 88040900, Florianópolis, SC, Brasil. Correspondencia a nombre de/Correspondence to: A.L. PINTO. E-mail: <adilson@cin.ufsc.br>.
+Université Paul Valéry Montpellier III, Département de Documentation. Montpellier, France.
+Recibido el día 13/5/2014 y aceptado para su publicación el 9/9/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+253
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+Visibilidad de los estudios en análisis de redes
+sociales en América del Sur: su evolución y
+métricas de 1990-20131
+
+Abstract
+The aim of the study is to analyze the scientific productivity in South American countries related to Social Network Analysis in accordance
+with the representation of the countries, institutions, researchers and their theoretical references (citations used in these productions).
+The present study spans from 1990 to 2013 (31/05/2013). Bibliographical description was used to discover the status of Social Network
+Analysis in the scientific literature and the quantitative method to analyze publication and citation frequency data using Bibliometrics
+and Scientometrics. The data was collected from the Web of Science database, refining the data for the countries selected: Argentina
+n=166; Brazil n=775; Bolivia n=28; Chile n=179; n=78; Colombia n=78; Ecuador n=19; Paraguay n=8; Peru n=33; Uruguay n=21;
+Venezuela n=48 no articles were published from Guyana, Falkland Islands, Suriname, retrieving a total of 922 scientific articles. The
+Statistical Package for the Social Sciences, DetDraw, and CiteSpace were used for the treatment of data. Data showed that Brazil, Argentina, Chile, Venezuela and Peru maintained an especially close relationship with the United States of America. Among the South American
+countries, the centrality of the network consisted of Brazil, Argentina and Chile. The most outstanding universities were: Universidade de
+São Paulo, Universidade Federal de Minas Gerais, Universidad de Buenos Aires, Universidad Católica de Chile and Fundação Oswaldo
+Cruz, of which all focus on cooperation and enable studies of social network analysis to develop, with the main representatives being:
+Herrmann, HJ Eidgenoessische Technische Hochschule - Switzerland; Carrasco, JA Universidad de Concepción - Chile; Bastos, FI Fundação Oswaldo Cruz - Brazil; Costa, LD Universidade de São Paulo - Brazil; Moll, J Labs D’or Hospital Network - Brazil; Benevenuto, F Universidade Federal de Ouro Preto - Brazil; Gonzalez, MC Universidade Federal de São Paulo - Brazil; Miller, EJ University of Toronto - Canada;
+Zanette DH Centre Atómico Bariloche - Argentina. As for the citation network, the outstanding Latino scholars were Benevenuto, F,
+Castilian, C, Lancichinetti, A. However, the field counts on the great contributions of Freeman, LC, Granovetter M, Wasserman, S, Scott, J,
+Borgatti, SP and Burt, RS. In studies of social network analysis applied to bibliometrics and scientometrics authors who have published
+are not identified as the most constantly cited ones in the network. Social Network Analysis in South America directly deals with social
+network support, social capital, epidemiology, mental health, depression, violence. The studies are related to medicine and nursing,
+psychology, sociology, business and economics, physics and information science.
+Keywords: Social network analysis. South America. Bibliometrics. Scientometrics.
+
+Introdución
+La Red Social es la forma de representar las
+relaciones y las cooperaciones afectivas o profesionales
+entre integrantes que se conectan horizontalmente. Este
+fenómeno se manifiesta en forma de malla de múltiples
+hilos, que puede esparcirse indefinidamente en todos los
+sentidos, sin que ninguno de sus nodos pueda
+considerarse principal o central, ni representante de los
+demás. No hay un “comandante”, lo que hay es una
+voluntad colectiva de realizar y alcanzar determinados
+objetivos en conjunto.
+254
+A.L. PINTO & A. GONZALES-AGUILAR
+
+Durante las últimas décadas, el concepto de red
+social y los análisis de estas relaciones han sido
+desarrollados como una de las vías más prometedoras
+para medir la estructura social de la cooperación
+científica. Su fundamentación, sin embargo, comenzó a
+ser utilizada por Moreno (1934) en la consolidación de la
+Sociometría, al introducir la teoría matemática de gráficos,
+visando el dominio de la Teoría del Equilibrio Estructural.
+En paralelo, Heider (1946) concluyó un estudio
+de análisis de equilibrio en las relaciones, partiendo de
+una experiencia cognitiva, determinando dos tipos
+posibles de cooperación: por simpatía o positiva, cuando
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+las relaciones son obvias dentro de un universo científico;
+y la relación por desaprobación o negatividad, que en
+general es formada por causalidades, tratándose de una
+función que no posee una centralidad.
+A partir de estos marcos iniciales, fue determinado
+el origen de la Teoría de Redes Sociales, desarrollada a
+priori por la Universidad de Manchester en la década de
+1950. Al frente de este proyecto estaban Max Gluckman
+y John Barnes los exponentes más importantes en la
+Teoría de las Redes Sociales.
+En su fundamentación antropológica se
+visualizaron estudios centrados en la parte clínica de la
+Medicina y su dominio (red de análisis de enfermos y del
+control de prontuarios), tanto enfocados hacia la
+normalización de las técnicas de tratamiento en un grupo
+de personas, o bien partiendo de presuposiciones
+cognitivas y dirigidas hacia el control de tratamientos en
+escalas de redes de pacientes (Litwin, 1997). Otra
+vertiente habitual es la estructuración y la aplicación de
+las redes en la actividad empresarial, principalmente para
+el control de grupos y de producción, en procedimientos
+y clusters empresariales (Granovetter, 1985). Estas visiones
+son derivadas de los estudios iniciales sobre los colegios
+invisibles y sobre el capital social, que siempre actuaron
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+Ante este postulado, es esencial observar que las
+Redes Sociales no son solamente evolutivas. Se trata de
+una disciplina que genera nuevos conocimientos con la
+perspectiva de resolver problemas recientes en el área
+de las Ciencias Sociales, trabajando con acciones
+estructuradas y de pares micro y macro, explorando
+fundamentalmente la generación “cuantitativa” de los
+datos, proceso de la fundamentación de la Sociometría
+y la teoría de gráficos.
+La utilización de generar una Red Social enfocada
+a los estudios de carácter métrico, utilizando la
+estructuración de las coautorías para formar las relaciones
+de cooperación científica a nivel individual, grupal y en
+red de autores es una constante en la actualidad.
+Resaltando este aspecto cuantitativo de las Redes, es
+esencial que los Estudios Métricos sean adoptados para
+poder fundamentar otros aspectos dentro de las
+relaciones, como las densidades, las intermediaciones y
+las cercanías, que son cálculos que determinan el grado
+de la centralidad existente en las relaciones. Esto fortalece
+la visión de que las Redes Sociales se fundamentan
+también en la Estadística, puesto que son una suma de
+cooperación entre dos o más puntos, o simplemente
+porque constituyen una representación de frecuencia
+científica diseñada en un mapa por inferencias similares
+(de autores, temáticas, revistas, documentos o
+instituciones científicas).
+Las Redes Sociales determinan diversos
+comportamientos (en lo que concierne a las facetas de
+la antropología) y cuentan con diversos movimientos que
+basaron su modelo actual. Dentro de la teoría, que
+constituyeron las ideas de las Redes Sociales, se puede
+destacar dos tipos de aplicaciones.
+La primera es el capital social, que comenzó a ser
+usado para describir una aplicación para la
+administración de negocios, con sus principios
+antropológicos hacia el relacionamiento interno de las
+empresas. Sin embargo eso puede ser utilizado para saber
+la subjetividad de la economía y política, también para
+vislumbrar la simbología del capital económico, su
+cultura y su acción social como aporte a las
+oportunidades laborales, al desarrollo de las profesiones
+y a la gestión de contactos (Bourdieu, 1977); su relación
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+directa entre el capital económico (infraestructura,
+financiación), el capital humano (educación) y el capital
+social (relaciones de confianza), donde esa acción hace
+que la unión entre el capital económico y el capital
+humano se potencie, en la medida en que aumenten las
+relaciones de confianza y la cooperación en la
+comunidad, y; finalmente, el capital social muestra
+características de organización social tales como la
+confianza, las normas y las redes que pueden mejorar la
+eficiencia social al facilitar acciones coordinadas, muy
+aplicadas cuando quieren saber comportamientos de
+costumbres.
+Por otro lado, existen estudios de Análisis de
+Redes Sociales (ARS) basado en los colegios invisibles
+enfocados en el agrupamiento los actores, teniendo un
+aporte interesante para el medio científico en el
+intercambio de informaciones y experimentos. La
+característica de esos colegios es la interacción y la
+comunicación dentro de una red que funciona como un
+fórum educativo. En este sentido, beneficia tanto a los
+científicos expertos, como a los nuevos científicos que
+comienzan a trabajar en un determinado tema y
+necesitan informaciones aplicables, de algunas técnicas
+o de fundamentación teórica. Estas vertientes han hecho
+con que el medio científico comenzase a estudiar el
+comportamiento de estas sociedades, basando el aporte
+para vislumbrar el análisis de las relaciones oscuras o poco
+visibles.
+Actualmente, para analizar los colegios se emplea
+la representación gráfica basada en las Matemáticas de
+características cartesianas, que se conoce como
+Sociometría, cuya vía para la ciencia se fundamenta en
+el momento cuando se evalua el todo del conjunto por
+sus partes. Se trata, por lo tanto, de una ciencia social
+que se ocupa del individuo como integrante de un
+determinado grupo, y de las relaciones con sus pares.
+Esta fundamentación estructural puede ser representada
+mejor por sus modelos: como el de Estrella que está
+compuesta de diversas líneas apuntando hacia un punto
+céntrico, que representa un individuo envuelto en la
+relación con cada uno de los demás participantes, y
+donde las flechas representan relaciones tales como
+reciprocidad, ignorancia o rechazo; el de Corriente que
+se caracteriza por una serie de relaciones en fila, con un
+intermediario que hace la función de enlace de los pares;
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+255
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+bajo el prisma de relación entre las personas o
+instituciones.
+
+el de Pares, compuesto por una relación recíproca entre
+dos individuos; el de Poder, representado como una
+atracción entre grupos distinguidos que se funden por
+iniciativa de uno de los individuos, y; el de Aislamiento,
+determinado por un asunto no escogido por demasiados
+individuos, cuya interacción social no está consolidada.
+El modelo de la Sociometría de Jacob Moreno
+puede ser aplicable en cualquier estudio relacionado a
+las Redes Sociales, mientras que sus representaciones
+pueden ser mejor identificadas si se les combina con el
+análisis de autores o instituciones, para una mejor
+visibilidad gráfica.
+Como aporte de estudio, indagamos cómo se
+comporta el análisis de redes social en América del Sur
+según su productividad científica de impacto; visando
+evaluar y analizar la productividad científica de estos
+países sobre el tema de las ARS, fundamentado en (i)
+evaluar el grado de centralidad de los países en el tema;
+(ii) analizar el comprometimiento de las instituciones; (iii)
+identificar los investigadores más representativos en
+producción, y; (iv) vislumbrar el comportamiento de los
+referenciales teóricos en el tema.
+
+Materiales y métodos basados en los
+estudios métricos de la información
+A principios del siglo XX se plantearon los
+primeros estudios bibliométricos. Evaluando las
+frecuencias, distribuciones y probabilidades de la
+información científica y tecnológica, pasando a nuevas
+métricas, en especial por la dimensión de los estudios,
+como el ejemplo de la Cientometría.
+256
+A.L. PINTO & A. GONZALES-AGUILAR
+
+Algunos estudios se propusieron atender a la
+capacidad estadística de la producción científica y
+tecnológica. En uno de estos estudios se establecieron
+los fundamentos de la ley del cuadrado inverso (Lotka,
+1926), afirmando que el número de autores que hacen
+“n” contribuciones en un determinado campo científico
+es aproximadamente 1/n², mientras los que hacen una
+sola contribución es de más o menos el 60%, que se ha
+utilizado posteriormente para medir el grado de
+importancia de los autores en sus disciplinas y sus
+correlaciones con otros autores, en grado de proximidad.
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+Por la misma época, otro estudio se preocupó en
+identificar los métodos para localizar las revistas-núcleo,
+conociendo de esta forma los principales países
+investigadores y el desarrollo de estudios a través de citas,
+a la vez que realizaba un análisis de revistas claves y daba
+origen a la medida de la ciencia (Gross, P.L.K. & Gross, E.M.
+1927).
+Posteriormente, Bradford (1934) propuso el
+método para conocer los autores más citados y en qué
+revistas eran citados, para lo que utilizó un estudio muy
+semejante, en el que trató de representar su teoría sobre
+el núcleo de revistas, dividiendo la suma total de las
+revistas por tres partes, teniendo así sus núcleos de
+característica 1, 2 y 3, siendo de alta intensidad la 1, de
+media intensidad la 2 y de baja intensidad la 3. Ejemplo:
+Un total de citas recibidas por una revista es de 1500, el
+primer núcleo contiene las 500 primeras, el segundo las
+otras 500 y el tercero las 500 finales. Sin embargo, las 500
+primeras estarán representadas por 55 autores,
+principalmente porque son los que más producen, y por
+este motivo quedan determinados como primer núcleo.
+El segundo núcleo está representado por 220 autores,
+con una representación en torno de dos trabajos por
+autor; y el último núcleo es representado por 500 autores,
+todos con una citación recibida.
+Algunos años después, exactamente en 1949, se
+publicó uno de los estudios más complejos de todos los
+tiempos por el científico Zipf (1949), quien estableció una
+comparación de las palabras clave con las citas, donde
+observó que el uso de las palabras en cualquier lengua
+está claramente definido por valores constantes. Así,
+definió que el número Y de veces que aparece una
+palabra es inversamente proporcional a su rango X, es
+decir, Y=a/X. Para un estudio de análisis de citaciones, se
+representaría mediante una frecuencia elevada de
+palabras claves, donde éstas estarían entre las más
+citadas. Esta técnica incluso puede ser utilizada para
+textos aleatorios, tal como lo aplican los motores de
+búsqueda de Internet.
+Las ideas fundadoras de disciplina bibliométrica
+remontan a la década de 1950, con Vannevar Bush,
+explorando el poder de las citas estadísticas; también con
+el origen del Instituto de Ciencias de la Información,
+donde Garfield (1955) aprovechó todas las “teorías
+preliminares” para desarrollar un recurso de normalización
+del contenido bibliográfico, aplicando una base de datos
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+Las iniciativas de Garfield no fueron inicialmente
+una acción en favor de la ciencia, puesto que tenía por
+detrás intereses financieros, pero sirvió de inquietud del
+potencial del recurso de las bases de datos, pudiendo
+también mirar el análisis en las citas, teniendo como
+comparar las citaciones con el desarrollo de los equipos
+de investigación y el crecimiento exponencial de la
+ciencia (Price, 1964), determinando la aplicación de la
+ciencia por la ciencia.
+De las iniciativas en bases de datos, Kucera y
+Francis (1967) desarrollaron un análisis computacional
+para eliminar las palabras vacías, a partir de una lista de
+palabras vacías generada mediante un diccionario de
+frecuencias. El análisis demostró la naturaleza de las
+diferencias sintácticas entre los distintos géneros de la
+escritura representados en la base de datos,
+especialmente entre la prosa informativa y la prosa
+imaginativa. Esta técnica pasó a incorporarse a los
+estudios métricos, como consecuencia de haber
+fundamentado algunos programas de control sistémico
+de las palabras, introduciendo los estudios que se basan
+en los términos más utilizados.
+En la década de 1970 los estudios métricos
+sufrieron un cambio en la forma de su aplicación, con
+mayor interés a los métodos basados en la co-ocurrencia
+de las palabras, utilizando las bases de dados más
+representativas en la época, como el Social Science
+Citation Index y Science Citation Index. Siendo
+posteriormente visto modelos de análisis a los mapas de
+co-citaciones, teniendo como base los programas Pajek
+<http://vlado.fmf.uni-lj.si/pub/networks/pajek/> y Ucinet
+<https://sites.google.com/site/ucinetsoftware/home>
+para representar los análisis de redes.
+La gran preocupación existente por realizar
+estudios métricos para cuantificar la progresión en la
+4
+
+ciencia y en la tecnología ha hecho que muchas
+aplicaciones prácticas de las teorías sobre medición se
+puedan utilizar, pero todo basado en tres aspectos: la
+actividad, la productividad y el progreso.
+Ante estos tres aspectos de la ciencia, la
+Organización para Cooperación Económica y Desarrollo
+(Organization for Economic Cooperation and Development,
+1975) formuló un manual práctico para el desarrollo de
+la medición de las actividades científicas, convirtiéndose
+en una referencia para las encuestas de Innovación y
+Desarrollo de sus países miembros. A partir de esta
+iniciativa, la Organización de las Naciones Unidas para la
+Educación, la Ciencia y la Cultura (UNESCO) propuso la
+norma para las encuestas de Innovación y Desarrollo en
+todos los países del mundo, estableciendo las formas de
+investigación: básica, aplicada y de desarrollo
+experimental.
+Frame et al. (1977) hicieron un trabajo en el que
+analizaron la literatura de economía con cobertura
+internacional, preocupándose mucho por la visibilidad
+del Este europeo pero también, como casi todos los
+análisis métricos en bases de datos, utilizaron ISI y
+Medline4.
+La medición de la ciencia y la tecnología pasó por
+una época de preocupación creciente respecto a la
+política aplicada a sus desarrollos, como demuestra que
+los principales países empezasen a confeccionar
+propuestas para una autosuficiencia en nuevas
+tecnologías, visando los recursos de informática, como
+la actualidad. Pese a que los estudios de producción
+científica y colaboración entre autores fueron basados
+en este principio, para poder ganar espacio en el medio
+científico, sin embargo con limitaciones, puesto que no
+contaban con recursos apropiados para continuar con
+el desarrollo que la ciencia y la tecnología entonces
+requerían.
+En el inicio de la década de 1980 se empezó a
+discutir el progreso tecnológico desde su derivación de
+las aplicaciones científicas del mundo académico,
+resaltando los factores culturales, sociales y económicos
+determinados por el progreso de la ciencia, y viéndose
+cómo el progreso tecnológico antecede y estimula a la
+actividad científica.
+
+Servicio de Información para la Salud de la National Library of Medicine y de la National Institutes of Health.
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+257
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+en la que identificó cuales eran las revistas “más
+importantes” y cuáles eran los países con mayor
+representación internacional, y posteriormente implantó
+un análisis sobre los autores más citados. La Science
+Citation Index, la Social Science Citation Index, la Arts &
+Humanities Citation Index y el Journal Citation Report
+representan los productos más conocidos de su
+compañía.
+
+En paralelo los gobiernos comenzaron a invertir
+en los indicadores de input y output, principalmente en
+las instituciones públicas de enseñanza e investigación,
+desarrollando para cada país un modelo de análisis de
+los datos, denominados de informes de ciencia y
+tecnología. Sin embargo, esta actitud obtuvo muchísimos
+errores de datos, principalmente porque algunos países
+tendrían la necesidad de justificar sus gastos, y algunos
+tuvieron que maquillar sus datos.
+Una de la soluciones para poder identificar
+realmente los gastos de los gobiernos fue la distribución
+de publicaciones por área de la ciencia, a través del
+principio de autoorganización y agrupación de vectores
+n-dimensionales en un espacio bidimensional. Este
+estudio consistía en demostrar que una información de
+entrada por sí sola a través de una estructura propia y
+una descripción funcional del comportamiento de la red
+puede formar mapas de características de citaciones, de
+topologías, o de autoridad. Estos mapas tienen como
+característica organizar la información de entrada
+clasificándola automáticamente, y el sistema de
+autoorganización básico tiene la función de agrupar la
+frecuencia conforme sus características y relacionarla con
+otras temáticas por proximidad (Kohonen, 1982).
+
+258
+A.L. PINTO & A. GONZALES-AGUILAR
+
+Otra iniciativa, utilizando la autoorganización de
+los mapas, fue de Honkela et al. (1996), donde aplicaron
+un nuevo método, con una función en la web de los
+mapas de autoorganización, representando documentos
+por sus semejanzas y sus características comunes de
+campos, principalmente cuando existe un standard en
+los puntos que distinguen las temáticas del texto. El
+método completo implica una arquitectura de dos
+niveles: por un lado están los mapas de autoorganización
+y por otro lado están los mapas de categorías de las
+palabras y los mapas de documento, así como los medios
+para la exploración interactiva de la base de datos.
+Volviendo la versión web mucho más dinámica y
+completa.
+El método de mapas de autoorganización es ideal
+para analizar materias dentro de un universo de palabras,
+diferenciadas por nombres y colores (por defecto). Puede
+ser utilizado también para identificar grupo de autores
+que trabajan juntos o que lo hacen dentro de una
+materia, sirviendo incluso para evaluar una posible red
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+en tres dimensiones, como algunos softwares ya lo hacen,
+por ejemplo el Gephi <https://gephi.github.io/>.
+Otro trabajo clásico, pero con un carácter más
+enfocado hacia la recuperación de la información, fue el
+de Salton et al. (1982), por el que determinaron el
+principio del Modelo del Espacio Vectorial (MEV) que
+posteriormente fue descripto como aportación
+fundamental para el desarrollo de la Recuperación de
+Información, junto a soportes de tareas como la
+desambiguación del sentido de las palabras y la
+clasificación de los textos. Partiendo de su aplicación
+conceptual a la recuperación de la información, es posible
+conceder el valor más alto a las palabras que causan la
+mayor diferenciación entre los documentos de una
+colección que se pretende indizar, relación luego muy
+utilizada en los análisis bibliométricos, principalmente
+porque buena parte de estos trabajos son extraídos de
+bases de datos y pasan por un proceso de recuperación
+de información y después por los de tratamiento y
+normalización.
+Casi al mismo tiempo Cronin (1984) discutía las
+causas por las que se citaba a un autor y no a otro, como
+una forma de “ideología científica” que las revistas solían
+hacer cuando se pretende publicar un determinado
+trabajo y no se refería a los autores “clásicos”. Sin embargo,
+las citas siempre son una influencia del área de
+conocimiento, en especial para las áreas de gran impacto
+científico; y dentro de ese impacto es posible determinar
+los estudios más relevantes, como siendo teóricos,
+independiente si la estructura corresponde a métodos o
+aplicaciones.
+Para este tipo de metodología es posible producir
+normalización basada en la función de tipificación
+utilizando el factor de impacto, trabajando con
+variaciones al tiempo que sus escalas de diferentes
+categorías son homogéneas. Este tipo de aplicación
+puede servir como referencia a la hora de situar la
+posición del dominio de áreas, a diferencia de otros
+cálculos en los que el valor resultante se sitúa dentro de
+un rango.
+White y McCain (1989) propusieron un análisis
+donde las métricas de las cocitaciones son un indicador
+muy relevante para las relaciones de los autores.
+Consiguientemente observaron que cuanto más alta era
+la cocitación entre los pares de los autores, más fuerte
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+Schubert et al. (1989) presentaron una posible
+manera de caracterizar la importancia relativa de los
+enlaces de una institución con respecto a otra. Se trata
+de un índice de coautoría asimétrica, utilizada
+posteriormente en los estudios de Redes Sociales, donde
+ellos aplicaron como un comparativo del Science Citation
+Index con el Ulrich’s International Periodicals Directory.
+A principios de los años 1990, los documentalistas
+observaron que los autores más representativos en la
+temática empezaban a aplicar una forma de consumo
+de información en los centros de documentación y
+bibliotecas para control interno de préstamos y consultas.
+Pero aplicaban tan solo una décima parte de las técnicas
+métricas, y en muchos casos de forma equivocada de
+manera que el análisis científico no era muy bien
+empleado por los profesionales de la información,
+mientras que los grandes trabajos de esta década
+aplicados a la Biblioteconomía y Documentación seguían
+en manos de químicos, físicos, ingenieros, científicos de
+la salud y biólogos.
+Dentro del universo académico el consumo de
+información es denominado como análisis de citaciones,
+pudiendo ser clusters de citaciones, visando identificar
+cuáles son las materias más estudiadas, recuperando por
+un lado parte de la bibliografía internacional en bases
+de datos y por otro lado identificar la frecuencia científica
+de algunos autores en las memorias científicas.
+Egghe y Rousseau (1991), presentaron un artículo
+sobre la noción de concentración que puede estudiarse
+aplicando un número de principio de transferencia. Los
+principios de transferencia implican otros requisitos
+naturales de concentración, entre los cuales se sitúa el
+principio del aumento nominal. Como parte práctica,
+utilizaron una comparación entre el principio de
+transferencia de Dalton (el principio de suma de
+cantidades fijas) y la orden de dominación de Lorenz (la
+proporción del área entre la curva), distinguidos como
+principios simples y fuertes en la transferencia,
+conduciendo a una clasificación de las medidas de la
+concentración, por la que se identificó que el coeficiente
+de variación y otras medidas derivadas son las más
+adecuadas para este tipo de evaluación.
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+En la misma época Frakes (1992), se introdujo en
+un estudio desde los algoritmos en el que empleó
+muchos sistemas propios del análisis de proceso y de la
+lingüística del texto para estudiar las búsquedas y la
+recuperación en bases de datos. El contexto científico se
+situó en el efecto de dinamizar el funcionamiento de la
+recuperación desde experiencias previas y con precisión,
+siendo posteriormente utilizado por otros autores en la
+compresión de los índices.
+Con eso, fue posible destacar la relación existente
+entre las dimensiones de la ciencia y de la tecnología,
+donde situaron una de las características principales de
+los sistemas de innovación; pero la ciencia es el hilo para
+el progreso tecnológico.
+Siguiendo esta teoría, tenemos como base las
+búsquedas de los esfuerzos en Ciencia y Tecnologia (CyT)
+por medio de indicadores de input como volúmenes de
+inversión en investigación científica y tecnológica. Y que
+tal configuración fue el resultado de la evolución respecto
+a la manera de entender la cadena de producción del
+conocimiento científico y tecnológico, generando los
+outputs necesarios al desarrollo en CyT.
+Como complemento, tenemos el factor de
+impacto de las revistas de los paquetes del Institute for
+Scientific Information, basado en evaluar la cantidad de
+citas en dos años, dividida por el número de artículos
+publicados en el mismo período en una determinada
+revista, como una fórmula aritmética.
+Gibbs (1995) realizó un informe sobre la salida
+masiva de científicos de sus países de origen,
+generalmente en desarrollo, para buscar oportunidades
+en países ya desarrollados, principalmente en Estados
+Unidos (EEUU) lo que supuso aún más subdesarrollo para
+los países emergentes. Esto provocó que los bajos índices
+productivos se hiciesen casi constantes.
+Posteriormente, Narin et al. (1997) buscaron las
+evidencias empíricas en el vínculo creciente entre la
+ciencia - fundamentalmente financiada por el sector
+público - y la capacidad innovadora del sector industrial,
+pero aplicada a países desarrollados. Sin embargo, la
+inquietud de la comunidad científica mundial se figuró
+en las funciones de la publicación científica, en especial
+para el progreso de la ciencia como un todo.
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+259
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+eran sus relaciones según lo percibido por citers, y más
+fácilmente interpretables los mapas basados en ellos.
+
+A partir del año 2000 los estudios enfocados hacia
+la ciencia iban logrando mayor impacto en la sociedad,
+por lo que muchos países comenzaron a destacarse a
+nivel mundial, principalmente los llamados emergentes.
+Sin embargo, buena parte de esta representación se
+debió a la internacionalización de las bases de
+conocimiento (ISI, Pascal, Pro-Quest entre otras) y de
+desarrollo locales, que buscaban atender a esta
+necesidad.
+En ese mismo año fue muy relevante la aplicación
+del factor de impacto en bases de conocimiento, en
+especial por el estudio de Amin y Mabe (2000) que
+hicieron un repaso de esta técnica de medición de las
+revistas, pero visando las limitaciones de este tipo de
+indicador, pues todos los recursos son determinados por
+sus puntos fuertes y sus debilidades.
+Un año después, White (2001) fundamentado en
+las citaciones, cocitaciones y coautorías, hizo resurgir las
+técnicas de la visualización de la información de manera
+automática, generando perfiles personales de autoría a
+partir de los datos contenidos en las bibliografías (los
+conocidos Cameo´s). Este recurso es primordial para la
+recuperación de los documentos originales. Hay que
+resaltar que una preocupación constante de White
+consistió en observar la teoría de la autocitación, recurso
+indebidamente utilizado por algunas autoridades en las
+bases de datos internacionales.
+
+260
+A.L. PINTO & A. GONZALES-AGUILAR
+
+La evolución científica sugiere la necesidad de
+fomentar esfuerzos para encontrar y desarrollar nuevas
+formas de publicación de las monografías. Thompson
+Reuters (2002) hizo un examen de 6.708 citaciones de
+monografías y de artículos de revista sobre literatura
+británica y americana del siglo XIX, demostrando que los
+eruditos de la humanidad recuperan una gran cantidad
+de fuentes primarias y secundarias con una edad de
+vigencia de amplio espectro. Las citaciones revelaron una
+gran confianza en las citas de las monografías, y también
+se identificaron una gran cantidad de revistas clave.
+En 2003, un trabajo de Chaomei Chen fijó
+convincentemente las teorías generales referentes a la
+cartografía y a la comunicación visual de la ciencia,
+teniendo como fundamento el marco de Generalized
+Similarity Analysis (GSA) (modelo para extracción de
+relaciones semánticas entre documentos y enlaces
+hipertextuales). El objetivo era desarrollar técnicas de
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+visualización de la ciencia, en forma de mapas de
+conocimiento. Posteriormente a esa publicación Chen
+desarrolló un programa denominado CiteSpace para
+establecer las relaciones científicas que se daban entre
+autoridades.
+Todos los estudios anteriormente citados, ya
+clásicos y consagrados, sirvieron de soporte para que
+Freeman (2004) pudiera abordar una temática que ya
+empleara en la década de 1930 Jacobe Moreno, la de las
+redes sociales. La diferencia entre el estudio de Freeman
+y el de Moreno fue que la representación gráfica no era
+el principal objetivo, sino los datos cuantitativos de las
+cooperaciones científicas en forma asimétrica. Del
+estudio se derivó de inmediato un índice social de la
+citación de la ciencia. Freeman solamente hizo públicas
+las iniciativas que estaban realizando muchos
+investigadores en todo el mundo respecto a las redes
+sociales, pero que llevaban a explicaciones distintas,
+incluso desde la denominación, pues se apreciaron
+propuestas entorno a: “relaciones científicas”, “Redes
+Sociales” y “coautorías”.
+Es probable que la progresión y difusión de la
+bibliometría sea la evolución de la preocupación de saber
+lo que se investiga, los representantes de estas
+publicaciones, las interacciones existentes en las
+investigaciones, y saber de hecho en creciente número
+de investigadores que tenemos actualmente, en especial
+por los incrementos de publicaciones en las bases de
+datos y del incremento de investigadores en el mercado
+científico.
+El reflejo de todo eso es la orientación de carácter
+internacional en el mundo científico, que se basa en bases
+de datos de gran amplitud, como nuestro estudio, que
+trabaja directamente con una base de datos de ámbito
+internacional, la Web of Science.
+
+La Web of Science como recurso
+informacional para análisis de redes
+sociales
+La Web of Science es una base de dados del
+Institute for Scientific Information, iniciada por un proyecto
+de Eugene Garfield en 1960 con la visión de indizar
+información científica de las revistas americanas de la
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+y revistas. Sin embargo, actualmente este recurso no es
+más visible en el sistema.
+
+En la década de 1980, con la comercialización de
+esta base de datos, comienza a ser recuperada también
+información en las áreas de Ciencias Sociales, Humanas
+y Artes, a partir de las bases Social Science Citation index
+y Arts & Humanities Expanded.
+
+La alternativa para eso fue la versión actualizada
+del CiteSpace, donde Chen (2003), ha agregado
+contenidos para tratar la información por acoplamiento
+bibliográfico, un recurso muy significativo para trabajar
+el análisis de redes sociales ARS en contenidos científicos,
+donde a continuación iremos representar por gráficos la
+producción científica de ARS en los países de América
+del Sur.
+
+Todo el contenido de estas tres bases de datos
+están desde 1945, con un plus de información, dando
+toda la información registrada en la base para buscar
+servicios, los índices de productividad, índice-h y el índice
+de citas de autores y de revistas, con la base Journal
+Citation Report.
+Esta iniciativa fue la primera del mundo de
+agregar las citas como un punto de partida para
+verdadera acción de exploración de las ciencias en el
+mundo. Otro dato importante es que fue la primera base
+a trabajar con índices sociométricos de la ciencia, con
+vista a la cientografía o teoría de gráficos a la ciencia,
+generando mapas automáticos de las relaciones de los
+autores.
+Más recientemente la Web of Science se fundió
+con otros paquetes, como bases de actas científicas,
+incorporado en la década de 2000 con la compra de este
+repertorio por la Thomson Reuters.
+La Thomson Reuters, ha mirado una oportunidad
+de controlar información científica creando, a partir de la
+Web of Science, otra plataforma denominada Web of
+Knowledge, indizando las bases: Arts & Humanities Citation
+Index; Biological Abstracts; Biosis Citation Index; CAB
+Abstracts; Conference Proceedings Citation Index; Current
+Chemical Reactions; Current Contents Connect; Derwent
+Innovations Index; Essential Science Indicators; FSTA Food
+Science Abstracts Tecnology; Salud Global; Chemicus Index;
+Inspección; HighlyCited.com ISI; Journal Citation Reports;
+MedLine; Science Citation Index Expanded; Social Sciences
+Citation Index, y Expediente Zoológico (Thomson Reuters,
+2010), controlando buena parte de la información
+académico/científica.
+Como aporte informacional para la Web of Science
+en los trámites de análisis de redes sociales fueron
+creados por la Thomson en finales de 2000 un sistema
+baseado na teoría de grafos, con representación limitada
+para identificar los análisis egocentrícos de autoridades
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+Recientemente, nuevos sistemas de indexación
+de citas se han lanzado para competir con Web of Science
+(Thomson-Reuters) por ejemplo, la Scopus, el sistema
+apoyado en Elsevier. Sin olvidar Google Scholar que se
+interesa a las redes de citas de la Web. Desde el inicio de
+la web hace casi dos décadas se han propuesto
+indicadores de impacto similares a los utilizados en la
+cienciometría para los sitios web institucionales y páginas
+web, con base en las estructuras de enlace.
+
+Discusión
+En nuestros análisis vamos inferir sobre dos
+puntos básicos, el primer enfocado en los análisis de redes
+sociales, teniendo la teoría de gráficos y la sociometría
+como centrales, y por otro lado los estudios métricos de
+la información para generar las inferencias del
+comportamiento de las relaciones científicas.
+Como punto clave, existen las relaciones
+científicas por los países de América del Sur y sus
+colaboradores externos. De estas forma consideramos 3
+países con centrales en la publicación (Brasil, Argentina
+y Chile), representando América del Sur y los Estados
+Unidos de América y España como elementos de ligación
+entre la Sudamérica con el mundo. Esta relación se hace
+en especial con Chile y Argentina. Brasil tiene toda tu
+rama individual (Figura 1).
+La bibliometría está trabajando ahora para
+desarrollar modelos estadísticos para medir la evolución
+de la ciencia y la tecnología, y permitir la definición de
+los grupos temáticos que componen la realidad
+subyacente al avance de la ciencia en Latinoamérica.
+Otro dato crucial es la inferencia de centralidad y
+proporción de la productividad (n=775) que representa
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+261
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+ciencia, especial las ciencias puras, reportada en la base
+Science Citation Index Expanded.
+
+Brasil en el análisis, siendo seguido por los EEUU (n=209),
+Chile (n=179), Argentina (n=166), Colombia (n=78),
+España (n=71), Inglaterra (n=51) y Venezuela (n=48).
+
+Las áreas más recurrentes de conocimiento en el
+ARS fueron las de Medicina (Salud Pública, el Medio
+Ambiente y la Salud Ocupacional con 170 estudios;
+
+Dentro del universo brasileño, el país ha logrado
+relaciones aisladas con países europeos (Rusia, Italia,
+Austria, Suecia, Portugal, Suiza), con asiáticos (China y
+Japón), con América Central y Caribe (Cuba) y con África,
+Oriente Medio y Oceanía (África del Sur, Israel y Australia).
+
+Enfermería n=51; Psicología n=38), Ciencia de la
+Información (n=43) y de la Computación (Sistemas de
+información n=30, Computación n=28), la Física (n=73)
+y las Ciencias Administrativas (Administración n=34;
+Negocios n=26; Ciencias Económicas n=33).
+
+En la proporción científica de los países también
+es relevante mencionar la importancia que instituciones
+representan en los análisis, como el grado de
+productividad de la Universidade de São Paulo,
+Universidade Federal de Minas Gerais, Universidad de
+Buenos Aires y la Pontificia Universidad Católica de Chile.
+En una segunda escala tenemos Universidade Federal de
+Santa Catarina, Universidade Federal de Rio Grande do Sul,
+Fundacão Oswaldo Cruz, representados en la Figura 2.
+
+En representación a estas instituciones y sus áreas
+de investigación, algunos autores se destacan por su
+forma de cooperar y de producir, como fue el caso de
+Herrmann HJ Eidgenoessische Technische Hochschule Switzerland, Carrasco JA Universidad de Concepción Chile, Bastos FI Fundação Oswaldo Cruz - Brasil, Costa LD
+Universidade de São Paulo - Brasil, Lind PG Universidade
+Federal do Ceará - Brasil, Moll J Labs D’or Hospital Network
+- Brasil, Benevenuto F Universidade Federal Ouro Preto -
+
+USA
+BRAZIL
+
+262
+A.L. PINTO & A. GONZALES-AGUILAR
+
+Figura 1. Relaciones de los países Sudamericanos en Análisis de Redes Sociales.
+Fuente: Datos de la investigación (2014). Generado por los autores en NetDraw.
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+263
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+Figura 2. Comportamiento de productividad de las Instituciones en Análisis de Redes Sociales de Sudamérica.
+Nota: CCT: Centro Científico Tecnológico; CUNY: The City University of New York; EMBRAPA: Empresa Brasileira de Pesquisa Agropecuária; FACSO: Faculdad de
+Ciencias Sociales - Universidad de Chile; INSA: Institut National des Sciences Appliquées de Lyon; UCL: University College London.
+Fuente: Datos de la investigación (2014). Generado por los autores en CiteSpace.
+
+Brasil, Gonzalez MC Universidade Federal de São Paulo Brasil, Miller EJ University of Toronto - Canadá, Zanette
+DH Centre Atom Bariloche - Argentina, Anderson CB
+University of Texas - EEUU, Andrade JS Universidade
+Federal do Ceará - Brasil y Braunstein LA University of
+Boston - EEUU.
+Sin embargo, tener producción elevada y
+destaque en este aspecto no influencia en la centralidad
+de una red, donde es más importante que estos autores
+sean las ligaciones entre instituciones, representantes e
+incluso entre países.
+
+En contrapartida de la productividad y su
+centralidad en las publicaciones existen las influencias
+científicas que estos autores tuvieron para construir el
+conocimiento registrado.
+La forma de construcción del conocimiento
+registro es a partir de otros autores, en forma de citas y
+de acoplamiento bibliográfico, muy recurrentes en ARS
+aplicados a las citas de los estudios bibliométricos y
+cienciométricos.
+
+De esta forma, la Figura 3, tiene estas dos variables,
+(i) con un cuadro para la importancia de la frecuencia
+científica de algunos autores, como mencionado
+anteriormente, sus publicaciones, y (ii) un gráfico para la
+centralidad de influencia en la red. Algunos autores
+consiguen tener destaque en ambas inferencias, como
+es el caso de Bastos FI, Uchoa E, Firmo JOA, Herrmann HJ
+y Zanette DH.
+
+Una vez más, la forma de la cuantificación de
+frecuencia poco influencia en la centralidad y en el
+acoplamiento bibliográfico, pues uno es sólo
+representado en cómo fueron utilizados los referenciales
+teóricos, mientras que el otro muestra cómo algunas citas
+hacen toda la diferencia en contextualizar, en especial
+por no aportar una connotación superficial, sino
+específica sobre el tema abordado. En nuestro caso,
+estaremos con estas dos connotaciones frente a los
+Análisis de Redes Sociales.
+
+Curiosamente, estas frecuencias y centralidades
+tienen especial destaque a partir de 2006/2007, con
+influencia de Almeida V, seguido de Perez AM y Ford GA.
+
+Tratando de la frecuencia de citas, tenemos:
+Newman MEJ (n=152) seguido por Watts DJ (n=77),
+Barabasi AL (n=73), Wasserman S (n=59), Albert R y Galam
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+S (ambos con n=57), Borgatti SP y Wellman B (ambos
+con n=48), Stauffer D (n=45), Granovetter M y Minayo
+MCS (ambos con n=44), Rozzi R (n=43), Axelrod R (n=37),
+Scott J (n=34), Bourdieu P, Castells M y Freeman LC (todos
+con n=33), Friedman SR y Gulati R (ambos con n=32),
+Castellano C (n=31), Latour B y Sznajd-Weron K (ambos
+con n=30), Pastor-Satorras R y Putnam R D (ambos con
+n=29), Burt RS y Gonzalez MC (ambos con n=28),
+Bronfenbrenner U y Moll J (ambos con n=27), Amaral lan,
+Coleman J S y Klemm K (todos con n=26) y, Carrasco JA
+(n=25).
+Por otro lado, tenemos el acoplamiento
+bibliográfico en que son vislumbradas la primera cita en
+
+la base de datos de los trabajos en el tema Análisis de
+Redes Sociales de los artículos vinculados a los autores
+de países de América del Sur.
+En la Figura 4 las flechas relacionan las formas
+como estas citas son conjuntamente utilizadas por los
+autores, donde tenemos un inicio de las mismas por
+Freman LC, Granovetter M, Wasserman S y Erdos P, donde
+estos autores fundamentan los estudios de ARS desde
+1990, según las publicaciones sudamericanas.
+En una segunda esfera ya aparecen los
+acoplamientos de estas citas con Scott J, en especial por
+tratarse de fundamentos de ARS y de la relación directa
+
+264
+A.L. PINTO & A. GONZALES-AGUILAR
+
+228 autores com 1 producción
+
+228
+
+Figura 3. Frecuencia (FR) y centralidad de los autores que publican en Análisis de Redes Sociales.
+Fuente: Datos de la investigación (2014). Generado por los autores en CiteSpace.
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+265
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+Figura 4. Citas y acoplamiento bibliográfico.
+Fuente: Datos de la investigación (2014). Generado por los autores en CiteSpace.
+
+que existe de las teorías de su fundamentación (Gestalt,
+Gráficos, Sociometría y Dinámica de los grupos).
+Otros acoplamientos ocurren con más intensidad
+a partir de los años 2000, con la aplicación de ARS
+aplicados a las áreas médicas, de negocios y de la
+divulgación científica de los estudios métricos de la
+información. Esta última utiliza las ARS para justificar la
+inversión de recursos (Input) y sus colaboraciones por
+autoridades, instituciones y países, y los retornos de los
+investimentos a la investigación, en forma de artículos
+publicados en conjunto (Output). En este sentido
+tenemos Glanzel W y Dorogovtsev SN.
+Para finalizar, la influencia latinoamericana sola,
+empieza a tener relevancia en las citas y en acoplamiento
+de las citas a partir de 2010, cuando la relación directa
+de Castellano C (Venezuela) y Benevenuto F (Brasil)
+empiezan a ganar espacio en la Ciencia de la
+Computación y en la Física.
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+Conclusión
+En primer lugar, realizamos análisis de redes
+sociales, destinado a responder a algunas preguntas
+como: ¿Quiénes son los autores más importantes de la
+zona? ¿Existen grupos cerrados de autores? ¿Hay alguna
+persona en el medio de la mayoría de estos grupos? ¿Esta
+persona es también muy importante?
+Los estudios de ARS son aplicados a diferentes
+necesidades y eso quedó visible en este estudio, donde
+tenemos las más diversificadas aplicaciones, como en
+Salud Pública, el Medio Ambiente y la Salud Ocupacional,
+Enfermería, Psicología, Ciencia de la Información y de la
+Computación, Física, Administración y Ciencias
+Económicas.
+Si la bibliometría se ha impuesto en el mundo de
+la investigación es porque su fundamento es casi familiar
+en internet: la red y los análisis de redes. Más allá de los
+clichés a menudo reduciendo el factor de impacto y los
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+índices de evaluación individual, la bibliometría está
+trabajando ahora para desarrollar modelos estadísticos
+para medir la evolución de la ciencia y la tecnología.
+Por otro lado, la influencia de su aplicación a los
+estudios métricos de la información (bibliometría y
+cientometría) hacen con que identifiquemos a los autores
+que más publican, sus instituciones de trabajo y quienes
+son sus referencias en las publicaciones en forma de citas
+y co-citaciones.
+De esta forma el ARS en América de Sur trabaja
+directamente con el soporte de red social, el capital social,
+la epidemiología, la salud mental, la depresión, la
+violencia, basados en las principales instituciones de este
+continente, como Universidade de São Paulo, Universidade Federal de Minas Gerais, Universidad de Buenos Aires,
+Pontificia Universidad Católica de Chile, Universidade
+Federal de Santa Catarina, Universidade Federal do Rio
+Grande do Sul y Fundação Oswaldo Cruz, siendo cinco
+brasileñas, una argentina y una chilena.
+
+Toda la publicación tiene una relación directa con
+sus productores personales, como las de los brasileños
+Bastos FI, Costa LD, Lind PG, Moll J, Benevenuto F,
+Gonzalez MC y Andrade JS; el argentino Zanette DH y el
+chileno Carrasco JA, sin embargo el análisis contó
+directamente con las interferencias de personajes
+extranjeros, como Herrmann HJ de Suiza, Miller EJ de
+Canadá, y de los americanos Anderson CB y Braunstein
+LA. En las citas la influencia fue toda extranjera hasta
+2010, basado en los personajes que difundirán el ARS
+en el mundo y sus aplicaciones, como Freeman LC,
+Granovetter M, Wasserman S, Scott J, Bogatti SP, Watts
+DJ y Burt RS.
+Los grupos estudiados nos permiten confirmar la
+teoría de Mullins citado por Chen, que las agrupaciones
+de cocitación representan de hecho la estructura
+intelectual y que los coautores se forman los grupos
+sociales. Las Redes de coautoría nos proporcionan una
+base empírica para el análisis del cambio científico
+basado en las redes de cocitación o acoplamiento
+bibliográfico.
+
+Referencias
+Amin, M.; Mabe, M. Impact factors: Use and abuse. Perspectives
+in Publishing, Langford Lane, n.1, p.1-6, Oct. 2000. Available
+from: <http://cdn.elsevier.com/assets/pdf_file/0014/111425/
+Perspectives1.pdf>. Cited: Jul. 20, 2013.
+Bourdieu, P. Outline of a theory of practice. New York: Cambridge
+University, 1977.
+Bradford, S. C. Sources of information on specific subject.
+Engineering: An illustrated weekly journal, v.137, n. 3550,
+p.85-86, 1934.
+Chen, C. Mapping scientific frontiers: The quest for knowledge
+visualization. New York: Springer-Verlag, 2003.
+
+266
+
+Cronin, B. The citation process: The role and significance of
+citations in scientific communication. London: Taylor Graham,
+1984.
+
+A.L. PINTO & A. GONZALES-AGUILAR
+
+Egghe, L.; Rousseau, R. Transfer principles and a classification
+of concentration measures. Journal of the American Society for
+Information Science, v.42, n.7, p.479-489, 1991.
+Frakes, W.B. Stemming Algorithms. In: Frakes, W.B.; BaezaYates, R. (Ed.). Information retrieval: Data structures and
+algorithms. Englewood Cliffs: Prentice-Hall, 1992. p.131-160.
+
+Garfield, E. Quantitative analysis of the scientific literature and
+its implications for science policymaking in Latin America and
+the Caribbean. Bulletin of PAHO, v.29, n.1, p.87-95, 1955.
+Gibbs, W.W. Lost science in the third world. Scientific American,
+v.273, n.2, p.76-83, 1995.
+Granovetter, M. Economic action and social structure: The
+problem of embed-dedness. American Journal of Sociology.
+v.91, n.3, p.481-510, 1985.
+Gross, P.L.K.; Gross, E.M. College libraries and chemical
+education. Science, v.66, n.1713, p.358-389, 1927.
+Heider, F. Attitudes and cognitive organization. Journal of
+Psychology, n.21, p.107-112, 1946.
+Honkela, T. et al. Exploracion of full-text databases with
+self-organizing maps. In: International Conference on Neural
+Networks, 1., 1996, Piscataway. Proceedings… Piscataway: IEEE
+Service Center, 1996. p.56-61.
+Kohonen, T. Self-organized formation of topologically correct
+feature maps. Biological Cybernetics, v.43, n.1, p.59-69, 1982.
+Kucera, H.; Francis, N. Computational analysis of presentday
+American English. Providence, RD: Brown University Press, 1967.
+
+Frame, J.D.; Narin, F.; Carpenter, J.P. The distribution of world
+science. Social Studies of Science, v.7, n.4, p.501-16, 1977.
+
+Litwin, H. The network shifts of elderly immigrants: The case
+of Soviet Jews in Israel. Journal of Cross Cultural Gerontology,
+n.12, p.45-60, 1997.
+
+Freeman, L.C. The Development of social network analysis: A
+study in the sociology of science. Vancouver: Empirical,
+2004.
+
+Lotka, A.J. The frequency distribution of scientific productivity.
+Journal of the Washington Academy of Sciences, v.16, n.12,
+p.317-323, 1926.
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+countries in all major science fields and subfields 1981-1985.
+Scientometrics, v.16, n.1, p.3-478, 1989.
+
+Narin, F.; Hamilton, K.; Olivastro, D. The increasing linkage
+between U.S. technology and public science. Research Policy,
+v.26, n.3, p.317-330, 1997.
+
+Thompson, J.W. The death of the scholarly monograph in the
+humanities? Citation patterns in literary scholarship. Libri, v.52,
+n.3, p.121-36, 2002.
+
+Organization for Economic Cooperation and Development.
+Manual de Frascati: propuesta de norma práctica para
+encuestas de investigación y desarrollo experimental. Paris:
+OCDE, 1975.
+Price, D.J.S. Little science, big science. New York: Columbia
+University, 1964.
+Salton, G.; Buckley, C.; Yu, C.T. An evaluation of term
+dependence models in information retrieval. In: Annual ACM
+Conference on Research and Development in Information
+Retrieval, 5., 1982, Berlin. Proceedings… Berlin: Springer
+Heidelberg, 1982. p.151-173.
+Schubert, A.; Glänzel, W.; Braun, T. Scientometric datafiles: A
+comprehensive set of indicators on 2649 journals and 96
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+Thomson Reuters. Products & Services, 2010. Avaliable from:
+<http://thomsonreuters.com/products_services/science/
+science_products/a-z/isi_web_of_knowledge/>. Cited: Jun.
+24, 2013.
+White, H.D. Author-centered bibliometrics through CAMEOs:
+Characterizations automatically made and edited online.
+Scientometrics, v.51, n.3, p.607-637, 2001.
+White, H.D.; McCain, K.W. Bibliometrics. Annual Review of
+Information Science and Technology, n.24, p.119-186, 1989.
+Zipf, G.K. Human behavior and the principle of least effort.
+Addison-Wesley: Cambridge Mass, 1949.
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+267
+VISIBILIDAD DE LOS ESTUDIOS EN (ARS)
+
+Moreno, J.L. Who shall survive? New York: Beacon House,
+1934.
+
+268
+A.L. PINTO & A. GONZALES-AGUILAR
+
+TransInformação, Campinas, 26(3):253-267, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300003
+
+

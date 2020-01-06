@@ -1,0 +1,736 @@
+Descriptive representation and Brazilian
+indigenous literature
+
+Aline FRANCA1
+Naira Christofoletti SILVEIRA2
+
+Resumo
+A partir da contextualização do surgimento da literatura indígena, este artigo apresenta os aspectos relevantes à elaboração da
+representação bibliográfica das obras literárias indígenas do Brasil, a fim de assegurar uma representação documental digna. Esse
+tipo de literatura caracteriza-se por criações de caráter oral ou escrito, coletivas ou individuais, sendo estabelecida, pensada e
+estruturada a partir de padrões culturais e elementos estilísticos dos povos indígenas. Objetiva-se discutir a relação entre as publicações literárias indígenas e os aspectos relativos à sua representação bibliográfica. Quanto à metodologia, recorreu-se a pesquisas em catálogos online de acesso público a fim de recuperar registros bibliográficos a serem analisados. Utilizou-se o método
+bibliográfico de forma exploratória visando reunir conceitos antropológicos e dados sobre grupos indígenas do Brasil. Sua base
+teórica fundamenta-se a partir dos conhecimentos em Representação Descritiva, especialmente nas obras de Mey e Silveira.
+Conclui-se que o bibliotecário torna-se o agente essencial para garantir a representação documental adequada e fiel aos documentos indígenas, para que estes possam relacionar-se com os outros itens do catálogo de uma Unidade de Informação, expondo todo seu potencial informativo.
+Palavras-chave: Catalogação. Literatura indígena. Registros bibliográficos.
+
+Abstract
+Within the context of the emergence of indigenous literature, the aim of the paper is to introduce the relevant aspects of the development
+of bibliographic representation of Brazilian indigenous literature to ensure a worthy document representation. This kind of literature
+can be understood as any oral or written creation, be it collective or individual, established, designed and structured by cultural
+standards and stylistic elements of indigenous people. The aim is to discuss the relationship between indigenous literary works
+and aspects related to their bibliographic representation. The methodology used was research at online public access catalogs
+to analyze bibliographic records. The bibliographic exploratory methodology was used to collect anthropological concepts
+and data on indigenous groups in Brazil and the theoretical background was based on descriptive representation, particularly
+in the works of Mey and Silveira. It was concluded that the librarian is the key player to ensure adequate and faithful
+representation of documents of indigenous works to relate them to other items in the catalog of an information unit, exposing
+their informative potential.
+Keywords: Cataloguing. Indigenous literature. Bibliographic record.
+1
+
+2
+
+Universidade Federal do Estado do Rio de Janeiro, Programa de Pós-Graduação em Biblioteconomia. Av. Pasteur, 458, sala 408, Urca, 22290-240, Rio de
+Janeiro, RJ, Brasil. Correspondência para/Correspondence to: A. FRANCA. E-mail: <aline_sfranca@yahoo.com.br>.
+Universidade Federal do Estado do Rio de Janeiro, Escola de Biblioteconomia. Rio de Janeiro, RJ, Brasil.
+Recebido em 16/5/2013 e aceito para publicação em 31/10/2013.
+
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+PRODUÇÃO LITERÁRIACOMMUNICATION
+INDÍGENA
+COMUNICAÇÃO
+
+A representação descritiva e a produção
+literária indígena brasileira
+
+67
+
+Introdução
+Dotada de grandiosa riqueza cultural, as comunidades indígenas brasileiras possuem, cada qual a seu
+modo, variações de aspectos socioculturais que as
+individualizam. Seja pela organização social, sejam pelas
+estruturas linguísticas, práticas religiosas ou mesmo pelos
+traços étnicos, os índios brasileiros despertaram - e continuam despertando -, o interesse de outros povos.
+As últimas décadas do século XX foram determinantes para a conquista de direitos das sociedades
+indígenas. Esses grupos passaram a ser alvo de políticas
+indigenistas que visaram proteger e assegurar a continuidade e preservação da cultura nativa. Por meio de
+iniciativas de grupos individuais e governamentais, os
+índios tiveram seus direitos reconhecidos perante o
+governo, conquistando a possibilidade de representarem a si mesmos. A produção bibliográfica é uma das
+formas de representação desses povos, tema abordado
+neste texto.
+
+68
+
+A. FRANCA & N.C. SILVEIRA
+
+A partir da década de 1980, diversos grupos indígenas passaram a publicar e divulgar seus conhecimentos por meio de livros. Este tipo de publicação vem
+crescendo, tanto em número quanto em relevância,
+tornando-se presente em várias partes do mundo. Nesse
+sentido, é interessante discutir a forma do tratamento
+documental desses materiais, uma vez que são produzidos no Brasil por índios brasileiros. Denominada por
+literatura indígena, de acordo com Regino (2003), essa
+literatura pode ser compreendida como qualquer criação
+de caráter oral ou escrito, seja coletiva ou individual,
+sendo estabelecida, pensada e estruturada a partir de
+padrões culturais e elementos estilísticos dos povos
+indígenas. Tal manifestação cultural proporciona o
+conhecimento da cultura indígena por pessoas não
+indígenas e facilita a disseminação da cultura, uma vez
+que é produzida pelos próprios membros das comunidades indígenas. A produção literária indígena na forma
+escrita iniciou-se na década de 1980 pela demanda de
+materiais didáticos utilizados nas escolas indígenas que
+refletissem a cultura e a realidade de cada povo. Felizmente, com o passar do tempo, a literatura indígena foi
+assumindo outras características que enriqueceram seu
+conteúdo. Ela não se limitou ao caráter didático inicial,
+mas ampliou seu escopo por meio da criação de obras
+narrativas e poesias.
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+Dessa forma, o trabalho considerou como objetivo geral discutir a relação entre a produção literária
+indígena e a sua representação bibliográfica. A temática
+desse estudo está sendo aprofundada no Mestrado
+Profissional em Biblioteconomia, no Programa de Pós-Graduação em Biblioteconomia, da Universidade Federal
+do Estado do Rio de Janeiro. Trata-se de uma pesquisa
+descritiva, de caráter documental e bibliográfico. De
+acordo com Barros e Lehfeld (1986, p.91), esse tipo de
+pesquisa tem como objetivo “Recolher, analisar e interpretar as contribuições teóricas já existentes sobre determinado fato, assunto ou ideia”. Utilizou-se a pesquisa
+bibliográfica de modo exploratório a fim de extrair conceitos e informações relevantes para fundamentar a articulação das ideias apresentadas, consultando-se livros,
+artigos de periódicos e outras pesquisas produzidas em
+meio acadêmico. Apenas para ilustrar as discussões teóricas, será realizada uma comparação entre dois registros
+bibliográficos, recuperados em dois catálogos de acesso
+online, da primeira obra literária indígena publicada no
+Brasil.
+A relevância de tal temática está em propor a
+reflexão acerca da produção literária de grupos indígenas
+brasileiros e a responsabilidade do bibliotecário em
+permitir o acesso à informação de diferentes grupos
+étnicos, sociais e políticos e, consequentemente, preservar a memória das comunidades indígenas brasileiras.
+Mesmo que o foco da pesquisa tenha sido a
+representação documental, faz-se necessário compreender alguns pontos relevantes sobre a cultura
+indígena. A seguir serão apresentados a contextualização
+do processo de produção bibliográfica indígena brasileira
+e o etnocentrismo. Após situar algumas características
+da cultura indígena, serão abordados conceitos relacionados à representação bibliográfica, especificamente
+à Representação Descritiva. E, por fim, apresenta-se a
+relação entre a representação bibliográfica de obras
+literárias indígenas e as considerações finais.
+Contextualização
+O primeiro passo para a produção literária indígena foi dado com o avanço das práticas escolares nas
+aldeias. Por haver uma demanda por materiais didáticos
+que refletissem a realidade e a cosmovisão dos grupos
+
+Organizações como o Núcleo de Escritores e Artistas Indígenas (NEARIN), vinculado ao Instituto Indígena
+Brasileiro para Propriedade Intelectual (INBRAPI), têm
+atuado no combate ao preconceito literário e no incentivo à produção literária escrita dos povos indígenas,
+reforçando-a como uma ferramenta de resistência cultural pouco estudada em seus aspectos contemporâneos.
+Do que pode ser denominado de “movimento literário
+indígena”, as obras produzidas no Brasil estão atingindo
+gradual notoriedade dentro e fora do País, principalmente
+pelas novas formas de associações dos grupos indígenas.
+Atualmente é possível encontrar alguns desses títulos nos
+catálogos de importantes bibliotecas fora do Brasil, como
+a Library of Congress (LOC), Biblioteca Nacional de España,
+Biblioteca Nacional de México, entre outras.
+Cultura indígena: etnocentrismo
+e representações sociais
+Do início da colonização do Brasil até meados do
+século XX, os grupos nativos constituíam a temática de
+inúmeras obras artísticas, literárias e antropológicas. No
+entanto, por não ter havido uma preocupação de que
+os mesmos fossem representados pelos seus próprios
+membros, eles permaneceram sendo retratados por um
+olhar estrangeiro, que se julgava superior. Ao posicionar
+a cultura indígena em um nível inferior à cultura europeia
+nota-se claramente o etnocentrismo que vigorava nos
+primeiros séculos de colonização. Entende-se por etnocentrismo o conceito antropológico que “Consiste em
+privilegiar um universo de representações propondo-o
+como modelo e reduzindo à insignificância os demais
+universos culturais ‘diferentes’” (Carvalho, 1997, p.181).
+Dessa forma, um grupo étnico ou cultural é tomado
+como referência, declarando as culturas diferentes como
+“subalternas”. No período compreendido entre os séculos
+XV e XVI, notável pela expansão marítima europeia, o
+colonialismo europeu estava fortemente relacionado ao
+
+eurocentrismo. Partindo da compreensão de que a
+Europa correspondia a uma hegemonia mundial, Araújo
+e Maeso (2010, p.244) afirmaram:
+[...] o eurocentrismo é mais do que uma perspective [sic], é um sistema de representação cuja
+eficácia ideológica reside mais na despolitização
+das relações de poder, do que propriamente no
+desenvolvimento de oposições binárias que
+essencializam com sucesso o “nós” e o “outro”. A
+violência é assim naturalizada ou ultrapassada,
+com consequências fundamentais no modo
+como o racismo, a identidade nacional e a “história” do “outro” [...] são interpretados ou simplesmente evitados.
+
+Lévi-Straus (1970, p.232), já sinalizava a perda
+cultural que este tipo de ideologia ocasionava ao
+reconhecer que ao “Caracterizar as raças biológicas por
+propriedades psicológicas particulares, afastamo-nos da
+verdade cientifica ao defini-las tanto de maneira positiva
+quanto negativa”. Além disso, a “[...] diversidade intelectual, estética, sociológica [das sociedades e civilizações] não está ligada por qualquer relação de causa e
+efeito à que existe, no plano biológico, entre certos
+aspectos observáveis pelos grupamentos humanos”.
+Por muitos anos esta concepção manteve-se
+predominante, tendo sido ensinada nos livros de história
+sobre a colonização do Brasil. Esse pensamento influenciou decisivamente a imagem dos povos dominados nas
+expedições europeias, uma vez que feriu a identidade
+cultural do grupo. A própria expressão “descobrimento
+do Brasil” remete a uma visão eurocêntrica da chegada
+dos portugueses ao território brasileiro, geralmente
+associada a “Uma produção historiográfica realizada em
+padrões tradicionais, saudosa dos grandes nomes e
+eventos e valorizadora das efemérides” (Kuhn, 2000, p.59).
+O contato entre portugueses e índios, naquela
+época, foi permeado pela curiosidade e estranhamentos.
+O interesse em relatar os hábitos e costumes daquele
+povo motivou estudiosos de diversas áreas, influenciando
+os textos de informação e a literatura jesuítica, ambos
+pertencentes ao Quinhentismo, movimento literário que
+se desenvolvia na Europa. Os textos de informação documentaram a instauração do processo de colonização,
+explicitando informações que os missionários e viajantes
+europeus adquiriam da natureza e do homem local. A
+literatura jesuítica, além de seu caráter informativo,
+possuía intenção pedagógica e moral (Bosi, 2006).
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+69
+PRODUÇÃO LITERÁRIA INDÍGENA
+
+indígenas, iniciou-se a elaboração de material específico
+para tal fim, que fosse adequado ao ensino para esses
+grupos. A introdução da escrita alfabética incentivou a
+produção bibliográfica nas sociedades indígenas que, em
+sua maioria, faziam uso apenas da tradição oral. Entretanto, a produção não se manteve limitada aos livros
+didáticos, alcançando outras tipologias textuais como os
+contos e os textos informativos.
+
+Em decorrência desse contato, surgiram diferentes formas de representar (de forma escrita) a cultura
+indígena, a saber: a literatura indianista, a literatura indigenista, a literatura em línguas indígenas e, claro, a literatura indígena, conceituada anteriormente, objeto deste
+estudo. Essas diferentes manifestações literárias não
+devem ser confundidas entre si, pois, apesar de objetivarem a representação dos povos indígenas, seus agentes
+não são os mesmos.
+Segundo Regino (2003), a literatura indianista
+surge depois do movimento de independência nacional,
+na busca de fazer surgir um heroi nacional. No Brasil, foi
+uma das peculiaridades do Romantismo literário com a
+prosa de José de Alencar com os romances “O Guarani”
+em 1857, “Iracema” em 1865 e “Ubirajara” em 1874, entre
+outros, e pela poesia de Gonçalves Dias, destacando-se
+“Juca-Pirama” e “Marabá” em 1851. Além disso, o indianismo esteve presente em outros períodos da literatura
+como no Barroco (tendo como autor de destaque o Padre
+José de Anchieta) e no Arcadismo, com o poema épico
+“O Uraguai” em 1769, de Basílio da Gama.
+Já a literatura indigenista refere-se a: “[...] uma
+literatura de protesto contra a situação em que se encontravam os povos indígenas e a firme decisão de mudar a
+situação. A literatura indigenista vai defender o índio e
+usá-lo como veículo de expressão dentro de uma escrita
+altamente comprometida” (Kauss, 2009, p.63).
+Esta literatura não é produzida pelos índios,
+normalmente é feita por escritores que descendem,
+convivem ou sentem-se atraídos pela cultura indígena
+(Kauss, 2009). Os autores buscam compreender a cultura
+indígena por meio de suas próprias perspectivas. No
+Brasil, dois grandes autores indigenistas foram os irmãos
+Orlando Villas-Bôas e Cláudio Villas-Bôas.
+70
+
+A. FRANCA & N.C. SILVEIRA
+
+Surgida recentemente após a apropriação da
+escrita pelas sociedades ágrafas, a literatura em línguas
+indígenas permitiu a tradução de documentos de diferentes idiomas para as línguas indígenas, tendo como
+grande contribuição a escrita da tradição oral existente
+nas comunidades (Regino, 2003).
+O domínio da língua materna e do português, de
+forma escrita e oral, proporcionou novas formas de
+interação do indivíduo indígena com a “sociedade
+nacional” (termo utilizado na Constituição Federal de
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+1988 para denominar a sociedade não indígena). A
+apropriação desses saberes pode significar um ganho
+estratégico para as comunidades indígenas, uma vez que
+a língua materna pode vir a ocupar um espaço junto à
+língua oficial, ao ser utilizada de forma escrita. Por consequência, abre-se um novo caminho para o relacionamento com outros grupos e para o estabelecimento de
+posições políticas comuns. Consequentemente, o conhecimento de seus direitos e a possibilidade de exercerem
+sua cidadania resultará em respeito e reconhecimento
+perante aos outros povos.
+A cultura indígena, riquíssima em sua diversidade,
+vem passando por modificações no contato com outras
+sociedades. De acordo com Laraia (1988), a cultura possui
+caráter dinâmico e se modifica a partir de diferentes
+interações. Os grupos indígenas não configuram um
+bloco homogêneo, mas a partir de raízes comuns estabelecem, entre as diferentes características que os individualizam, pontos de convergência cultural. Melià (1987)
+analisa com certa desconfiança a prática da escrita nas
+sociedades indígenas ao afirmar que essa pode ser uma
+forma de dominação. De fato, a escrita poderia ser vista
+como um instrumento de opressão caso objetivasse
+moldar a linguagem de um determinado grupo sob os
+parâmetros de outro. Entretanto, de maneira geral, a
+adoção da forma escrita para os grupos indígenas tem
+representado uma nova via para o estabelecimento de
+comunicação com diferentes grupos sociais.
+O panorama atual da literatura indígena
+A literatura indígena não surgiu com a escrita nas
+aldeias, sendo encontrada anteriormente. Coutinho
+(2008, p.24), ao conceituar literatura, afirma que “[...] a
+literatura, como toda arte, é uma transfiguração do real,
+é a realidade recriada, através do espírito do artista e
+retransmitida através da língua para as formas, que são
+os gêneros, e com os quais ela toma corpo e nova realidade”. Partindo desse pressuposto, pode-se afirmar que
+a literatura indígena, bem como as tradições poéticas, já
+existia na tradição oral, e que nos últimos anos apenas
+passou a fazer uso de outro recurso, a forma escrita. As
+obras, que até então estavam nos cantos, lendas, mitos
+etc. começam a se manifestar por meio de suportes
+físicos, em especial o papel, sendo mais uma ferramenta
+na manutenção das tradições e identidades.
+
+Essas e outras conquistas são frutos da reivindicação dos próprios grupos indígenas. E é nesse cenário
+que surgem autores como Daniel Munduruku, Olívio
+Jekupé e Eliane Potiguara, entre outros.
+Daniel Munduruku, além de presidente do Instituto Indígena Brasileiro para Propriedade Intelectual
+(INBRAPI), pode ser considerado um dos principais
+autores do que poderia se chamar de “movimento
+literário indígena”. Com mais de 30 obras publicadas, o
+autor já teve algumas de suas obras traduzidas para
+outros idiomas e depositadas em importantes bibliotecas
+como a Library of Congress (EUA) e a Biblioteca Nacional
+da Itália, por exemplo. Seus textos costumam versar sobre
+atividades cotidianas nas aldeias e tradições, como na
+obra “Histórias de índio”:
+Após o banho e a brincadeira, ele devia se ocupar
+de alguma tarefa com a mãe ou o pai. Não havia
+uma hora definida para começar esta atividade
+uma vez que Kaxi tinha percebido que os mais
+velhos diziam serem eles os senhores do tempo e não possuírem nenhum controlador do
+tempo - que ele descobriu mais tarde se tratar
+do kaxinug usado pelo homem branco para
+marcar as horas. Às vezes, saíam bem cedinho
+para a roça ou para a caça e a pesca, outras vezes
+iam só na parte da tarde, e outras, ainda, não iam
+a lugar nenhum, preferindo ficar em casa, conversando e pitando [...]. À medida que crescia, Kaxi
+ia sendo iniciado nos costumes tradicionais de
+sua tribo. Falava a gíria [...], caçava, pescava, plantava e colhia junto com os adultos (Munduruku,
+2010, p.19).
+
+Segundo Silveira (2005), mais de 40 etnias indígenas do Brasil já publicaram seus textos em livros e
+cartilhas. A perspectiva é que esse número aumente
+devido às políticas de incentivo à educação indígena e
+
+ao crescente número de índios com formação superior
+no país. O tipo de registro que é feito de uma determinada cultura é determinante para a manutenção e
+disseminação de informações sobre ela. Com o passar
+do tempo, as sociedades se alteram, algumas culturas
+são dizimadas, mas os documentos permanecem, e por
+meio deles os grupos poderão ser estudados e compreendidos futuramente.
+Ao alcançar um contexto de produção bibliográfica, a literatura indígena deve ser compreendida como
+documento capaz de portar a visão de mundo de um
+determinado povo, seus hábitos, costumes etc. Compreender o contexto de criação de uma obra com tantas
+especificidades como as publicações indígenas é fundamental para garantir uma representação bibliográfica
+fidedigna. Assim, ao perceber que somente por meio de
+uma representação adequada o documento poderá
+relacionar-se com os outros itens de uma Unidade de
+Informação, o bibliotecário torna-se o agente essencial
+para garantir a comunicação entre os elementos que
+compõem um acervo.
+Representação documental
+Possuir um documento em um acervo significa
+mais do que um livro em uma estante. Significa um
+recurso informacional inserido em um universo bibliográfico, por meio do estabelecimento de relações com
+outros elementos geradores de informação. A partir de
+um documento isolado, pode-se obter somente a transmissão de seu conteúdo. Entretanto, se estiver envolvido
+em relações de significados será possível expor ao
+máximo o seu potencial informativo. Dessa forma, considerando cada Biblioteca (ou Unidade de Informação)
+como sistemas que vão muito além do significado
+etimológico da palavra - que se refere somente à guarda
+de livros -, é necessário que haja uma organização lógico-semântica capaz de controlar todo esse ambiente.
+Independentemente da quantidade de itens
+existentes em um acervo (seja de uma modesta biblioteca particular ou de uma imponente biblioteca nacional),
+faz-se necessária a utilização de ferramentas que viabilizem a localização exata dos documentos. Entre os
+diversos instrumentos utilizados para esse fim, destaca-se o catálogo. Capaz de estabelecer fluxos comuniTransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+71
+PRODUÇÃO LITERÁRIA INDÍGENA
+
+Utilizada de maneira adequada, a escrita - e por
+sua vez, a literatura -, poderá contribuir significativamente
+para a preservação e valorização da língua e cultura
+indígenas. Esse movimento iniciado no final do século
+XX vem ampliando a possibilidade de transmissão de
+conhecimento e interação social e política entre os povos
+indígenas e a “sociedade nacional”. A literatura escrita
+indígena vai além da publicação de livros com a temática
+indígena. Ela contém a possibilidade de autorrepresentação de povos que por vezes foram mantidos em categoria secundária no panorama político e cultural nacional.
+
+cativos entre o usuário e o acervo, o catálogo possibilita
+as relações entre os documentos sem a necessidade
+de tê-los em mãos por meio de representações bibliográficas.
+O vocábulo “representar” significa “Fazer ou tornar
+presente; mostrar à evidência, [...] revelar” (Michaelis, 2009,
+online). De acordo com Mey (1999, p.18) a- “Representação bibliográfica consiste em um processo de comunicação, visando a interligar itens (suportes físicos de
+obras) a usuários e [...] demandas de usuários a itens
+pertinentes”. Ainda segundo a autora, nesse processo
+comunicativo, a representação bibliográfica se utiliza de
+mensagens codificadas, “Pois cada um dos elementos
+tem lugar e pontuação fixos, para sua identificação”.
+Mais tarde, esse conceito foi apresentado como
+a sintaxe e a semântica da linguagem catalográfica (Mey
+& Silveira, 2010). A sintaxe compreende a pontuação e a
+posição de cada elemento descritivo ao registrar um
+atributo ou característica de uma determinada entidade
+bibliográfica no âmbito dos Functional Requirements for
+Bibliographic Records (FRBR); e a semântica “O significado dos termos em sua posição e respectiva pontuação
+precedente” (Mey & Silveira, 2010, p.128). Assim, a representação bibliográfica pode ser compreendida como um
+conjunto de informações organizadas para descrever e
+acessar um item, evidenciando suas características
+particulares.
+
+72
+
+A. FRANCA & N.C. SILVEIRA
+
+No caso de obras literárias indígenas, por se tratar
+de um conjunto de publicações com tantas particularidades, o profissional bibliotecário deve proceder com
+cautela ao elaborar o registro bibliográfico dos documentos. Essa representação será responsável por estabelecer um elo entre os itens de um acervo e seus
+usuários. A representação bibliográfica adequada dos
+documentos implica a garantia e manutenção da memória dos grupos indígenas que estão ali representados. A
+tomada de decisão por parte do bibliotecário sobre quais
+características e informações acerca do documento serão
+relevantes para a sua representação torna-se crucial. Esse
+ato estabelecerá quais aspectos serão passíveis de busca
+e relacionamento com os dados de outros documentos
+do acervo.
+Ao promover a representação bibliográfica desses
+documentos, a importância do bibliotecário nesse
+processo é reconhecida como um agente social. Como
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+profissional da informação, este deve conscientizar-se de
+que as informações descritas de maneira inadequadas
+serão capazes de criar barreiras no processo comunicacional que envolve os documentos de um acervo e os
+usuários de uma Unidade de Informação.
+Análise de registros bibliográficos
+A fim de demonstrar a perda informacional gerada pela representação bibliográfica inadequada, a
+pesquisa estabeleceu uma breve análise comparativa de
+registros bibliográficos produzidos por diferentes bibliotecas para o mesmo livro. Os registros foram pesquisados e extraídos do catálogo das bibliotecas em 25
+de março de 2013. Portanto, tratam-se de registros bibliográficos reais, recuperados nos catálogos disponíveis para acesso público online e elaborados por duas
+bibliotecas de grande porte, sendo uma delas brasileira
+e outra estrangeira. Tais bibliotecas serão denominadas
+“Biblioteca A” e “Biblioteca B”, de forma a preservar a identidade das instituições. Ambas fizeram uso do código
+Anglo-American Cataloging Rules, 2.ed. rev. (AACR2r) e do
+formato Machine Readable Cataloging (MARC).
+A obra pesquisada nos catálogos intitula-se “Antes
+o mundo não existia”, de Umúsin Panlõn Kumu e Tolamãn
+Kenhíri, com introdução de Berta G. Ribeiro. Trata-se do
+primeiro livro totalmente escrito e ilustrado por índios
+no Brasil, apresentando uma narrativa acerca da mitologia
+do povo Desana-Kehiripora, sobre a criação do mundo.
+Sua primeira edição foi lançada em 1980, pela Livraria
+Cultura Editora.
+Considerando a regra 2.0B do AACR2r, que diz
+respeito às fontes de informação, para livros e outros tipos
+de monografias impressas, deve-se considerar como
+fonte principal a página de rosto. De acordo com a área
+da descrição, dados podem ser extraídos de outras partes
+da publicação (como outras páginas preliminares e
+colofão) e, em alguns casos, pesquisados fora dela
+(Código de Catalogação Anglo-Americano, 2004). Desta
+forma, apresenta-se a página de rosto da obra analisada
+(Figura 1), para que seja possível visualizar os dados
+contidos na mesma.
+A página de rosto apresenta de forma clara as
+informações quanto ao título, subtítulo, autores e editora,
+enquanto outras informações podem ser encontradas no
+verso da página, fornecendo dados necessários para uma
+
+No registro bibliográfico da Biblioteca B (Figura
+3), consta entrada principal e secundária para os autores
+da obra, enquanto o registro elaborado pela Biblioteca
+A (Figura 2), possui somente entrada principal para o
+título da obra. De acordo com o AACR2r, o ponto de
+acesso principal pelo título deve ser feito se:
+a) a autoria pessoal for desconhecida [...], ou difusa
+[...], e a obra não for proveniente de uma entidade
+ou b) é uma coleção de obras por diferentes
+pessoas ou entidades (veja 21.7) ou c) procede
+de uma entidade mas não se enquadra em
+nenhuma das categorias enumeradas em 21.1B2
+e não é de autoria pessoal ou d) é reconhecida
+como escritura sagrada de um grupo religioso
+(veja 21.37) (Código de Catalogação Anglo-Americano, 2004, p.7).
+
+Figura 1. Página de rosto do livro “Antes o mundo não existia”.
+Fonte: Kumu e Kenhiri (1980).
+
+descrição clara do material. A partir da leitura técnica, as
+bibliotecas elaboraram seus registros bibliográficos
+(Figuras 2 e 3).
+Ainda que tenha sido utilizado o mesmo código
+e formato de catalogação, é possível verificar diferenças
+na representação do documento em questão. A principal
+diferença, nesse caso, se dá pela atribuição de responsabilidade da obra e a escolha dos pontos de acesso. Ora,
+se é pelo do ponto de acesso que o catálogo será capaz
+de recuperar determinadas informações que descrevem
+um item, quanto à forma de entrada, o código estabelece
+o seguinte:
+21.1 A2. Regra geral. Faça a entrada de uma obra
+de uma ou mais pessoas sob o cabeçalho estabelecido para o autor pessoal [...], para o autor
+pessoal principal [...] ou para o autor pessoal mais
+
+Aparentemente, a obra não se enquadra nas
+exceções previstas pela regra. Não há como saber quais
+motivos levaram a Biblioteca A a ocultar dados tão importantes como os autores de um livro, mas não há dúvidas
+de que isto gera perda informacional, uma vez que o
+usuário não conseguirá recuperar o registro bibliográfico
+ao pesquisar pelos nomes dos autores. No caso da
+catalogação realizada pela Biblioteca A, somente o nome
+da pessoa que escreveu a introdução do livro figura na
+área destinada aos responsáveis pela obra, enquanto os
+autores não foram sequer mencionados, no campo 245,
+no subcampo $b do formato MARC.
+Desconsiderar os autores indígenas como responsáveis intelectuais pela obra resulta em uma representação incompleta e na restrição das possibilidades de
+pesquisa dos usuários para a recuperação do documento,
+além de prejudicar identificação dos responsáveis pela
+obra. Se, como visto, os nomes dos autores constam na
+página de rosto em seu local adequado e estes são
+omitidos do registro bibliográfico, a representação do
+documento fica comprometida. Este aspecto fere a
+integridade da representação do item, uma vez que o
+registro bibliográfico ocupará, no catálogo, o lugar do
+documento em si.
+A comparação entre os registros aqui apresentada
+buscou apenas exemplificar as discussões presentes no
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+73
+PRODUÇÃO LITERÁRIA INDÍGENA
+
+provável [...]. Em alguns casos de autoria compartilhada [...], faça a entrada sob o cabeçalho estabelecido para a pessoa mencionada em primeiro
+lugar. Faça entradas secundárias de acordo com
+as instruções de 21.29-21.30 (Código de Catalogação Anglo-Americano, 2004, p.6).
+
+LDR 00757cam0022002417a 4504
+001 98041714430250E53
+003
+005 20081215160817.7
+008 970609s19800000bspa
+000 0 por d
+040 ## $a
+043 ## $a s-bl--082 04 $a 299.8
+092 ## $a
+245 00 $a Antes o mundo não existia : $b a mitologia heróica dos índios Desana / $c introdução
+de Berta G. Ribeiro. 260 ## $a [São Paulo] : $b Cultura, $c 1980.
+300 ## $a 239p. : $b il. color. ; $c 20cm.
+590 ## $a
+650 04 $a Índios Desana - $x Religião e mitologia.
+650 04 $a Índios da América do Sul - $z Brasil.
+700 1# $a Ribeiro, Berta G. $q (Berta Gleizer), $d 1924-1997.
+852 ## $a
+949 ## $a
+Figura 2. Registro bibliográfico, Biblioteca A.
+Fonte: Elaborado pelas autoras (2013).
+
+74
+
+001
+3753850
+005
+19941003155101.8
+008
+830802s1980 bl a b 000 0 por
+035 ## $9 (DLC) 82106190
+906 ## $a 7 $b cbc $c orignew $d 4 $e ncip $f 19 $g y-gencatlg
+010 ## $a 82106190
+020 ## $c Cr$480.00
+040 ## $a DLC $c DLC $d DLC
+043 ## $a s-bl—
+050 00 $a F2520.1.D47 $b K85 1980
+082 00 $a 299.8 $2 19
+100 1# $a Kumu, Umuìsin PanloÞn.
+245 10 $a Antes o mundo naÞo existia : $b a mitologia heroica dos índios Desâna / $c Umuìsin
+Panlõn Kumu, Tolamãn Kenhìri ; introdução de Berta G. Ribeiro.
+250 ## $a 1.a ed.
+260 ## $a SaÞo Paulo : $b Livraria Cultura Editora, $c 1980.
+300 ## $a 239 p. : $b ill. ; $c 20 cm.
+504 ## $a Includes bibliographical references.
+650 #0 $a Desana mythology.
+700 1# $a Kenhiìri, TolamaÞn.
+991 ## $b c-GenColl $h F2520.1.D47 $i K85 1980 $t Copy 1 $w BOOKS
+Figura 3. Registro bibliográfico, Biblioteca B.
+
+A. FRANCA & N.C. SILVEIRA
+
+Fonte: Elaborado pelas autoras (2013).
+
+quadro teórico. Outras comparações poderiam ter sido
+feitas para melhor clarificar a situação da representação
+de obras literárias indígenas. Ao comparar os registros
+bibliográficos observou-se que há uma lacuna referente
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+à elaboração dos pontos de acesso autorizados (cabeçalhos autorizados) de autores indígenas e divergências
+entre representação da mesma obra em edições diferentes. Além disso, observou-se que o registro bibliográ-
+
+Considerações Finais
+O Brasil, por seu processo histórico, deve valorizar
+as nuances de sua cultura nacional, reconhecendo o
+devido valor da produção literária indígena. Ao entender
+os aspectos que influenciaram seu surgimento, é possível
+compreender a importância desses documentos e sua
+contribuição para a cultura nacional. Um conhecimento
+mais sólido acerca das culturas indígenas pode ser capaz
+de reduzir, quiçá extinguir, as “manchas culturais” causadas pelo etnocentrismo.
+A Representação Documental é posterior à produção do documento, devendo a primeira corresponder
+da forma mais fidedigna possível ao documento a ser
+representado. É possível observar, em alguns catálogos
+de bibliotecas, que certos documentos produzidos por
+uma determinada tribo ou autor indígena não estão representados adequadamente, seja por limitações dos
+Códigos de Catalogação e demais instrumentos, seja pelo
+desconhecimento do próprio bibliotecário. Algumas
+vezes o nome da tribo é considerado como a temática
+da obra, sendo que na realidade a tribo deveria ser considerada responsável pelo conteúdo ou pela produção
+deste documento. Outras vezes, o registro bibliográfico
+não apresenta pontos de acesso aos autores indígenas,
+além da ausência de padronização nos cabeçalhos de
+pontos de acesso para nomes pessoais e povos indígenas. Estas questões interferem na representação e
+recuperação da informação, podendo inclusive revelar
+um descompromisso com parte da cultura indígena
+brasileira.
+Sabe-se que a utilização de um mesmo código e
+formato de catalogação em diferentes catálogos beneficia a interoperabilidade entre sistemas e a possibilidade
+de compartilhamento de registros. Dessa forma, é possível ultrapassar barreiras relacionadas à compreensão e
+intercâmbio de registros bibliográficos, ampliando assim
+
+o seu alcance. No entanto, a adoção de ferramentas iguais
+não garante a elaboração de registros bibliográficos
+idênticos. O processo de descrição de documentos
+algumas vezes é visto como a simples aplicação de
+normas e padrões, porém a atividade intelectual e
+interpretativa envolvida nesta prática é determinante
+para o resultado final. As normas de catalogação são
+ferramentas que norteiam a prática da representação
+documental, entretanto devem ser adaptadas à realidade
+da Unidade de Informação na qual se aplicam e aos
+aspectos que atenderão o público ao qual se destina.
+Caso os instrumentos utilizados não sejam suficientes
+para atender uma determinada situação de representação, a fim de garantir o contexto informacional, o
+bibliotecário deve ser capaz de realizar ajustes necessários e adotar as medidas adequadas a cada circunstância em particular.
+Para a escolha de pontos de acesso, sugere-se que
+a agência bibliográfica nacional estabeleça diretrizes para
+a normalização dos pontos de acesso para nomes indígenas, uma vez que o AACR2r não abarca esse tipo de
+especificidade. Os catálogos de bibliotecas, por sua
+importância no gerenciamento das informações sobre
+os itens de um acervo, devem possuir uma política estruturada a fim de garantir sua consistência. Tal descompasso limita as possibilidades de recuperação do catálogo, prejudicando a pesquisa por parte do usuário. Por
+outro lado, principalmente nos casos de autores pessoais
+que possuem tanto o nome em língua portuguesa quanto em língua indígena, estabelecer o ponto de acesso
+que o representará adequadamente, relacionando-o às
+outras possíveis formas de busca, irá minimizar os impactos causados por inconsistências do catálogo no
+resultado das buscas.
+A Representação Descritiva, enquanto processo
+de representação documental, implica em uma série de
+tomadas de decisões, pois, ao escolher um aspecto do
+documento a ser representado, pode-se, involuntariamente, condenar o outro ao esquecimento. Para que
+um item seja capaz de relacionar-se com os outros por
+meio do catálogo, seu registro deve ser o mais imparcial
+e amplo possível, estabelecendo conexões que
+garantirão seu contexto informacional. Isso se estende à
+adoção dos nomes indígenas dos autores nativos, que
+por vezes são negligenciados, utilizando-se somente a
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+75
+PRODUÇÃO LITERÁRIA INDÍGENA
+
+fico mais completo é oriundo da biblioteca estrangeira.
+Como o livro representado constitui uma parte da cultura
+brasileira (no caso, a cultura indígena), acredita-se que o
+registro bibliográfico deveria ser o mais completo possível. Tais temas serão resgatados e discutidos em pesquisas futuras.
+
+forma em língua portuguesa. Uma vez que o nome nativo
+de um autor indígena é respeitado, sua etnia passa a ser
+reconhecida e aceita. Não é somente o ato de inserir uma
+determinada informação em seu local de representação
+específico no registro bibliográfico. Ao omitir esse tipo
+de dado, nega-se a atribuição da responsabilidade
+intelectual do autor indígena pelo material produzido.
+Por fim, conclui-se que os documentos produzidos pelos grupos indígenas oferecem uma nova perspectiva à cultura nacional. Os índios, que por longos anos
+permaneceram em situação de desvantagem social,
+possuem ferramentas para reescrever a história do Brasil,
+a partir da história do seu povo. Estudar as formas de
+
+representação dos documentos de diferentes grupos
+sociais e étnicos é uma maneira de garantir a preservação
+da memória destes grupos, ao facilitar e beneficiar o
+acesso à informação aos cidadãos. Oferecer um tratamento bibliográfico digno a esses documentos é função
+do bibliotecário, que deve sempre respeitar a diversidade
+cultural e beneficiar o acesso aos documentos que lhe
+são confiados, independentemente do seu tipo de suporte. Nesse cenário, o bibliotecário se destaca como um
+dos responsáveis por evitar o desaparecimento de
+conhecimentos ancestrais, atuando de forma interdisciplinar como disseminador desses saberes e incentivador do desenvolvimento literário das minorias étnicas.
+
+Referências
+Araújo, M.; Maeso, S.R. Explorando o eurocentrismo nos
+manuais portugueses de história. Estudos de Sociologia, v.15,
+n.28, p.239-270, 2010.
+Barros, A.J.P.; Lehfeld, N.A.S. Fundamentos de metodologia: um
+guia para a iniciação científica. São Paulo: McGraw-Hill, 1986.
+Bosi, A. História concisa da literatura brasileira. 43.ed. São Paulo:
+Cultrix, 2006.
+Carvalho, J.C.P. Etnocentrismo: inconsciente, imaginário e preconceito no universo das organizações educativas. Interface,
+v.1, n.1, p.181-186, 1997. Disponível em: <http://www.
+interface.org.br/revista1/debates2.pdf>. Acesso em: 13 jun.
+2011.
+Código de Catalogação Anglo-Americano. 2.ed. São Paulo:
+FEBAB, 2004, Capítulo 21.
+Coutinho, A. Notas de teoria literária. Petrópolis: Vozes, 2008.
+Kauss, V.L.T. Literatura indígena: o resgate da oralidade
+ancestral na escrita polifônica do presente. Revista Eletrônica
+do Instituto de Humanidades, v.8, n.29, p.59-83, 2009. Disponível
+em: <http://publicacoes.unigranrio.edu.br/index.php/reihm/
+article/viewFile/521/513>. Acesso em: 15 abr. 2011.
+
+76
+
+Kuhn, F. A reinvenção do Brasil: considerações em torno dos
+500 anos. Anos 90, n.13, p.58-62, 2000. Disponível em: <http://
+www.ufrgs.br/ppghist/anos90/13/13art4.pdf>. Acesso em: 13
+jun. 2011.
+Kumu, U.P.; Kenhiri, T. Antes o mundo não existia: a mitologia
+heroica dos índios Desâna. São Paulo: Cultura, 1980.
+
+A. FRANCA & N.C. SILVEIRA
+
+TransInformação, Campinas, 26(1):67-76, jan./abr., 2014
+
+Laraia, R.B. Cultura: um conceito antropológico. Rio de Janeiro:
+Jorge Zahar, 1988.
+Lévi-Strauss, C. Raça e história. In: Comas, J. et al. Raça e ciência.
+São Paulo: Perspectiva, 1970. p.231-270.
+Melià, B. Desafios e tendências na alfabetização em língua
+indígena. In: Emiri, L.; Monserrat, R. (Org.). A conquista da
+escrita indígena: encontros de educação. São Paulo: Iluminuras,
+1987. p.9-16.
+Mey, E.S.A. Acesso aos registros sonoros: elementos necessários
+à representação bibliográfica de discos e fitas. 1999. Tese
+(Doutorado em Ciências da Comunicação) - Universidade de
+São Paulo, São Paulo, 1999.
+Mey, E.; Silveira, N.C. Considerações teóricas aligeiradas sobre
+a catalogação e sua aplicação. InCID: Revista de Ciência da
+Informação e Documentação, v.1, n.1, p.125-137, 2010.
+Michaelis, H. Moderno dicionário da língua portuguesa. 2009.
+Disponível em: <http://michaelis.uol.com.br/moderno/
+portugues/index.php?lingua=portuguesportugues&palavra
+=representar>. Acesso em: 17 fev. 2011.
+Munduruku, D. Histórias de índio. São Paulo: Companhia das
+Letrinhas, 2010.
+Regino, J.G. Otra parte de nuestra identidad. Guaraguao:
+Revista de Cultura Latinoamericana, n.17, p.207-209, 2003.
+Silveira, E.G. Sobre a literatura Xacriabá. Brasília: MEC,
+2005.
+
+

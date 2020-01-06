@@ -1,0 +1,863 @@
+Knowledge organization in the dynamics of
+research in the scientific literature
+of articles at Brapci
+Juliana Lazzarotto FREITAS2
+Bruna Silva do NASCIMENTO3
+Leilah Santiago BUFREM2
+
+Resumo
+Este artigo analisa as dimensões de pesquisa expressas concretamente na literatura da área de Organização do Conhecimento.
+Considera que a produção científica desenvolvida em determinados contextos sociais e momentos históricos reflete as mudanças e contradições desse contexto, tanto em sua organização interna quanto em suas aplicações. Questiona como se configuram
+as relações entre as opções metodológicas adotadas nessa literatura e o processo dinâmico de pesquisa sob a ótica
+multidimensional. Ilustra esse processo de análise a partir de um corpus de 105 artigos recuperados da Base Referencial de Artigos
+de Periódicos em Ciência da Informação, entre 2003 e 2012. Utiliza os softwares Endnote e Excel para organização e análise dos
+dados coletados. Categoriza os artigos de pesquisa sob o ponto de vista de seu objeto e delineamento metodológico, bem como
+de suas relações teóricas por meio de estudo de citação. Evidencia os autores mais expressivos e atuantes na área de Organização
+do Conhecimento no Brasil. Identifica os periódicos mais devotados ao tema e conclui que a produção científica brasileira sobre
+o tema distribui-se de maneira irregular ao longo do período analisado, tendo seu ápice no ano de 2011, durante o qual são
+publicados 18,27% dos artigos. Finaliza estabelecendo relações entre as correntes teóricas da Organização do Conhecimento e os
+enfoques e temáticas predominantes no corpus. Os enfoques de pesquisa de maior incidência foram o teórico e o linguístico, e o
+tipo de análise foi documental.
+Palavras-chave: Literatura periódica científica. Organização do conhecimento. Pesquisa científica.
+
+Abstract
+The aim of this paper is to analyze the research dimensions expressed in the literature in the field of knowledge organization. We consider
+that scientific investigation developed in certain social contexts and historical conjunctures reflects the changes and contradictions
+present in these contexts, both in its organization and applications. This process is illustrated from a corpus of 105 articles retrieved from
+1
+
+2
+
+3
+
+Trabalho apresentado no VII Seminário Internacional sobre Estudos Quantitativos e Qualitativos da Ciência e Tecnologia “Prof. Gilberto Sotolongo Aguilar”
+no XIII Congresso Internacional de Informação - INFO’ 2014. Habana, Cuba.
+Universidade Estadual Paulista Júlio de Mesquita Filho, Faculdade de Filosofia e Ciências, Programa de Pós-Graduação em Ciência da Informação.
+Av. Hygino Muzzi Filho, 737, Mirante, 17525-000, Marília, São Paulo, SP, Brasil. Correspondência para/Correspondence to: L.S. BUFREM. E-mail:
+<santiagobufrem@gmail.com>.
+Universidade Federal do Estado do Rio de Janeiro, Escola de Biblioteconomia, Departamento de Estudos e Processos Biblioteconômicos. Rio de Janeiro, RJ,
+Brasil.
+Recebido em 2/6/2014 e aceito para publicação em 20/8/2014.
+
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+295
+A ORGANIZAÇÃO DO CONHECIMENTO NA DINÂMICA
+
+A organização do conhecimento na dinâmica
+da pesquisa em artigos da literatura
+científica da Brapci1
+
+the referential database of journal articles on Information Science between 2003 and 2012. Endnote and Excel software were used for
+organizing and analyzing the data collected. The articles are categorized according to their object and methodological approach, as
+well as their theoretical foundations through the study of citations. Throughout this investigation, we point out the most expressive and
+active authors in the field of knowledge organization in Brazil. We also identify the journals that are more devoted to the theme and we
+conclude that Brazilian scientific production on the theme is irregularly distributed over the period of time analyzed, peaking in 2011
+when 18,27% of the total number of articles were published. We conclude by establishing the relationship between theoretical currents
+of knowledge organization and the prevalent approaches and themes found in the corpus. The focus of the most prevalent research
+approaches were the theoretical and linguistic approaches and the type of analysis was documentary.
+Keywords: Scientific journal literature. Knowledge organization. Scientific research.
+
+Introdução
+A análise de desdobramentos metodológicos das
+pesquisas em Organização do Conhecimento (OC) no
+Brasil possibilita a caracterização desse domínio como
+alternativa para o repensar crítico e autocrítico sobre os
+meios de construção da pesquisa na área. A percepção
+da atividade de pesquisa como processo dinâmico, social
+e histórico - e não somente como recurso para o aprimoramento do fazer científico -, é evidenciada nos
+argumentos de Lloyd (1995), quando considera que um
+domínio científico é um recurso para constituir teoricamente objetos de investigação, assim como “para
+incorporar e fazer justiça à história da ciência em sua
+acumulação de conhecimento” (Lloyd, 1995, p.25). Com
+fundamento nas ideias de Lloyd (1995), Bufrem (2013)
+afirma que a produção científica desenvolvida em determinados contextos sociais e momentos históricos reflete
+as mudanças e contradições desse contexto, tanto em
+sua organização interna quanto em suas aplicações.
+
+296
+
+Em relação à pesquisa retratada no campo da OC,
+partiu-se de um modelo alternativo e multidimensional
+para a análise e discussão dos artigos selecionados,
+ressaltando natureza, gêneros e dimensões relativas à
+pesquisa. Esse modelo proposto por Bufrem (2013)
+considera os polos da prática metodológica de Bruyne
+et al. (1977) como integrantes do processo de pesquisa
+e os complementa com as dimensões ética e política do
+processo de investigação científica.
+
+J.L. FREITAS et al.
+
+Problematizou-se, neste estudo, como se configuram as relações entre as opções metodológicas adotadas na literatura de OC e o processo dinâmico de
+pesquisa sob a ótica multidimensional. Como objetivo
+geral, analisaram-se as opções adotadas na literatura
+periódica científica de OC sob a ótica do modelo multidimensional da prática de pesquisa. Para tanto, partiu-se
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+da construção de um corpus de artigos selecionado da
+Brapci a partir de termos relacionados à área. A seguir,
+categorizaram-se os artigos de pesquisa sob o ponto de
+vista de seu objeto e delineamento metodológico, bem
+como de suas relações teóricas representadas por redes
+de citação. Identificaram-se, então, as opções metodológicas manifestas nessa literatura, relacionando-as
+com o modelo multidimensional da prática de pesquisa.
+Com o intuito de complementar as informações
+e análises, dentro do contexto da produção e disseminação científica acerca da temática da OC, considerou-se necessário construir um panorama a respeito de
+quem são os pesquisadores mais profícuos que trabalham
+com a temática no país. Para tanto, analisaram-se características das autorias, tais como gênero, formação profissional, vínculo institucional, função desempenhada e
+perfil de publicação desses pesquisadores, destacando-se seus periódicos preferidos para disseminação do
+conhecimento e, por fim, a modalidade de autoria mais
+frequente.
+
+Métodos
+Para analisar e relacionar as opções metodológicas do campo de OC no Brasil com as dimensões da
+pesquisa científica que fundamentam a interpretação
+aqui realizada, este estudo realizou um recorte de artigos
+científicos da base de Dados Referenciais de Artigos de
+Periódicos de Ciência da Informação (Brapci) sobre
+organização do conhecimento, concernente ao período
+de dez anos, entre 2003 e 2012, com vistas ao aprofundamento das relações entre os aspectos evidenciados. A
+Brapci, instrumento para a constituição do corpus, é
+resultado de um projeto de pesquisa acadêmica com o
+intuito de facilitar a pesquisa de documentos e artigos
+da área. Atualmente ela disponibiliza referências e
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+Partiu-se de um estudo exploratório na Brapci
+com os termos descritores “organização do conhecimento”, “terminologia” e “conceito” nos campos título,
+palavra-chave e resumo, obtendo-se um total de 974
+artigos. Para atribuir grau de relevância aos registros
+recuperados empregou-se uma metodologia de pontos
+incorporada à Brapci, a qual classifica os registros de acordo com a incidência dos termos de busca nesses campos
+já mencionados, categorizando-se os artigos conforme
+a relevância para a temática (Freitas et al., 2010). Foram
+selecionados os artigos que apresentaram ao menos uma
+estrela cheia para determinar sua relevância, isto é, que
+continham o descritor em pelo menos dois campos de
+busca, do que resultou um universo de 177 artigos.
+Utilizou-se o software Endnote para a organização dos
+dados coletados, bem como o programa Excel para
+facilitar a análise dos resultados obtidos.
+Em um segundo momento de seleção, foi
+realizada a leitura dos resumos para descartar pesquisas
+não pertinentes ao tema em foco, restando um corpus
+de 105 artigos no período delimitado, considerado
+significativo, tanto pela diversidade dos estudos que nele
+se concretizam, quanto pela representatividade de
+pesquisadores distinguidos no campo de atuação da OC.
+É importante salientar que como estratégia de
+pesquisa utilizou-se a contagem completa dos autores.
+Ela consiste na atribuição de um valor inteiro para cada
+um dos autores e coautores. Em decorrência dessa opção,
+o número total de artigos foi artificialmente aumentado
+de 105 (títulos diferentes) para 186 (número de autorias).
+As análises feitas com base no número de autorias foram
+relativas à formação acadêmica, ao vínculo institucional,
+à função desempenhada, bem como à produção
+individual. Acredita-se que as situações relacionadas a
+essas variáveis são passíveis de alteração ao longo do
+período analisado. Já para as demais variáveis (temática
+e opção metodológica, dentre outras) utilizou-se o total
+de artigos distintos. Essa opção deve-se ao fato de que,
+dentre as possibilidades de mensurar a colaboração e
+identificar o perfil dos produtores na área de OC, a
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+contagem completa mostrou-se mais adequada do que
+a direta, também denominada hierárquica, e a fracionada
+ou proporcional (Urbizagástegui Alvarado, 2002).
+
+Resultados e Discussão
+Os resultados (Tabela 1) mostram inicialmente
+que os periódicos mais devotados ao tema OC são
+DatagramaZero, com 21,90% dos artigos publicados;
+Perspectivas em Ciência da Informação, com 12,38%;
+Ciência da Informação e Encontros Bibli, cada um com
+11,43% do total de 105 artigos publicados durante o
+período.
+O primeiro lugar no ranking, como veículo de
+disseminação de trabalhos sobre a OC, obtido pelo
+periódico DataGramaZero pode ter como justificativa a
+publicação de um número especial sobre a temática e
+assuntos circunscritos a ela no ano de 2006. Também foi
+possível verificar que a maior parte dos artigos foram
+publicados em revistas pertencentes ao estrato B1
+(61,90%), sendo que nenhuma produção foi observada
+em periódicos classificados como A2 na subárea Ciência
+da Informação, de acordo com o Qualis/Capes.
+Dos 114 autores distintos, somente 32,46% são
+do sexo masculino, resultado que não diverge de outros
+estudos de sexo da área de Ciência da Informação, que
+dão conta de que a maioria dos autores ainda é do sexo
+feminino. No corpus delimitado apenas um autor não
+pôde ser identificado (0,88%), pois somente suas iniciais
+constavam no artigo e, por não ter nacionalidade brasileira, tampouco faz parte da Plataforma Lattes.
+Em relação ao índice de transitoriedade, verifica-se que 84 das 186 autorias publicaram uma única vez
+no período, resultando em 45,16% de autores transeuntes. Esse resultado sugere não só uma tendência de consolidação da temática no país, como também indica
+maior representatividade de alguns que despontam
+como a elite produtiva sobre a OC.
+Quando se aplicou aos 114 autores distintos do
+corpus a lei do elitismo de Price, que postula que a raiz
+quadrada do total de autores em determinada área se
+constitui como elite, obteve-se o número de 10,68 autores situados no topo da lista de produção dentro do tema
+Organização do Conhecimento (Tabela 2). Entretanto, o
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+297
+A ORGANIZAÇÃO DO CONHECIMENTO NA DINÂMICA
+
+resumos de 9.673 textos, publicados em 37 periódicos
+brasileiros, impressos e eletrônicos, da área de Ciência
+da Informação (CI), constituindo-se no mais completo
+repositório da produção científica periódica brasileira em
+CI.
+
+Tabela 1. Ranking dos periódicos mais profícuos na temática de Organização do Conhecimento (2003-2012).
+Qualis
+
+Periódico
+DataGramaZero
+Perspectivas em Ciência da Informação
+Ciência da Informação
+Encontros Bibli
+Informação & Informação
+Transinformação
+Informação & Sociedade
+Em Questão
+Revista Digital de Biblioteconomia e Ciência da Informação
+Biblos
+InCID
+Ponto de Acesso
+Revista Brasileira de Biblioteconomia e Documentação
+Revista Ibero-Americana de Ciência da Informação
+Tendências da Pesquisa Brasileira em Ciência da Informação
+ACB
+Arquivística.net
+Educação Temática Digital
+Informação e Cognição
+Liinc em Revista
+Perspectivas em Gestão & Conhecimento
+Total
+
+Contribuição
+Frequência Absoluta
+
+Frequência Relativa %
+
+B1
+
+23
+
+021,90
+
+A1
+
+13
+
+012,38
+
+B1
+
+12
+
+011,43
+
+B1
+
+12
+
+011,43
+
+B1
+
+8
+
+007,62
+007,62
+
+A1
+A1
+
+5
+
+004,76
+
+B1
+
+3
+
+002,86
+
+B1
+
+3
+
+002,86
+
+B3
+
+2
+
+001,90
+
+B1
+
+2
+
+001,90
+
+B1
+
+2
+
+001,90
+
+B1
+
+2
+
+001,90
+
+B1
+
+2
+
+001,90
+
+B1
+
+2
+
+001,90
+
+B2
+
+1
+
+00 0,95
+
+B4
+
+1
+
+000,95
+
+B4
+
+1
+
+000,95
+
+B5
+
+1
+
+000,95
+
+B1
+
+1
+
+000,95
+
+B1
+
+1
+
+000,95
+
+105
+
+100,00
+
+Fonte: Dados da pesquisa 2003-2012. Elaboração própria, 2014.
+
+Tabela 2. Autores mais produtivos na área de Organização do
+Conhecimento (2003-2012).
+Frequência
+Absoluta
+
+Frequência
+Relativa %
+
+MONTEIRO, Silvana Drumond
+BUFREM, Leilah Santiago
+VAN DER LAAN, Regina
+CAMPOS, Maria Luiza de Almeida
+KOBASHI, Nair Yumiko
+LARA, Marilda Lopes Ginez de
+TÁLAMO, Maria de Fátima G. Moreira
+GOMES, Hagar Espanha
+GUIMARÃES, José Augusto Chaves
+BRÄSCHER, Marisa
+CAFÉ, Lígia
+
+7
+
+03,76
+
+6
+
+03,23
+
+6
+
+03,23
+
+5
+
+02,69
+
+5
+
+02,69
+
+5
+
+02,69
+
+5
+
+02,69
+
+4
+
+02,15
+
+4
+
+02,15
+
+4
+
+02,15
+
+4
+
+02,15
+
+Total
+
+55
+
+29,57
+
+Autor
+
+298
+
+Fonte: Dados da pesquisa. Elaboração própria, 2014.
+
+J.L. FREITAS et al.
+
+recorte utilizado expandiu esse valor para 11 autores,
+objetivando equalizar o ponto de corte em quatro
+artigos. Observa-se também que a produção desses
+autores (29,57%) não ultrapassa os 50,00% preconizados
+por Price para garantir uma elite produtiva.
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+Em relação à formação e à função desempenhada, não surpreende constatar que 56,45% dos
+autores possuem título de doutor e que 63,44% mencionaram a docência como principal atividade desempenhada. No que concerne ao vínculo institucional, a
+Universidade de São Paulo (USP) desponta como a
+primeira colocada com 14,52%, seguida pela Universidade Federal do Rio Grande do Sul (UFRGS) com 10,22%
+e pela Universidade Estadual Paulista com 8,06% das
+autorias (186).
+No intento de melhor compreender esses percentuais, buscaram-se os grupos cadastrados e certificados no último censo de 2010 no Diretório de Grupos
+de Pesquisa do Conselho Nacional de Desenvolvimento
+Científico e Tecnológico (DGP/CNPq), utilizando-se as
+seguintes palavras-chave: organização do conhecimento
+e organização da informação. Foi possível constatar que,
+dos 90 grupos revocados, com base nessa estratégia de
+busca, apenas quatro mencionavam vínculo com a USP,
+sendo que somente um era da área de Ciência da
+Informação (Grupo Temma). A partir desse resultado, foi
+possível identificar que, dos 11 autores componentes da
+elite, quatro são membros do referido grupo.
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+Levou-se em conta, para esta pesquisa, que os
+fundamentos teóricos de autores relacionam-se com
+suas posições epistemológicas e políticas, concretizadas
+nos modos de fazer pesquisa e, por decorrência, nas
+opções metodológicas eleitas para a realização de suas
+pesquisas e em suas preferências temáticas. Com esse
+pressuposto, analisaram-se os tipos de pesquisa quanto
+aos fins, meios, enfoques e tipos de análises e técnicas
+eleitos por esses autores no domínio da OC. Para
+complementar essas posturas metodológicas e também
+epistemológicas, elencaram-se autores utilizados como
+suporte teórico pelos autores mais producentes do
+corpus analisado.
+Realizou-se um estudo das referências dos 55
+artigos publicados pelo grupo destacado nesta pesquisa
+para identificar quais autores representam os fundamentos teóricos dos trabalhos analisados. A autora mais
+citada foi Ingetraut Dahlberg, com 45 incidências (Figura
+1). Esse resultado é condizente com a importância das
+contribuições da autora para a área de Organização do
+Conhecimento, em especial com a publicação de seu
+artigo intitulado “Teoria do conceito”, de 1978, na revista
+brasileira Ciência da Informação. Com esse artigo,
+Dahlberg (1978) estabelece bases teóricas para o entendimento do conceito como estrutura formada por
+características (enunciados) dos objetos. Essa concepção
+fundamenta as análises relacionadas à área de Organização do Conhecimento, bem como pode ser relacionada a outros autores basilares, conforme os resultados a
+seguir.
+Ressalta-se que três (30%) dos autores mais citados pelos mais produtivos são brasileiros, sendo que
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+299
+
+Figura 1. Autores mais citados pelos mais produtivos.
+Fonte: Elaboração própria, 2014.
+
+alguns deles também figuram entre os autores mais
+representativos no corpus. O fato sugere a possibilidade
+de autocitação, embora o que se tenha verificado é que
+somente 8,5% das citações se caracterizaram como tal.
+Entre os autores citados concomitantemente
+pelos mais representativos do corpus (Figura 2), observa-se uma incidência expressiva de Dahlberg com Campos
+e Dahlberg com Hjorland.
+Verificou-se que autores basilares da área de OC
+figuram entre os mais citados e, em alguns casos, como
+os mais producentes também. Nesse sentido, uma
+análise possível seria em relação à presença de artigos
+voltados à edificação de conceitos teóricos que buscam
+estabelecer fundamentos do campo.
+No que concerne às temáticas consideradas, elas
+apresentam grande diversidade no que diz respeito às
+subáreas da Organização e Tratamento da Informação.
+Sendo assim, optou-se pela descrição somente das que
+figuram com duas ou mais ocorrências no corpus (Tabela 3).
+Ao analisar os dados acima, inferiu-se que a
+maioria dos trabalhos (n=105) abordou temáticas não
+recorrentes (58,10%), ou seja, esses temas foram trabalhados apenas uma única vez ao longo do período analisado.
+Dentre as temáticas mais frequentes, a primeira posição
+é ocupada pela linguagem documentária, e a segunda
+posição pela terminologia, áreas com presença em
+atividades diversas relacionadas com a sistematização,
+representação e edificação de estruturas conceituais que
+ponderam a lógica e a linguística para seu aprofundaTransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+A ORGANIZAÇÃO DO CONHECIMENTO NA DINÂMICA
+
+Algumas inferências podem ser feitas com base
+nesses dados relacionais, especialmente cotejando-os
+com outros resultados de pesquisas sobre a área de CI,
+que mostram uma produção individual ou individualizada. A diferença básica entre esses termos está no
+fato de que o primeiro se refere à modalidade de autoria,
+e o segundo, ao processo incipiente de fortalecimento,
+visibilidade e produção dos grupos de pesquisa. No que
+concerne à modalidade de autoria dos 105 artigos publicados, observou-se que a maioria foi apresentada na
+modalidade individual (45,71%), reforçando estudos
+anteriores na área de CI (Mueller & Pecegueiro, 2001; Vilan
+Filho, 2010; Nascimento & Gomes, 2012).
+
+DAHLBERG, I.
+
+Figura 2. Rede de cocitação dos autores mais representativos do corpus.
+Fonte: Elaboração própria, 2014, utilizando o software UCINET.
+
+Tabela 3. Temáticas mais frequentes.
+Temática
+
+300
+
+Frequência
+Absoluta
+
+Relativa %
+
+Linguagem Documentária
+Terminologia
+Conceito
+Organização do Conhecimento
+Organização Virtual do Conhecimento
+Representação do Conhecimento
+
+16
+
+036,36
+
+11
+
+025,00
+
+8
+
+018,18
+
+4
+
+009,09
+
+3
+
+006,82
+
+2
+
+004,55
+
+Total
+
+44
+
+100,00
+
+Fonte: Dados da pesquisa. Elaboração própria, 2014.
+
+J.L. FREITAS et al.
+
+mento. Os estudos sobre terminologias vão ao encontro das pesquisas relacionadas ao “Tratamento Temático
+da Informação, ocupando espaço nuclear na literatura e
+nas práticas profissionais relacionadas à Ciência da
+Informação [...] uma vez que é por meio dele que se efetiva a mediação entre a produção e o uso da informação,
+de modo a permitir o acesso ao conteúdo informacional”,
+conforme salientam Guimarães et al. (2012, online). Esse
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+resultado corrobora a adequação teórica dos trabalhos,
+fato que justifica a presença das autoras Ingetraut
+Dahlberg (45 incidências) e Maria Tereza Cabré (25) dentre
+as mais citadas.
+As correntes teóricas relacionadas ao Tratamento
+Temático da Informação, podem ser classificadas, conforme Guimarães (2008) em: catalogação de assunto
+(subject cataloguing), de influência norte-americana;
+indexação (indexing), de influência inglesa; e análise
+documentária (analyse documentaire), de influência
+francesa.
+Segundo Guimarães et al. (2012, online), a análise
+documental tem como orientação principal a corrente
+francesa, cujo “[...] foco centra-se no processo de tratamento temático da Informação em si, [...] para a identificação e seleção de conceitos e posterior representação
+e geração de produtos”. Segundo os autores, esse tipo
+de estudo revela “[...] forte interface com a Lingüística e a
+Lógica”, com especial relevo para a interface da documentação com a linguística (Gardin, 1973) e as questões
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+Ao identificar as pesquisas em relação aos fins,
+constata a predominância de pesquisas de caráter
+exploratório (57,14%), o que pode indicar não só que a
+área tem buscado aplicabilidade empírica de suas teorias
+já sedimentadas, por meio de estudos de caso específicos
+de organização de informação e conhecimento em unidades de informação organizacionais e em instituições
+de diferentes tipos, como também aponta para estudos
+que visam ampliar a familiaridade com os temas propostos.
+Em relação aos 34 trabalhos (32,38%) categorizados como descritivos, salienta-se que esse tipo de
+estudo se caracteriza por um aprofundamento teórico
+mais intenso em relação ao objeto estudado, distinguindo-se do que vem sendo observado nos estudos
+exploratórios, mais incipientes por ensejarem um conhecimento aproximativo das características e aspectos de
+um objeto de pesquisa. Por sua vez, os estudos descritivos
+podem representar um amadurecimento na pesquisa
+teórica da área, por meio do estabelecimento de relações
+específicas entre variáveis que envolvem as pesquisas.
+Já os estudos metodológicos, mais complexos, com nove
+incidências no corpus analisado, geralmente configuramse em propostas de criação de modelos, metodologias e
+estruturas para a organização da informação em contextos determinados. Em alguns casos, os estudos metodológicos remetem à necessidade de conhecimento
+sobre tecnologias da informação e comunicação, quando
+não são exclusivamente modelos conceituais. Nesse caso,
+exigem-se estudos piloto para validação das propostas.
+Um exemplo de estudo metodológico no corpus relata
+modos de estruturação da Base Brapci na Web para
+acesso universal.
+Sobre a última modalidade de pesquisa quanto
+aos fins, encontram-se os estudos avaliativos, com duas
+incidências, cujo foco pode ser um objeto, serviço, fluxo,
+unidade de informação apresentando critérios ou
+parâmetros a partir de princípios de avaliação. Essas duas
+últimas tipologias não são expressivas por sua incidência,
+devido à complexidade de seus processos.
+Pode-se verificar que duas das matrizes teóricas
+relativas às interdisciplinaridades em Análise Docuhttp://dx.doi.org/10.1590/0103-37862014000300006
+
+mental, postuladas por Guimarães (2010, online) no artigo
+“Análise documental: concepções do universo acadêmico brasileiro em Ciência da Informação” correspondem
+à Matriz Quantitativa e à Matriz Tecnológica, que englobam temas relativos à Ciência da Computação e à Informática. Segundo o autor, essas figuram entre as matrizes
+menos citadas pelos pesquisadores. Entretanto, o “elemento inesperado está na constatação de que a maioria
+dos pesquisadores relacionou os objetivos da análise
+documental à Recuperação da Informação, ação que
+depende diretamente do funcionamento adequado das
+tecnologias, bem como dos cálculos quantitativos”. Esse
+aspecto, segundo o autor, contradiz a tônica das
+respostas da pesquisa por ele realizada, e “vai de encontro
+também com a literatura da área, particularmente nos
+anos 70, que tradicionalmente se valeu dos modelos
+matemáticos para o processo de recuperação da informação” afirma Guimarães (2010, online).
+As pesquisas bibliográficas são características da
+área de OC e visam estimular seu desenvolvimento
+conceitual. A predominância desse tipo de pesquisa
+(76,19%) pode reforçar o pensamento de que a
+institucionalização de qualquer área do conhecimento
+ocorre mediante a consolidação teórica pela comunidade científica, com o estabelecimento de conceitos,
+técnicas e metodologias próprias do campo em questão.
+Em relação aos enfoques, a maior incidência
+observada foi o enfoque teórico (49,52%), seguido pelo
+enfoque linguístico (17,14%), corroborando o exposto
+acima, já que a maioria dos trabalhos caracterizados
+como pesquisas bibliográficas apresenta enfoque teórico.
+Entre alguns dos autores mais citados, isto é, com
+mais de três publicações no período estabelecido para
+esta pesquisa, encontra-se com especial ênfase a preferência ao enfoque teórico, abrangendo estudos
+relacionados à Filosofia da Linguagem, à Teoria do
+Conceito, à Teoria da Classificação e à Epistemologia,
+entre outras correntes filosóficas. O enfoque linguístico
+engloba temas como Semiologia, Análise do Discurso,
+Semântica, Linguística Textual, Terminologia, Semiótica,
+Linguística Documentária, Lógica, Análise de Conteúdo,
+entre outros, coincidindo com os resultados do estudo
+de Guimarães (2010, online). Com menor frequência
+(6,67%), aparece o enfoque histórico, que considera a
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+301
+A ORGANIZAÇÃO DO CONHECIMENTO NA DINÂMICA
+
+relacionadas às linguagens documentárias (Coyaud,
+1966).
+
+construção histórica da ciência para a realização de
+análises.
+Em relação ao tipo de análise, a mais frequente
+foi a análise documental, com 42,67% dos artigos,
+seguida pela análise de conteúdo, com 30,67%. Os
+demais tipos de análise, como a categorial, a de domínio
+e a de discurso, obtiveram juntos um percentual menos
+expressivo (14,67%) em comparação aos dois primeiros.
+Outros tipos de análise apresentaram-se de modo ainda
+mais pulverizado em 7 categorias.
+
+Conclusão
+O presente estudo possibilitou traçar um panorama das publicações na área de OC, principalmente no
+que concerne às características estruturais (opções metodológicas) e estruturantes (autores e autorias) que compuseram o cenário das pesquisas científicas no Brasil nos
+últimos dez anos (2003-2012).
+A presença de autores brasileiros entre os mais
+citados, mesmo com um percentual de 30%, reforça a
+ideia de que comunidade científica brasileira tem buscado articular-se com a comunidade internacional e com
+autores basilares, acompanhando o desenvolvimento e
+a evolução do domínio da OC. Sem dúvida, esse fato não
+prescinde da inquestionável importância dos autores
+internacionais para sua constituição teórica enquanto
+área de pesquisa, assim como das influências das distintas
+correntes de Organização e Tratamento Temático da
+Informação para o desenvolvimento e enriquecimento
+da OC em âmbito nacional. Entretanto, não se pode
+deixar de destacar o amadurecimento dos pesquisadores
+nacionais e a constituição de laços colaborativos entre
+eles.
+
+A realidade observada depõe em favor da
+construção de um ethos próprio da OC no país, pois é
+inquestionável que a institucionalização de qualquer área
+do conhecimento ocorre mediante sua consolidação
+teórica pela comunidade científica, com o estabelecimento de conceitos, técnicas e metodologias que a
+distingam das demais. Essa construção se caracteriza por
+ser uma edificação realizada pelos e entre os agentes
+envolvidos, os quais estabelecem relações, práticas e
+preceitos ético-políticos identificados como exclusivos
+de uma comunidade. Cumpre ressaltar que aqui se considera o conceito de comunidade como revelador de uma
+identidade individualizante e distintiva, mas aglutinadora.
+Isso significa que, para pertencer ou transitar em determinada área, é imprescindível que se partilhe desse ethos
+que se constitui das e nas práxis empreendidas pelos
+membros que privam não só desse código e objetivo
+comum, mas também buscam o reconhecimento e a
+expansão da área perante a comunidade científica.
+Por fim, ressalta-se que uma futura pesquisa, que
+estabeleça as relações de citação, bem como identifique
+a colaboração intra e interinstitucional, presentes no
+corpus analisado, pode esclarecer ainda mais de que
+maneira a área tem se sedimentado ao longo dos anos.
+Além disso, será possível verificar sob quais aspectos
+epistemológicos a OC se edifica e se torna reconhecida
+pela Ciência da Informação.
+
+Agradecimentos
+Trabalho apoiado por concessão de bolsa da Fundação
+de Amparo à Pesquisa do Estado de São Paulo (Fapesp).
+
+302
+
+Referências
+
+J.L. FREITAS et al.
+
+Bruyne, P. et al. Dinâmica da pesquisa em ciência sociais: os
+polos da prática metodológica. 2.ed. Rio de Janeiro: F. Alves,
+1977.
+
+Dahlberg, I. A referent-oriented analytical concept theory of
+interconcept. International Classification, v.5, n.2, p.142-150,
+1978.
+
+Bufrem, L.S. Configurações da pesquisa em ciência da
+informação. DataGramaZero: Revista de Informação, v.14, n.6,
+2013. Disponível em: <http://www.dgz.org.br/ago14/
+F_I_aut.htm>. Acesso em: 9 ago. 2014.
+
+Freitas, J.L. et al. Proposta de metodologia para a recuperação
+da produção científica em ciência da informação na base
+Brapci. Ponto de Acesso, v.4, n.3, p.45-67, 2010.
+
+Coyaud, M. Introduction à l’étude des langages documentaires.
+Paris: Klinsieck, 1966.
+
+Gardin, J.-C. Document analysis and linguistic theory. Journal
+of Documentation, v.29, n.2, p.137-168, 1973.
+
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+Guimarães, J.A.C. Análise documental: concepções do universo
+acadêmico brasileiro em ciência da informação.
+DataGramaZero, v.1, n.1, 2010. Disponível em: <http://www.
+dgz.org.br/fev10/Art_02.htm>. Acesso em: 9 ago. 2014.
+Guimarães, J.A.C et al. A dimensão interdisciplinar da análise
+documental nos contextos brasileiro e espanhol no âmbito
+da organização do conhecimento. DataGramaZero, v.13, n.6,
+2012. Disponível em: <http://www.dgz.org.br/dez12/
+Art_07.htm>. Acesso em: 9 ago. 2014.
+Lloyd, C. As estruturas da história. Rio de Janeiro, Zahar,
+1995.
+
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+Mueller, S.; Pecegueiro, C.M.P.A. O periódico ciência da
+informação na década de 90: um retrato da área refletido em
+seus artigos. Ciência da Informação, v.30, n.2, p.47-63, 2001.
+Nascimento, B.S.; Gomes, M.Y.F.S.F. A ciência da informação
+no Brasil: um retrato da área através do estudo de autoria. In:
+Encontro Nacional de Pesquisa em Ciência da Informação,
+13., 2012, Rio de Janeiro. Anais eletrônicos..., Rio de Janeiro:
+Associação Nacional de Pesquisa e Pós-Graduação em Ciência
+da Infor-mação, 2012. p.1-21. Disponível em: <http://
+www.eventos econgressos.com.br/metodo/enancib2012/
+arearestrita/pdfs/19487.pdf>. Acesso em: 9 ago. 2014.
+Urbizagástegui Alvarado, R. A lei de Lotka na bibliometria
+brasileira. Ciência da Informação, v.31, n.2, p.14-20, 2002.
+Vilan Filho, J. Autoria múltipla em artigos de periódicos científicos
+das áreas de informação no Brasil. 2010. Tese (Doutorado em
+Ciência da Informação) - Departamento de Ciência da Informação e Documentação, Universidade Federal de Brasília,
+Brasília, 2010.
+
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+303
+A ORGANIZAÇÃO DO CONHECIMENTO NA DINÂMICA
+
+Guimarães, J.A.C. A dimensão teórica do tratamento temático
+da informação e suas interlocuções com o universo científico
+da International Society for Knowledge Organization (ISKO).
+Revista Ibero-americana de Ciência da Informação, v.1, n.1,
+p.77-99, 2008.
+
+304
+
+J.L. FREITAS et al.
+
+TransInformação, Campinas, 26(3):295-303, set./dez., 2014
+
+http://dx.doi.org/10.1590/0103-37862014000300006
+
+
